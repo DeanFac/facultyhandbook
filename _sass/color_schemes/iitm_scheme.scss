@@ -1,0 +1,11 @@
+@import "./color_schemes/legacy_light";
+$link-color: $blue-300;
+$root-font-size: 40px; // DEPRECATED: previously base font-size for rems
+// Borders
+$border: 1px solid;
+$border-radius: 9px;
+$border-color: $grey-dk-100;
+$base-font-size: 10px;
+$body-text-color: #781f19;
+$body-heading-color: #781f19;
+$nav-child-link-color: #781f19;
