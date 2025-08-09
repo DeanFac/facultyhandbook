@@ -54,9 +54,10 @@ Dependents – Following dependents are eligible for leave travel concession, me
 # Seting up office and lab
 
 ## Office
-
+{: .no_toc}
 The department should provide you with an office space equipped with furniture and a computer system through Department funds. 
 
 ## Lab
+{: .no_toc }
 Allotted based on requirement projected to the department/ HoD. Coordinate with the [Engineering Unit](#bookmark=id.769dru7rqlbw) (EU) for major electrical works, plumbing works, etc. NFIG grant may be used towards procuring equipment. 
 A due process (stores & purchase section) has to be followed for the [purchase of equipment](#bookmark=id.wcm4chjl6yjw) and supplies.
