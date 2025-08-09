@@ -1,6 +1,6 @@
 ---
 title: Campus and arrival
-nav_order: 1
+nav_order: 2
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
