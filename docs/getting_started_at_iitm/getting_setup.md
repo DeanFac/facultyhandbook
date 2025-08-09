@@ -23,7 +23,8 @@ parent: Campus and arrival
 | Visit on-campus housing | Estate section |
 | Complete mandatory Prevention of Sexual Harassment (POSH) Training | Dean Faculty Office |
 
-Submission and verification of [all your documents](#bookmark=id.2fwqjqifdl6h) need to be completed for your office order to be issued. Your salary will be processed only after the office order is issued. 
+{: .important}
+> Submission and verification of [all your documents](#bookmark=id.2fwqjqifdl6h) need to be completed for your office order to be issued. Your salary will be processed only after the office order is issued. 
 
 Dependents – Following dependents are eligible for leave travel concession, medical and insurance benefits.
 
@@ -42,9 +43,9 @@ Dependents – Following dependents are eligible for leave travel concession, me
 
 # Second Month
 
-| Relocation Expenses/ Reimbursements | Dean (Faculty) Office, 2nd Floor, Administration Building |
-| :---- | :---- |
-| Understand Funding & Grant Opportunities— NFIG & NFSG | Centre for IC\&SR |
+| Relocation Expenses & Reimbursements                  | Dean (Faculty) Office, 2nd Floor, Administration Building |
+|:------------------------------------------------------|:----------------------------------------------------------|
+| Understand Funding & Grant Opportunities— NFIG & NFSG | Centre for IC&SR                                          |
 
 * **Relocation expenses reimbursement form (**[https://admin.iitm.ac.in/wp-content/uploads/2025/03/09\_Relocation-Claim-Form.pdf](https://admin.iitm.ac.in/wp-content/uploads/2025/03/09_Relocation-Claim-Form.pdf) **)** along with supporting documents must be submitted within 6 months of joining.   
 * **New Faculty Initiation Grant (NFIG):** Rs. 5 Lakhs for purchase of basic equipment. This is not meant for office furniture and standard supplies. Must be applied within one year.   
