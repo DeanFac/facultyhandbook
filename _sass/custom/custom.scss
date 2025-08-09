@@ -3,6 +3,11 @@
 // Tables
 // stylelint-disable max-nesting-depth, selector-no-type, selector-max-type
 
+/* Make the logo bigger */
+.site-logo {
+  height: 70px; /* increase this as needed */
+}
+
 .table-wrapper {
   display: block;
   width: 100%;

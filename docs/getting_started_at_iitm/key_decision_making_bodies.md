@@ -9,9 +9,9 @@ parent: Campus and arrival
 * TOC
 {:toc}
 
-# Key decision making bodies
+# Senate
 
-**SENATE** controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results. 
+Senate controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results. 
 The Director is the ex officio Chairman of the Senate.
 Other ex officio Members include Deputy Directors, Professors, HoDs, Staff Members, Librarians, and Wardens. 
 

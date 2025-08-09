@@ -47,9 +47,12 @@ Dependents – Following dependents are eligible for leave travel concession, me
 |:------------------------------------------------------|:----------------------------------------------------------|
 | Understand Funding & Grant Opportunities— NFIG & NFSG | Centre for IC&SR                                          |
 
-* **Relocation expenses reimbursement form (**[https://admin.iitm.ac.in/wp-content/uploads/2025/03/09\_Relocation-Claim-Form.pdf](https://admin.iitm.ac.in/wp-content/uploads/2025/03/09_Relocation-Claim-Form.pdf) **)** along with supporting documents must be submitted within 6 months of joining.   
-* **New Faculty Initiation Grant (NFIG):** Rs. 5 Lakhs for purchase of basic equipment. This is not meant for office furniture and standard supplies. Must be applied within one year.   
-* **New Faculty Seed Grant (NFSG):** Up to Rs. 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Must be applied within 3 years of joining (typically after 1.5-2 years). 
+### Relocation expenses reimbursement [form](https://admin.iitm.ac.in/wp-content/uploads/2025/03/09\_Relocation-Claim-Form.pdf) along with supporting documents must be submitted within 6 months of joining.   
+{: .no_toc}
+### New Faculty Initiation Grant (NFIG): Rs. 5 Lakhs for purchase of basic equipment. This is not meant for office furniture and standard supplies. Must be applied within one year.   
+{: .no_toc}
+### New Faculty Seed Grant (NFSG): Up to Rs. 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Must be applied within 3 years of joining (typically after 1.5-2 years). 
+{: .no_toc}
 
 # Seting up office and lab
 
