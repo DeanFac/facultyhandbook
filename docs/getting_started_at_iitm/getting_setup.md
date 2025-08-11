@@ -35,7 +35,7 @@ Dependents – Following dependents are eligible for leave travel concession, me
 
 # First Month
 
-| Task to Complete | Concerned Department |
+| Task to Complete | Concerned Department(s) |
 | :---- | :---- |
 | Info on Courses & Course Allocation | Head of the Department |
 | Updating Personal Details, Register Vehicle | Workflow portal |
