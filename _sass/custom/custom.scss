@@ -8,6 +8,25 @@
   height: 70px; /* increase this as needed */
 }
 
+/* Watermark fade effect using a pseudo-element */
+body::before {
+  content: "";
+  position: fixed;
+  top: 20;
+  left: 20;
+  width: 100%;
+  height: 100%;
+  background-image: url("/assets/images/logo/logo.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 300px auto;
+  opacity: 0.08; /* Faintness — adjust between 0.05 and 0.15 */
+  pointer-events: none; /* Don't block clicks */
+  z-index: 3; /* Keep ahead of  2 levels */
+}
+
+
+//Control table
 .table-wrapper {
   display: block;
   width: 100%;
