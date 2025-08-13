@@ -6,7 +6,7 @@ nav_order: 10
 
 # Contact Directory 
 
-## <button id="downloadExcel" class="btn">Download CSV</button>
+#### <button id="downloadExcel" class="btn">Download CSV</button>
 
 
 Type to search the contact list instantly.
