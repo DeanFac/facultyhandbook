@@ -12,23 +12,29 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 
-  function highlightCell(cell, term) {
-    const text = cell.textContent;
-    const idx = text.toLowerCase().indexOf(term.toLowerCase());
-    if (idx === -1 || term.trim() === '') return;
-    const before = document.createTextNode(text.slice(0, idx));
-    const match = document.createElement('mark');
-    match.textContent = text.slice(idx, idx + term.length);
-    match.style.backgroundColor = 'rgba(165, 42, 42, 0.2)';  // no background color
-    match.style.color = 'red';                      // red text color
-    match.style.fontWeight = 'bold';                // optional bold
-    match.style.fontSize = '20px';                // optional bold
-    const after = document.createTextNode(text.slice(idx + term.length));
-    cell.textContent = '';
-    cell.appendChild(before);
-    cell.appendChild(match);
-    cell.appendChild(after);
+function highlightCell(node, term) {
+  if (!term || term.trim() === '') return;
+
+  if (node.nodeType === Node.TEXT_NODE) {
+    const idx = node.textContent.toLowerCase().indexOf(term.toLowerCase());
+    if (idx >= 0) {
+      const before = document.createTextNode(node.textContent.slice(0, idx));
+      const match = document.createElement('mark');
+      match.textContent = node.textContent.slice(idx, idx + term.length);
+      match.style.backgroundColor = 'rgba(165, 42, 42, 0.2)'; // transparent brown
+      match.style.color = 'red';
+      match.style.fontWeight = 'bold';
+      const after = document.createTextNode(node.textContent.slice(idx + term.length));
+      const parent = node.parentNode;
+      parent.replaceChild(after, node);
+      parent.insertBefore(match, after);
+      parent.insertBefore(before, match);
+    }
+  } else if (node.nodeType === Node.ELEMENT_NODE) {
+    node.childNodes.forEach(child => highlightCell(child, term));
   }
+}
+
 
   function filterRows() {
     const q = searchInput.value.trim().toLowerCase();

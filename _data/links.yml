@@ -1,0 +1,250 @@
+- Name: Advanced Manufacturing Technology Development Centre
+  URL: https://amtdc.org/
+  Description: AMTDC Office
+- Name: ANRF SERB National Facility for Cryo-Electron Microscopy
+  URL: https://cryoem.iitm.ac.in/
+  Description: Office of Cryo-EM facility
+- Name: Ask IITM portal
+  URL: https://askiitm.com/
+  Description: An alumni initiative to answer questions about IIT Madras
+- Name: be happy portal
+  URL: https://behappy.iitm.ac.in/
+  Description: Wellness portal maintained by Resileo guided by Office of the Director
+- Name: cc project management
+  URL: https://ccredmine.iitm.ac.in/
+  Description: Redmine site for project management at Computer Center
+- Name: Center for Computational Brain Research
+  URL: https://ccbr.iitmadras.in/
+  Description: Office of CCBR
+- Name: Center of Excellence in Wireless Technology
+  URL: https://cewit.org.in/
+  Description: CEWIT Office
+- Name: Central Electronics Center
+  URL: https://cecweb.iitm.ac.in/
+  Description: CEC Office
+- Name: Centre for Innovation
+  URL: https://cfi.iitm.ac.in/
+  Description: CFI WebOps Team
+- Name: Centre for NEMS and Nanophotonics
+  URL: https://mems.iitm.ac.in/cnnp/
+  Description: CNNP Office
+- Name: Centre for Outreach and Digital Education
+  URL: https://code.iitm.ac.in/
+  Description: CODE Office
+- Name: Centre for Railway Research
+  URL: https://crr.iitm.ac.in/
+  Description: CRR Office
+- Name: Centre for Technology and Policy
+  URL: https://hss.iitm.ac.in/ctap/
+  Description: CTAP Office
+- Name: Discussion Forum of Online degree programs of IIT Madras
+  URL: https://discourse.onlinedegree.iitm.ac.in/
+  Description: Discourse portal for online degree programs maintained by CODE
+- Name: email account request
+  URL: https://web.iitm.ac.in/emailonline/
+  Description: Registration for email account
+- Name: email web link
+  URL: https://web.zmail.iitm.ac.in
+  Description: Web frontend for zimbra email system for employees
+- Name: External Portal of ICSR
+  URL: https://icandsr.iitm.ac.in/
+  Description: ICSR
+- Name: Gopalakrishnan-Deshpande Centre for Innovation and Entrepreneurship
+  URL: https://gdciitm.org/
+  Description: GDC Office
+- Name: Healthcare Technology Innovation Center
+  URL: https://www.hticiitm.org/
+  Description: HTIC Office
+- Name: IIT Madras Research Park
+  URL: https://respark.iitm.ac.in/
+  Description: Research Park Team
+- Name: IITM Bioincubator
+  URL: https://bioincubator.iitm.ac.in/
+  Description: IITM Bioincubator
+- Name: iitm employee portal
+  URL: https://iitmfsp.iitm.ac.in/
+  Description: Portal for employees
+- Name: IITM Incubation Cell
+  URL: http://rtbi.in/incubationiitm/home.html
+  Description: IITM Incubation Cell
+- Name: ikollege portal of the office of hostel management
+  URL: https://ikollege.iitm.ac.in/iitmhostel/
+  Description: Triesten Technologies Private Limited
+- Name: Indo-German Centre of Sustainability
+  URL: https://www.igcs-chennai.org/
+  Description: IGCS Office
+- Name: Institute Moodle Archive Server
+  URL: https://oldcourses.iitm.ac.in/
+  Description: Moodle server for all old courses offered on the campus in offline
+    mode.
+- Name: Institute Moodle Server
+  URL: https://courses.iitm.ac.in/
+  Description: Cloud based Moodle server for all current courses offered on the campus
+    in offline mode.
+- Name: Internal Portal of ICSR
+  URL: https://icsr.iitm.ac.in/
+  Description: ICSR
+- Name: International Centre for Clean Water
+  URL: https://iccw.world/
+  Description: ICCW Office
+- Name: International Journal of Advances in Engineering Sciences and Applied Mathematics
+  URL: https://link.springer.com/journal/12572
+  Description: Editor-in-Chief, Prof. Harishankar Ramachandran
+- Name: internet access
+  URL: https://netaccess.iitm.ac.in/
+  Description: Portal to self-authorize internet access
+- Name: IR Portal of GATE-JAM
+  URL: https://gateir.iitm.ac.in/
+  Description: GATE Office
+- Name: IR Portal of JEE Advanced
+  URL: https://jeerep.iitm.ac.in/
+  Description: JEE Office
+- Name: kushal portal
+  URL: https://kushal.iitm.ac.in:9001/
+  Description: Kushal meetings for welfare and safety of students. Portal guided by
+    OSD, Office of the Director
+- Name: ldap account request
+  URL: https://web.iitm.ac.in/ldaponline/
+  Description: Registration for LDAP account
+- Name: Ldap guest account
+  URL: https://lacp.iitm.ac.in/
+  Description: Self-service portal to create guest accounts on ldap server for temporary
+    internet access
+- Name: ldap password reset
+  URL: https://ldap.iitm.ac.in/
+  Description: Portal to reset LDAP credentials
+- Name: Main website of the institute
+  URL: https://www.iitm.ac.in/
+  Description: Rage Communications
+- Name: National Cancer Tissue Biobank
+  URL: https://nctb.iitm.ac.in/
+  Description: NCTB Office
+- Name: National Centre for Combustion Research and Development
+  URL: https://nccrd.iitm.ac.in/
+  Description: Office of NCCRD
+- Name: National Program for Technology Enhanced Learning
+  URL: https://nptel.ac.in/
+  Description: NPTEL Portal maintained by CODE
+- Name: National Technology Centre for Ports, Waterways and Coasts
+  URL: https://ntcpwc.iitm.ac.in/
+  Description: NTCPWC Office
+- Name: Online degree programs of IIT Madras
+  URL: https://study.iitm.ac.in/
+  Description: Online Degree Portal maintained by CODE
+- Name: Personal home page
+  URL: https://home.iitm.ac.in/home/
+  Description: Portal hosting individual homepages for employees
+- Name: Posting announce seminars and events
+  URL: https://web.iitm.ac.in/seminar/
+  Description: Registration of seminar announcements
+- Name: Research Admission Portal
+  URL: https://research.iitm.ac.in/
+  Description: Office of the Dean(AR)
+- Name: Research Aptitude Test Server
+  URL: https://ramoodle.iitm.ac.in/
+  Description: Moodle server to hold Research Aptitude Test for all MS/PhD applicants.
+- Name: Residents mail
+  URL: https://eservices1.iitm.ac.in/residentsmail/
+  Description: Registration for inclusion in residents email list
+- Name: Robert Bosch Centre for Data Science and Artificial Intelligence
+  URL: https://rbcdsai.iitm.ac.in/
+  Description: RBCDSAI Office
+- Name: Saarang Website
+  URL: https://saarang.org/
+  Description: Saarang WebOps Team
+- Name: Shaastra Website
+  URL: https://www.shaastra.org/
+  Description: Shaastra WebOps Team
+- Name: smail
+  URL: https://web.iitm.ac.in/smailalias/
+  Description: Registration for an alias on smail.iitm.ac.in domain
+- Name: Sophisticated Analytical Instrument Facility
+  URL: https://saif.iitm.ac.in/
+  Description: SAIF Office
+- Name: ssl certificate renewal
+  URL: https://web.iitm.ac.in/ssllogin/
+  Description: Registration for SSL certificate
+- Name: Teaching Learning Centre
+  URL: https://tlc.iitm.ac.in/
+  Description: Office of TLC
+- Name: TTK Center for Rehabilitation Research and Device Development
+  URL: https://r2d2.iitm.ac.in/
+  Description: R2D2 Office
+- Name: Tula Portal
+  URL: https://icsris.iitm.ac.in/
+  Description: ICSR
+- Name: virtual machine request
+  URL: https://web.iitm.ac.in/vm/
+  Description: Registration for virtual machines
+- Name: virtual webspace request
+  URL: https://web.iitm.ac.in/
+  Description: Registration for virtual webspace request
+- Name: Website of Chairman, Council of Wardens
+  URL: https://ccw.iitm.ac.in/
+  Description: CCW Office
+- Name: Website of the Central Library
+  URL: https://cenlib.iitm.ac.in/
+  Description: Office of the Librarian, Central Library
+- Name: Website of the Central Skill Training and Fabrication Facility
+  URL: https://cstf.iitm.ac.in/
+  Description: Office of the CSTFF (named Central Workshop earlier)
+- Name: Website of the Department of Applied Mechanics and Biomedical Engineering
+  URL: https://apm.iitm.ac.in/
+  Description: Department of Applied Mechanics and Biomedical Engineering
+- Name: Website of the Department of Biotechnology
+  URL: https://biotech.iitm.ac.in/
+  Description: Department of Biotechnology
+- Name: Website of the Department of Chemical Engineering
+  URL: https://che.iitm.ac.in/
+  Description: Department of Chemical Engineering
+- Name: Website of the Department of Chemistry
+  URL: https://chem.iitm.ac.in/
+  Description: Department of Chemistry
+- Name: Website of the Department of Civil Engineering
+  URL: https://civil.iitm.ac.in/
+  Description: Department of Civil Engineering
+- Name: Website of the Department of Computer Science and Engineering
+  URL: https://www.cse.iitm.ac.in/
+  Description: Department of Computer Science and Engineering
+- Name: Website of the Department of Datascience and Artificial Intelligence
+  URL: https://dsai.iitm.ac.in/
+  Description: Department of Datascience and Artificial Intelligence
+- Name: Website of the Department of Electrical Engineering
+  URL: https://www.ee.iitm.ac.in/
+  Description: Department of Electrical Engineering
+- Name: Website of the Department of Engineering Design
+  URL: https://ed.iitm.ac.in/
+  Description: Department of Engineering Design
+- Name: Website of the Department of Humanities and Social Sciences
+  URL: https://hss.iitm.ac.in/
+  Description: Department of Humanities and Social Sciences
+- Name: Website of the Department of Management Studies
+  URL: https://doms.iitm.ac.in/
+  Description: Department of Management Studies
+- Name: Website of the Department of Mathematics
+  URL: https://math.iitm.ac.in/
+  Description: Department of Mathematics
+- Name: Website of the Department of Mechanical Engineering
+  URL: https://mech.iitm.ac.in/
+  Description: Department of Mechanical Engineering
+- Name: Website of the Department of Medical Sciences and Technology
+  URL: https://mst.iitm.ac.in/
+  Description: Department of Medical Sciences and Technology
+- Name: Website of the Department of Metallurgical and Materials Engineering
+  URL: https://mme.iitm.ac.in/
+  Description: Department of Metallurgical and Materials Engineering
+- Name: Website of the Department of Ocean Engineering
+  URL: https://doe.iitm.ac.in/
+  Description: Department of Ocean Engineering
+- Name: Website of the Department of Physics
+  URL: https://physics.iitm.ac.in/
+  Description: Department of Physics
+- Name: Website of the Engineering Unit
+  URL: https://enggunit.iitm.ac.in/
+  Description: Engineering Unit
+- Name: webspace account request
+  URL: https://web.iitm.ac.in/webspace/
+  Description: Registration for webspace
+- Name: wmail email server
+  URL: https://wmail.iitm.ac.in/
+  Description: Email system for conference and miscellaneous accounts

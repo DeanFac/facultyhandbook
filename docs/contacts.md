@@ -6,7 +6,7 @@ nav_order: 10
 
 # Contact Directory 
 
-#### <button id="downloadExcel" class="btn">Download CSV</button>
+#### <button id="downloadExcel" class="btn-green">Download CSV</button> (The filtered search alone can be downloaded as a csv.)
 
 
 Type to search the contact list instantly.
