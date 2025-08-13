@@ -1,0 +1,389 @@
+- name: Alice Johnson
+  email: alice.johnson@example.com
+  department: Sales
+  phone: "+91-9876543201"
+
+- name: Bob Smith
+  email: bob.smith@example.com
+  department: Marketing
+  phone: "+91-9876543202"
+
+- name: Carol Davis
+  email: carol.davis@example.com
+  department: HR
+  phone: "+91-9876543203"
+
+- name: David Thompson
+  email: david.thompson@example.com
+  department: IT
+  phone: "+91-9876543204"
+
+- name: Emma Brown
+  email: emma.brown@example.com
+  department: Finance
+  phone: "+91-9876543205"
+
+- name: Frank Wilson
+  email: frank.wilson@example.com
+  department: Operations
+  phone: "+91-9876543206"
+
+- name: Grace Miller
+  email: grace.miller@example.com
+  department: Research
+  phone: "+91-9876543207"
+
+- name: Henry Taylor
+  email: henry.taylor@example.com
+  department: Legal
+  phone: "+91-9876543208"
+
+- name: Irene Anderson
+  email: irene.anderson@example.com
+  department: Design
+  phone: "+91-9876543209"
+
+- name: Jack Thomas
+  email: jack.thomas@example.com
+  department: Support
+  phone: "+91-9876543210"
+
+- name: Karen Martinez
+  email: karen.martinez@example.com
+  department: Sales
+  phone: "+91-9876543211"
+
+- name: Larry Hernandez
+  email: larry.hernandez@example.com
+  department: Marketing
+  phone: "+91-9876543212"
+
+- name: Monica Robinson
+  email: monica.robinson@example.com
+  department: HR
+  phone: "+91-9876543213"
+
+- name: Nathan Clark
+  email: nathan.clark@example.com
+  department: IT
+  phone: "+91-9876543214"
+
+- name: Olivia Rodriguez
+  email: olivia.rodriguez@example.com
+  department: Finance
+  phone: "+91-9876543215"
+
+- name: Paul Lewis
+  email: paul.lewis@example.com
+  department: Operations
+  phone: "+91-9876543216"
+
+- name: Queenie Lee
+  email: queenie.lee@example.com
+  department: Research
+  phone: "+91-9876543217"
+
+- name: Robert Walker
+  email: robert.walker@example.com
+  department: Legal
+  phone: "+91-9876543218"
+
+- name: Susan Hall
+  email: susan.hall@example.com
+  department: Design
+  phone: "+91-9876543219"
+
+- name: Thomas Allen
+  email: thomas.allen@example.com
+  department: Support
+  phone: "+91-9876543220"
+
+- name: Ursula Young
+  email: ursula.young@example.com
+  department: Sales
+  phone: "+91-9876543221"
+
+- name: Victor King
+  email: victor.king@example.com
+  department: Marketing
+  phone: "+91-9876543222"
+
+- name: Wendy Wright
+  email: wendy.wright@example.com
+  department: HR
+  phone: "+91-9876543223"
+
+- name: Xavier Scott
+  email: xavier.scott@example.com
+  department: IT
+  phone: "+91-9876543224"
+
+- name: Yvonne Green
+  email: yvonne.green@example.com
+  department: Finance
+  phone: "+91-9876543225"
+
+- name: Zachary Adams
+  email: zachary.adams@example.com
+  department: Operations
+  phone: "+91-9876543226"
+
+- name: Amanda Baker
+  email: amanda.baker@example.com
+  department: Research
+  phone: "+91-9876543227"
+
+- name: Brandon Nelson
+  email: brandon.nelson@example.com
+  department: Legal
+  phone: "+91-9876543228"
+
+- name: Cynthia Carter
+  email: cynthia.carter@example.com
+  department: Design
+  phone: "+91-9876543229"
+
+- name: Daniel Mitchell
+  email: daniel.mitchell@example.com
+  department: Support
+  phone: "+91-9876543230"
+
+- name: Elaine Perez
+  email: elaine.perez@example.com
+  department: Sales
+  phone: "+91-9876543231"
+
+- name: Fred Roberts
+  email: fred.roberts@example.com
+  department: Marketing
+  phone: "+91-9876543232"
+
+- name: Gina Turner
+  email: gina.turner@example.com
+  department: HR
+  phone: "+91-9876543233"
+
+- name: Harold Phillips
+  email: harold.phillips@example.com
+  department: IT
+  phone: "+91-9876543234"
+
+- name: Isabel Campbell
+  email: isabel.campbell@example.com
+  department: Finance
+  phone: "+91-9876543235"
+
+- name: Jason Parker
+  email: jason.parker@example.com
+  department: Operations
+  phone: "+91-9876543236"
+
+- name: Kelly Evans
+  email: kelly.evans@example.com
+  department: Research
+  phone: "+91-9876543237"
+
+- name: Leo Edwards
+  email: leo.edwards@example.com
+  department: Legal
+  phone: "+91-9876543238"
+
+- name: Monica Collins
+  email: monica.collins@example.com
+  department: Design
+  phone: "+91-9876543239"
+
+- name: Noah Stewart
+  email: noah.stewart@example.com
+  department: Support
+  phone: "+91-9876543240"
+
+- name: Olivia Morris
+  email: olivia.morris@example.com
+  department: Sales
+  phone: "+91-9876543241"
+
+- name: Peter Rogers
+  email: peter.rogers@example.com
+  department: Marketing
+  phone: "+91-9876543242"
+
+- name: Quinn Reed
+  email: quinn.reed@example.com
+  department: HR
+  phone: "+91-9876543243"
+
+- name: Rachel Cook
+  email: rachel.cook@example.com
+  department: IT
+  phone: "+91-9876543244"
+
+- name: Steven Morgan
+  email: steven.morgan@example.com
+  department: Finance
+  phone: "+91-9876543245"
+
+- name: Tina Bell
+  email: tina.bell@example.com
+  department: Operations
+  phone: "+91-9876543246"
+
+- name: Ulysses Murphy
+  email: ulysses.murphy@example.com
+  department: Research
+  phone: "+91-9876543247"
+
+- name: Vanessa Bailey
+  email: vanessa.bailey@example.com
+  department: Legal
+  phone: "+91-9876543248"
+
+- name: William Cooper
+  email: william.cooper@example.com
+  department: Design
+  phone: "+91-9876543249"
+
+- name: Xavier Flores
+  email: xavier.flores@example.com
+  department: Support
+  phone: "+91-9876543250"
+
+- name: Yolanda Sanders
+  email: yolanda.sanders@example.com
+  department: Sales
+  phone: "+91-9876543251"
+
+- name: Zachary Foster
+  email: zachary.foster@example.com
+  department: Marketing
+  phone: "+91-9876543252"
+
+- name: Angela Gonzales
+  email: angela.gonzales@example.com
+  department: HR
+  phone: "+91-9876543253"
+
+- name: Brian Bryant
+  email: brian.bryant@example.com
+  department: IT
+  phone: "+91-9876543254"
+
+- name: Christine Alexander
+  email: christine.alexander@example.com
+  department: Finance
+  phone: "+91-9876543255"
+
+- name: Derek Russell
+  email: derek.russell@example.com
+  department: Operations
+  phone: "+91-9876543256"
+
+- name: Emily Griffin
+  email: emily.griffin@example.com
+  department: Research
+  phone: "+91-9876543257"
+
+- name: Frank Diaz
+  email: frank.diaz@example.com
+  department: Legal
+  phone: "+91-9876543258"
+
+- name: Gloria Hayes
+  email: gloria.hayes@example.com
+  department: Design
+  phone: "+91-9876543259"
+
+- name: Howard Jenkins
+  email: howard.jenkins@example.com
+  department: Support
+  phone: "+91-9876543260"
+
+- name: Ivy Patterson
+  email: ivy.patterson@example.com
+  department: Sales
+  phone: "+91-9876543261"
+
+- name: Jack Morris
+  email: jack.morris@example.com
+  department: Marketing
+  phone: "+91-9876543262"
+
+- name: Kelly Watson
+  email: kelly.watson@example.com
+  department: HR
+  phone: "+91-9876543263"
+
+- name: Liam Brooks
+  email: liam.brooks@example.com
+  department: IT
+  phone: "+91-9876543264"
+
+- name: Monica Sanders
+  email: monica.sanders@example.com
+  department: Finance
+  phone: "+91-9876543265"
+
+- name: Nathaniel Price
+  email: nathaniel.price@example.com
+  department: Operations
+  phone: "+91-9876543266"
+
+- name: Olivia Butler
+  email: olivia.butler@example.com
+  department: Research
+  phone: "+91-9876543267"
+
+- name: Patrick Long
+  email: patrick.long@example.com
+  department: Legal
+  phone: "+91-9876543268"
+
+- name: Quinn Kelly
+  email: quinn.kelly@example.com
+  department: Design
+  phone: "+91-9876543269"
+
+- name: Rachel Sanders
+  email: rachel.sanders@example.com
+  department: Support
+  phone: "+91-9876543270"
+
+- name: Samuel Hughes
+  email: samuel.hughes@example.com
+  department: Sales
+  phone: "+91-9876543271"
+
+- name: Theresa Foster
+  email: theresa.foster@example.com
+  department: Marketing
+  phone: "+91-9876543272"
+
+- name: Ursula Simmons
+  email: ursula.simmons@example.com
+  department: HR
+  phone: "+91-9876543273"
+
+- name: Victor Martinez
+  email: victor.martinez@example.com
+  department: IT
+  phone: "+91-9876543274"
+
+- name: Wanda Ward
+  email: wanda.ward@example.com
+  department: Finance
+  phone: "+91-9876543275"
+
+- name: Xavier Bennett
+  email: xavier.bennett@example.com
+  department: Operations Mech.
+  phone: "+91-9876543276"
+
+- name: Yolanda Perez
+  email: yolanda.perez@example.com
+  department: Research
+  phone: "+91-9876543277"
+
+- name: Zachary Bell
+  email: zachary.bell@example.com
+  department: Legal
+  phone: "+91-9876543278"
