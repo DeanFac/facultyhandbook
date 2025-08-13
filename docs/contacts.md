@@ -4,11 +4,12 @@ title: Contacts
 nav_order: 10
 ---
 
-# Contact Directory
+# Contact Directory 
+
+## <button id="downloadExcel" class="btn">Download CSV</button>
+
 
 Type to search the contact list instantly.
-<br>
-<button id="downloadExcel" style="margin-bottom:12px; padding:4px 8px;">Download as csv</button>
 <input type="text" id="contactSearch" placeholder="Search contacts..." style="width:100%; padding:8px; font-size:12px; margin-bottom:12px;">
 
 <div style="overflow: auto; max-height: 500px; border: 1px solid #ddd;">
