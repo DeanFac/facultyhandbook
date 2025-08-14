@@ -51,7 +51,7 @@ jobs:
         with:
           path: _site
 
-  # Deployment job
+  # Deployment jobs
   deploy:
     environment:
       name: github-pages
