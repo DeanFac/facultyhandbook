@@ -248,3 +248,12 @@
 - Name: wmail email server
   URL: https://wmail.iitm.ac.in/
   Description: Email system for conference and miscellaneous accounts
+- Name: Workflow
+  URL: https://workflow.iitm.ac.in/
+  Description: Link the Workflow (Institute ERP system)
+- Name: Computing Center
+  URL: https://cc.iitm.ac.in/
+  Description: P. G. Senapathy Center for Computing Resources
+- Name: Academic Portal
+  URL: https://academic.iitm.ac.in/
+  Description: A Portal to find academics related information
