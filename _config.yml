@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Faculty Guide
 description: A guide for faculty at IITM
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "/home/narasimhan-swaminathan/Documents/Misc/NFSG_Github/narasimhan-2604.github.io/_site" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://narasimhan-2604.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
