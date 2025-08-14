@@ -68,11 +68,12 @@ jobs:
           name: github-pages
           path: ./_site 
       - name: Deploy via FTP to Second Domain 
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.0
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASS }}
-          local-dir: ./_site/
+          server: ${{ secrets.SFTP_SERVER }}
+          port: 22
+          username: ${{ secrets.SFTP_USER }}
+          password: ${{ secrets.SFTP_PASS }}
+          local-dir: ./_site/*
           server-dir: /trial_faculty_page/   # Change if your host has a different folder
     
