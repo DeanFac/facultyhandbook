@@ -69,5 +69,5 @@ jobs:
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           local-dir: ./_site/
-          server-dir: /trial_faculty_page   # Change if your host has a different folder
+          server-dir: /trial_faculty_page/   # Change if your host has a different folder
     
