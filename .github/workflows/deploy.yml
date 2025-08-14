@@ -67,7 +67,7 @@ jobs:
         with:
           name: github-pages
           path: ./_site 
-      - name: Deploy via FTP to Second Domain
+      - name: Deploy via FTP to Second Domain 
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
           server: ${{ secrets.FTP_SERVER }}
