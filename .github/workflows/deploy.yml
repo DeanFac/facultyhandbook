@@ -71,9 +71,9 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
           server: ${{ secrets.FTP_SERVER }}
-          port: 2121
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
+          port: 21
           local-dir: ./_site/
           server-dir: /trial_faculty_page/   # Change if your host has a different folder
     
