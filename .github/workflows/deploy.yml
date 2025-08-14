@@ -62,11 +62,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Deploy via FTP to Second Domain
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.0
-        with:
-            server: ${{ secrets.FTP_SERVER }}
-            username: ${{ secrets.FTP_USER }}
-            password: ${{ secrets.FTP_PASS }}
-            local-dir: ./_site
-            server-dir: /trial_faculty_page   # Change if your hosting’s root folder is different     
