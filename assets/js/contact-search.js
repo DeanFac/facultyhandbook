@@ -205,7 +205,7 @@ document.getElementById('downloadExcel').addEventListener('click', function() {
   });
 });*/
 
-document.addEventListener('DOMContentLoaded', function () {
+/*document.addEventListener('DOMContentLoaded', function () {
   const searchInput = document.getElementById('contactSearch');
   const tableBody = document.querySelector('#contactsTable tbody');
   const downloadBtn = document.getElementById('downloadExcel');
@@ -305,5 +305,123 @@ document.addEventListener('DOMContentLoaded', function () {
     link.href = URL.createObjectURL(blob);
     link.download = "contacts.csv";
     link.click();
+  });
+});
+*/
+// contact-search.js
+
+document.addEventListener("DOMContentLoaded", function () {
+  const searchInput = document.getElementById("searchInput");
+  const resultsTableBody = document.getElementById("resultsTableBody");
+  const downloadBtn = document.getElementById("downloadBtn");
+
+  let contacts = [];
+  let idx;
+
+  // Fetch contacts.json
+  fetch("/assets/contacts.json")
+    .then((res) => res.json())
+    .then((data) => {
+      contacts = data;
+      buildIndex(contacts);
+      renderInitialList(50); // show first 50 on load
+    });
+
+  // Build Lunr index
+  function buildIndex(data) {
+    idx = lunr(function () {
+      this.ref("id");
+      this.field("Name");
+      this.field("Designation");
+      this.field("Extension");
+      this.field("Location");
+      this.field("Email");
+      this.field("Cell Phone");
+      this.field("Unit");
+
+      data.forEach((doc) => this.add(doc));
+    });
+  }
+
+  // Live search
+  searchInput.addEventListener("input", doSearch);
+
+  function doSearch() {
+    const query = searchInput.value.trim();
+
+    if (!query) {
+      renderInitialList(50);
+      return;
+    }
+
+    let results = [];
+
+    try {
+      // Lunr search with multi-word phrase
+      results = idx.search(`"${query}"`).map((r) =>
+        contacts.find((c) => c.id == r.ref)
+      );
+    } catch (e) {
+      results = [];
+    }
+
+    // Fallback regex whole word search
+    if (results.length === 0) {
+      const regex = new RegExp("\\b" + query.toLowerCase() + "\\b");
+      results = contacts.filter((c) =>
+        Object.values(c).some((v) =>
+          regex.test(String(v).toLowerCase())
+        )
+      );
+    }
+
+    renderResults(results);
+  }
+
+  // Render initial 50 entries
+  function renderInitialList(limit) {
+    renderResults(contacts.slice(0, limit));
+  }
+
+  // Render results into table
+  function renderResults(results) {
+    resultsTableBody.innerHTML = "";
+
+    results.forEach((c) => {
+      const row = document.createElement("tr");
+      row.innerHTML = `
+        <td>${c.Name || "Not applicable"}</td>
+        <td>${c.Designation || "Not applicable"}</td>
+        <td>${c.Extension || "Not applicable"}</td>
+        <td>${c.Location || "Not applicable"}</td>
+        <td>${c.Email || "Not applicable"}</td>
+        <td>${c["Cell Phone"] || "Not available"}</td>
+        <td>${c.Unit || "Not applicable"}</td>
+      `;
+      resultsTableBody.appendChild(row);
+    });
+
+    // Apply tablesort (after rendering new rows)
+    new Tablesort(document.getElementById("resultsTable"));
+  }
+
+  // CSV/Excel download
+  downloadBtn.addEventListener("click", () => {
+    const rows = [["Name", "Designation", "Extension", "Location", "Email", "Cell Phone", "Unit"]];
+
+    document.querySelectorAll("#resultsTableBody tr").forEach((tr) => {
+      const cols = Array.from(tr.querySelectorAll("td")).map((td) => td.innerText);
+      rows.push(cols);
+    });
+
+    const csvContent = rows.map((e) => e.join(",")).join("\n");
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "contacts_filtered.csv";
+    a.click();
+    URL.revokeObjectURL(url);
   });
 });
