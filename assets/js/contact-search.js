@@ -425,7 +425,7 @@ document.getElementById('downloadExcel').addEventListener('click', function() {
     URL.revokeObjectURL(url);
   });
 }); This was good*/
-document.addEventListener("DOMContentLoaded", function () {
+/*document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.getElementById("searchInput");
   const resultsTableBody = document.getElementById("resultsTableBody");
   const downloadBtn = document.getElementById("downloadBtn");
@@ -524,5 +524,120 @@ document.addEventListener("DOMContentLoaded", function () {
     a.click();
     URL.revokeObjectURL(url);
   });
+});*/
+document.addEventListener("DOMContentLoaded", function () {
+  const searchInput = document.getElementById("searchBox");
+  const tableBody = document.querySelector("#resultsTable tbody");
+  const downloadBtn = document.getElementById("downloadBtn");
+
+  let contacts = [];
+  let idx;
+
+  // Fetch JSON data
+  fetch("/assets/contacts.json")
+    .then(response => response.json())
+    .then(data => {
+      contacts = data;
+
+      // Build lunr index
+      idx = lunr(function () {
+        this.ref("id");
+        this.field("Name");
+        this.field("Designation");
+        this.field("Extension");
+        this.field("Location");
+        this.field("Email");
+        this.field("Cell Phone");
+        this.field("Unit");
+
+        contacts.forEach(function (doc) {
+          this.add(doc);
+        }, this);
+      });
+
+      // Show first 50 on load
+      renderTable(contacts.slice(0, 50));
+    });
+
+  // Render table
+  function renderTable(data) {
+    tableBody.innerHTML = "";
+    data.forEach(contact => {
+      const row = document.createElement("tr");
+      row.innerHTML = `
+        <td>${contact["Name"] || "Not applicable"}</td>
+        <td>${contact["Designation"] || "Not applicable"}</td>
+        <td>${contact["Extension"] || "Not applicable"}</td>
+        <td>${contact["Location"] || "Not applicable"}</td>
+        <td>${contact["Email"] || "Not applicable"}</td>
+        <td>${contact["Cell Phone"] || "Not available"}</td>
+        <td>${contact["Unit"] || "Not applicable"}</td>
+      `;
+      tableBody.appendChild(row);
+    });
+  }
+
+  // 🔍 Live search
+  searchInput.addEventListener("input", function () {
+    const query = this.value.trim().toLowerCase();
+
+    if (!query) {
+      renderTable(contacts.slice(0, 50)); // Show first 50 if empty
+      return;
+    }
+
+    // Lunr broad search
+    const results = idx.search(query + "*");
+
+    // Map results back to contacts
+    let matchedContacts = results.map(r => contacts.find(c => c.id == r.ref));
+
+    // 🔎 Extra filtering for whole-word/phrase match
+    matchedContacts = matchedContacts.filter(contact => {
+      const text = (
+        contact["Name"] + " " +
+        contact["Designation"] + " " +
+        contact["Extension"] + " " +
+        contact["Location"] + " " +
+        contact["Email"] + " " +
+        contact["Cell Phone"] + " " +
+        contact["Unit"]
+      ).toLowerCase();
+
+      // Whole word or full phrase match
+      const regex = new RegExp("\\b" + query.replace(/\s+/g, "\\s+") + "\\b", "i");
+      return regex.test(text);
+    });
+
+    renderTable(matchedContacts);
+  });
+
+  // CSV download of filtered results
+  downloadBtn.addEventListener("click", function () {
+    const rows = [["Name", "Designation", "Extension", "Location", "Email", "Cell Phone", "Unit"]];
+    const currentRows = tableBody.querySelectorAll("tr");
+
+    currentRows.forEach(tr => {
+      const cells = tr.querySelectorAll("td");
+      const row = Array.from(cells).map(td => td.innerText);
+      rows.push(row);
+    });
+
+    let csvContent = rows.map(e => e.join(",")).join("\n");
+    const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "contacts.csv";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  });
+
+  // Enable sorting by clicking headers
+  if (typeof Tablesort !== "undefined") {
+    new Tablesort(document.getElementById("resultsTable"));
+  }
 });
 

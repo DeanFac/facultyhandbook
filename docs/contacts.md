@@ -1,37 +1,42 @@
 ---
 layout: default
 title: Contacts Directory
+nav_order: 1
 ---
 
 # 📇 Contacts Directory
 
-<p>Start typing in the search box to filter contacts. By default, only the first 50 are shown.</p>
+Use the search box below to filter contacts. The table updates **live** as you type.  
+Click on a column header to sort. You can also download the filtered results as a CSV.
 
-<div style="margin-bottom: 1rem;">
-  <input type="text" id="searchInput" placeholder="🔍 Search contacts..." style="width: 60%; padding: 0.5rem; font-size: 1rem;" />
-  <button id="downloadBtn" style="padding: 0.5rem 1rem; margin-left: 1rem; background: #2d6cdf; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    ⬇ Download CSV
-  </button>
+<div style="margin: 1em 0;">
+  <input type="text" id="searchBox" placeholder="Search contacts..." style="width: 60%; padding: 8px; font-size: 1rem;" />
+  <button id="downloadBtn" style="padding: 8px 12px; margin-left: 10px;">Download CSV</button>
 </div>
 
-<table id="resultsTable" class="table table-striped" style="width: 100%; border-collapse: collapse;">
+<table id="resultsTable" class="table">
   <thead>
     <tr>
-      <th style="cursor:pointer;">Name</th>
-      <th style="cursor:pointer;">Designation</th>
-      <th style="cursor:pointer;">Extension</th>
-      <th style="cursor:pointer;">Location</th>
-      <th style="cursor:pointer;">Email</th>
-      <th style="cursor:pointer;">Cell Phone</th>
-      <th style="cursor:pointer;">Unit</th>
+      <th>Name</th>
+      <th>Designation</th>
+      <th>Extension</th>
+      <th>Location</th>
+      <th>Email</th>
+      <th>Cell Phone</th>
+      <th>Unit</th>
     </tr>
   </thead>
-  <tbody id="resultsTableBody"></tbody>
+  <tbody>
+    <!-- Results will be injected here -->
+  </tbody>
 </table>
 
-<!-- Dependencies -->
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js"></script>
 
-<!-- Custom script -->
+<!-- Lunr.js (search engine) -->
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+
+<!-- Tablesort (for column sorting) -->
+<script src="https://unpkg.com/tablesort@5.2.1/dist/tablesort.min.js"></script>
+
+<!-- Your search logic -->
 <script src="/assets/js/contact-search.js"></script>
