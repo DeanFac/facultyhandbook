@@ -1,0 +1,20 @@
+---
+layout: null
+---
+
+[
+{% assign count = 0 %}
+{% for c in site.data.contacts %}
+  {% assign count = count | plus: 1 %}
+  {
+    "id": {{ count }},
+    "Name": "{{ c.Name | default: 'Not applicable' | escape }}",
+    "Designation": "{{ c.Designation | default: 'Not applicable' | escape }}",
+    "Extension": "{{ c.Extension | default: 'Not applicable' | escape }}",
+    "Location": "{{ c.Location | default: 'Not applicable' | escape }}",
+    "Email": "{{ c.Email | default: 'not_applicable' | escape }}",
+    "Cell Phone": "{{ c['Cellphone'] | default: 'Not available' | escape }}",
+    "Unit": "{{ c.Unit | default: 'Not applicable' | escape }}"
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

@@ -1,39 +1,45 @@
 ---
 layout: default
 title: Contacts
-nav_order: 10
+nav_order: 5
 ---
 
-# Contact Directory 
+# Contact Directory
 
-#### <button id="downloadExcel" class="btn-green">Download CSV</button> (The filtered search alone can be downloaded as a csv.)
+<div class="search-container" style="margin-bottom: 1rem;">
+  <input 
+    type="text" 
+    id="contactSearch" 
+    placeholder="Search contacts..." 
+    style="width: 60%; padding: 8px; border-radius: 6px; border: 1px solid #ccc;"
+  >
+  <button id="downloadExcel" style="margin-left: 10px; padding: 8px 12px; border-radius: 6px; background-color: #2c7be5; color: white; border: none; cursor: pointer;">
+    Download CSV
+  </button>
+</div>
 
-
-Type to search the contact list instantly.
-<input type="text" id="contactSearch" placeholder="Search contacts..." style="width:100%; padding:8px; font-size:12px; margin-bottom:12px;">
-
-<div style="overflow: auto; max-height: 500px; border: 1px solid #ddd;">
-<table id="contactsTable" style="width:100%; border-collapse:collapse">
-  <thead style="position: sticky; top: 0; background: var(--body-background-color); z-index: 1;">
+<table id="contactsTable" class="table" style="width: 100%; border-collapse: collapse;">
+  <thead>
     <tr>
-      <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Name</th>
-      <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Email</th>
-      <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Department</th>
-      <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Phone</th>
+      <th style="cursor: pointer;">Name</th>
+      <th style="cursor: pointer;">Extension</th>
+      <th style="cursor: pointer;">Email</th>
+      <th style="cursor: pointer;">Unit/Department</th>
+      <th style="cursor: pointer;">Designation/Misc.</th>
+      <th style="cursor: pointer;">Location</th>
+      <th style="cursor: pointer;">Cell Phone</th>
     </tr>
   </thead>
   <tbody>
-  {% for contact in site.data.contacts %}
-    <tr>
-      <td style="padding:5px; border-bottom:1px solid #f1f1f1;">{{ contact.name }}</td>
-      <td style="padding:5px; border-bottom:1px solid #f1f1f1;"> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
-</td>
-      <td style="padding:5px; border-bottom:1px solid #f1f1f1;">{{ contact.department }}</td>
-      <td style="padding:5px; border-bottom:1px solid #f1f1f1;">{{ contact.phone }}</td>
-    </tr>
-  {% endfor %}
+    <!-- Filled dynamically by JS -->
   </tbody>
 </table>
-</div>
+
+---
+
+<!-- Dependencies -->
+<script src="https://unpkg.com/lunr/lunr.js"></script>
 <script src="https://unpkg.com/tablesort@5.2.1/dist/tablesort.min.js"></script>
-<script src="{{ '/assets/js/contact-search.js' | relative_url }}"></script>
+
+<!-- Your custom JS -->
+<script src="{{'/assets/js/contact-search.js'}}"></script>
