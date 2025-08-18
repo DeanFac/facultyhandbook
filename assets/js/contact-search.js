@@ -310,7 +310,7 @@ document.getElementById('downloadExcel').addEventListener('click', function() {
 */
 // contact-search.js
 
-document.addEventListener("DOMContentLoaded", function () {
+/*document.addEventListener("DOMContentLoaded", function () {
   const searchInput = document.getElementById("searchInput");
   const resultsTableBody = document.getElementById("resultsTableBody");
   const downloadBtn = document.getElementById("downloadBtn");
@@ -424,4 +424,105 @@ document.addEventListener("DOMContentLoaded", function () {
     a.click();
     URL.revokeObjectURL(url);
   });
+}); This was good*/
+document.addEventListener("DOMContentLoaded", function () {
+  const searchInput = document.getElementById("searchInput");
+  const resultsTableBody = document.getElementById("resultsTableBody");
+  const downloadBtn = document.getElementById("downloadBtn");
+
+  let contacts = [];
+  let idx;
+
+  // Fetch contacts.json
+  fetch("/assets/contacts.json")
+    .then(response => response.json())
+    .then(data => {
+      contacts = data;
+
+      // Build lunr index
+      idx = lunr(function () {
+        this.ref("id");
+        this.field("Name");
+        this.field("Designation");
+        this.field("Extension");
+        this.field("Location");
+        this.field("Email");
+        this.field("Cell Phone");
+        this.field("Unit");
+
+        data.forEach(doc => this.add(doc));
+      });
+
+      // Initial render (first 50)
+      renderTable(contacts.slice(0, 50));
+    });
+
+  // 🔍 Live search
+  searchInput.addEventListener("input", function () {
+    const query = this.value.trim();
+
+    if (!query) {
+      renderTable(contacts.slice(0, 50)); // show first 50 if empty
+      return;
+    }
+
+    // Lunr search
+    const results = idx.search(query + "*"); // allows partial matches
+
+    // Map results back to contacts
+    const matchedContacts = results.map(r => contacts.find(c => c.id == r.ref));
+
+    renderTable(matchedContacts);
+  });
+
+  // Render table
+  function renderTable(data) {
+    resultsTableBody.innerHTML = "";
+
+    if (!data.length) {
+      resultsTableBody.innerHTML = `<tr><td colspan="7">No results found</td></tr>`;
+      return;
+    }
+
+    data.forEach(contact => {
+      const row = document.createElement("tr");
+      row.innerHTML = `
+        <td>${contact["Name"] || "Not applicable"}</td>
+        <td>${contact["Designation"] || "Not applicable"}</td>
+        <td>${contact["Extension"] || "Not applicable"}</td>
+        <td>${contact["Location"] || "Not applicable"}</td>
+        <td>${contact["Email"] || "Not applicable"}</td>
+        <td>${contact["Cell Phone"] || "Not available"}</td>
+        <td>${contact["Unit"] || "Not applicable"}</td>
+      `;
+      resultsTableBody.appendChild(row);
+    });
+
+    // Reapply sorting
+    new Tablesort(document.getElementById("resultsTable"));
+  }
+
+  // ⬇ Download filtered CSV
+  downloadBtn.addEventListener("click", function () {
+    const rows = resultsTableBody.getElementsByTagName("tr");
+    if (!rows.length) return;
+
+    let csv = "Name,Designation,Extension,Location,Email,Cell Phone,Unit\n";
+    Array.from(rows).forEach(row => {
+      const cols = row.getElementsByTagName("td");
+      if (cols.length) {
+        const vals = Array.from(cols).map(td => `"${td.innerText}"`);
+        csv += vals.join(",") + "\n";
+      }
+    });
+
+    const blob = new Blob([csv], { type: "text/csv" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "contacts_filtered.csv";
+    a.click();
+    URL.revokeObjectURL(url);
+  });
 });
+
