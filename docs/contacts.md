@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contacts Directory
+title: Contacts Directories
 nav_order: 1
 ---
 
