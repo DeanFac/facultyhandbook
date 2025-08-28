@@ -17,7 +17,7 @@ nav_order: 5
     Download CSV
   </button>
 </div>
-
+<div style="overflow: auto; max-height: 500px; border: 1px solid #ddd; width: 100%">
 <table id="contactsTable" class="table" style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
@@ -34,7 +34,7 @@ nav_order: 5
     <!-- Filled dynamically by JS -->
   </tbody>
 </table>
-
+</div>
 ---
 
 <!-- Dependencies -->

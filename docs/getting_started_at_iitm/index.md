@@ -37,7 +37,7 @@ Best way to reach IIT-M from the airport/ railway station is to use pre\-paid ta
 
 # Pre-arrival procedures
 
-* E-mail Head of Department (HoD): Acceptance & Proposed date of joining  
+* E-mail Head of Department (HoD): Acceptance & Proposed date of joining
   Cc: Dean of Faculty ([deanfaculty@iitm.ac.in](mailto:deanadmn@iitm.ac.in)), Recruitment Section ([Recruit@iitm.ac.in](mailto:Recruit@iitm.ac.in)  ) 
 * E-mail Taramani Guest House ([taramani@iitm.ac.in](mailto:taramani@iitm.ac.in)) to book temporary accommodation  
   Cc: HoD

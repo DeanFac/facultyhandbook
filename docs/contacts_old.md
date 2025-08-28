@@ -23,7 +23,6 @@ Type to search the contact list instantly.
       <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Designation</th>
       <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Location</th>
       <th style="text-align:left; padding:5px; border-bottom:1px solid #e5e5e5;">Unit</th>
-
     </tr>
   </thead>
   <tbody>
