@@ -7,7 +7,7 @@ on:
       - main
 
 name: CI
-
+#build
 jobs:
   jekyll-build:
     name: Build (jekyll gem)
