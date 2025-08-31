@@ -1,0 +1,14 @@
+#Name|Location|Phone
+Banks:
+- Name: State Bank of India
+  Location: Office
+  Phone: '9400'
+- Name: State Bank of India
+  Location: Manager
+  Phone: '9401'
+- Name: Canara Bank
+  Location: Office
+  Phone: '9405'
+- Name: Canara Bank
+  Location: Manager
+  Phone: '9406'

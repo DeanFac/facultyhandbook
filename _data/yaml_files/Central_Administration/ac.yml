@@ -1,0 +1,17 @@
+#Name|Cell_Phone|Location|Phone|Email
+Dean (Academic Courses):
+- Name: Prathap Haridoss
+  Cell_Phone: '9444008030'
+  Location: ADB 4
+  Phone: '8030'
+  Email: deanac
+- Name: Secretary
+  Cell_Phone: '9444008031'
+  Location: ADB 4
+  Phone: '8031'
+  Email: dacoffice
+- Name: Office
+  Cell_Phone: ''
+  Location: ADB 4
+  Phone: '8032'
+  Email: ''

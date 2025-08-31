@@ -1,0 +1,17 @@
+#Name|Cell_Phone|Location|Phone|Email
+Dean (Academic Research):
+- Name: Shanthi Pavan
+  Cell_Phone: '9444008040'
+  Location: ADB 4
+  Phone: '8040'
+  Email: deanar
+- Name: Secretary
+  Cell_Phone: '9444008041'
+  Location: ADB 4
+  Phone: '8041'
+  Email: daroffice
+- Name: Office, fax
+  Cell_Phone: ''
+  Location: ADB 4
+  Phone: '8042'
+  Email: ''

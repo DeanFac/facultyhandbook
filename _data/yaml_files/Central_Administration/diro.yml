@@ -1,0 +1,37 @@
+#Name|Cell_Phone|Location|Phone|Email
+Director:
+- Name: V. Kamakoti
+  Cell_Phone: '9444008001'
+  Location: ADB 5
+  Phone: '8001'
+  Email: kama
+- Name: Director's Office
+  Cell_Phone: ''
+  Location: ''
+  Phone: ''
+  Email: director
+- Name: Assistant Registrar
+  Cell_Phone: '9444008002'
+  Location: ADB 5
+  Phone: '8002'
+  Email: ''
+- Name: Secretary 1
+  Cell_Phone: '9444396159'
+  Location: ADB 5
+  Phone: '8004'
+  Email: diroffice
+- Name: Secretary2
+  Cell_Phone: ''
+  Location: ADB 5
+  Phone: '8003'
+  Email: ''
+- Name: Fax
+  Cell_Phone: ''
+  Location: ADB 5
+  Phone: '8003'
+  Email: ''
+- Name: Board Room
+  Cell_Phone: ''
+  Location: ADB 5
+  Phone: '8004'
+  Email: doffice

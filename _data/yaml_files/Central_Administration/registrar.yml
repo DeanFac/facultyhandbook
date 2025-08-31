@@ -1,0 +1,27 @@
+#Name|Cell_Phone|Location|Phone|Email
+Registrar:
+- Name: Jane Prasad
+  Cell_Phone: '9444008100'
+  Location: ADB FF
+  Phone: '8100'
+  Email: registrar
+- Name: Secretary 1
+  Cell_Phone: '9444008101'
+  Location: ADB FF
+  Phone: '8101'
+  Email: regroff
+- Name: Secretary 2
+  Cell_Phone: '9444396160'
+  Location: ADB FF
+  Phone: '8102'
+  Email: regroff
+- Name: Fax
+  Cell_Phone: ''
+  Location: ADB FF
+  Phone: '8103'
+  Email: ''
+- Name: Office
+  Cell_Phone: '22570777'
+  Location: ADB FF
+  Phone: '8104'
+  Email: ''

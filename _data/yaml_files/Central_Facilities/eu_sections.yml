@@ -1,0 +1,77 @@
+#Name|Location|Phone
+Engineering Unit:
+- Name: Accounts Branch/Despatch
+  Location: ADB3
+  Phone: '8172'
+- Name: Civil Design Branch
+  Location: ADB3
+  Phone: '8173'
+- Name: Fire Alarm Panel
+  Location: NAC1 FF
+  Phone: '8183'
+- Name: Lift Administrartion Block
+  Location: ADB GF
+  Phone: '8177'
+- Name: TNEB Substation
+  Location: OUG
+  Phone: '8184'
+- Name: 'Academic Zone Complaints: Civil'
+  Location: MSB GF
+  Phone: '8188'
+- Name: 'Academic Zone Complaints: Electrical'
+  Location: CWS SS FF
+  Phone: '8189'
+- Name: 'Hostel Zone Complaints: Civil'
+  Location: Near Himalayas
+  Phone: '8186'
+- Name: 'Hostel Zone Complaints: Electrical'
+  Location: Near Himalayas
+  Phone: '8187'
+- Name: 'Residential Zone Complaints: Civil'
+  Location: BSNL EXGE-FF
+  Phone: '8192'
+- Name: 'Residential Zone Complaints: Electrical'
+  Location: BSNL EXGE-FF
+  Phone: '8193'
+- Name: Horticultre / Public Health Complaints
+  Location: Near DOMS
+  Phone: '8194'
+- Name: Publich Health Office
+  Location: Near DOMS
+  Phone: '8191'
+- Name: Air Conditioning Unit
+  Location: CWS SS FF
+  Phone: '8197'
+- Name: Housekeeping
+  Location: MSB GF
+  Phone: '8199'
+- Name: Sewage Treatment Plant
+  Location: Near IITMRP Gate
+  Phone: '8198'
+- Name: Telephone complaints
+  Location: TEL.EXGE.-FF
+  Phone: '8141'
+- Name: Telephone exchange
+  Location: TEL.EXGE.-FF
+  Phone: '8142'
+- Name: 'IIT Madras Discovery Campus, Thaiyur: Civil / Electrical'
+  Location: Thaiyur Campus - Maintenance Bld
+  Phone: '3213'
+- Name: 24 X 7 Nodes Electrical Complaints
+  Location: VG
+  Phone: 8181 / 8185
+- Name: BMS room (New Academic Complex)
+  Location: NAC1 FF
+  Phone: '8182'
+- Name: BMS rrom (New Biotechnology Block)
+  Location: New BT 002
+  Phone: '8178'
+- Name: Main Pump House / Water Supply Complaints
+  Location: MPH
+  Phone: '8190'
+- Name: Water Supply Pump Room
+  Location: MPH
+  Phone: '8191'
+- Name: Thaiyur Campus Substation
+  Location: Thaiyur
+  Phone: '3131'

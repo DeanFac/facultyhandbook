@@ -1,0 +1,50 @@
+#Name|Location|Phone
+Hospital:
+- Name: Office
+  Location: HSP
+  Phone: '8300'
+- Name: Ambulance
+  Location: HSP
+  Phone: 8888, 8333
+- Name: Reception
+  Location: HSP
+  Phone: '8330'
+- Name: Common Room
+  Location: HSP 108
+  Phone: '8322'
+- Name: Casuality Doctor's Room
+  Location: HSP
+  Phone: '8339'
+- Name: Casuality Staff Nurses Station
+  Location: HSP 104
+  Phone: '8331'
+- Name: Clinical Lab
+  Location: HSP 131
+  Phone: '8327'
+- Name: DMO Rest Room
+  Location: HSP 132
+  Phone: '8332'
+- Name: Lift
+  Location: HSP
+  Phone: '8341'
+- Name: Major Operation Theatre
+  Location: HSP 140
+  Phone: '8338'
+- Name: Medical Record Counter
+  Location: HSP
+  Phone: '8337'
+- Name: Pharmacy
+  Location: HSP 141
+  Phone: '8336'
+- Name: Physiotherapy
+  Location: HSP 142
+  Phone: '8340'
+- Name: Ultrasonography
+  Location: HSP 116
+  Phone: '8328'
+- Name: Ward Staff Nurses Station
+  Location: HSP 133
+  Phone: '8335'
+- Name: X-Ray
+  Location: HSP 141
+  Phone: '8329'

@@ -1,0 +1,266 @@
+#Name|Location|Phone|Email
+Mechanical Engineering:
+- Name: Abhijit Sarkar
+  Location: MDS 210
+  Phone: '4723'
+  Email: asarkar
+- Name: Advaith Sankar
+  Location: NAC2 140
+  Phone: '4670'
+  Email: advaith
+- Name: Amitava Ghosh
+  Location: MES 205
+  Phone: '4724'
+  Email: amitava_g
+- Name: Anand Krishnasamy
+  Location: ICEL 209
+  Phone: '4720'
+  Email: anand_k
+- Name: Anand T N C
+  Location: ICEL 204
+  Phone: '4715'
+  Email: anand
+- Name: Anil Kumar Meena
+  Location: MES 203
+  Phone: '4726'
+  Email: anilm
+- Name: Anuj Kumar Tiwari
+  Location: MES 102
+  Phone: '4659'
+  Email: anujt
+- Name: Arunachalam N
+  Location: MES 104
+  Phone: '4722'
+  Email: chalam
+- Name: Arunn Narasimhan
+  Location: HTTP 105
+  Phone: '4696'
+  Email: arunn
+- Name: Arvind Pattamatta
+  Location: HTTP 104
+  Phone: '4654'
+  Email: arvindp
+- Name: Ashis Kumar Sen
+  Location: CFD FF
+  Phone: '4716'
+  Email: ashis
+- Name: Babu Viswanathan
+  Location: TDCE
+  Phone: '4688'
+  Email: vbabu
+- Name: Balaji Srinivasan
+  Location: HTTP 2023
+  Phone: '4657'
+  Email: sbalaji
+- Name: Chakravarthy Balaji (TT Narendran Chair Professor)
+  Location: HTTP 305
+  Phone: '4689'
+  Email: balaji
+- Name: Chandramouli P
+  Location: MDS 401
+  Phone: '4690'
+  Email: mouli
+- Name: Charchit Kumar
+  Location: MES 103
+  Phone: '4686'
+  Email: charchit
+- Name: Dhiman Chatterjee
+  Location: KCB 324
+  Phone: '4697'
+  Email: dhiman
+- Name: Gnanamoorthy R (Ace Micromatic Chair)
+  Location: MDS 211
+  Phone: '4691'
+  Email: gmoorthy
+- Name: Hariharan K
+  Location: MSB 318
+  Phone: '4679'
+  Email: hariharan
+- Name: Kameswararao Anupindi
+  Location: NAC-2 343
+  Phone: '4695'
+  Email: kanupindi
+- Name: Krishna Kannan
+  Location: MDS 213
+  Phone: '4708'
+  Email: krishnakannan
+- Name: Krishnan Balasubramanian (Institute Professor, Class of 1981 Chair Professor)
+  Location: MDS 301
+  Phone: '4662'
+  Email: balas
+- Name: Krithika Narayanasamy
+  Location: TDCE 203
+  Phone: '4672'
+  Email: krithika
+- Name: Maiya M P
+  Location: RAC 203
+  Phone: '4665'
+  Email: mpmaiya
+- Name: Mallikarjuna J M
+  Location: ICEL 208
+  Phone: '4698'
+  Email: jmmallik
+- Name: Manish Anand
+  Location: MDS 409
+  Phone: '4671'
+  Email: manand
+- Name: Manivannan P V
+  Location: MSB 316
+  Phone: '4710'
+  Email: pvm
+- Name: Manoj Pandey
+  Location: MDS 206
+  Phone: '4658'
+  Email: mpandey
+- Name: Mayank Mittal
+  Location: ICEL 208
+  Phone: '4680'
+  Email: mmittal
+- Name: Narasimhan Swaminathan
+  Location: MDS 411
+  Phone: '4743'
+  Email: n.swaminathan
+- Name: Pallab Sinha Mahapatra
+  Location: CFD SF
+  Phone: '4692'
+  Email: pallab
+- Name: Parag Ravindran
+  Location: MDS 406
+  Phone: '4714'
+  Email: paragr
+- Name: Piyush Shakya
+  Location: MDS 405
+  Phone: '4663'
+  Email: pshakya
+- Name: Prabhu Rajagopal
+  Location: MDS 410
+  Phone: '4741'
+  Email: prajagopal
+- Name: Raghavan V
+  Location: TDCE 201
+  Phone: '4712'
+  Email: raghavan
+- Name: Raghu Prakash V
+  Location: MDS 209
+  Phone: '4694'
+  Email: raghuprakash
+- Name: Raju Sethuraman
+  Location: MDS 201
+  Phone: '4673'
+  Email: sethu
+- Name: Ramesh Babu N
+  Location: MES 106
+  Phone: '4675'
+  Email: nrbabu
+- Name: Ramesh A (Prof. M A Parameswaran Chair Professor)
+  Location: ICEL 203
+  Phone: '4676'
+  Email: aramesh
+- Name: Ramkumar Penchaliah
+  Location: MDS 408
+  Phone: '4684'
+  Email: ramkumar
+- Name: Ratna Kumar Annabattula
+  Location: MDS 208
+  Phone: '4719'
+  Email: ratna
+- Name: Raushan Singh
+  Location: MDS 407
+  Phone: '4677'
+  Email: raushan
+- Name: Ravi Kiran Sangras
+  Location: TDCE 206B
+  Phone: '4711'
+  Email: sangras
+- Name: Samuel G L
+  Location: NAC-II 342
+  Phone: '4699'
+  Email: samuelgl
+- Name: Sarit Kumar Das (Chair Professor)
+  Location: HTTP 203
+  Phone: '4655'
+  Email: skdas
+- Name: Sateesh Gedupudi
+  Location: HTTP
+  Phone: '4721'
+  Email: sateeshg
+- Name: Sathyan Subbiah
+  Location: MTL 4
+  Phone: '4669'
+  Email: sathyans
+- Name: Seshadri Sekhar A
+  Location: MDS 205
+  Phone: '4709'
+  Email: as_sekhar
+- Name: Shaligram Tiwari
+  Location: RAC 205
+  Phone: '4729'
+  Email: shaligt
+- Name: Shamit Bakshi
+  Location: ICEL 206
+  Phone: '4700'
+  Email: shamit
+- Name: Shankar Krishnapillai
+  Location: MDS 212
+  Phone: '4701'
+  Email: skris
+- Name: Shyama Prasad Das
+  Location: KCB 325
+  Phone: '4667'
+  Email: spdas
+- Name: Sivasrinivasu Devadula
+  Location: MTL 4
+  Phone: '4704'
+  Email: devadula
+- Name: Somashekhar S Hiremath
+  Location: MSB 310
+  Phone: '4681'
+  Email: somashekhar
+- Name: Sourav Rakshit
+  Location: MDS 204
+  Phone: '4693'
+  Email: srakshit
+- Name: Srikrishna Sahu
+  Location: TDCE 206A
+  Phone: '4713'
+  Email: ssahu
+- Name: Srinivasa Reddy K
+  Location: HTTP 204
+  Phone: '4702'
+  Email: ksreddy
+- Name: Srinivasan K
+  Location: NAC2 132
+  Phone: '4703'
+  Email: ksri
+- Name: Sujatha Srinivasan
+  Location: MDS 404
+  Phone: '4728'
+  Email: sujsree
+- Name: Sundararajan Natarajan
+  Location: MDS 207
+  Phone: '4656'
+  Email: snatarajan
+- Name: Sushanta Kumar Panigrahi
+  Location: MES 202
+  Phone: '4742'
+  Email: skpanigrahi
+- Name: Varun Sivakumar
+  Location: TDCE 111
+  Phone: '4717'
+  Email: varuns
+- Name: Venkatarathnam G (Venkataraman and Sita Srinivasan Chair Professor)
+  Location: NAC2 135
+  Phone: '4685'
+  Email: gvenkat
+- Name: Vimal Edachery
+  Location: MDS 214
+  Phone: '4687'
+  Email: vimal
+- Name: Vishal V R Nandigana
+  Location: TTML 206
+  Phone: '4668'
+  Email: nandiga
+- Name: Viswanath K
+  Location: TTML 202
+  Phone: '4664'
+  Email: viswanathk

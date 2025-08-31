@@ -1,0 +1,20 @@
+#Name|Post|Cell_Phone|Location|Phone|Email
+JEE:
+- Name: Jayalal Sarma M N
+  Post: Chairperson
+  Cell_Phone: '9445888223'
+  Location: JEE 203
+  Phone: '8223'
+  Email: jayalal
+- Name: Ratna Kumar Annabattula VVSD
+  Post: Vice Chairperson
+  Cell_Phone: '9444448221'
+  Location: JEE 203
+  Phone: '8221'
+  Email: ratna
+- Name: ''
+  Post: Vice Chairperson2
+  Cell_Phone: ''
+  Location: JEE 203
+  Phone: '8222'
+  Email: ''

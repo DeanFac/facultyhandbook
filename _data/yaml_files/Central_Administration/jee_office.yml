@@ -1,0 +1,20 @@
+#Name|Location|Phone
+JEE:
+- Name: Office
+  Location: JEE 201
+  Phone: '8220'
+- Name: Fax
+  Location: JEE 201
+  Phone: '8224'
+- Name: Conference Room (FF)
+  Location: JEE 204
+  Phone: '8225'
+- Name: Conference Room (GF)
+  Location: JEE 101
+  Phone: '8228'
+- Name: Hall 1
+  Location: JEE 201
+  Phone: '8226'
+- Name: Hall 2
+  Location: JEE 102
+  Phone: '8227'

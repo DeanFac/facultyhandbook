@@ -1,0 +1,191 @@
+#Name|Location|Phone
+Physics:
+- Name: 2D Laboratory
+  Location: HSB 262
+  Phone: '8949'
+- Name: Advanced Magnetic Materials Lab (AMMLa)
+  Location: HSB 103
+  Phone: '5883'
+- Name: Advanced X-Ray Lab
+  Location: HSB 140B
+  Phone: '5894'
+- Name: Alternative Energy and Nanotechnology Lab-I
+  Location: HSB 105A
+  Phone: '5850'
+- Name: Alternative Energy and Nanotechnology Lab-II
+  Location: HSB 131A
+  Phone: '5850'
+- Name: AMMLa 1
+  Location: HSB 131
+  Phone: '5864'
+- Name: AMMLa 2
+  Location: HSB 106
+  Phone: '5869'
+- Name: Atomic and Molecular Physics
+  Location: HSB 232
+  Phone: '5851'
+- Name: B.Tech Lab
+  Location: HSB 324
+  Phone: '5852'
+- Name: Central Facilities Laboratory
+  Location: HSB 201
+  Phone: '5853'
+- Name: Complex Fluids Lab
+  Location: HSB 234
+  Phone: '5854'
+- Name: Complex Fluids Lab Server Room
+  Location: MSB 320
+  Phone: '5891'
+- Name: Condenced Matter Teaching Lab
+  Location: HSB 227
+  Phone: '5878'
+- Name: Condenced Matter Theory and Computational Lab
+  Location: HSB 242
+  Phone: '5899'
+- Name: Conducting Polymers Lab
+  Location: HSB 328
+  Phone: '5855'
+- Name: Conference Room
+  Location: HSB 203
+  Phone: '5856'
+- Name: Department Workshop
+  Location: HSB 109
+  Phone: '5859'
+- Name: Dept. Computer Facility  - DCF
+  Location: HSB 226C
+  Phone: '5860'
+- Name: Dept. Stores
+  Location: HSB FF
+  Phone: '5858'
+- Name: Diamond Lab
+  Location: MRC 114
+  Phone: '5913'
+- Name: Dynamical System Lab 1
+  Location: HSB 313
+  Phone: '5861'
+- Name: Dynamical System Lab 2
+  Location: HSB 204
+  Phone: '5881'
+- Name: EHEP (UGP) Lab
+  Location: HSB 258
+  Phone: '8960'
+- Name: Electromagnetic Teaching Lab
+  Location: HSB 304
+  Phone: '5873'
+- Name: Electronics Teaching Lab
+  Location: HSB 302
+  Phone: '5862'
+- Name: Electronics Workshop
+  Location: HSB 304
+  Phone: '5863'
+- Name: Environmental Nanotechnology Lab
+  Location: HSB 102A
+  Phone: '5890'
+- Name: Experimental DD Lab
+  Location: HSB 101
+  Phone: '5888'
+- Name: Femtosecond Laser Facility Lab
+  Location: MSB GF
+  Phone: '5898'
+- Name: Graphene and 2D Systems Lab
+  Location: HSB 225B
+  Phone: '5892'
+- Name: Gravidational Wave Group / Students Room
+  Location: HSB 224E
+  Phone: '9829'
+- Name: Laser Cooling Lab
+  Location: HSB 112
+  Phone: '5865'
+- Name: Low Temperature Lab
+  Location: HSB 129
+  Phone: '5867'
+- Name: LT Lab Liquefier Room
+  Location: HSB 129A
+  Phone: '5895'
+- Name: Materials Science Teaching Lab
+  Location: HSB 237
+  Phone: '5886'
+- Name: Measurements Lab
+  Location: MRC 211
+  Phone: '5912'
+- Name: Microwave Lab
+  Location: HSB 222
+  Phone: '5870'
+- Name: Multifunctional Materials Lab-1
+  Location: HSB 224
+  Phone: '5889'
+- Name: Multifunctional Materials Lab-2
+  Location: HSB 236.1
+  Phone: '5872'
+- Name: Nanoscale Physics Lab-1
+  Location: HSB 223B
+  Phone: '5887'
+- Name: Nanoscale Physics Lab-2
+  Location: HSB 122A
+  Phone: '9830'
+- Name: New Lab (Dr. Panchanana Khuntia)
+  Location: HSB 257
+  Phone: '8959'
+- Name: Optics Lab
+  Location: MSB 329
+  Phone: '5871'
+- Name: Optics and Spectroscopy Lab
+  Location: HSB 305
+  Phone: '5877'
+- Name: Photo Voltaic Fabrication Lab (PV Lab)
+  Location: PhLTAX/HSB
+  Phone: '5857'
+- Name: PV Lab-2
+  Location: HSB 107
+  Phone: '5868'
+- Name: Photonics Laboratory
+  Location: HSB 225
+  Phone: '5874'
+- Name: Physical Property Measurement System
+  Location: HSB 140A
+  Phone: '5847'
+- Name: Perboskite Materials Lab
+  Location: HSB 256
+  Phone: '8442'
+- Name: Quantum Desects Lab
+  Location: HSB 260
+  Phone: '8948'
+- Name: Quantum Information Laboratory 1
+  Location: HSB 315
+  Phone: '5879'
+- Name: Quantum Information Laboratory 2
+  Location: HSB 218
+  Phone: '5882'
+- Name: Quantum Optics Group
+  Location: HSB 310A
+  Phone: '5884'
+- Name: Research Scholars room
+  Location: HSB 128
+  Phone: '5896'
+- Name: Research Scholars room (Dr. Yasir Igbal)
+  Location: HSB 251A
+  Phone: '8958'
+- Name: Scanning Electron Microscope (SEM)
+  Location: MRC 103
+  Phone: '5849'
+- Name: Semiconductor Lab
+  Location: HSB 229
+  Phone: '5876'
+- Name: Soft Materials Laboratory
+  Location: MSB 325
+  Phone: '5893'
+- Name: Spectroscopy Lab
+  Location: HSB 225B
+  Phone: '5897'
+- Name: Mechanics lab and Preparatory course lab
+  Location: HSB 328A
+  Phone: '5885'
+- Name: Thin Film Lab
+  Location: HSB 124
+  Phone: '5875'
+- Name: Ultrafast Lasers and Optical Amplifier Lab
+  Location: HSB 309
+  Phone: '5866'
+- Name: XRD Lab
+  Location: HSB 202
+  Phone: '5880'

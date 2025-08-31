@@ -1,0 +1,230 @@
+#Name|Location|Phone
+Hostel Management:
+- Name: CCW Chairman Room 1
+  Location: OHM 101
+  Phone: '8506'
+- Name: CCW Chairman Room 2
+  Location: OHM 101
+  Phone: '8508'
+- Name: CCW Office
+  Location: OHM 102
+  Phone: '8512'
+- Name: CCW Office Security
+  Location: OHM GF
+  Phone: '8504'
+- Name: Central Supplies Unit
+  Location: OHM 201
+  Phone: '8510'
+- Name: Conference Room
+  Location: OHM 205
+  Phone: '8509'
+- Name: CCW Office Tapal
+  Location: OHM 106
+  Phone: '8517'
+- Name: Help Desk Counter
+  Location: OHM
+  Phone: '8507'
+- Name: Nirmaan Facility Center
+  Location: Cau Vis Room
+  Phone: '8514'
+- Name: Personal Unit
+  Location: OHM 102
+  Phone: '8518'
+- Name: Alakananda
+  Location: Entrance
+  Phone: '8560'
+- Name: Alakananda
+  Location: Hostel Office
+  Phone: '8561'
+- Name: Alakananda
+  Location: Warden
+  Phone: '8562'
+- Name: Bhadra
+  Location: Entrance
+  Phone: '8717'
+- Name: Bhadra
+  Location: Hostel Office
+  Phone: '8716'
+- Name: Bhadra
+  Location: Warden
+  Phone: '8718'
+- Name: Brahmaputra
+  Location: Entrance
+  Phone: '8580'
+- Name: Brahmaputra
+  Location: Hostel Office
+  Phone: '8581'
+- Name: Brahmaputra
+  Location: Warden
+  Phone: '8582'
+- Name: Cauvery
+  Location: Entrance
+  Phone: '8610'
+- Name: Cauvery
+  Location: Hostel Office
+  Phone: '8611'
+- Name: Cauvery
+  Location: Warden
+  Phone: '8612'
+- Name: Ganga
+  Location: Entrance
+  Phone: '8640'
+- Name: Ganga
+  Location: Hostel Office
+  Phone: '8641'
+- Name: Ganga
+  Location: Warden
+  Phone: '8542'
+- Name: Godavari
+  Location: Entrance
+  Phone: '8660'
+- Name: Godavari
+  Location: Hostel Office
+  Phone: '8661'
+- Name: Godavari
+  Location: Warden
+  Phone: '8662'
+- Name: Jamuna
+  Location: Entrance
+  Phone: '8680'
+- Name: Jamuna
+  Location: Hostel Office
+  Phone: '8681'
+- Name: Jamuna
+  Location: Warden
+  Phone: '8682'
+- Name: Krishna
+  Location: Entrance
+  Phone: '8700'
+- Name: Krishna
+  Location: Hostel Office
+  Phone: '8701'
+- Name: Krishna
+  Location: Warden
+  Phone: '8702'
+- Name: Mahanadhi
+  Location: Entrance
+  Phone: '8800'
+- Name: Mahanadhi
+  Location: Hostel Office
+  Phone: '8801'
+- Name: Mahanadhi
+  Location: Lift 1
+  Phone: '8803'
+- Name: Mahanadhi
+  Location: Lift 2
+  Phone: '8804'
+- Name: Mahanadhi
+  Location: Warden
+  Phone: '8802'
+- Name: Narmada
+  Location: Entrance
+  Phone: '8750'
+- Name: Narmada
+  Location: Hostel Office
+  Phone: '8751'
+- Name: Narmada
+  Location: Warden
+  Phone: '8752'
+- Name: Pampa
+  Location: Entrance
+  Phone: '8880'
+- Name: Pampa
+  Location: Hostel Office
+  Phone: '8881'
+- Name: Pampa
+  Location: Lift 1
+  Phone: '8883'
+- Name: Pampa
+  Location: Lift 2
+  Phone: '8884'
+- Name: Pampa
+  Location: Warden
+  Phone: '8882'
+- Name: Sabarmati
+  Location: Entrance
+  Phone: '8794'
+- Name: Sabarmati
+  Location: Hostel Office
+  Phone: '8793'
+- Name: Sabarmati
+  Location: Warden
+  Phone: '8795'
+- Name: Saraswathi
+  Location: Entrance
+  Phone: '8770'
+- Name: Saraswathi
+  Location: Hostel Office
+  Phone: '8791'
+- Name: Saraswathi
+  Location: Warden
+  Phone: '8792'
+- Name: Sarayu
+  Location: Entrance
+  Phone: '8790'
+- Name: Sarayu
+  Location: Hostel Office
+  Phone: '8791'
+- Name: Sarayu
+  Location: Warden
+  Phone: '8792'
+- Name: Sharavathi
+  Location: Entrance
+  Phone: '8810'
+- Name: Sharavathi
+  Location: Hostel Office
+  Phone: '8811'
+- Name: Sharavathi
+  Location: Lift
+  Phone: '8815'
+- Name: Sharavathi
+  Location: Warden
+  Phone: '8812'
+- Name: Sindhu
+  Location: Entrance
+  Phone: '8860'
+- Name: Sindhu
+  Location: Hostel Office
+  Phone: '8861'
+- Name: Sindhu
+  Location: Lift 1
+  Phone: '8863'
+- Name: Sindhu
+  Location: Lift 2
+  Phone: '8863'
+- Name: Sindhu
+  Location: Warden
+  Phone: '8562'
+- Name: Tamiraparani
+  Location: Entrance
+  Phone: '8940'
+- Name: Tamiraparani
+  Location: Hostel Office
+  Phone: '8941'
+- Name: Tamiraparani
+  Location: Lift 1
+  Phone: '8943'
+- Name: Tamiraparani
+  Location: Lift 2
+  Phone: '8944'
+- Name: Tamiraparani
+  Location: Warden
+  Phone: '8942'
+- Name: Tapti
+  Location: Entrance
+  Phone: '8840'
+- Name: Tapti
+  Location: Hostel Office
+  Phone: '8841'
+- Name: Tapti
+  Location: Warden
+  Phone: '8842'
+- Name: Tunga
+  Location: Entrance
+  Phone: '8711'
+- Name: Tunga
+  Location: Hostel Office
+  Phone: '8710'
+- Name: Tunga
+  Location: Warden
+  Phone: '8712'

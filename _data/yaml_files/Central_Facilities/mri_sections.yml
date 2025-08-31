@@ -1,0 +1,17 @@
+#Name|Location|Phone
+Magnetic Resonance Imaging:
+- Name: 500 MHz Micro Imaging
+  Location: MRI GF
+  Phone: '5921'
+- Name: Biospec Operating Room
+  Location: MRI GF
+  Phone: '5920'
+- Name: Multi-band DNP
+  Location: MRI GF
+  Phone: '5922'
+- Name: PC Room
+  Location: MRI FF
+  Phone: '5923'
+- Name: Researcher's room
+  Location: MRI FF
+  Phone: '5924'

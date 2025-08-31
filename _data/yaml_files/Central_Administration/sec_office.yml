@@ -1,0 +1,47 @@
+#Name|Location|Phone
+Security:
+- Name: Office
+  Location: ADB GF
+  Phone: '8260'
+- Name: Fax
+  Location: ADB GF
+  Phone: '8161'
+- Name: Duty Room
+  Location: ADB GF
+  Phone: '8280'
+- Name: Emergency Call
+  Location: ADB GF
+  Phone: '9999'
+- Name: POS Machine
+  Location: ADB GF
+  Phone: '8279'
+- Name: CISS Security
+  Location: Near Comm Hall
+  Phone: '9471'
+- Name: Security Post
+  Location: Adyar IN Gate
+  Phone: '8267'
+- Name: Security Post
+  Location: Adyar OUT Gate
+  Phone: '8268'
+- Name: Security Post
+  Location: Director's Residence
+  Phone: '8274'
+- Name: Security Post
+  Location: Mandakini Gate
+  Phone: '8270'
+- Name: Security Post
+  Location: KCB
+  Phone: '8273'
+- Name: Security Post
+  Location: Research Park Gate
+  Phone: '8278'
+- Name: Security Post
+  Location: Taramani Gate
+  Phone: '8271'
+- Name: Security Post
+  Location: Velachery Gate
+  Phone: '8272'
+- Name: Security Post
+  Location: Thiruvanmiyur Site
+  Phone: '22542905'

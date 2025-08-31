@@ -1,0 +1,17 @@
+#Name|Location|Phone
+Taramani Guest House:
+- Name: Office
+  Location: TGH
+  Phone: '8450'
+- Name: Kitchen
+  Location: TGH
+  Phone: '8469'
+- Name: Security
+  Location: TGH
+  Phone: '8470'
+- Name: Guest Rooms AB (01..99)
+  Location: TGH AB
+  Phone: 95AB
+- Name: Guest Rooms ABC (101..120)
+  Location: TGH BC
+  Phone: 96BC

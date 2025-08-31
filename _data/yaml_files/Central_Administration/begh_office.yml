@@ -1,0 +1,23 @@
+#Name|Location|Phone
+Bose Einstein Guest House:
+- Name: Office
+  Location: BEGH
+  Phone: '8421'
+- Name: Security
+  Location: BEGH
+  Phone: '8400'
+- Name: Suite XY (01..18)
+  Location: BEGH XY
+  Phone: 84XY
+- Name: B-01-01
+  Location: B-01-01
+  Phone: '9628'
+- Name: B-02-02
+  Location: B-02-02
+  Phone: '9627'
+- Name: Kitchen
+  Location: BEGH
+  Phone: '8419'
+- Name: Conference Room
+  Location: BEGH
+  Phone: '8422'

@@ -1,0 +1,209 @@
+#Name|Location|Phone
+Biotechnology:
+- Name: Advanced Imaging Facility
+  Location: New BT 011
+  Phone: '8902'
+- Name: Applied Industrial Microbiology Lab
+  Location: New BT 208/209
+  Phone: '8909'
+- Name: Autoclave Room
+  Location: BT 009
+  Phone: '5136'
+- Name: Bio Organic Lab 1
+  Location: BT 408
+  Phone: '5115'
+- Name: Bio Organic Lab 2
+  Location: BT 417
+  Phone: '5119'
+- Name: Bio Physics Lab
+  Location: BT 510
+  Phone: '5125'
+- Name: Biobank Facility
+  Location: New BT 003
+  Phone: '5108'
+- Name: Bioengineering and Drug Discovery Lab
+  Location: BT 113
+  Phone: '5122'
+- Name: Bioincubator Facility
+  Location: BT 2ndF
+  Phone: '5102'
+- Name: Bioinformatics
+  Location: New BT 010
+  Phone: '8901'
+- Name: Biomolecular Simulation Lab
+  Location: New BT 111
+  Phone: '5123'
+- Name: Bioprocess  Engg Lab 1
+  Location: BT 006
+  Phone: '5132'
+- Name: Cancer Biology
+  Location: BT 411
+  Phone: '5118'
+- Name: Cancer Tissue Storage Facility
+  Location: New BT 008
+  Phone: '5135'
+- Name: Cardio Vascular Lab
+  Location: BT 513
+  Phone: '5127'
+- Name: Cell Culture
+  Location: New BT 002A
+  Phone: '5131'
+- Name: Cell and Tissue Microenvironment Engg Lab
+  Location: New BT 204A
+  Phone: '8947'
+- Name: Cellular Biophysics and Microfluidics Lab
+  Location: New BT 312
+  Phone: '8890'
+- Name: Central Equipment Facility I
+  Location: BT 214
+  Phone: '5111'
+- Name: Central Equipment Facility II
+  Location: BT 312
+  Phone: '5112'
+- Name: Central Equipment Facility III
+  Location: BT 412
+  Phone: '5117'
+- Name: Central Equipment Facility IV
+  Location: BT 512
+  Phone: '5126'
+- Name: Central Equipment Facility V
+  Location: BT 007
+  Phone: '9841'
+- Name: Change Room
+  Location: New BT 017
+  Phone: '8906'
+- Name: Common Facility
+  Location: BT 11
+  Phone: '5110'
+- Name: Common Room
+  Location: BT 07
+  Phone: '5097'
+- Name: Computation Biophysics
+  Location: New  BT 213A
+  Phone: '8900'
+- Name: Computational Systems Biology Lab
+  Location: New BT 201
+  Phone: '5142'
+- Name: Conference Room
+  Location: BT 517
+  Phone: '5129'
+- Name: DCF
+  Location: BT 508
+  Phone: '5124'
+- Name: Dept Staff Room
+  Location: BT 419A
+  Phone: '4133'
+- Name: Developmental Genetics Lab
+  Location: BT 314
+  Phone: '5113'
+- Name: Electrophysiology Laboratory
+  Location: BT 415
+  Phone: '5098'
+- Name: Equipment Room 1 and 2
+  Location: New BT 118A/B
+  Phone: '8907'
+- Name: FACS Instruments
+  Location: BT 419B
+  Phone: '5138'
+- Name: FACS Facility
+  Location: New BT 002B
+  Phone: '8904'
+- Name: Infection Biology Lab
+  Location: BT 414
+  Phone: '5137'
+- Name: Lift
+  Location: BT
+  Phone: '5107'
+- Name: Lift at New Biotech Block
+  Location: New BT
+  Phone: '5141'
+- Name: Laboratory of Molecular Cell Biology
+  Location: BT 411
+  Phone: '5116'
+- Name: LC-MS facility room
+  Location: BT 12
+  Phone: '5096'
+- Name: Metabolic Engineering Laboratory
+  Location: BT 216/217
+  Phone: '5101'
+- Name: Microbial Metabolic Engg Lab
+  Location: BT 201B
+  Phone: '5145'
+- Name: Molecular Oncology Lab
+  Location: BT 317
+  Phone: '5114'
+- Name: New Lab (Dr. Ninitha)
+  Location: New BT 304 A/B
+  Phone: '8953'
+- Name: New Lab-1
+  Location: New BT 103
+  Phone: '8994'
+- Name: New Lab-2
+  Location: New BT 212
+  Phone: '8995'
+- Name: Office for Departmental Staff
+  Location: BT 012
+  Phone: '5134'
+- Name: Protein BioInformatics Lab
+  Location: BT 516
+  Phone: '5128'
+- Name: Protein Bio Physics Lab
+  Location: New BT 113
+  Phone: '5120'
+- Name: Proteomics Facility
+  Location: New BT 001
+  Phone: '8903'
+- Name: Research Lab I
+  Location: BT 006
+  Phone: '5102'
+- Name: Research Lab II
+  Location: BT 311
+  Phone: '5103'
+- Name: Research Lab-1
+  Location: New BT 208
+  Phone: '5143'
+- Name: Research Lab-2
+  Location: New BT 211
+  Phone: '5144'
+- Name: SBCE Lab
+  Location: BT 508A
+  Phone: '8925'
+- Name: Security Old Block
+  Location: BT GF
+  Phone: '5106'
+- Name: Security New Block
+  Location: New BT
+  Phone: '5099'
+- Name: Sequencing Facility
+  Location: New BT 007
+  Phone: '8905'
+- Name: Signal Transaction Lab
+  Location: BT 308
+  Phone: '5100'
+- Name: Stem Cell and Molecular Biology Lab
+  Location: BT 213
+  Phone: '5109'
+- Name: Stores
+  Location: BT 002
+  Phone: '5104'
+- Name: Systems Biology Lab
+  Location: New BT 313
+  Phone: '5140'
+- Name: Tissue Engg and Biomaterials Lab
+  Location: New BT 203A/B
+  Phone: '5146'
+- Name: UG Lab 1
+  Location: BT 118
+  Phone: '5105'
+- Name: UG Lab 2
+  Location: BT 115
+  Phone: '5121'
+- Name: UG Lab 3
+  Location: BT 112
+  Phone: '5133'
+- Name: Vascular Biology Lab
+  Location: New BT 412
+  Phone: '8908'
+- Name: Worm Lab
+  Location: New BT 301
+  Phone: '5130'

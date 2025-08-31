@@ -1,0 +1,404 @@
+#Name|Location|Phone
+Mechanical Engineering:
+- Name: Department Office (Annexe)
+  Location: MSB 217
+  Phone: '5650'
+- Name: HTML Annexe
+  Location: New HTML
+  Phone: '5653'
+- Name: HTML Fluid Systems Lab 1
+  Location: New HTML GF
+  Phone: '8871'
+- Name: HTML Fluid Systems Lab 2
+  Location: New HTML FF
+  Phone: '8872'
+- Name: HTML Computer Room
+  Location: KCB 323A
+  Phone: '5654'
+- Name: HTML Microfluidics Facilities 1
+  Location: CFD FF
+  Phone: '5657'
+- Name: HTML Microfluidics Facilities 2
+  Location: CFD FF
+  Phone: '5649'
+- Name: HTML New Lab-1
+  Location: CFD GF
+  Phone: '8954'
+- Name: HTML New Lab-2
+  Location: CFD FF
+  Phone: '8955'
+- Name: HTML New Lab-3
+  Location: CFD SF
+  Phone: '8956'
+- Name: HTML Milling Room Microfluidics
+  Location: CFD SF
+  Phone: '8956'
+- Name: HTML Seminar Room
+  Location: CFD FF
+  Phone: '8955'
+- Name: HTML Sitting Room
+  Location: CFD GF
+  Phone: '8954'
+- Name: HTML CFD Office
+  Location: CFD
+  Phone: '4930'
+- Name: HTML Office
+  Location: TTML 101
+  Phone: '5655'
+- Name: HTML/TTM Lab Workshop
+  Location: HTML/TTML
+  Phone: '5656'
+- Name: HTML Lift
+  Location: New HTML
+  Phone: '5646'
+- Name: HTTP Lab Office
+  Location: HTTP 207
+  Phone: '5661'
+- Name: HTTP Conference Room
+  Location: HTTP 206
+  Phone: '5660'
+- Name: HTTP Library and ISHMT Office
+  Location: HTTP 100B
+  Phone: '5749'
+- Name: HTTP Stores and Instrumentation
+  Location: HTTP 100A
+  Phone: '5666'
+- Name: HTTP Workshop 1
+  Location: HTTP 101
+  Phone: '5663'
+- Name: HTTP Workshop 2
+  Location: HTTP 112
+  Phone: '5667'
+- Name: HTTP Research Scholar Room - 1
+  Location: HTTP 107
+  Phone: '5659'
+- Name: HTTP Research Scholar Room - 2
+  Location: HTTP 106
+  Phone: '5664'
+- Name: HTTP Research Scholar Room - 3
+  Location: HTTP 103
+  Phone: '5652'
+- Name: HTTP Research Scholar Room - 4
+  Location: HTTP 102
+  Phone: '5658'
+- Name: HTTP Research Scholar Room - 5
+  Location: HTTP 200A
+  Phone: '5665'
+- Name: HTTP Studies on Thermal conductivity on Two-phase systems
+  Location: HTTP 108A
+  Phone: '5520'
+- Name: HTTP Porous Medium and Biological Transport Process Studies
+  Location: HTTP 108B
+  Phone: '5521'
+- Name: HTTP Nano to Macro Scale Heat Transport Studies
+  Location: HTTP 108C
+  Phone: '5522'
+- Name: HTTP Nanofluid, Bio-MEMS and Microfluidies Studies
+  Location: HTTP 108D
+  Phone: '5523'
+- Name: HTTP Multimode and Inverse Heat Transfer Studies
+  Location: HTTP 108E
+  Phone: '5524'
+- Name: HTTP Fluidized Bed Combustion Studies for Biomass and Coal
+  Location: HTTP 108F
+  Phone: '5525'
+- Name: HTTP Annexure 1
+  Location: HTTP 109
+  Phone: '5526'
+- Name: HTTP Annexure 2
+  Location: HTTP 110
+  Phone: '5528'
+- Name: HTTP Common Facility
+  Location: HTTP 111
+  Phone: '5527'
+- Name: HTTP Solar Energy Research Facility
+  Location: HTTP 300
+  Phone: '5662'
+- Name: Hydraulics Workshop
+  Location: MSB 338
+  Phone: '5668'
+- Name: ICEL Discussion Room
+  Location: ICEL 208
+  Phone: '5669'
+- Name: ICEL EMS Room
+  Location: ICEL 103
+  Phone: '5674'
+- Name: ICEL Instrument Room
+  Location: ICEL 104
+  Phone: '5673'
+- Name: ICEL PIV Facility
+  Location: ICEL 107
+  Phone: '5675'
+- Name: ICEL Research Scholars Room
+  Location: ICEL 102
+  Phone: '5676'
+- Name: ICEL Research Scholars Room
+  Location: ICEL 209,210
+  Phone: '5697'
+- Name: ICEL Research Scholars Room
+  Location: ICEL 211
+  Phone: '5678'
+- Name: ICEL Spray Research Facility I
+  Location: ICEL 105
+  Phone: '5672'
+- Name: ICEL Spray Research Facility II
+  Location: ICEL
+  Phone: '5677'
+- Name: ICEL Stores
+  Location: ICEL 101
+  Phone: '5679'
+- Name: ICEL Testing Bay
+  Location: ICEL
+  Phone: '5670'
+- Name: Lift
+  Location: MSB
+  Phone: '5680'
+- Name: Mach. Tools Lab
+  Location: MTL
+  Phone: '5681'
+- Name: Machine Dynamics Lab office
+  Location: MDS 110
+  Phone: '5682'
+- Name: MDS Architected and Sustainable Materials and Design Centre
+  Location: MDS 105
+  Phone: '5692'
+- Name: MDS (MH) Workshop
+  Location: MDS 104
+  Phone: '5683'
+- Name: MDS CAE Lab
+  Location: MDS 218
+  Phone: '5684'
+- Name: MDS Comput. Mechanics Lab
+  Location: MDS 215
+  Phone: '5685'
+- Name: MDS DCF Room
+  Location: MDS 310
+  Phone: '5686'
+- Name: MDS Gait and Motion Analysis Lab
+  Location: MDS GF
+  Phone: '5534'
+- Name: MDS Material Testing facility
+  Location: MDS 114
+  Phone: '5687'
+- Name: MDS Mechanics of Materials Lab
+  Location: MDS 303
+  Phone: '5703'
+- Name: MDS Mechanics of Time Dependent Materials Lab
+  Location: MDS 101
+  Phone: '5647'
+- Name: MDS NDE Centre Lab
+  Location: MDS 312
+  Phone: '5688'
+- Name: MDS Office
+  Location: MDS 203
+  Phone: '5689'
+- Name: MDS Product Design Lab
+  Location: MDS 307
+  Phone: '5690'
+- Name: MDS Research Scholars Room
+  Location: MDS 304
+  Phone: '5691'
+- Name: MDS Research Scholars Room
+  Location: MDS 403
+  Phone: '5693'
+- Name: MDS Robotics and Assistive Devices Lab
+  Location: MDS 308
+  Phone: '8929'
+- Name: MDS Seminar Hall
+  Location: MDS
+  Phone: '5694'
+- Name: MDS R2D2 Lab
+  Location: MDS 311
+  Phone: '5695'
+- Name: MDS Workshop
+  Location: MDS
+  Phone: '5698'
+- Name: Mechanical Measurement Room
+  Location: MSB 332
+  Phone: '5699'
+- Name: Mechanical Optimization Lab
+  Location: MDS 115
+  Phone: '5742'
+- Name: Mechatronics
+  Location: MSB 342
+  Phone: '5701'
+- Name: MEMH Lift
+  Location: MEMH
+  Phone: '5741'
+- Name: MES CAD Lab
+  Location: MES 214
+  Phone: '5702'
+- Name: MES Library
+  Location: MES 201
+  Phone: '5704'
+- Name: MES Office
+  Location: MES 100
+  Phone: '5705'
+- Name: MES Robotics Lab
+  Location: MES 209
+  Phone: '5706'
+- Name: Metrology Lab
+  Location: MES GF
+  Phone: '5707'
+- Name: MSB Conference Room
+  Location: MSB 217
+  Phone: '5708'
+- Name: MSB Lift
+  Location: MSB
+  Phone: '5740'
+- Name: MTL Research Scholars Room
+  Location: MTL 3
+  Phone: '5709'
+- Name: MTL Workshop
+  Location: MTL 1
+  Phone: '5710'
+- Name: New Micro Nano Bio-Fluidics Unit
+  Location: CFD FF-03
+  Phone: '5671'
+- Name: PEI Lab Office
+  Location: MSB 309
+  Phone: '5711'
+- Name: PEIL Computer Room
+  Location: MSB 339
+  Phone: '5712'
+- Name: PEIL Conference Room
+  Location: MSB 348
+  Phone: '5713'
+- Name: PEIL Hydraulic Workshop
+  Location: MSB 338
+  Phone: '5668'
+- Name: PEIL Library
+  Location: MSB 337
+  Phone: '5747'
+- Name: PEIL Mechanical Measurement Room
+  Location: MSB 334
+  Phone: '5699'
+- Name: PEIL Mechatronics and Control Systems Lab
+  Location: MSB 342
+  Phone: '5701'
+- Name: PEIL Robotics Calibration Lab
+  Location: MSB 335
+  Phone: '5746'
+- Name: PEIL Seminar Hall
+  Location: MSB 346
+  Phone: '5714'
+- Name: PEIL Virtual Remote Robotics Lab
+  Location: MSB 350A
+  Phone: '5053'
+- Name: RAC CO2 Refrigeration Shed
+  Location: RAC Lab
+  Phone: '5518'
+- Name: RAC Computer Room
+  Location: RAC 201
+  Phone: '5715'
+- Name: RAC Conference Room
+  Location: RAC 207
+  Phone: '5716'
+- Name: RAC Hydrogen Research facility
+  Location: RAC 211
+  Phone: '5717'
+- Name: RAC Instrument Room
+  Location: RAC 104
+  Phone: '5718'
+- Name: RAC Lab 1
+  Location: RAC 202
+  Phone: '5719'
+- Name: RAC Lab 2
+  Location: RAC 103
+  Phone: '5723'
+- Name: RAC Lab GC Room
+  Location: RAC 208
+  Phone: '5743'
+- Name: RAC Lab Office
+  Location: RAC 202
+  Phone: '5720'
+- Name: RAC Research Lab
+  Location: RAC 102
+  Phone: '5721'
+- Name: RAC Research Scholar Lab
+  Location: RAC 206A
+  Phone: '8968'
+- Name: RAC Research Scholar Room
+  Location: RAC
+  Phone: '5722'
+- Name: RAC Store Room
+  Location: RAC 106
+  Phone: '5724'
+- Name: RAC UG Lab
+  Location: RAC FF
+  Phone: '5725'
+- Name: RAC Workshop
+  Location: RAC  GF
+  Phone: '5726'
+- Name: Research Scholar Room
+  Location: MDS 302
+  Phone: '5533'
+- Name: Robotics Calibration Lab
+  Location: MSB 335
+  Phone: '5746'
+- Name: Seminar Room
+  Location: MES 207
+  Phone: '5728'
+- Name: Solar Energy Experimental Setup
+  Location: CRC 400
+  Phone: '5700'
+- Name: Solar Energy System
+  Location: CRC 401
+  Phone: '5727'
+- Name: Stores
+  Location: MSB 217
+  Phone: '5651'
+- Name: Technical Staff Room
+  Location: MDS 214B
+  Phone: '5517'
+- Name: TDCE Lab 1
+  Location: TDCE
+  Phone: '5529'
+- Name: TDCE Lab 2
+  Location: TDCE
+  Phone: '5530'
+- Name: TDCE Lab Office
+  Location: TDCE 202
+  Phone: '5729'
+- Name: Aeroacoustics Scholars Room
+  Location: NAC2 212
+  Phone: '5730'
+- Name: TDCE PC Room
+  Location: TDCE 116
+  Phone: '5731'
+- Name: TDCE Scholar's Room
+  Location: TDCE 115
+  Phone: '5648'
+- Name: TDCE Workshop
+  Location: TDCE 204
+  Phone: '5732'
+- Name: TDCE Workshop Main Room
+  Location: TDCE 105A
+  Phone: '5733'
+- Name: TTM Lab
+  Location: TTML
+  Phone: '5735'
+- Name: TTM Lab Office
+  Location: TTML
+  Phone: '5736'
+- Name: TTML Computer Room
+  Location: TTML 203
+  Phone: '5737'
+- Name: TTML Research Scholars Room
+  Location: TTML 207
+  Phone: '5738'
+- Name: UG Lab
+  Location: MES 208
+  Phone: '5739'
+- Name: UG/PG Lab/ICE lab
+  Location: MSB 147
+  Phone: '5734'
+- Name: UG/PG Laboratories I
+  Location: Old RandAC
+  Phone: '5748'
+- Name: UG/PG Laboratories II
+  Location: MSB 303
+  Phone: '5744'
+- Name: Vibration Testing Lab
+  Location: ASE GF
+  Phone: '5074'

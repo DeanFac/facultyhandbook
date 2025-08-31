@@ -1,0 +1,35 @@
+#Name|Location|Phone
+Mathematics:
+- Name: Technical Room
+  Location: KCB 536
+  Phone: '5604'
+- Name: Conference Room
+  Location: KCB 523A
+  Phone: '5600'
+- Name: Library
+  Location: KCB 502
+  Phone: '5601'
+- Name: Seminar Room
+  Location: KCB 522
+  Phone: '5602'
+- Name: Department Computing Facility
+  Location: KCB 520
+  Phone: '5603'
+- Name: Research Scholar Room 1
+  Location: KCB 618
+  Phone: '5580'
+- Name: Research Scholar Room 2
+  Location: KCB 619
+  Phone: '5581'
+- Name: Research Scholar Room 3
+  Location: KCB 620
+  Phone: '5582'
+- Name: Research Scholar Room 4
+  Location: KCB 621
+  Phone: '5583'
+- Name: Research Scholar Room 5
+  Location: KCB 623
+  Phone: '5584'
+- Name: Store Room
+  Location: KCB 622
+  Phone: '5586'

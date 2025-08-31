@@ -1,0 +1,44 @@
+#Name|Location|Phone
+Students:
+- Name: Office
+  Location: TEL EX 2F
+  Phone: '8054'
+- Name: New Advisor Room 1
+  Location: TEL EX 2F
+  Phone: '8057'
+- Name: New Advisor Room 2
+  Location: TEL EX 2F
+  Phone: '8058'
+- Name: Conference Hall
+  Location: TEL EX 2F
+  Phone: '8059'
+- Name: STACT Office
+  Location: TEL EX 2F
+  Phone: '8519'
+- Name: Gymkhana Office
+  Location: Sports Complex
+  Phone: '8520'
+- Name: Wellness Center
+  Location: TEL EX 1F
+  Phone: '8522'
+- Name: Chemplast Cricket Ground
+  Location: Near ED
+  Phone: '8526'
+- Name: Fitness Centre
+  Location: ''
+  Phone: '8528'
+- Name: Lift
+  Location: DoSt Block
+  Phone: '8950'
+- Name: Swimming Pool
+  Location: ''
+  Phone: '8529'
+- Name: Sports Complex
+  Location: ''
+  Phone: '8536'
+- Name: Lift
+  Location: Sports Complex
+  Phone: '8539'
+- Name: SAC
+  Location: SAC
+  Phone: '9440'

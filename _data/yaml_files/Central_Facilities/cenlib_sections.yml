@@ -1,0 +1,53 @@
+#Name|Location|Phone
+Central Library:
+- Name: Office
+  Location: '116'
+  Phone: '4950'
+- Name: Acquisition Section (Books)
+  Location: '110'
+  Phone: '5951'
+- Name: 'Back Volumes: Sciences'
+  Location: Level-4
+  Phone: '5952'
+- Name: 'Back Volumes : HSS'
+  Location: Level-2 (RW)
+  Phone: '5959'
+- Name: Batch Leaders (Duty Room)
+  Location: '106'
+  Phone: '5953'
+- Name: Binding Section
+  Location: B10
+  Phone: '5954'
+- Name: Book Bank
+  Location: Level-2 (LW)
+  Phone: '5955'
+- Name: Circulation (Enquiries/Counters)
+  Location: '101'
+  Phone: '5950'
+- Name: Committee Room
+  Location: '112'
+  Phone: '5957'
+- Name: Computer Room
+  Location: '108'
+  Phone: '5958'
+- Name: Lift
+  Location: ''
+  Phone: '5964'
+- Name: Periodical Section
+  Location: '205'
+  Phone: '5960'
+- Name: POS machine
+  Location: ''
+  Phone: '5956'
+- Name: Processing Section (Books)
+  Location: '111'
+  Phone: '5961'
+- Name: Smart Card Printing Section
+  Location: '114'
+  Phone: '5962'
+- Name: Security Desk
+  Location: Entrance
+  Phone: '5963'
+- Name: Stores
+  Location: ''
+  Phone: '5974'

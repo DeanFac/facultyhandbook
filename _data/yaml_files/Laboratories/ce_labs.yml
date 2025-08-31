@@ -1,0 +1,239 @@
+#Name|Location|Phone
+Civil Engineering:
+- Name: Air Research Laboratory
+  Location: NAC2 301
+  Phone: '5321'
+- Name: Acoustics Lab
+  Location: BSB 243
+  Phone: '5250'
+- Name: Asphalt Technology Lab
+  Location: BSB 228
+  Phone: '5251'
+- Name: BSB Lift
+  Location: BSB
+  Phone: '5296'
+- Name: BTCM Instrumentation Lab
+  Location: BSB 101F
+  Phone: '5303'
+- Name: BTCM Office
+  Location: BSB 207A
+  Phone: '5255'
+- Name: Centre of excellence in Urban transport
+  Location: BSB 243
+  Phone: '5301'
+- Name: Centre of excellence in Application of Coir
+  Location: MSB 244
+  Phone: '8945'
+- Name: COIR Lab
+  Location: BSB 384
+  Phone: '5275'
+- Name: Computational Lab-1
+  Location: ED 507
+  Phone: '5267'
+- Name: Computational Lab-2
+  Location: KCB 514
+  Phone: '5268'
+- Name: Computational Facilities of Structural Engg Lab1
+  Location: STR 309
+  Phone: '5330'
+- Name: Computational Facilities of Structural Engg Lab2
+  Location: STR 312
+  Phone: '5331'
+- Name: Conference Room (HoD’s Office)
+  Location: BSB 106
+  Phone: '5257'
+- Name: Composite Testing Facility
+  Location: STR
+  Phone: '5310'
+- Name: Construction Materials Lab
+  Location: BSB 101
+  Phone: '5258'
+- Name: CUBE Office
+  Location: STR 212
+  Phone: '4311'
+- Name: Cyclic Triaxial testing Lab
+  Location: BSB 129
+  Phone: '5260'
+- Name: Department Printing Room
+  Location: BSB 107
+  Phone: '5261'
+- Name: Deptl. Computer Facility
+  Location: BSB 324
+  Phone: '5262'
+- Name: Durability Laboratory
+  Location: BSB 102
+  Phone: '5263'
+- Name: Earth Quake Engg Lab
+  Location: BSB 135
+  Phone: '5264'
+- Name: Environment Engg UG/PG Lab
+  Location: MSB 245
+  Phone: '5265'
+- Name: EWRE Office
+  Location: ED 526A
+  Phone: '5269'
+- Name: Geosynthetics Laboratory
+  Location: BSB 127
+  Phone: '5272'
+- Name: Geo Environmental Lab
+  Location: BSB 126
+  Phone: '5302'
+- Name: Structural Glass Research and Testng facility (SGRT)
+  Location: STR GF
+  Phone: '5309'
+- Name: GT Computer Lab
+  Location: BSB 119
+  Phone: '5273'
+- Name: Meeting Room
+  Location: BSB 359A
+  Phone: '5256'
+- Name: M. Tech Room
+  Location: BSB 360
+  Phone: '5274'
+- Name: Heavy Testing Lab
+  Location: BSB 136
+  Phone: '5276'
+- Name: Hydraulics Laboratory
+  Location: NAC2 144
+  Phone: '5270'
+- Name: Instrumentation room
+  Location: ED 504
+  Phone: '5266'
+- Name: ITS Lab
+  Location: BSB 240
+  Phone: '5299'
+- Name: Library at NAC2
+  Location: NAC2 156
+  Phone: '5314'
+- Name: Mechanical Performance of Civil Engineering Materials
+  Location: BSB 101
+  Phone: '5287'
+- Name: Microbiology Lab 1
+  Location: ED 526B
+  Phone: '5325'
+- Name: Microbiology Lab 2
+  Location: ED 510
+  Phone: '5326'
+- Name: Modern Testing Lab
+  Location: BSB 124
+  Phone: '5277'
+- Name: New Hydraulic Lab
+  Location: Near ED Block
+  Phone: '5329'
+- Name: Pavement Engineering Lab
+  Location: BSB 103
+  Phone: '5278'
+- Name: Post doctoral Scholar room
+  Location: ED 522
+  Phone: '5313'
+- Name: Project Consultant
+  Location: BSB 104
+  Phone: '5317'
+- Name: Project Room
+  Location: STR 404
+  Phone: '5281'
+- Name: Project Room (Dr.Devdas Menon)
+  Location: STR 208
+  Phone: '5279'
+- Name: Project Room (NDMA)
+  Location: STR 404
+  Phone: '5305'
+- Name: Project Room (Dr.Alagasundramoorthy)
+  Location: STR 307
+  Phone: '5306'
+- Name: Project Room (Dr. CVR Murthy)
+  Location: STR 310
+  Phone: '5307'
+- Name: Project Room (Dr. Arul Jayachandran)
+  Location: STR 402
+  Phone: '5308'
+- Name: Project Staff Room
+  Location: BSB 359
+  Phone: '5259'
+- Name: Research Scholars Room 1
+  Location: BSB 126
+  Phone: '5304'
+- Name: Research Scholars Room 2
+  Location: BSB 238G
+  Phone: '5300'
+- Name: Research Scholars Room 3
+  Location: ED 505
+  Phone: '5312'
+- Name: Research Scholar Room-1
+  Location: BSB 354
+  Phone: '5252'
+- Name: Research Scholar Room-2
+  Location: BSB 357
+  Phone: '5254'
+- Name: Research Scholar Room NAC-2
+  Location: NAC2 357
+  Phone: '5280'
+- Name: Smart Structures Lab
+  Location: STR 104
+  Phone: '5282'
+- Name: Soil Engineering Lab
+  Location: BSB 133
+  Phone: '5283'
+- Name: Stores
+  Location: BSB 104
+  Phone: '5284'
+- Name: Structural Computer Lab
+  Location: STR 101
+  Phone: '5285'
+- Name: Structural Division Lab
+  Location: STR 209
+  Phone: '5253'
+- Name: Structural Engg. Lab. Office
+  Location: STR 205
+  Phone: '5286'
+- Name: Structural Lab III Floor
+  Location: STR 404
+  Phone: '5288'
+- Name: Structural Lab Yard
+  Location: STR GF
+  Phone: '5310'
+- Name: Structural Lift
+  Location: STRU
+  Phone: '5297'
+- Name: Structures Dynamics Lab
+  Location: STR GF
+  Phone: '5289'
+- Name: Structures Test Lab.
+  Location: STR 110
+  Phone: '5290'
+- Name: Survey Lab
+  Location: BSB 201
+  Phone: '5291'
+- Name: Sutram Center
+  Location: BSB 331B
+  Phone: '5333'
+- Name: Sutram Center - Aqua Map
+  Location: BSB 331A
+  Phone: '5332'
+- Name: Traffic Engineering Lab
+  Location: BSB 242
+  Phone: '5292'
+- Name: Transpn. Computer Lab
+  Location: BSB 237
+  Phone: '5293'
+- Name: Transpn. Engg. Project Room
+  Location: BSB 336
+  Phone: '5294'
+- Name: Transpn.Faculty Meeting Room
+  Location: BSB 238A
+  Phone: '5295'
+- Name: Visiting Faculty Room
+  Location: BSB 218
+  Phone: '4312'
+- Name: Wet Research Lab 1
+  Location: ED 501
+  Phone: '5311'
+- Name: Wet Research Lab 2
+  Location: ED 526
+  Phone: '5322'
+- Name: Workshop
+  Location: BSB 102B
+  Phone: '5298'
+- Name: ZLD Laboratory
+  Location: ED 509
+  Phone: '5315'

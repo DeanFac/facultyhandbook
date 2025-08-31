@@ -1,0 +1,194 @@
+#Name|Location|Phone
+Chemistry:
+- Name: 500 MHz NMR
+  Location: CYB 122
+  Phone: '5199'
+- Name: Analytical Research Lab
+  Location: CYB 114
+  Phone: '5200'
+- Name: Asymmetric Synthesis Lab
+  Location: CYB 207
+  Phone: '5246'
+- Name: Bio Chemistry Lab
+  Location: CYB 102
+  Phone: '5192'
+- Name: Bio Inorganic Lab
+  Location: New CYB 252
+  Phone: '5185'
+- Name: Bio Research Lab
+  Location: CYB 118
+  Phone: '5202'
+- Name: Bio. Org. Chem. Lab
+  Location: CYB 206
+  Phone: '5201'
+- Name: Combustion and Atmospheric Chemistry Lab
+  Location: CYB 219
+  Phone: '5242'
+- Name: Common Instmn. Facility II
+  Location: CYB 202A
+  Phone: '5205'
+- Name: ESI / GC Mass Lab
+  Location: CYB 105A/B
+  Phone: '5181'
+- Name: Electro Chemistry Lab
+  Location: CYB 326
+  Phone: '5237'
+- Name: Conference/Seminar Room
+  Location: CYB 310
+  Phone: '5213'
+- Name: Inorganic Research Lab I
+  Location: CYB 113
+  Phone: '5214'
+- Name: Inorganic Research Lab II
+  Location: CYB 306
+  Phone: '5215'
+- Name: Inorganic Research Lab III
+  Location: CYB 309
+  Phone: '5216'
+- Name: Inorganic Research Lab IV
+  Location: CYB 323
+  Phone: '5217'
+- Name: Instrument Lab (Dr. KCM)
+  Location: CYB 323
+  Phone: '5190'
+- Name: Instrumentation Lab
+  Location: CYB 106
+  Phone: '5197'
+- Name: Lift
+  Location: CYB
+  Phone: '5218'
+- Name: Lift - New Chemistry Block
+  Location: CYB
+  Phone: '5182'
+- Name: Mass Spectrometer Lab
+  Location: CYB 106A
+  Phone: '5198'
+- Name: Metallaborane Lab
+  Location: New Block S0
+  Phone: '5206'
+- Name: Metallaborane Lab
+  Location: KCL 307
+  Phone: '8946'
+- Name: MJM Lab
+  Location: Old CYB 103
+  Phone: '5184'
+- Name: New Experimental Lab
+  Location: New Block S5
+  Phone: '5196'
+- Name: New Lab (Dr. KR)
+  Location: CYB 215
+  Phone: '5195'
+- Name: New Lab (Dr. Arnab Rit)
+  Location: CYB 311
+  Phone: '5191'
+- Name: New Lab (Dr. Arnab Rit)
+  Location: CYB 325
+  Phone: '5189'
+- Name: New Lab (Dr. Venkatakrishnan)
+  Location: CYB 118
+  Phone: '5186'
+- Name: New Lab
+  Location: CYB 307
+  Phone: '5183'
+- Name: New Lab (Dr. Kartik Chandra Mondal)
+  Location: CYB 322
+  Phone: '5147'
+- Name: New Lab (Dr. Sooraj)
+  Location: New CYB 351
+  Phone: '8440'
+- Name: NMR-400/MS Facility
+  Location: CYB 108
+  Phone: '5220'
+- Name: Organic Research Lab I
+  Location: CYB 103
+  Phone: '5221'
+- Name: Organic Research Lab II (SB Lab)
+  Location: New CYB 255
+  Phone: '5222'
+- Name: Organic Research Lab III
+  Location: CYB 201
+  Phone: '5223'
+- Name: Organic Research Lab IV
+  Location: CYB 202
+  Phone: '5224'
+- Name: Organic Research Lab V
+  Location: CYB 115
+  Phone: '5225'
+- Name: Organic Research Lab VI
+  Location: CYB 308
+  Phone: '5210'
+- Name: PG Laboratory (Inorganic)
+  Location: CYB 302
+  Phone: '5226'
+- Name: PG Laboratory (Organic)
+  Location: CYB 203
+  Phone: '5227'
+- Name: PG Laboratory (Physical)
+  Location: CYB 303
+  Phone: '5228'
+- Name: Photochemistry Lab I
+  Location: New Block 354
+  Phone: '5233'
+- Name: Photochemistry Lab II
+  Location: CYB 222
+  Phone: '5234'
+- Name: Polymer Research Lab
+  Location: CYB 220
+  Phone: '5219'
+- Name: Power XRD Lab
+  Location: CYB 110
+  Phone: '5207'
+- Name: Research Lab
+  Location: CYB 112B
+  Phone: '5249'
+- Name: Research Lab
+  Location: CYB 201
+  Phone: '5193'
+- Name: Research Scholars Lab
+  Location: CYB 205
+  Phone: '5194'
+- Name: Research Scholars Lab
+  Location: KCL 206
+  Phone: '5236'
+- Name: Research Scholars Lab
+  Location: CYB 207
+  Phone: '5187'
+- Name: RH Lab
+  Location: CYB 219
+  Phone: '5242'
+- Name: Seminar Hall
+  Location: CYB 210
+  Phone: '8441'
+- Name: Single Crystal XRD Lab
+  Location: CYB 109
+  Phone: '5244'
+- Name: Spectroscopy Lab
+  Location: CYB 314
+  Phone: '5238'
+- Name: Stores
+  Location: CYB 117
+  Phone: '5203'
+- Name: Surface and Interface Lab
+  Location: CYB 113A
+  Phone: '5239'
+- Name: Synthesis Org. Chem. Lab
+  Location: CYB 118
+  Phone: '5249'
+- Name: Theory Lab
+  Location: CYB 223
+  Phone: '5240'
+- Name: Theory/KMS laboratory
+  Location: CYB 108
+  Phone: '5209'
+- Name: Organic Research Lab (Dr. Anbarasan)
+  Location: CYB 104
+  Phone: '5241'
+- Name: UG/PG Lab
+  Location: CYB 205
+  Phone: '5188'
+- Name: VSM Instruments
+  Location: CYB 124
+  Phone: '5243'
+- Name: Wireless smoke detector
+  Location: CYB
+  Phone: '5208'

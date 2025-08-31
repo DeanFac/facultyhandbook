@@ -1,0 +1,29 @@
+#Name|Location|Phone
+Lecture Halls:
+- Name: Central Lecture Theatre
+  Location: CLT
+  Phone: '9435'
+- Name: CLT Lecture Hall
+  Location: HSB 133
+  Phone: '9437'
+- Name: CRC Complex
+  Location: CRC Complex
+  Phone: '5563'
+- Name: Raman Block
+  Location: ''
+  Phone: '5564'
+- Name: Ramanujan Block
+  Location: ''
+  Phone: '5565'
+- Name: CRC Office for Projector Facilities
+  Location: CRC GF
+  Phone: '5543'
+- Name: CRC Security Guard Cabin
+  Location: CRC GF
+  Phone: '9436'
+- Name: CRC Complex Lift
+  Location: CRC
+  Phone: '9439'
+- Name: Raman Ramanujan Block Lift
+  Location: ''
+  Phone: '9438'

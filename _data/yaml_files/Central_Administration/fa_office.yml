@@ -1,0 +1,41 @@
+#Name|Location|Phone
+Finances \& Accounts:
+- Name: Bills Unit
+  Location: ADB 1
+  Phone: '8259'
+- Name: Bills Unit, Compilation
+  Location: ADB 1
+  Phone: '8244'
+- Name: Cash
+  Location: ADB 1
+  Phone: '8245'
+- Name: Cheque Unit
+  Location: ADB 1
+  Phone: '8246'
+- Name: Computer Room
+  Location: ADB 1
+  Phone: '8247'
+- Name: CPDA, TA/DA Unit
+  Location: ADB 1
+  Phone: '8249'
+- Name: LTC Unit
+  Location: ADB 1
+  Phone: '8240'
+- Name: Pay Bill Unit
+  Location: ADB 1
+  Phone: '8248'
+- Name: Pension Unit
+  Location: ADB 1
+  Phone: '8257'
+- Name: PF Unit
+  Location: ADB 1
+  Phone: '8255'
+- Name: POS Machine
+  Location: ADB 1
+  Phone: '8258'
+- Name: Scholarship, Fees Unit
+  Location: ADB 1
+  Phone: '8256'
+- Name: Superintendent
+  Location: ADB 1
+  Phone: '8254'

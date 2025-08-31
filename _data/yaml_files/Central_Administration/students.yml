@@ -1,0 +1,17 @@
+#Name|Cell_Phone|Location|Phone|Email
+Dean (Students):
+- Name: Gummadi Satyanarayana
+  Cell_Phone: '9444008050'
+  Location: TELEX 2F
+  Phone: '8050'
+  Email: gummadi
+- Name: Secretary
+  Cell_Phone: '9444008051'
+  Location: TELEX 2F
+  Phone: '8051'
+  Email: dost
+- Name: Office, fax
+  Cell_Phone: ''
+  Location: TELEX 2F
+  Phone: '8052'
+  Email: dostoffice

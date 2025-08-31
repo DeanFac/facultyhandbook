@@ -1,0 +1,407 @@
+#Name|Location|Phone
+Electrical Engineering:
+- Name: EE Office
+  Location: ESB 210D
+  Phone: '5407'
+- Name: 5G test bed lab-1
+  Location: CSD 400
+  Phone: '8961'
+- Name: 5G test bed lab-2
+  Location: CSD 400
+  Phone: '8962'
+- Name: ADI DSP Centre
+  Location: CSD 400
+  Phone: '5400'
+- Name: ADI-DSP Lab
+  Location: FOSAPP IV
+  Phone: '5401'
+- Name: ADI Seminar Hall
+  Location: CSD 320
+  Phone: '5399'
+- Name: AMOLED Clean Room Office
+  Location: CEC
+  Phone: '8991'
+- Name: AMOLED Clean Room 1000 Lab
+  Location: CEC
+  Phone: '8992'
+- Name: AMOLED Clean Room 10000 Lab
+  Location: CEC
+  Phone: '8993'
+- Name: Assistive Technology Lab
+  Location: CSD FF
+  Phone: '5487'
+- Name: Battery Charging Station
+  Location: ESB 005
+  Phone: '5515'
+- Name: Bragg Grating Fabrication Lab
+  Location: CSD 101
+  Phone: '5496'
+- Name: Calibration Lab.
+  Location: ESB 315
+  Phone: '5404'
+- Name: CBEEV Lab
+  Location: Near ICSR
+  Phone: '5538'
+- Name: CEC Lift
+  Location: CEC
+  Phone: '5491'
+- Name: Centre for NEMS and Nano Photonics - Dr. Enakshi
+  Location: ESB 225
+  Phone: '5493'
+- Name: Center For Technical Research (Demo Lab) - 1
+  Location: CSD GF
+  Phone: '5536'
+- Name: Center For Technical Research (Demo Lab) - 2
+  Location: CSD GF
+  Phone: '5537'
+- Name: Communication Lab
+  Location: ESB 217
+  Phone: '5490'
+- Name: Conference Room
+  Location: ESB 210B
+  Phone: '5407'
+- Name: Conference Room
+  Location: CSD 3rd F
+  Phone: '5418'
+- Name: Control Engineering Lab
+  Location: ESB 203
+  Phone: '5410'
+- Name: CNNP Characterization Clean Room
+  Location: CSD FF
+  Phone: '5542'
+- Name: CPPICS - CTO
+  Location: CSD 301B
+  Phone: '4490'
+- Name: CPPICS - Design Lab
+  Location: CSD 301A
+  Phone: '5436'
+- Name: CPPICS - Experimental Lab
+  Location: CSD 319
+  Phone: '5428'
+- Name: CPPICS - COE Lab
+  Location: CSD 312
+  Phone: '5413'
+- Name: CSD Lift
+  Location: CSD
+  Phone: '5434'
+- Name: DCF
+  Location: ESB 238
+  Phone: '5412'
+- Name: Departmental Workshop
+  Location: CSD 103
+  Phone: '5414'
+- Name: Device Modelling Lab
+  Location: CSD 110
+  Phone: '5415'
+- Name: Digital Systems Design Lab
+  Location: ESB 122
+  Phone: '5417'
+- Name: Dynamic and Control Lab
+  Location: ESB 204B
+  Phone: '5403'
+- Name: Electrical Machines Main Lab
+  Location: ESB 101
+  Phone: '5485'
+- Name: Electron Beam Lithography Lab
+  Location: ESB 126
+  Phone: '5416'
+- Name: Embedded Systems Lab I
+  Location: ESB 237
+  Phone: '5482'
+- Name: Embedded Systems Lab II
+  Location: ESB 234
+  Phone: '5483'
+- Name: Embedded System Lab III
+  Location: ESB 119
+  Phone: '5453'
+- Name: Experimental Optical Lab
+  Location: CSD 152
+  Phone: '5420'
+- Name: Extension Clean Room
+  Location: ESB 123
+  Phone: '5540'
+- Name: FACTS and Custom Power Lab
+  Location: ESB 351
+  Phone: '5497'
+- Name: Faculty Lounge
+  Location: ESB 210 A
+  Phone: '5421'
+- Name: Fibre Laser Lab
+  Location: FOSAPP II
+  Phone: '5422'
+- Name: Grey Area
+  Location: ESB 123
+  Phone: '5541'
+- Name: High Voltage Lab.
+  Location: ESB 348
+  Phone: '5424'
+- Name: High Voltage Research Lab I
+  Location: ESB 346
+  Phone: '5425'
+- Name: High Voltage Research Lab II
+  Location: ESB 352
+  Phone: '5426'
+- Name: High Voltage UG/PG Lab
+  Location: ESB 343
+  Phone: '5427'
+- Name: IE Lab
+  Location: ESB-II 007
+  Phone: '5429'
+- Name: IIT Madras Space Lab-1
+  Location: ESB GF
+  Phone: '5396'
+- Name: IIT Madras Space Lab-2
+  Location: ESB GF
+  Phone: '5397'
+- Name: IITMSAT Ground Station
+  Location: ESB Terrace
+  Phone: '5394'
+- Name: IITMSAT Lab
+  Location: ESB SF
+  Phone: '5395'
+- Name: Image Processing Lab
+  Location: ESB 320
+  Phone: '5430'
+- Name: Information Systems Lab
+  Location: CSD 151
+  Phone: '5405'
+- Name: Integrated Optoelectronics Lab
+  Location: CSD 108
+  Phone: '5495'
+- Name: Intel Wireless Lab
+  Location: ESB 321C
+  Phone: '5433'
+- Name: Intel Wireless Lab II
+  Location: ESB 321D
+  Phone: '5421'
+- Name: LPCVD Clean Room
+  Location: ESB 123
+  Phone: '5539'
+- Name: Lift-1 ThyssenKrupp
+  Location: ESB
+  Phone: '5511'
+- Name: Lift-2 Johnson
+  Location: ESB
+  Phone: '5512'
+- Name: Lift-3 ThyssenKrupp
+  Location: ESB
+  Phone: '5513'
+- Name: Lift-4 ESB-2
+  Location: ESB-II
+  Phone: '9341'
+- Name: Lift-5 ESB-2
+  Location: ESB-II
+  Phone: '9342'
+- Name: Machines Lab.
+  Location: ESB 102
+  Phone: '5435'
+- Name: Man Machine Interface Lab
+  Location: CSD 154
+  Phone: '5431'
+- Name: Measurement Lab
+  Location: ESB 315
+  Phone: '5426'
+- Name: Measurement Testing Room
+  Location: ESB 317B
+  Phone: '5437'
+- Name: Measurement UG Lab
+  Location: ESB 306
+  Phone: '5438'
+- Name: Measurements Office
+  Location: ESB 310
+  Phone: '5439'
+- Name: Media Lab Asia I
+  Location: CSD FF
+  Phone: '5440'
+- Name: Media Lab Asia II
+  Location: CSD
+  Phone: '5441'
+- Name: Medical Image Guidance Lab
+  Location: ESB 319
+  Phone: '8957'
+- Name: Microelectronics Lab  III
+  Location: CSD 211
+  Phone: '5444'
+- Name: Microelectronics Lab  IV
+  Location: CSD 207
+  Phone: '5445'
+- Name: Microelectronics Lab I
+  Location: ESB 225
+  Phone: '5442'
+- Name: Microelectronics Lab II
+  Location: ESB 230
+  Phone: '5443'
+- Name: Microelectronics/MEMS Lab
+  Location: ESB 001
+  Phone: '5474'
+- Name: Microwave Lab I
+  Location: ESB 322A
+  Phone: '5446'
+- Name: Microwave Lab II
+  Location: ESB 322B
+  Phone: '5447'
+- Name: Mobile Computing Lab
+  Location: ESB 239
+  Phone: '5448'
+- Name: Nano-Fabrication Facility
+  Location: CSD 110
+  Phone: '5449'
+- Name: Networks and Stochastic Systems lab
+  Location: ESB 216,218,220
+  Phone: '5423'
+- Name: New High Power Laser Lab
+  Location: CSD 106
+  Phone: '5535'
+- Name: New I.E. Lab
+  Location: CSD GF
+  Phone: '5486'
+- Name: New Lab
+  Location: ESB 221
+  Phone: '5393'
+- Name: Optical Communication Lab I
+  Location: ESB 321B
+  Phone: '5451'
+- Name: Optical Communication Lab II
+  Location: ESB 321A
+  Phone: '5452'
+- Name: Optical Network Lab
+  Location: FOSAPP III
+  Phone: '5450'
+- Name: PC Lab (M. Tech Lab)
+  Location: ESB 118
+  Phone: '5494'
+- Name: P.G. Lab
+  Location: ESB 301
+  Phone: '5492'
+- Name: Post Doctoral Researchers Lab
+  Location: CSD 309
+  Phone: '5510'
+- Name: Power Electronics Lab I
+  Location: ESB 104
+  Phone: '5455'
+- Name: Power Electronics Lab II
+  Location: ESB 105
+  Phone: '5456'
+- Name: Power Electronics Lab III
+  Location: ESB 102A
+  Phone: '5386'
+- Name: Power Electronics Simulation Lab
+  Location: ESB 107
+  Phone: '5457'
+- Name: Power Quality Hardware Lab
+  Location: ESB 354
+  Phone: '5460'
+- Name: Power Quality Simulation Laboratory
+  Location: ESB 342
+  Phone: '5459'
+- Name: Power System Computation Lab
+  Location: ESB 340
+  Phone: '5458'
+- Name: Power System Research Lab
+  Location: ESB 341
+  Phone: '5461'
+- Name: Power Systems UG Lab.
+  Location: ESB 353
+  Phone: '5462'
+- Name: Project Advisor for CNNP- Dr. Eranna
+  Location: ESB 002
+  Phone: '4480'
+- Name: Project Room (Dr. A. Jhunjhunwala)
+  Location: ESB 327
+  Phone: '5454'
+- Name: QEEE Lab
+  Location: ESB 321
+  Phone: '5499'
+- Name: Research Scholar room – Measurement Section I
+  Location: ESB 308
+  Phone: '5463'
+- Name: Research Scholar room – Measurement Section II
+  Location: ESB 317A
+  Phone: '5464'
+- Name: Research Scholars’ Room – High Voltage Section
+  Location: ESB 345
+  Phone: '5465'
+- Name: Research Scholar's Room - Electrical Machine Drives
+  Location: ESB 101
+  Phone: '5398'
+- Name: RF Lab I
+  Location: ESB 325
+  Phone: '5466'
+- Name: RF Lab II
+  Location: CSD 312
+  Phone: '5467'
+- Name: RF Lab III
+  Location: CSD 202
+  Phone: '5468'
+- Name: Robotics Lab
+  Location: ESB 205
+  Phone: '5409'
+- Name: SARI Lab
+  Location: ESB 327
+  Phone: '5469'
+- Name: Signal Compression Lab
+  Location: CSD 401
+  Phone: '5470'
+- Name: Signal Processing Lab
+  Location: CSD 306
+  Phone: '5471'
+- Name: Simulation Lab
+  Location: ESB 002
+  Phone: '5472'
+- Name: Speech Processing Lab I
+  Location: CSD 313
+  Phone: '5477'
+- Name: Speech Processing Lab II
+  Location: CSD 154
+  Phone: '5498'
+- Name: Stores
+  Location: ESB 213A
+  Phone: '5419'
+- Name: Systems and Controls Lab
+  Location: ESB 202
+  Phone: '5411'
+- Name: Tenet Design Lab
+  Location: ESB 328
+  Phone: '5473'
+- Name: TeNet Office
+  Location: ESB 331A
+  Phone: '5475'
+- Name: TeNet Operation Lab
+  Location: FOSAPP I
+  Phone: '5476'
+- Name: TI-VLSI Lab
+  Location: CSD 204
+  Phone: '5478'
+- Name: Virtual Instrumentation Lab I
+  Location: ESB 303B
+  Phone: '5479'
+- Name: Virtual Instrumentation Lab II
+  Location: ESB 304
+  Phone: '5480'
+- Name: VLSI CAD Lab
+  Location: ESB 121
+  Phone: '5481'
+- Name: VLSI Lab
+  Location: CSD 203
+  Phone: '5488'
+- Name: VLSI Server Room
+  Location: ESB 216A
+  Phone: '5484'
+- Name: VLSI Testing Lab
+  Location: CSD 205
+  Phone: '5432'
+- Name: Wireless Communication Information Theory Lab
+  Location: CSD
+  Phone: '5489'
+- Name: Wireless Communication Lab
+  Location: ESB 215A
+  Phone: '5406'
+- Name: Wireless Networks Engg. Lab
+  Location: ESB 325
+  Phone: '5466'
+- Name: Wireless Systems Networks Lab
+  Location: ESB 328
+  Phone: '5473'
+- Name: Wireless Systems Engineering Lab
+  Location: ESB 326
+  Phone: '5402'

@@ -1,0 +1,59 @@
+#Name|Location|Phone
+Central Electronics Centre:
+- Name: Office
+  Location: CEC M-01
+  Phone: '4945'
+- Name: Fax
+  Location: CEC M-01
+  Phone: '4986'
+- Name: HOD Office
+  Location: CEC M-17
+  Phone: '4941'
+- Name: Calibration Laboratory
+  Location: CEC F04A
+  Phone: '5545'
+- Name: CEC Lift
+  Location: CEC
+  Phone: '5491'
+- Name: Conference Room
+  Location: CEC M-S01
+  Phone: '5549'
+- Name: Customer Service
+  Location: CEC M02
+  Phone: '5945'
+- Name: Embedded Systems Lab
+  Location: CEC 4F T01
+  Phone: '8963'
+- Name: Endurance Testing Lab
+  Location: CEC 4F T04
+  Phone: '8964'
+- Name: Office Cabin
+  Location: CEC B-02
+  Phone: '5547'
+- Name: PA System Facilities (Mr. Kirubainathan)
+  Location: CEC M-B02
+  Phone: '4949'
+- Name: PC Maintenance Cell
+  Location: CEC S02
+  Phone: '5989'
+- Name: PV Lab I , II
+  Location: CEC - S04,05
+  Phone: '5548'
+- Name: Servicing Laboratory – I
+  Location: CEC S05
+  Phone: '5946'
+- Name: Servicing Laboratory – II
+  Location: CEC M12
+  Phone: '5947'
+- Name: Stores
+  Location: CEC S03
+  Phone: '4948'
+- Name: Testing Laboratory
+  Location: CEC M17
+  Phone: '5949'
+- Name: Training Lab – I
+  Location: CEC F01
+  Phone: '5546'
+- Name: Training Lab - II
+  Location: CEC M03A
+  Phone: '5948'

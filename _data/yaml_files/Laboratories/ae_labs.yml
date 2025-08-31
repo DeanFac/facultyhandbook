@@ -1,0 +1,128 @@
+#Name|Location|Phone
+Aerospace Engineering:
+- Name: Aerospace Workshop
+  Location: ASE GF
+  Phone: '5001'
+- Name: Biomimetics Lab
+  Location: CTC 114
+  Phone: '5023'
+- Name: Composite Design Lab
+  Location: CTC 205
+  Phone: '5917'
+- Name: Composite Material Testing Lab
+  Location: CTC 102
+  Phone: '5918'
+- Name: Composite Research Scholars Room
+  Location: ASE
+  Phone: '4915'
+- Name: Composites Mfg. Lab
+  Location: CTC GF
+  Phone: '5915'
+- Name: Computer Room
+  Location: RGDL
+  Phone: '5002'
+- Name: Computers and Fluid Lab
+  Location: ASE 118
+  Phone: '5003'
+- Name: Conference Room
+  Location: ASE FF
+  Phone: '5004'
+- Name: DCF Control Room
+  Location: ASE 129
+  Phone: '5005'
+- Name: Department Library
+  Location: ASE 130
+  Phone: '5006'
+- Name: Departmental Computing Facility (DCF)
+  Location: ASE 130
+  Phone: '5007'
+- Name: Drawing Office
+  Location: ASE GF
+  Phone: '5008'
+- Name: Fire Test Enclosure Lab - NCCRD
+  Location: NCCRD
+  Phone: '5033'
+- Name: Fracture Lab
+  Location: ASE
+  Phone: '5029'
+- Name: Gas Dynamics Lab
+  Location: GDL
+  Phone: '5009'
+- Name: Impact Load Testing Lab
+  Location: RML
+  Phone: '5022'
+- Name: Instrumentation Room
+  Location: ASE GF
+  Phone: '5010'
+- Name: Lift
+  Location: ASE
+  Phone: '5041'
+- Name: New Lab (Prof. R. I. Sujith)
+  Location: ASE GF
+  Phone: '5024'
+- Name: Propellant Combustion Lab - NCCRD
+  Location: NCCRD
+  Phone: '5032'
+- Name: Raft Lab
+  Location: CTC 121
+  Phone: '5042'
+- Name: Rarified Gas Dynamics Lab Hall
+  Location: RGDL GF
+  Phone: '5011'
+- Name: Rarified Gas Dynamics Lab Office (FF)
+  Location: RGDL FF
+  Phone: '5013'
+- Name: Research Scholars Room
+  Location: CTC FF
+  Phone: '5014'
+- Name: Research Scholars Room
+  Location: ASE 115
+  Phone: '5021'
+- Name: Research Scholars Room (RGD)
+  Location: GDL
+  Phone: '5015'
+- Name: RGD Lab 1
+  Location: RGDS
+  Phone: '5020'
+- Name: RGD Lab 2
+  Location: RGDS
+  Phone: '5027'
+- Name: RGD Lab 3
+  Location: RGDS
+  Phone: '5031'
+- Name: Rockets and Missles Lab
+  Location: RML
+  Phone: '5016'
+- Name: Rockets and Missles Lab (Hangar)
+  Location: ASE GF
+  Phone: '5017'
+- Name: Rotorcraft Lab-1
+  Location: CTC
+  Phone: '5036'
+- Name: Rotorcraft Lab-2
+  Location: CTC
+  Phone: '5040'
+- Name: Rotating Platform Lab
+  Location: CTC
+  Phone: '5037'
+- Name: Stores
+  Location: ASE 103
+  Phone: '5000'
+- Name: Structures Lab
+  Location: ASE GF
+  Phone: '5018'
+- Name: Supersonic Combustion facility
+  Location: GDL
+  Phone: '5019'
+- Name: Transition and Flow Control Lab
+  Location: CTC
+  Phone: '5035'
+- Name: Turbulent and Unsteady Fluid Flows - Computational Lab
+  Location: CTC
+  Phone: '5039'
+- Name: Turbulent and Unsteady Fluid Flows - Experimental Lab
+  Location: CTC
+  Phone: '5034'
+- Name: Waves and Instabilities Lab
+  Location: CTC
+  Phone: '5038'

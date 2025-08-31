@@ -1,0 +1,80 @@
+#Name|Location|Phone
+PG Senapathy Centre for Computing Resources:
+- Name: AC Plant Room
+  Location: CSB GF
+  Phone: '5988'
+- Name: ADL
+  Location: CC 220
+  Phone: '4995'
+- Name: Antivirus Support
+  Location: CC FF
+  Phone: '4996'
+- Name: BMS Room
+  Location: CSB GF
+  Phone: '4997'
+- Name: Conference Room 1
+  Location: CSB GF
+  Phone: '5975'
+- Name: Conference Room 2
+  Location: CC 204
+  Phone: '5976'
+- Name: Data Centre Server Area 1
+  Location: CSB GF
+  Phone: '5978'
+- Name: Data Centre Server Area 2
+  Location: CSB GF
+  Phone: '5979'
+- Name: Electrical Room
+  Location: CSB GF
+  Phone: '5995'
+- Name: E-Services - 1
+  Location: CC 209
+  Phone: '5984'
+- Name: E-Services - 2
+  Location: CSB 210
+  Phone: '5998'
+- Name: Gas Cylinder Room
+  Location: CSB GF
+  Phone: '5980'
+- Name: Generator Room
+  Location: CSB GF
+  Phone: '5981'
+- Name: HPCE Project Room - 1
+  Location: CC 226
+  Phone: '4979'
+- Name: HPCE Project Room - 2
+  Location: CC 209
+  Phone: '5997'
+- Name: Helpdesk
+  Location: CSB FF
+  Phone: '5999'
+- Name: Network Operation Centre (Core Room)
+  Location: CSB GF
+  Phone: '5986'
+- Name: Network Services - 1
+  Location: CC 222
+  Phone: '5987'
+- Name: Network Services - 2
+  Location: CC 224
+  Phone: '5982'
+- Name: Security
+  Location: CSB GF
+  Phone: '5993'
+- Name: Staging and Testing Room
+  Location: CSB GF
+  Phone: '5994'
+- Name: Stores
+  Location: CC 218
+  Phone: '5996'
+- Name: Project Services-1
+  Location: CC 215
+  Phone: '5991'
+- Name: Project Services-2
+  Location: CC 210
+  Phone: '4998'
+- Name: Workflow
+  Location: CC 204
+  Phone: '5992'
+- Name: UPS Room
+  Location: CSB GF
+  Phone: '5977'

@@ -1,0 +1,17 @@
+#Name|Cell_Phone|Location|Phone|Email
+Dean (Faculty):
+- Name: Murali K
+  Cell_Phone: '9444008026'
+  Location: ADB 2
+  Phone: '8026'
+  Email: deanfaculty
+- Name: Secretary
+  Cell_Phone: ''
+  Location: ADB 2
+  Phone: '8027'
+  Email: deanfacultyoffice
+- Name: Office, fax
+  Cell_Phone: ''
+  Location: ADB 2
+  Phone: '8028'
+  Email: ''

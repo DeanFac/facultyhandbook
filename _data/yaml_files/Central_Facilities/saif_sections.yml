@@ -1,0 +1,59 @@
+#Name|Location|Phone
+Sophisticated Analytical Instrumentation Facility:
+- Name: Fax
+  Location: SAIF 15
+  Phone: '4937'
+- Name: CHNSO Lab
+  Location: SAIF 26
+  Phone: '5933'
+- Name: Electronics Lab
+  Location: SAIF 21
+  Phone: '5944'
+- Name: EPR Spectrameter
+  Location: SAIF 8
+  Phone: '4917'
+- Name: Fluorescence / Lifetime Lab
+  Location: SAIF 27
+  Phone: '5926'
+- Name: FT-IR Lab
+  Location: SAIF 18
+  Phone: '4938'
+- Name: FT-Raman Lab
+  Location: SAIF 24
+  Phone: '5937'
+- Name: GC-MS Lab
+  Location: HSB 142A1
+  Phone: '5932'
+- Name: LC-HRMS Lab
+  Location: HSB 142A2
+  Phone: '5943'
+- Name: HRSEM Lab
+  Location: SAIF 3,4
+  Phone: '5935'
+- Name: ICP-OES Lab
+  Location: SAIF 06
+  Phone: '5927'
+- Name: Lift
+  Location: SAIF
+  Phone: '5919'
+- Name: Mossbauer Lab
+  Location: SAIF 28
+  Phone: '5925'
+- Name: NMR Lab
+  Location: SAIF 01 , 02
+  Phone: '4939'
+- Name: Single Crystal XRD
+  Location: HSB142C
+  Phone: '5939'
+- Name: Stores
+  Location: SAIF 22
+  Phone: '4943'
+- Name: TGA/DSC Lab
+  Location: SAIF 23
+  Phone: '4933'
+- Name: Wet Lab
+  Location: SAIF 05
+  Phone: '5928'
+- Name: XRF Lab
+  Location: HSB 142C
+  Phone: '5934'

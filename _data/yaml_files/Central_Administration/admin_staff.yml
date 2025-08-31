@@ -1,0 +1,20 @@
+#Name|Post|Cell_Phone|Location|Phone|Email
+Administration:
+- Name: Babu A
+  Post: Deputy Registrar
+  Cell_Phone: '9444008024'
+  Location: ADB 1
+  Phone: '8105'
+  Email: babu
+- Name: Arul P
+  Post: Assistant Registrar
+  Cell_Phone: '9445098867'
+  Location: ADB 1
+  Phone: '8107'
+  Email: arulp
+- Name: Rashmi Uday Kumar
+  Post: Assistant Registrar
+  Cell_Phone: '9444397348'
+  Location: ADB 2
+  Phone: '8293'
+  Email: rashmi
