@@ -1,14 +1,20 @@
+
 // custom SCSS (or CSS) goes here
+
 /* Change table font size in Just the Docs */
+
 // Tables
+
 // stylelint-disable max-nesting-depth, selector-no-type, selector-max-type
 
 /* Make the logo bigger */
+
 .site-logo {
-  height: 50px; /* increase this as needed */
+  height: 50px;
 }
 
 /* Watermark fade effect using a pseudo-element */
+
 body::before {
   content: "";
   position: fixed;
@@ -20,13 +26,14 @@ body::before {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 300px auto;
-  opacity: 0.08; /* Faintness — adjust between 0.05 and 0.15 */
-  pointer-events: none; /* Don't block clicks */
-  z-index: 3; /* Keep ahead of  2 levels */
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: 3;
 }
 
 
 //Control table
+
 .table-wrapper {
   display: block;
   width: 100%;
