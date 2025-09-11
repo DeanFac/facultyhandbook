@@ -11,7 +11,7 @@ parent: Academic Research
 
 # Office of Alumni and Corporate Relations
 
-* Location: 2<sup>nd</sup> floor, ICSR Building. 8071, deanacroffice@iitm.ac.in, [https://acr.iitm.ac.in/](https://acr.iitm.ac.in/)
+* Location: 2<sup>nd</sup> floor, ICSR Building. 8071, email:[deanacroffice@iitm.ac.in](mailto:deanacroffice@iitm.ac.in), Website:[https://acr.iitm.ac.in/](https://acr.iitm.ac.in/)
 
 * For engagement with alumni network and coordinate their continued support in the form of funds, resources, mentorship, and ideas.  
    

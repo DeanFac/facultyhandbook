@@ -12,7 +12,7 @@ parent: Getting Started
 
 IIT Madras has three campuses
 
-* IIT Madras Main campus (Chennai, Tamil Nadu), the campus map can be found [here](../../assets/images/campus_map/Campus_Map_May_2024.pdf)
+* IIT Madras Main campus (Chennai, Tamil Nadu), the campus map can be found [here]({{ site.baseurl }}/assets/documents/Campus_Map.pdf)
 * IIT Madras Discovery campus (Thaiyur, Tamil Nadu) 
 * IIT Madras [Zanzibar campus](https://www.iitmz.ac.in/)
 

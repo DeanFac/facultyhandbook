@@ -18,7 +18,7 @@ This document was prepared by the following committee set up by the Dean Faculty
 
 {: .important }
 > This is not an official document. It is meant to guide faculty members in various activities. In particular, we hope it will 
-be useful for new faculty members. This site is maintained by the Dean Faculty office. 
+be useful for new faculty members. This site is maintained by the office of Dean Faculty IIT Madras. 
 >Any changes or suggestions may please be 
 > communicated to [dfoffice2@iitm.ac.in](mailto:dfoffice2@iitm.ac.in) with the subject "Faculty Handbook".
 {: .fs-6 .fw-300}

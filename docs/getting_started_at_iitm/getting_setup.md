@@ -8,6 +8,14 @@ parent: Getting Started
 * TOC
 {:toc}
 
+# Statutes
+**Ask Committee**
+{: .important}
+
+Please read the statues carefully.[Statues](https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf). It outlines several
+important things, you must be aware but may never be told to you explicitly.
+{: .fs-6 .fw-500}
+
 # First week
 
 | Task to Complete | Concerned Department/ Authority                                   |
