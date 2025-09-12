@@ -1,1 +1,1 @@
-Sitemap: https://home.iitm.ac.in//n.swaminathan/fachandbook/sitemap.xml
+Sitemap: http://localhost:4000/n.swaminathan/fachandbook/sitemap.xml
