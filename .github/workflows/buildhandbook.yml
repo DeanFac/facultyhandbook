@@ -7,13 +7,17 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ensure the workflow has write permissions
+  contents: write   # allow workflow to push
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      PAT: ${{ secrets.ACTIONS_PAT }}   # Your Personal Access Token
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -27,13 +31,11 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Commit and push _site
-        env:
-          PAT: ${{ secrets.ACTIONS_PAT }}  # your Personal Access Token
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _site
           git commit -m "Build site" || echo "No changes to commit"
-          # Use PAT for authentication when pushing
+          # Use PAT to push
           git remote set-url origin https://x-access-token:${PAT}@github.com/narasimhan-2604/fachandbook.git
           git push origin HEAD:main
