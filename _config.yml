@@ -17,9 +17,11 @@
 title: Faculty Guide
 description: A guide for faculty at IITM
 
-url : "https://home.iitm.ac.in/"
-baseurl: "/n.swaminathan/fachandbook"
+#url : "https://home.iitm.ac.in/"
+#baseurl: "/n.swaminathan/fachandbook"
 
+url: "https://facportal.iitm.ac.in/"
+baseurl: "/fachandbook"
 #url: "https://narasimhan-2604.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: ""
 
