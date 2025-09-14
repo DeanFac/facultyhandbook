@@ -30,7 +30,7 @@ This should be the URL: https://github.com/narasimhan-2604/fachandbook.git
 
 Open **Terminal** and run:
 
-```bash
+```bash```
 git clone https://github.com/USERNAME/fachandbook.git
 cd fachandbook
 
