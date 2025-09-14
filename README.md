@@ -142,6 +142,9 @@ made, can be saved there.
 ```git commit -m "Update content"```
 
 ```git push```
+---
+
+# Pushing the content to your own fachandbook repository
 
 > [!NOTE]
 > Note that, the repository is now in your local computer, you cannot push it back to
