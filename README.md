@@ -37,9 +37,12 @@ This project uses Jekyll to build the site (which generates the _site folder).
 #### Install Ruby and Jekyll:
 
 ```brew install ruby```
+
 ```gem install jekyll bundler```
+
 #### Add Ruby to your PATH (if needed):
 ```echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc```
+
 ```source ~/.zshrc```
 
 ### 🖥️ Windows
@@ -55,13 +58,19 @@ This project uses Jekyll to build the site (which generates the _site folder).
 #### Update your package list and install Ruby and build tools:
 
 ```sudo apt update```
+
 ```sudo apt install -y ruby-full build-essential zlib1g-dev```
+
 #### Set up your Ruby gems directory:
 
 ```echo '# Install Ruby Gems to ~/.gem' >> ~/.bashrc```
+
 ```echo 'export GEM_HOME="$HOME/.gem"' >> ~/.bashrc```
+
 ```echo 'export PATH="$HOME/.gem/bin:$PATH"' >> ~/.bashrc```
+
 ```source ~/.bashrc```
+
 #### Install Jekyll and Bundler:
 ```gem install jekyll bundler```
 
