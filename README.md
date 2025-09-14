@@ -13,8 +13,6 @@ Forking creates your own copy of this repository under your GitHub account.
 1. Go to this repository’s GitHub page.
 2. Click the **Fork** button at the top-right corner.
 
-![Fork button screenshot](https://raw.githubusercontent.com/github/explore/main/topics/fork/fork.png)
-
 ---
 
 ## 📌 Step 2 — Clone Your Fork Locally
@@ -23,9 +21,11 @@ Once forked, you can clone your own copy.
 
 Replace `<your-username>` with your actual GitHub username:
 
-```bash```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+```git clone https://github.com/<your-username>/<repo-name>.git```
+
+```cd <repo-name>```
+
+---
 
 ## 📌 Step 3 — Install Prerequisites
 This project uses Jekyll to build the site (which generates the _site folder).
@@ -54,6 +54,8 @@ This project uses Jekyll to build the site (which generates the _site folder).
 
 (Optional) Use Git Bash or WSL for a better terminal experience.
 
+---
+
 ### 🖥️ Ubuntu / Debian
 #### Update your package list and install Ruby and build tools:
 
@@ -74,12 +76,16 @@ This project uses Jekyll to build the site (which generates the _site folder).
 #### Install Jekyll and Bundler:
 ```gem install jekyll bundler```
 
+---
+
 ## 📌 Step 4 — Build the Site
 From inside the repository folder:
 
 ```bundle install```
 ```bundle exec jekyll build```
 This will generate the static website inside the _site folder.
+
+---
 
 ## 📌 Step 5 — Preview the Site (Optional)
 ### To see the site locally:
