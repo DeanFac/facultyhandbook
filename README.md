@@ -1,94 +1,146 @@
-# Project Setup Guide
+# 📘 Faculty Handbook (Jekyll Site)
 
-This guide explains how to **fork**, **clone**, **install prerequisites**,
-**build**, and **generate the `_site` folder** from this repository on **macOS**,
-**Windows**, and **Ubuntu**.
-
----
-
-## 📌 Step 1 — Fork This Repository
-
-Forking creates your own copy of this repository under your GitHub account.
-
-1. Go to this repository’s GitHub page.
-2. Click the **Fork** button at the top-right corner.
+This repository contains the source code for the Faculty Handbook site built using **Jekyll**.  
+As a collaborator, you can **clone this repository**, build it locally, and generate the static HTML site in the `_site` folder.
 
 ---
 
-## 📌 Step 2 — Clone Your Fork Locally
+## 🚀 Getting Started
 
-Once forked, you can clone your own copy.
+### 🧩 Prerequisites
+You need the following installed on your system:
 
-Replace `<your-username>` with your actual GitHub username:
-
-```git clone https://github.com/<your-username>/<repo-name>.git```
-
-```cd <repo-name>```
+- **Git**  
+- **Ruby** (version 3.1 or higher)
+- **Bundler** (Ruby gem to manage dependencies)
+- **Jekyll** (installed via Bundler)
 
 ---
 
-## 📌 Step 3 — Install Prerequisites
-This project uses Jekyll to build the site (which generates the _site folder).
+### 💻 Cloning the Repository
 
-### 🖥️ macOS
-#### Install Homebrew if you don’t have it already:
+> ⚠️ You must have been invited as a **collaborator** and accepted the invitation.
+
+1. Go to the repo page (you will receive the link).
+2. Click the green **`<> Code`** button.
+3. Copy the **HTTPS** URL.
+This should be the URL: https://github.com/narasimhan-2604/fachandbook.git
+4. Clone the repository. For each operating system, you can do the following to clone the repo
+### 🍎 macOS / 🐧 Ubuntu / Linux
+
+Open **Terminal** and run:
+
+```bash
+git clone https://github.com/USERNAME/fachandbook.git
+cd fachandbook
+
+### Windows
+On Command prompt, do the following. This could be insise a specific folder of
+your choice.
+
+git clone https://github.com/USERNAME/fachandbook.git
+cd fachandbook
+
+## 🍎 macOS Setup
+Run the commands on the Terminal.
+
+1. Install Homebrew if you don’t have it:
+
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-#### Install Ruby and Jekyll:
 
-```brew install ruby```
+2. Install Ruby and Git:
 
-```gem install jekyll bundler```
+```brew install ruby git```
 
-#### Add Ruby to your PATH (if needed):
-```echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc```
 
-```source ~/.zshrc```
+3. Install Bundler and Jekyll gems:
 
-### 🖥️ Windows
-#### Install RubyInstaller for Windows.
-#### During installation, check “Add Ruby executables to your PATH”.
-#### Install Jekyll and Bundler:
+```gem install bundler jekyll```
 
-```gem install jekyll bundler```
 
-(Optional) Use Git Bash or WSL for a better terminal experience.
+4. Install project dependencies:
 
----
+```bundle install```
 
-### 🖥️ Ubuntu / Debian
-#### Update your package list and install Ruby and build tools:
+5. Build the site:
+
+```bundle exec jekyll build```
+
+The generated site will appear in the _site folder.
+
+## 🪟 Windows Setup
+
+1. Install Git from git-scm.com
+
+2. Install Ruby from rubyinstaller.org
+During installation, check “Add Ruby executables to your PATH”
+
+3. After installation, open the Start Command Prompt with Ruby from the Start Menu.
+
+4. Install Bundler and Jekyll:
+
+```gem install bundler jekyll```
+
+5. Install project dependencies:
+
+```bundle install```
+Build the site:
+
+```bundle exec jekyll build```
+The generated site will appear in the _site folder.
+
+## 🐧 Ubuntu / Linux Setup
+
+1. Install dependencies:
 
 ```sudo apt update```
+```sudo apt install -y git ruby-full build-essential zlib1g-dev```
 
-```sudo apt install -y ruby-full build-essential zlib1g-dev```
 
-#### Set up your Ruby gems directory:
+2. Add Ruby gems to your PATH:
 
-```echo '# Install Ruby Gems to ~/.gem' >> ~/.bashrc```
+```echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc```
 
-```echo 'export GEM_HOME="$HOME/.gem"' >> ~/.bashrc```
+``` echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc```
 
-```echo 'export PATH="$HOME/.gem/bin:$PATH"' >> ~/.bashrc```
+```echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc```
 
 ```source ~/.bashrc```
 
-#### Install Jekyll and Bundler:
-```gem install jekyll bundler```
 
----
+3. Install Bundler and Jekyll:
 
-## 📌 Step 4 — Build the Site
-From inside the repository folder:
+```gem install bundler jekyll```
+
+
+4. Install project dependencies:
 
 ```bundle install```
+
+
+5. Build the site:
+
 ```bundle exec jekyll build```
-This will generate the static website inside the _site folder.
 
----
+The generated site will appear in the _site folder.
 
-## 📌 Step 5 — Preview the Site (Optional)
-### To see the site locally:
+## 💡 Viewing the Site Locally
+
+To serve the site locally (optional):
+
 ```bundle exec jekyll serve```
 
 Then open http://localhost:4000 in your browser.
+
+## Push back to your github
+You should push it back to your github account so that any changes you
+made, can be saved there. 
+
+```git add .```
+
+```git commit -m "Update content"```
+
+```git push```
+
+Now, your github account, will have the necessary changes. 
