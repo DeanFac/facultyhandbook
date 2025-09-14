@@ -143,4 +143,26 @@ made, can be saved there.
 
 ```git push```
 
-Now, your github account, will have the necessary changes. 
+> [!NOTE]
+> Note that, the repository is now in your local computer, you cannot push it back to
+my repository (narasimhan-2604/fachandbook) as you do not have write permissions. 
+So, you need to create a repo, in your github account and push changes there. Here are the steps
+
+### Create a new empty repo on GitHub called 'fachandbook' via the GitHub website. 
+You can google this up or ask ChatGPT nicely, if you do not know how to do it.
+
+### Disconnect the current remote
+This removes, my repo as the target for pushing
+
+```git remote remove origin```
+
+### Link your new repository
+This makes your repo as the target where changes will be for pushed
+
+```git remote add origin https://github.com/YOUR-USERNAME/fachandbook.git```
+
+### Push to your changes (if you made any) to the new repository
+
+The following commands, will push the content to your repo.
+```git branch -M main```
+```git push -u origin main```
