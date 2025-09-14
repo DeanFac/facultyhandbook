@@ -133,17 +133,6 @@ To serve the site locally (optional):
 
 Then open http://localhost:4000 in your browser.
 
-## Push back to your github
-You should push it back to your github account so that any changes you
-made, can be saved there. 
-
-```git add .```
-
-```git commit -m "Update content"```
-
-```git push```
----
-
 # Pushing the content to your own fachandbook repository
 
 > [!NOTE]
