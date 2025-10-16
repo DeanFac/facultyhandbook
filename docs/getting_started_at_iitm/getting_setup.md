@@ -20,7 +20,7 @@ important things, you must be aware but may never be told to you explicitly.
 
 | Task to Complete | Concerned Department/ Authority                                   |
 | :---- |:------------------------------------------------------------------|
-| Collect Joining report, Enquire about Office/Lab Space  | Head of the Department                                            |
+| Submit Joining report, Enquire about Office/Lab Space  | Head of the Department                                            |
 | Submit Affidavit , Telephone connection | Department office                                                 |
 | Complete Administrative Paperwork | Recruitment Section, 1st Floor, Administration Building           |
 | Get ID Card | Smart Card Section, 4<sup>th</sup> Floor, Administration Building |
