@@ -1,5 +1,5 @@
 ---
-title: First WeeK
+title: First Week
 nav_order: 2
 parent: Getting Started
 ---

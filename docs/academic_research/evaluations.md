@@ -11,8 +11,7 @@ parent: Academic Research
 
 # MS Thesis evaluations
 
-For MS Thesis evaluation, guide suggests 2 examiners. HoD will choose one examiner.
-Once the reviewer comments are received, a viva voce is scheduled, if GTC/ reviewer recommends the same. 
+For MS Thesis evaluation, guide suggests 2 examiners. HoD will choose one examiner. Examiner is given 4 weeks' time to give a report. If the reviewer commens are received, the candidate has to give response and revise the thesis, and send it to GTC. Based on the response, GTC may recommend/ waive the viva. If reviewer comments are not received in 4 weeks, MS thesis viva is conducted to consider awarding the degree.
 
 # PhD thesis evaluation
 

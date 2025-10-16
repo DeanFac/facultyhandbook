@@ -8,7 +8,7 @@ permalink : /academic_research_landing/
 * TOC
 {:toc}
 
-# Academic Research
+# Research Activities
 
 * Academic research matters such as admissions, progress review, grading, etc. are governed by Ordinances and Regulations: 
 See [ordinances](https://www.iitm.ac.in/academics/academic-services/ordinances).

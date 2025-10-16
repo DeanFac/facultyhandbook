@@ -11,7 +11,7 @@ parent: Academic Courses
 {: .important }
 All academic courses related activities are coordinated by Dean (Academic Courses).
 
-# Academic calender
+# Academic calendar
 [Academic calendar](https://www.iitm.ac.in/academics/academic-calendar)
 
 # Curriculum and credits

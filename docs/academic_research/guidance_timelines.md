@@ -17,15 +17,16 @@ parent: Academic Research
 | MS | Graduate Test Committee (GTC) | Chairperson (HoD/ representative) Guide/ Co-guide 1 internal member (from the parent Dept of the Guide) 1 external member (from another Dept within IITM) | Co-guide, if any 3 internal and 3 external members, from whom HoD will choose one each |
 | PhD | Doctoral Committee (DC) | Chairperson (HoD/ representative) Guide/ co-guide 2 internal members (from the parent Dept of the Guide) 1 external member (from another Dept within IITM) | Co-guide, if any 4 internal and 4 external members, from whom HoD will 2 and 1, respectively |
 
-# Minimum Coursework Requirements: (XX implies Dept code. Ex: ME for Mechanical)**
+# Minimum Coursework Requirements: (XX implies Dept code. Ex: ME for Mechanical)
 
-| Program | Courses |
-| :---: | :---: |
-| MS \+ PhD / Upgraded PhD | 8 (out of 12 prescribed by DC), XX6999 and XX7999 |
-| PhD | 4 (out of 6 prescribed by DC) |
-| MS | 5 (out of 10 prescribed by GTC) |
+| Program |Minimum Courses |Minimum Credits |
+| :---: | :---: | :---: | 
+| MS \+ PhD / Upgraded PhD | 8, XX6999 and XX7999 |72 |
+| PhD | 4 | 36 |
+| MS | 5 | 45 |
 
-* Guides have to prescribe the courses through workflow (Academics :right_arrow: Research Scholar :right_arrow: Prescription of Courses) and it has to be approved by the respective committee/ panel.
+* Guides have to prescribe the courses through workflow (Academics :arrow_right: Research Scholar :arrow_right: Prescription of Courses) and it has to be approved by the respective committee/ panel.
+* Typically, twice the number of courses are suggested by guide/ DC/ GTC for the student to choose from.
 * Scholars can take more courses if they want and if the guide permits.   
 * ID6020 (Introduction to Research, Institute module) is mandatory for everyone, in addition to the recommended courses. In addition, some Departments may have a Departmental module (XX6021).
 
