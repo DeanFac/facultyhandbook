@@ -8,4 +8,4 @@ permalink : /academic_courses_landing/
 * TOC
 {:toc}
 
-# Academic Courses
+# Course Work

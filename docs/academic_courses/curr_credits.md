@@ -11,6 +11,9 @@ parent: Academic Courses
 {: .important }
 All academic courses related activities are coordinated by Dean (Academic Courses).
 
+# Academic calender
+[Academic calendar](https://www.iitm.ac.in/academics/academic-calendar)
+
 # Curriculum and credits
 
 Course-based core programs follow a given curriculum which is revised periodically (typically once in 5-10 years) 

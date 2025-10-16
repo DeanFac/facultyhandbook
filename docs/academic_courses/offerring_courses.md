@@ -33,8 +33,8 @@ Different letter grades carry the following points:
 
 * To offer a new course in a particular semester, start the process at the beginning of the previous semester.** 
 
-* Workflow :right:arrow: Academics :right:arrow: Introduce/Modify Course: **After filling in details, Click PrintCourse button and download the document and share with department.   
-* Following approvals are needed: DCC (Dept Consultative Committee) :right:arrow: BAC (Board of Academic Courses) :right:arrow: Senate 
+* Workflow :arrow_right: Academics :arrow_right: Introduce/Modify Course: **After filling in details, Click PrintCourse button and download the document and share with department.   
+* Following approvals are needed: DCC (Dept Consultative Committee) :arrow_right: BAC (Board of Academic Courses) :arrow_right: Senate 
 
 
 # Options available to students for academic improvement
