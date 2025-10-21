@@ -13,7 +13,7 @@ parent: Getting Started
 
 | Interface | Link | Typical Purposes |
 | ----- | :---- | :---- |
-| Workflow | [https://workflow.iitm.ac.in/employee/](https://workflow.iitm.ac.in/employee/) **Workflow is optimized for Mozilla Firefox.**   | Administration: Leaves, housing, vehicle pass, travel, CPDA, reimbursement, insurance, purchase, dependent details Academics: Grade upload, course approval, new course proposal, research scholar info For all workflow related processes \- [https://cc.iitm.ac.in/workflow/about.html](https://cc.iitm.ac.in/workflow/about.html) |
+| Workflow | [https://workflow.iitm.ac.in/employee/](https://workflow.iitm.ac.in/employee/) **Workflow is optimized for Mozilla Firefox.**   | Administration: Leaves, housing, vehicle pass, travel, CPDA, reimbursement, insurance, purchase, dependent details <br> Academics: Grade upload, course approval, new course proposal, research scholar info For all workflow related processes \- [https://cc.iitm.ac.in/workflow/about.html](https://cc.iitm.ac.in/workflow/about.html) |
 | Moodle | [https://courses.iitm.ac.in/](https://courses.iitm.ac.in/) | Course management- share course material, assignment submissions, bulk message to students of the course |
 | ICSR TULA | [https://icsris.iitm.ac.in/\#](https://icsris.iitm.ac.in/) | Sponsored & Consultancy Projects Management: project staff appointments, UC/SE, invoice, imprest account |
 | Digiicampus | [https://iitm.digiicampus.com/home](https://iitm.digiicampus.com/home) | Attendance |

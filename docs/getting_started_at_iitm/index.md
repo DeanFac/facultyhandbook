@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-nav_order: 2
+nav_order: 1
 parent: 
 permalink: /getting_started_landing/
 ---

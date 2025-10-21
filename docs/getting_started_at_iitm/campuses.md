@@ -10,14 +10,17 @@ parent: Getting Started
 
 # IIT Madras Campuses
 
-IIT Madras has three campuses
+IIT Madras (IITM) has the following campuses in Tamil Nadu:
 
-* IIT Madras Main campus (Chennai, Tamil Nadu), the campus map can be found [here]({{ site.baseurl }}/assets/images/Campus_Map.png)
-* IIT Madras Discovery campus (Thaiyur, Tamil Nadu) 
-* IIT Madras [Zanzibar campus](https://www.iitmz.ac.in/)
+* [Main campus at Chennai](https://maps.app.goo.gl/ccd8tfQP2jGYqdGV8). The campus map can be downloaded [here]({{ site.baseurl }}/assets/images/Campus_Map.png)
+* [Discovery campus at Thaiyur](https://maps.app.goo.gl/RdfE7siXPWiykB158) 
+
+[IITM research park](https://maps.app.goo.gl/uuTnXkfuKrxLvehW7), a section 08 company adjacent to IITM main campus houses incubation cells/ start-ups, centres of excellence as well as R&D centers of some of the established industries which are collaborating with IITM.
+
+IITM also has an international campus at [Zanzibar](https://www.iitmz.ac.in/) in collaboration with Tanzania.
 
 {: .important}
-> This document pertains mainly to the IIT Madras Main campus 
+This document pertains mainly to the IITM Main campus 
 
 # Campus Gates
 
@@ -28,17 +31,11 @@ IIT Madras has three campuses
 | Taramani Gate |    :walking: :motorcycle:                                               |
 
 {: .fs-2 .fw-400}
-Four wheelers are allowed only through the Main Gate
+:blue_car: Four wheelers are allowed only through the Main Gate
 
 {: .fs-2 .fw-400}
-The campus is connected to the IIT Madras Research Park through the Industry–Academia Bridge.
+The campus is connected to the IITM Research Park through the Industry–Academia Bridge.
 
 {: .fs-2 .fw-400}
-Best way to reach IIT-M from the airport/ railway station is to use pre\-paid taxi counter available inside the airport. 
+Best way to reach IITM from the airport/ railway station is to use pre\-paid taxi counter available inside the airport. 
 
-# Pre-arrival procedures
-
-* E-mail Head of Department (HoD): Acceptance & Proposed date of joining
-  Cc: Dean of Faculty ([deanfaculty@iitm.ac.in](mailto:deanadmn@iitm.ac.in)), Recruitment Section ([Recruit@iitm.ac.in](mailto:Recruit@iitm.ac.in)  ) 
-* E-mail Taramani Guest House ([taramani@iitm.ac.in](mailto:taramani@iitm.ac.in)) to book temporary accommodation  
-  Cc: HoD
