@@ -11,12 +11,12 @@ parent: Academic Research
 
 # Alumni and Corporate Relations (ACR)
 
-* Office of ACR: Location: 2<sup>nd</sup> floor, ICSR Building. 8071, email:[deanacroffice@iitm.ac.in](mailto:deanacroffice@iitm.ac.in), Website:[https://acr.iitm.ac.in/](https://acr.iitm.ac.in/)
+* Office of ACR: Location: 2<sup>nd</sup> floor, ICSR Building. 8071, email: [deanacroffice@iitm.ac.in](mailto:deanacroffice@iitm.ac.in), Website: [https://acr.iitm.ac.in/](https://acr.iitm.ac.in/)
 
 * Office of ACR coordinates with alumni network to bring funds to the institute; and connects with corporates to bring Corporate Social Responsibility funding. 
    
 # Global Engagement (GE)
-* Office of GE supports student and faculty exchange programs, joint degree programs, joint research initiatives with international institutions, and support for planning and organizing international conferences at IITM.
+Office of GE supports student and faculty exchange programs, joint degree programs, joint research initiatives with international institutions, and support for planning and organizing international conferences at IITM.
 
 ## Key Divisions:
 {: .no_toc}
@@ -30,5 +30,5 @@ parent: Academic Research
 
   * [Visiting Faculty Fellowship](https://ge.iitm.ac.in/programs/ioe/visiting-faculty-scheme): to foster internationalization by inviting distinguished global researchers (receive consolidated remuneration) to collaborate with IITM for 2-12 weeks.
 
-* [International Conference Secretariat](https://ge.iitm.ac.in/international-conference-secretariat) [email](mailto:conferences@ge.iitm.ac.in): 
+* **[International Conference Secretariat](https://ge.iitm.ac.in/international-conference-secretariat)** ([email](mailto:conferences@ge.iitm.ac.in)): 
 To support international and industry-focused conferences/ workshops/ seminars. Support includes: Financial assistance; logistics and operations support; necessary clearances from ministries, etc. It will provide comprehensive guidance for streamlined planning, execution and follow-up. Schedule a meeting with the secretariat while planning a conference. Calls for proposals are issued 3 times a year.
