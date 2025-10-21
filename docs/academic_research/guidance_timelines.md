@@ -42,7 +42,7 @@ parent: Academic Research
 | V. | Progress Review Meetings if not graduated | Every 6 months, after 5 years                                                                       | Every 6 months, after 2.5 years |
 | VI. | Thesis Submission Approval | When the final draft of the thesis is ready. Typically, 5 semesters for MS and 10 semesters for PhD<sup>†</sup><sup>†</sup>   | When the final draft of the thesis is ready. Typically, 5 semesters for MS and 10 semesters for PhD<sup>†</sup><sup>†</sup> |
 
-<sup>†</sup> semesters for Upgraded PhD/ MS \+ PhD
+<sup>†</sup> 3 semesters for Upgraded PhD/ MS \+ PhD
 
 <sup>†</sup><sup>†</sup> For regular-HTRA PhD students, enhanced scholarship is provided for 6 months, if the thesis is submitted in less than 9 sems.
 
