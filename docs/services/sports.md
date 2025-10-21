@@ -15,7 +15,7 @@ parent: Services
 * Gymkhana (opposite Taramani Guest House) – Fitness centre, yoga, power lifting, table tennis and squash courts  
 * Sitara Indoor Sports Complex (Next to Gymkhana, opposite Chemistry building)  
 * Student Activities Centre – Badminton court  
-* Swimming Pool (**PABX** no. ??)  
+* Swimming Pool (Contact: 8529)  
 * Manohar C. Watsa Stadium  
 * IITM Chemplast Cricket Ground (behind Engineering Design Building)  
 * Hockey & Football fields (opposite Computer centre)  
@@ -23,3 +23,4 @@ parent: Services
 
 {: .important}
 For semester-wise membership, contact the Gymkhana office (8520), opposite to Taramani Guest House. 
+IITM has inter-IIT sports teams for faculty & staff. Coaching for these sports is available. 
