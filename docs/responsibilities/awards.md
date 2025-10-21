@@ -1,6 +1,6 @@
 ---
 title: Awards
-nav_order: 4
+nav_order: 6
 permalink : /awards_landing/
 parent: Faculty Roles and Responsibilities
 ---

@@ -1,6 +1,6 @@
 ---
 title: Promotions
-nav_order: 4
+nav_order: 5
 permalink : /promo_landing/
 parent: Faculty Roles and Responsibilities
 ---
@@ -16,7 +16,7 @@ Appointments of internal Faculty to Associate Professor (ASP) and full Professor
 Internal announcements for Faculty selections are released periodically. Eligible Faculty should submit applications with their academic portfolio for evaluation. Further details on the process will be available from the departments. 
 
 ## Process and timelines
-| From       | To         | Timeline                                                                          | Process                                                                                                                                                                                                                                                             |
+| From       | To         | Timeline  |                                                                        | Process                                                                                                                                                                                                                                                            |
 |:-----------|:-----------|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AP  Gr- II | AP  Gr- I  | 3 years after PhD.                                                                | Evaluation through presentation in front of a committee.                                                                                                                                                                                                            |
 | AP  Gr- I  | ASP        | Min. of 6 years after PhD, with at least 3 yrs at the level of AP/ equivalent.    | MBS, Min. expectations: 1 PhD graduated, publication record as per department norms, at least 1 externally funded project, good teaching record.                                                                                                                    |
