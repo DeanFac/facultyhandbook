@@ -20,21 +20,20 @@ parent: Academic Research
 * Imaging \- High Resolution Scanning Electron Microscope- [https://saif.iitm.ac.in/hrsem.html](https://saif.iitm.ac.in/hrsem.html)    
 * Magnetometry \- Vibrating Sample Magnetometers \- [https://chem.iitm.ac.in/facilities/vsm/](https://chem.iitm.ac.in/facilities/vsm/)   
 * Chromatography \- Gas Chromatography \- Mass Spectrometry, Quadrupole Time-of- Flight Mass Spectrometry. \- [https://chem.iitm.ac.in/facilities](https://chem.iitm.ac.in/facilities) 
-
-# Equipment Reservation System
-
-Facilities at IITM available on payment basis:  [https://ers.iitm.ac.in/webroot/equipment\_search.php](https://ers.iitm.ac.in/webroot/equipment_search.php). To book:  [https://ers.iitm.ac.in/webroot/home.php](https://ers.iitm.ac.in/webroot/home.php). For New lab registration in ERS portal, send [email](mailto:cmit-icsr@icsrpis.iitm.ac.in) or call Ext: 9794
-
-{: .important}
-To explore publicly funded R&D equipment and facilities across various institutions throughout the country, visit the Indian Science, Technology, and Engineering facilities Map (I-STEM) [https://www.istem.gov.in/](https://www.istem.gov.in/) 
-
-# [Central library](https://cenlib.iitm.ac.in/)
-Library is open from 8:00 am- midnight. You can access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. 
-The library also has an inter-library loan facility that allows you to get access to research papers, publications, etc. 
-Every department will have a library committee member, who can help in purchase of books from the department allotted budget, which will be placed in the library for use.   
-   
-# Fabrication and maintenance facilities
-
 * Central Electronics Centre - [https://cecweb.iitm.ac.in/](https://cecweb.iitm.ac.in/): For maintenance and repair of electronic items and computers  
 * Central Skill Training and Fabrication Facility (CSTF)- [https://cstf.iitm.ac.in/](https://cstf.iitm.ac.in/) \- For hardware fabrication   
 * Central Glass Blowing Section
+
+# Equipment Reservation System
+
+* Facilities at IITM available on payment basis:  [https://ers.iitm.ac.in/webroot/equipment\_search.php](https://ers.iitm.ac.in/webroot/equipment_search.php). 
+	- To book:  [https://ers.iitm.ac.in/webroot/home.php](https://ers.iitm.ac.in/webroot/home.php). 
+* For New lab registration in ERS portal, send [email](mailto:cmit-icsr@icsrpis.iitm.ac.in) or call Ext: 9794
+* Publicly funded R&D equipment and facilities across the country, I-STEM: [https://www.istem.gov.in/](https://www.istem.gov.in/) 
+
+# [Central library](https://cenlib.iitm.ac.in/)(8:00 am - midnight)
+* Access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. 
+* Inter-library loan facility allows access to research papers, publications, etc. from other libraries.
+* Library Affairs Committee (LAC) member from each department coordinates the purchase of books from the allotted budget. These books will be placed in the central library.   
+   
+

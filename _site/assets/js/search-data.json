@@ -2808,214 +2808,207 @@
   },"401": {
     "doc": "Research facilities",
     "title": "Table of contents",
-    "content": ". | Common research facilities and equipment | Equipment Reservation System | Central library | Fabrication and maintenance facilities | . ",
+    "content": ". | Common research facilities and equipment | Equipment Reservation System | Central library(8:00 am - midnight) | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#table-of-contents",
     
     "relUrl": "/docs/academic_research/research_equipments/#table-of-contents"
   },"402": {
     "doc": "Research facilities",
     "title": "Common research facilities and equipment",
-    "content": ". | Common Instruments Facility (Housed at First Floor, KCB) - https://icsr.iitm.ac.in/facility.php: Differential Scanning Calorimetry (DSC), Thermo-Gravimetric Differential Thermal Analyser (TG-DTA), Scanning Electron Microscopy with EDAX (SEM), X-ray Diffraction (Powder) System(XRD), X-ray Fluorescence System (XRF), Atomic Force Microscopy (AFM), etc. | Sophisticated Analytical Instruments Facility (SAIF) - https://saif.iitm.ac.in/ | PG Senapathy Centre for Computing Resources: https://cc.iitm.ac.in/ Centralized computing facility which houses High Performance Computing Environment (HPCE- https://cc.iitm.ac.in/hpce/introduction.html), servers and clusters from various departments, web server, a few standard commercial and open source software. | Spectrometers- Raman, Nuclear Magnetic Resonance, Electron Spin Resonance, Fluorimeter etc. - https://chem.iitm.ac.in/facilities | SERB National Facility for Cryo Electron Microscopy - https://cryoem.iitm.ac.in/ | Crystallography - Single Crystal X-ray Diffractometer (housed in Humanities Sciences Block) | Imaging - High Resolution Scanning Electron Microscope- https://saif.iitm.ac.in/hrsem.html | Magnetometry - Vibrating Sample Magnetometers - https://chem.iitm.ac.in/facilities/vsm/ | Chromatography - Gas Chromatography - Mass Spectrometry, Quadrupole Time-of- Flight Mass Spectrometry. - https://chem.iitm.ac.in/facilities | . ",
+    "content": ". | Common Instruments Facility (Housed at First Floor, KCB) - https://icsr.iitm.ac.in/facility.php: Differential Scanning Calorimetry (DSC), Thermo-Gravimetric Differential Thermal Analyser (TG-DTA), Scanning Electron Microscopy with EDAX (SEM), X-ray Diffraction (Powder) System(XRD), X-ray Fluorescence System (XRF), Atomic Force Microscopy (AFM), etc. | Sophisticated Analytical Instruments Facility (SAIF) - https://saif.iitm.ac.in/ | PG Senapathy Centre for Computing Resources: https://cc.iitm.ac.in/ Centralized computing facility which houses High Performance Computing Environment (HPCE- https://cc.iitm.ac.in/hpce/introduction.html), servers and clusters from various departments, web server, a few standard commercial and open source software. | Spectrometers- Raman, Nuclear Magnetic Resonance, Electron Spin Resonance, Fluorimeter etc. - https://chem.iitm.ac.in/facilities | SERB National Facility for Cryo Electron Microscopy - https://cryoem.iitm.ac.in/ | Crystallography - Single Crystal X-ray Diffractometer (housed in Humanities Sciences Block) | Imaging - High Resolution Scanning Electron Microscope- https://saif.iitm.ac.in/hrsem.html | Magnetometry - Vibrating Sample Magnetometers - https://chem.iitm.ac.in/facilities/vsm/ | Chromatography - Gas Chromatography - Mass Spectrometry, Quadrupole Time-of- Flight Mass Spectrometry. - https://chem.iitm.ac.in/facilities | Central Electronics Centre - https://cecweb.iitm.ac.in/: For maintenance and repair of electronic items and computers | Central Skill Training and Fabrication Facility (CSTF)- https://cstf.iitm.ac.in/ - For hardware fabrication | Central Glass Blowing Section | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#common-research-facilities-and-equipment",
     
     "relUrl": "/docs/academic_research/research_equipments/#common-research-facilities-and-equipment"
   },"403": {
     "doc": "Research facilities",
     "title": "Equipment Reservation System",
-    "content": "Facilities at IITM available on payment basis: https://ers.iitm.ac.in/webroot/equipment_search.php. To book: https://ers.iitm.ac.in/webroot/home.php. For New lab registration in ERS portal, send email or call Ext: 9794 . To explore publicly funded R&amp;D equipment and facilities across various institutions throughout the country, visit the Indian Science, Technology, and Engineering facilities Map (I-STEM) https://www.istem.gov.in/ . ",
+    "content": ". | Facilities at IITM available on payment basis: https://ers.iitm.ac.in/webroot/equipment_search.php. | To book: https://ers.iitm.ac.in/webroot/home.php. | . | For New lab registration in ERS portal, send email or call Ext: 9794 | Publicly funded R&amp;D equipment and facilities across the country, I-STEM: https://www.istem.gov.in/ | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#equipment-reservation-system",
     
     "relUrl": "/docs/academic_research/research_equipments/#equipment-reservation-system"
   },"404": {
     "doc": "Research facilities",
-    "title": "Central library",
-    "content": "Library is open from 8:00 am- midnight. You can access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. The library also has an inter-library loan facility that allows you to get access to research papers, publications, etc. Every department will have a library committee member, who can help in purchase of books from the department allotted budget, which will be placed in the library for use. ",
-    "url": "/fachandbook/docs/academic_research/research_equipments/#central-library",
+    "title": "Central library(8:00 am - midnight)",
+    "content": ". | Access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. | Inter-library loan facility allows access to research papers, publications, etc. from other libraries. | Library Affairs Committee (LAC) member from each department coordinates the purchase of books from the allotted budget. These books will be placed in the central library. | . ",
+    "url": "/fachandbook/docs/academic_research/research_equipments/#central-library800-am---midnight",
     
-    "relUrl": "/docs/academic_research/research_equipments/#central-library"
+    "relUrl": "/docs/academic_research/research_equipments/#central-library800-am---midnight"
   },"405": {
-    "doc": "Research facilities",
-    "title": "Fabrication and maintenance facilities",
-    "content": ". | Central Electronics Centre - https://cecweb.iitm.ac.in/: For maintenance and repair of electronic items and computers | Central Skill Training and Fabrication Facility (CSTF)- https://cstf.iitm.ac.in/ - For hardware fabrication | Central Glass Blowing Section | . ",
-    "url": "/fachandbook/docs/academic_research/research_equipments/#fabrication-and-maintenance-facilities",
-    
-    "relUrl": "/docs/academic_research/research_equipments/#fabrication-and-maintenance-facilities"
-  },"406": {
     "doc": "Research facilities",
     "title": "Research facilities",
     "content": " ",
     "url": "/fachandbook/docs/academic_research/research_equipments/",
     
     "relUrl": "/docs/academic_research/research_equipments/"
-  },"407": {
+  },"406": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Sophisticated Analytical Instrumentation Facility",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/"
-  },"408": {
+  },"407": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | SS Bhattacharya | Head | MFL |   | ssb | . | Paranjothi K | Technical Officer | HSB 142 A2 | 4942 | kpjothi | . | Rama KV | Technical Officer | SAIF 06 | 4934 | rama | . | Sudhadevi P K | Technical Officer | HSB 142C | 4940 | sdevi | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/#staff"
-  },"409": {
+  },"408": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Fax | SAIF 15 | 4937 | . | CHNSO Lab | SAIF 26 | 5933 | . | Electronics Lab | SAIF 21 | 5944 | . | EPR Spectrameter | SAIF 8 | 4917 | . | Fluorescence / Lifetime Lab | SAIF 27 | 5926 | . | FT-IR Lab | SAIF 18 | 4938 | . | FT-Raman Lab | SAIF 24 | 5937 | . | GC-MS Lab | HSB 142A1 | 5932 | . | LC-HRMS Lab | HSB 142A2 | 5943 | . | HRSEM Lab | SAIF 3,4 | 5935 | . | ICP-OES Lab | SAIF 06 | 5927 | . | Lift | SAIF | 5919 | . | Mossbauer Lab | SAIF 28 | 5925 | . | NMR Lab | SAIF 01 , 02 | 4939 | . | Single Crystal XRD | HSB142C | 5939 | . | Stores | SAIF 22 | 4943 | . | TGA/DSC Lab | SAIF 23 | 4933 | . | Wet Lab | SAIF 05 | 5928 | . | XRF Lab | HSB 142C | 5934 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/#sections"
-  },"410": {
+  },"409": {
     "doc": "Schools",
     "title": "Table of contents",
     "content": ". | On-campus schools | List of schools . | Kendriya Vidyalaya (CBSE) | Vana Vani Matriculation Higher Secondary Sschool (State board) | . | . ",
     "url": "/fachandbook/schools_landing/#table-of-contents",
     
     "relUrl": "/schools_landing/#table-of-contents"
-  },"411": {
+  },"410": {
     "doc": "Schools",
     "title": "On-campus schools",
     "content": "These schools give priority to the IITM Faculty/ Staff/ Research Scholars for the admission of their wards. For admission-related queries, contact the respective Principals, sufficiently in advance. Admission forms can be picked up from the school, also available online. ",
     "url": "/fachandbook/schools_landing/#on-campus-schools",
     
     "relUrl": "/schools_landing/#on-campus-schools"
-  },"412": {
+  },"411": {
     "doc": "Schools",
     "title": "List of schools",
     "content": " ",
     "url": "/fachandbook/schools_landing/#list-of-schools",
     
     "relUrl": "/schools_landing/#list-of-schools"
-  },"413": {
+  },"412": {
     "doc": "Schools",
     "title": "Kendriya Vidyalaya (CBSE)",
     "content": "See the website, https://chennaiiit.kvs.ac.in/ for more information . ",
     "url": "/fachandbook/schools_landing/#kendriya-vidyalaya-cbse",
     
     "relUrl": "/schools_landing/#kendriya-vidyalaya-cbse"
-  },"414": {
+  },"413": {
     "doc": "Schools",
     "title": "Vana Vani Matriculation Higher Secondary Sschool (State board)",
     "content": "Run by the IIT Madras Educational Trust. See the website https://vanavani.iitm.ac.in/ for more information. Typically, the deadline for submission of school applications are in February for on-campus schools, and in December for off-campus schools. ",
     "url": "/fachandbook/schools_landing/#vana-vani-matriculation-higher-secondary-sschool-state-board",
     
     "relUrl": "/schools_landing/#vana-vani-matriculation-higher-secondary-sschool-state-board"
-  },"415": {
+  },"414": {
     "doc": "Schools",
     "title": "Schools",
     "content": " ",
     "url": "/fachandbook/schools_landing/",
     
     "relUrl": "/schools_landing/"
-  },"416": {
+  },"415": {
     "doc": "Security",
     "title": "Security",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Prakash | Chief Security Officer | 9444008105 | ADB GF | 8263 | prakash | . | Name | Location | Phone | . | Office | ADB GF | 8260 | . | Fax | ADB GF | 8161 | . | Duty Room | ADB GF | 8280 | . | Emergency Call | ADB GF | 9999 | . | POS Machine | ADB GF | 8279 | . | CISS Security | Near Comm Hall | 9471 | . | Security Post | Adyar IN Gate | 8267 | . | Security Post | Adyar OUT Gate | 8268 | . | Security Post | Director’s Residence | 8274 | . | Security Post | Mandakini Gate | 8270 | . | Security Post | KCB | 8273 | . | Security Post | Research Park Gate | 8278 | . | Security Post | Taramani Gate | 8271 | . | Security Post | Velachery Gate | 8272 | . | Security Post | Thiruvanmiyur Site | 22542905 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sec/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sec/"
-  },"417": {
+  },"416": {
     "doc": "Stores  & Purchase",
     "title": "Stores &amp; Purchase",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Sheba Sabari PK | Assistant Registrar | 9445098865 | ADB 3 | 8108 | sheeba | . | Name | Location | Phone | . | Office | ADB 3 | 8285 | . | Superintendent | ADB 3 | 8288 | . | Purchase Section | ADB 3 | 8290 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sp/#stores--purchase",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sp/#stores--purchase"
-  },"418": {
+  },"417": {
     "doc": "Stores  & Purchase",
     "title": "Stores  & Purchase",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sp/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sp/"
-  },"419": {
+  },"418": {
     "doc": "Sports",
     "title": "Table of contents",
     "content": ". | Sports facilities | . ",
     "url": "/fachandbook/sports_landing/#table-of-contents",
     
     "relUrl": "/sports_landing/#table-of-contents"
-  },"420": {
+  },"419": {
     "doc": "Sports",
     "title": "Sports facilities",
     "content": ". | Gymkhana (opposite Taramani Guest House) – Fitness centre, yoga, power lifting, table tennis and squash courts | Sitara Indoor Sports Complex (Next to Gymkhana, opposite Chemistry building) | Student Activities Centre – Badminton court | Swimming Pool (PABX no. ??) | Manohar C. Watsa Stadium | IITM Chemplast Cricket Ground (behind Engineering Design Building) | Hockey &amp; Football fields (opposite Computer centre) | Tennis courts (next to Gymkhana) | . For semester-wise membership, contact the Gymkhana office (8520), opposite to Taramani Guest House. ",
     "url": "/fachandbook/sports_landing/#sports-facilities",
     
     "relUrl": "/sports_landing/#sports-facilities"
-  },"421": {
+  },"420": {
     "doc": "Sports",
     "title": "Sports",
     "content": " ",
     "url": "/fachandbook/sports_landing/",
     
     "relUrl": "/sports_landing/"
-  },"422": {
+  },"421": {
     "doc": "Students",
     "title": "Students",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Sudhakar Rao Pujari | Deputy Registrar | 9444396148 | TEL EX 2F | 8053 | pujari | . | Raju P | Sports Officer | 9444396166 | Sports Complex | 8525 | raju_p | . | Edin Brow Pakiaraj H | Sports Officer |   | Sports Complex | 8538 | ebrow | . | Jayavel G | PTI Grade-1 |   | Sports Complex | 8537 | gjayavel | . | Palaniappan Ramu | Advisor, CMGFS | 9444008125 |   |   | ramu | . |   | Academic Affairs Secretary | 9444005765 |   | 8540 |   | . |   | Co-curricular Secretary | 9444407541 |   | 8541 |   | . |   | Cultural Affairs Secretary (Arts) | 9444005768 |   | 8542 |   | . |   | Cultural Affairs Secretar (Lit) | 9444005769 |   | 8543 |   | . |   | General Secretary | 9444005782 |   | 8546 |   | . |   | Hostel Affairs Secretary | 9444005783 |   | 8547 |   | . |   | Research Affairs Secretary | 9444005772 |   | 8548 |   | . |   | Speaker SAC | 9444005773 |   | 8549 |   | . |   | Sports Secretary | 9444005774 |   | 8550 |   | . |   | IAR Secretary | 9444396170 |   | 8551 |   | . |   | Academic Affairs Secretary | 9444005765 |   | 8540 |   | . |   | Co-curricular Secretary | 9444407541 |   | 8541 |   | . |   | Cultural Affairs Secretary (Arts) | 9444005768 |   | 8542 |   | . |   | Cultural Affairs Secretar (Lit) | 9444005769 |   | 8543 |   | . |   | General Secretary | 9444005782 |   | 8546 |   | . |   | Hostel Affairs Secretary | 9444005783 |   | 8547 |   | . |   | Research Affairs Secretary | 9444005772 |   | 8548 |   | . |   | Speaker SAC | 9444005773 |   | 8549 |   | . |   | Sports Secretary | 9444005774 |   | 8550 |   | . |   | IAR Secretary | 9444396170 |   | 8551 |   | . | Name | Location | Phone | . | Office | TEL EX 2F | 8054 | . | New Advisor Room 1 | TEL EX 2F | 8057 | . | New Advisor Room 2 | TEL EX 2F | 8058 | . | Conference Hall | TEL EX 2F | 8059 | . | STACT Office | TEL EX 2F | 8519 | . | Gymkhana Office | Sports Complex | 8520 | . | Wellness Center | TEL EX 1F | 8522 | . | Chemplast Cricket Ground | Near ED | 8526 | . | Fitness Centre |   | 8528 | . | Lift | DoSt Block | 8950 | . | Swimming Pool |   | 8529 | . | Sports Complex |   | 8536 | . | Lift | Sports Complex | 8539 | . | SAC | SAC | 9440 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/students/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/students/"
-  },"423": {
+  },"422": {
     "doc": "Teaching",
     "title": "Table of contents",
     "content": ". | Teaching | . ",
     "url": "/fachandbook/Teaching_landing/#table-of-contents",
     
     "relUrl": "/Teaching_landing/#table-of-contents"
-  },"424": {
+  },"423": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": ". | Core Activity . | 18 credits per academic year. 1 core course every year | 540-1080 student credits (18 credits x 30 - 60 students) per academic year. | Offer short-term courses/NPTEL/MOOC courses every few years | Students provide teacher course feedback (TCF) for faculty and TAs separately. | . ",
     "url": "/fachandbook/Teaching_landing/",
     
     "relUrl": "/Teaching_landing/"
-  },"425": {
+  },"424": {
     "doc": "Taramani Guest House",
     "title": "Taramani Guest House",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | B. Sathiya | Office i/c | 9444009241 | ADB 2F | 8449 | taramani | . | Name | Location | Phone | . | Office | TGH | 8450 | . | Kitchen | TGH | 8469 | . | Security | TGH | 8470 | . | Guest Rooms AB (01..99) | TGH AB | 95AB | . | Guest Rooms ABC (101..120) | TGH BC | 96BC | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/tgh/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/tgh/"
-  },"426": {
+  },"425": {
     "doc": "Teaching Learning Center",
     "title": "Teaching Learning Center",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/"
-  },"427": {
+  },"426": {
     "doc": "Teaching Learning Center",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Prof. Prasad Edamana | TLC Head | Central Library 4F | 4911 | pre | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/#staff"
-  },"428": {
+  },"427": {
     "doc": "Teaching Learning Center",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | TLC Office | Central Library 4F | 4907 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/#sections"
-  },"429": {
+  },"428": {
     "doc": "Thematic Unit of Excellence",
     "title": "Thematic Unit of Excellence",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tue/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tue/"
-  },"430": {
+  },"429": {
     "doc": "Thematic Unit of Excellence",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | T Pradeep | Faculty i/c | HSB148 | 4208 | pradeep | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tue/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tue/#staff"
-  },"431": {
+  },"430": {
     "doc": "Thematic Unit of Excellence",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Imaging/Characterization | MRC 2nd Floor | 5571 | . | Students sitting place/Wet lab | MRC 2nd Floor | 5572 | . | Validation/Prototyping | MRC 2nd Floor | 5573 | . | Server/Biology | MRC 2nd Floor | 5574 | . | Staff room/Lobby | MRC 2nd Floor | 5575 | . | Faculty Room | MRC 2nd Floor | 5576 | . ",
