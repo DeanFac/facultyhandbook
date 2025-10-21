@@ -17,7 +17,7 @@ Internal announcements for Faculty selections are released periodically. Eligibl
 
 ## Process and timelines
 | **From** | **To** | **Timeline**  | **Process** |
-|:-----------|:-----------|:----------------------|:----------------------------------|
+| :---- | :---- | :---- |
 | AP  Gr- II | AP  Gr- I  | 3 years after PhD.                                                                | Evaluation through presentation in front of a committee.                                                                                                                                                                                                            |
 | AP  Gr- I  | ASP        | Min. of 6 years after PhD, with at least 3 yrs at the level of AP/ equivalent.    | MBS, Min. expectations: 1 PhD graduated, publication record as per department norms, at least 1 externally funded project, good teaching record.                                                                                                                    |
 | ASP        | Prof       | Min of 4 years at ASP level                                                       | MBS, Minimum expectations: 2 PhD graduated (4 desirable?)  with at least 1 as primary guide, publication record as per department norms, at least 1 externally funded project in last 4 yrs, good teaching record, Dept. institute administrative responsibilities. |
