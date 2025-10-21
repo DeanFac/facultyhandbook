@@ -9,5 +9,8 @@ permalink : /stores_landing/
 * TOC
 {:toc}
 
-This section gives some details on how to purchase goods and services
+List of Abbreviations:
+
+| S&P | Stores and Purchase               |       | F&A | Finance and Accounts    |
+| PO  | Purchase Order                    |       | AMC | Annual Maintenance Cost |
 
