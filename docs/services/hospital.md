@@ -10,7 +10,9 @@ parent: Services
 * TOC
 {:toc}
 
-# INSTITUTE HOSPITAL# (Reception: 8330; Emergency/ Casuality: 8331; Ambulance: 8888; Pharmacy: 8336) 
+# INSTITUTE HOSPITAL
+
+**(Reception: 8330; Emergency/ Casuality: 8331; Ambulance: 8888; Pharmacy: 8336)**
 
 
 * Timings: Weekday: 08.15 am- 06.45 pm; Saturday: 08.15 am - 1.00 pm
