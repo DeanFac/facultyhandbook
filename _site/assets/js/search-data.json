@@ -470,7 +470,7 @@
   },"67": {
     "doc": "Campus Rules",
     "title": "Campus rules",
-    "content": ". | Speed limit: 20 km/h. | Accidents caused by vehicles resulting in the death of a deer: Rs. 1 lakh fine. | Consumption of alcohol/ smoking at public places is not allowed. | Poaching, hunting, and fishing are strictly prohibited. | Lighting of open fires on the campus is not allowed. | IIT Madras comes under the jurisdiction of the J-4 Kotturpuram police station. | Contact: . | Duty Room, Security Section - 8280 | Security Section: Emergency Call - 9999 | . | . ",
+    "content": ". | Speed limit: 20 km/h. | Accidents caused by vehicles resulting in the death of a deer: Rs. 1 lakh fine. | Consumption of alcohol/ smoking at public places, including faculty offices and hostel, is not allowed. | Poaching, hunting, and fishing are strictly prohibited. | Lighting of open fires on the campus is not allowed. | IIT Madras comes under the jurisdiction of the J-4 Kotturpuram police station. | Contact Security Section: Duty Room - 8280 ; Emergency - 9999 | . ",
     "url": "/fachandbook/rules_landing/#campus-rules",
     
     "relUrl": "/rules_landing/#campus-rules"
@@ -1401,17 +1401,17 @@
   },"200": {
     "doc": "Hospital",
     "title": "Table of contents",
-    "content": ". | INSTITUTE HOSPITAL (Reception: 8330/ 8331; Emergency/ Ambulance: 8333/8888; Pharmacy: 8336)** | . ",
+    "content": ". | INSTITUTE HOSPITAL (Reception: 8330; Emergency/ Casuality: 8331; Ambulance: 8888; Pharmacy: 8336) | . ",
     "url": "/fachandbook/hospital_landing/#table-of-contents",
     
     "relUrl": "/hospital_landing/#table-of-contents"
   },"201": {
     "doc": "Hospital",
-    "title": "INSTITUTE HOSPITAL (Reception: 8330/ 8331; Emergency/ Ambulance: 8333/8888; Pharmacy: 8336)**",
-    "content": ". | Timings: Weekday: 08.15 am- 05.45 pm; Saturday: 08.15 am - 1.00 pm | In-house Specialists: ENT; Gynaecologist | Visiting Specialists: Cardiologist, Dentist, Ophthalmologist, Paediatrician, Urologist, Psychiatrist | Facilities Available: In-patient wards, Pharmacy (PABX No. 8336), Clinical Laboratories; X-ray Unit, Ambulance Service (PABX no. 8888), Physiotherapy, Counselling centre | For services prescribed by Institute doctors that are not available in the Institute hospital (CT scan etc.), the charges can be claimed on a reimbursement basis. | . ",
-    "url": "/fachandbook/hospital_landing/#institute-hospital-reception-8330-8331-emergency-ambulance-83338888-pharmacy-8336",
+    "title": "INSTITUTE HOSPITAL (Reception: 8330; Emergency/ Casuality: 8331; Ambulance: 8888; Pharmacy: 8336)",
+    "content": ". | Timings: Weekday: 08.15 am- 06.45 pm; Saturday: 08.15 am - 1.00 pm | In-house Specialists: ENT; Gynaecologist | Visiting Specialists: Cardiologist, Dentist, Ophthalmologist, Paediatrician, Urologist, Psychiatrist, Dermatologist, Orthopedician, General Surgeon | Facilities Available: In-patient wards, Pharmacy, Clinical Lab Collection Centre, X-ray Unit, Ambulance Service, Physiotherapy, Counselling centre | For services prescribed by Institute doctors that are not available in the Institute hospital (CT scan, MRI etc.), the charges can be reimbursed on par with CGHS rates. | . ",
+    "url": "/fachandbook/hospital_landing/#institute-hospital-reception-8330-emergency-casuality-8331-ambulance-8888-pharmacy-8336",
     
-    "relUrl": "/hospital_landing/#institute-hospital-reception-8330-8331-emergency-ambulance-83338888-pharmacy-8336"
+    "relUrl": "/hospital_landing/#institute-hospital-reception-8330-emergency-casuality-8331-ambulance-8888-pharmacy-8336"
   },"202": {
     "doc": "Hospital",
     "title": "Hospital",
