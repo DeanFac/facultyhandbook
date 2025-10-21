@@ -20,7 +20,7 @@ Admission forms can be picked up from the school, also available online.
 # List of schools
 ## Kendriya Vidyalaya (CBSE)
 See the website, [https://chennaiiit.kvs.ac.in/](https://chennaiiit.kvs.ac.in/) for more information
-## Vana Vani Matriculation Higher Secondary Sschool (State board)
+## Vana Vani Matriculation Higher Secondary School (State board)
 Run by the IIT Madras Educational Trust. See the website [https://vanavani.iitm.ac.in/](https://vanavani.iitm.ac.in/) for more information. 
 
 {: .important}
