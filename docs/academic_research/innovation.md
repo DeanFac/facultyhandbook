@@ -15,10 +15,10 @@ Its mission is to nurture and sustain Innovation Ecosystems through collaboratio
 
 **The following entities are housed at IITMRP:**
 # Incubation cell
-The first point of contact: Provides support for entrepreneurs in creating successful deep tech startups. Support services like accounts and tax, company secretary-ship, legal, HR, audit, IP, access to funds, investors, mentors, advisers and consultants, training programmes, etc. are provided. [http://rtbi.in/incubationiitm/home.html](http://rtbi.in/incubationiitm/home.html) for more details.
+The first point of contact, [Incubation Cell](http://rtbi.in/incubationiitm/home.html): Provides support for entrepreneurs in creating successful deep tech startups. Support services like accounts and tax, company secretary-ship, legal, HR, audit, IP, access to funds, investors, mentors, advisers and consultants, training programmes, etc. are provided.
 
 # IITM Bioincubator
-[IITM Bioincubator](https://bioincubator.iitm.ac.in/); offers lab and office space, equipment, centralised utilities for process and product development, and technical advice from the expertise of the Institute's faculty and researchers to entrepreneurs to develop and launch their products.
+[IITM Bioincubator](https://bioincubator.iitm.ac.in/) offers lab and office space, equipment, centralised utilities for process and product development, and technical advice from the expertise of the Institute's faculty and researchers to entrepreneurs to develop and launch their products.
 
 # IIT Madras pravartak technologies foundation
 [IITM Pravartak Technologies Foundation](https://iitmpravartak.org.in/) is a section 08 company housing the Technology Innovation Hub on Sensors, Networking, Actuators, and Control Systems (SNACS), and funds projects in these domains.
