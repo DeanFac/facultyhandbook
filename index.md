@@ -11,9 +11,11 @@ This document was prepared by the following committee set up by the Dean Faculty
 {: .fs-5 .fw-400}
 * Prof. H. S. N. Murthy (Chairperson)
 * Prof. Narasimhan Swaminathan (Member)
-* Ms. Uma Parvathy (Strategic Advisor for Faculty & Skill Advancement Office of Dean Faculty)
-* Dr. Aniket Kalur (Member)
 * Dr. Bhuvanesh Srinivasan (Member)
+* Dr. Aniketh Kalur (Member)
+* Ms. Uma Parvathy (Strategic Advisor for Faculty & Skill Advancement, Office of Dean Faculty)
+
+
 
 {: .fs-4 .fw-500}
 
