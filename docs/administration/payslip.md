@@ -27,7 +27,7 @@ Salary is disbursed at the end of the month. Below is a sample salary slip (for 
 | **Dearness Allowance (DA)** | Cost-of-living adjustment fixed by the govt. – Revised every 6 months  | 53%  as of July 2024                                                                                 |
 | **House Rent Allowance (HRA)**  | Only if living off-campus. | 27% as of June 2024                                                                                  |
 | **Transport Allowance (TA)**  |  | Rs. 7200 + (DA% of 7200)                                                                           |
-| **Reim. Telephone**  | Telephone & Broadband Charges** | Rs 750                                                                                             |
+| **Reim. Telephone**  | Telephone & Broadband Charges | Rs 750                                                                                             |
 | **Children’s Education Allowance** | For schooling and hostel requirements of children (up to 2\) from KG to class 12\.  Form to be filled in Workflow.  Appears on the pay slip as Tuition Fees. | Rs. 33,750 for schooling,  Rs. 1,01,250 for hostel. Divyaang children entitled to double the amount. |
 
 Additional payments from Consultancy projects, GATE/JEE responsibilities, honorarium from online courses, etc.
