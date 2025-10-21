@@ -13,4 +13,6 @@ List of Abbreviations:
 
 | S&P | Stores and Purchase               |       | F&A | Finance and Accounts    |
 | PO  | Purchase Order                    |       | AMC | Annual Maintenance Cost |
-
+| OEM | Original Equipment Manufactuter   |       | CPP | Central Public Procurement Portal |
+| SPC | Stores & Purchase Committee (Institute Level) |       | PPC | Project Purchase Committee (Institute Level) |
+| L1 | Lowest Financial Bid               |       | GeM | Government e-Marketplace |
