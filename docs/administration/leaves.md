@@ -12,17 +12,19 @@ parent: Administration
 
 # Leaves
 
-* Prefixing/ Suffixing - If you have **holidays** before/ after your leave, you can prefix/suffix them while you apply for leave in
+**Prefixing/ Suffixing** - If you have **holidays** before/ after your leave, you can prefix/suffix them while you apply for leave in
 workflow. These holidays will **NOT** be counted against your leave. 
 
 All leaves have to be applied through workflow and approved by HoD.
 
 1. Workflow :arrow_right: Human Resources :arrow_right: Leave and Vacation   
 2. For national and international travel using Special Casual Leave (SCL) for professional purposes, Workflow :arrow_right: Main Accounts :arrow_right: Travel :arrow_right: Natl & Intl Travel  
-   - When applying for any professional visit, you are required to attach the invitation letter on workflow.   
+   - When applying for any professional visit, you are required to attach the invitation letter on workflow.
+   - NOC for VISA has to be applied on Workflow :arrow_right: Human Resource :arrow_right: Apply for NOC
+   - If it is a professional visit, attach invitation and mention source of funding (CPDA, Project, etc.)
    
    {: .important }
-   Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits.
+   Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits. Apply at least 2 weeks before travel date.
 
 4. For project-related travel using ICSR SCL, workflow :arrow_right: ICSR :arrow_right: Travel
 
@@ -46,7 +48,7 @@ All leaves have to be applied through workflow and approved by HoD.
 | Child Care Leave  (CCL) | 730 days during the service till 2nd surviving child reaches the age of 18\.    Min period of 5 days  | Child Care | Eligibility: Women or widowed/divorced father  Not more than 3 times in a calendar year. CCL will be granted with 100% of salary for the first 365 days and 80% of the salary for the next 365 days  |
 | Vacation (it can be suffixed / prefixed with holidays EL/HPL) | 60 days within the windows declared by IITM in summer and winter |  | One day Earned Leave credit will be given for every 2 days of vacation not taken.    New Faculty members get 2 days vacation per 12 days of service in the Academic year within the windows declared by IITM.   Travel using SCL, ICSR-SCL etc is considered as working during vacation |
 
-# Types of Visits:  
+# Types of Visits  
 *  Brief – Less than 30 days  
 * Short: 30-90 days  
 * Long: Above 90 days
