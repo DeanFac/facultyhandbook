@@ -1,6 +1,6 @@
 ---
 title: Mentoring
-nav_order: 6
+nav_order: 3
 permalink : /Mentoring_landing/
 parent: Faculty Roles and Responsibilities
 ---
