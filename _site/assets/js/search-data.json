@@ -685,47 +685,47 @@
     
     "relUrl": "/docs/Telephone_Directory/Departments/ch/#labs--common-facility"
   },"98": {
-    "doc": "Centre for Outreach and Digital Education",
-    "title": "Centre for Outreach and Digital Education",
-    "content": " ",
-    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/",
-    
-    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/"
-  },"99": {
-    "doc": "Centre for Outreach and Digital Education",
-    "title": "Staff",
-    "content": "| Name | Post | Location | Phone | Email | . | Andrew Thangaraj | Chairman | ICSR 3F | 4901 | andrew | . | Andrew Thangaraj | Coordinator | ICSR 3F | 4909 | andrew | . | Vignesh Muthuvijayan | Associate Chair | ICSR 3F | 4912 | vigneshm | . | Ramkrishna Pasumarthy | Coordinator | ICSR 3F | 4908 | ramkrishna | . ",
-    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/#staff",
-    
-    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/#staff"
-  },"100": {
-    "doc": "Centre for Outreach and Digital Education",
-    "title": "Sections",
-    "content": "| Name | Location | Phone | . | Accounts 1 | ICSR 3F | 4900 | . | Accounts 2 | ICSR 3F | 4904 | . | Accounts 3 | ICSR 3F | 5904 | . | Accounts Manager | ICSR 3F | 8936 | . | Web MTech etc. | ICSR 3F | 4902 | . | BS Degree Learner Support | ICSR 3F | 8937 | . | BS Degree Learner Support | ICSR 3F | 8938 | . | NPTEL Learner Support | ICSR 3F | 5905 | . | NPTEL Learner Support | ICSR 3F | 5908 | . | NPTEL Local Chapter | ICSR 3F | 8932 | . | NPTEL Office | ICSR 3F | 8933 | . ",
-    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/#sections",
-    
-    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/#sections"
-  },"101": {
     "doc": "Center for Outreach and Digital Education (Code)",
     "title": "Table of contents",
     "content": ". | CODE | . ",
     "url": "/fachandbook/docs/academic_courses/code/#table-of-contents",
     
     "relUrl": "/docs/academic_courses/code/#table-of-contents"
-  },"102": {
+  },"99": {
     "doc": "Center for Outreach and Digital Education (Code)",
     "title": "CODE",
     "content": ". | Location: 3rd floor, ICSR building, Extn. 4900, cceoffice@iitm.ac.in, website . | CODE provides state-of-the-art professional recording infrastructure to record very high-quality educational contents in different settings (regular classroom, specialised video recording studio, laboratory, outdoor, etc.) Please see the link. | . ",
     "url": "/fachandbook/docs/academic_courses/code/#code",
     
     "relUrl": "/docs/academic_courses/code/#code"
-  },"103": {
+  },"100": {
     "doc": "Center for Outreach and Digital Education (Code)",
     "title": "Center for Outreach and Digital Education (Code)",
     "content": " ",
     "url": "/fachandbook/docs/academic_courses/code/",
     
     "relUrl": "/docs/academic_courses/code/"
+  },"101": {
+    "doc": "Centre for Outreach and Digital Education",
+    "title": "Centre for Outreach and Digital Education",
+    "content": " ",
+    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/",
+    
+    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/"
+  },"102": {
+    "doc": "Centre for Outreach and Digital Education",
+    "title": "Staff",
+    "content": "| Name | Post | Location | Phone | Email | . | Andrew Thangaraj | Chairman | ICSR 3F | 4901 | andrew | . | Andrew Thangaraj | Coordinator | ICSR 3F | 4909 | andrew | . | Vignesh Muthuvijayan | Associate Chair | ICSR 3F | 4912 | vigneshm | . | Ramkrishna Pasumarthy | Coordinator | ICSR 3F | 4908 | ramkrishna | . ",
+    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/#staff",
+    
+    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/#staff"
+  },"103": {
+    "doc": "Centre for Outreach and Digital Education",
+    "title": "Sections",
+    "content": "| Name | Location | Phone | . | Accounts 1 | ICSR 3F | 4900 | . | Accounts 2 | ICSR 3F | 4904 | . | Accounts 3 | ICSR 3F | 5904 | . | Accounts Manager | ICSR 3F | 8936 | . | Web MTech etc. | ICSR 3F | 4902 | . | BS Degree Learner Support | ICSR 3F | 8937 | . | BS Degree Learner Support | ICSR 3F | 8938 | . | NPTEL Learner Support | ICSR 3F | 5905 | . | NPTEL Learner Support | ICSR 3F | 5908 | . | NPTEL Local Chapter | ICSR 3F | 8932 | . | NPTEL Office | ICSR 3F | 8933 | . ",
+    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/code/#sections",
+    
+    "relUrl": "/docs/Telephone_Directory/Central_Facilities/code/#sections"
   },"104": {
     "doc": "Career Pathway Centre",
     "title": "Career Pathway Centre",
@@ -1574,96 +1574,96 @@
     
     "relUrl": "/"
   },"225": {
-    "doc": "Faculty Roles and Responsibilities",
+    "doc": "Services",
     "title": "Table of contents",
     "content": " ",
-    "url": "/fachandbook/fac_landing/#table-of-contents",
+    "url": "/fachandbook/services_landing/#table-of-contents",
     
-    "relUrl": "/fac_landing/#table-of-contents"
+    "relUrl": "/services_landing/#table-of-contents"
   },"226": {
-    "doc": "Faculty Roles and Responsibilities",
-    "title": "Faculty Roles and Responsibilities",
-    "content": "The Roles and responsibilities of faculty members are classified into three categories: . | Teaching | Research and Projects | Mentoring students &amp; Student projects | Administration | . Every academic and administrative process requires a chain of approvals so as to bring it to a logical conclusion. As part of this chain, faculty will be required to approve/reject various academic and administrative processes. All such tasks awaiting action will be listed under “Tasks” in Workflow. Some tasks are auto approved (SLA- Service Level Approval) after a fixed time to avoid delays in other related processes. However, faculty will still be responsible for tasks auto approved under SLA. So, log in to workflow every day and clear these tasks. ",
-    "url": "/fachandbook/fac_landing/",
+    "doc": "Services",
+    "title": "Services",
+    "content": " ",
+    "url": "/fachandbook/services_landing/",
     
-    "relUrl": "/fac_landing/"
+    "relUrl": "/services_landing/"
   },"227": {
-    "doc": "Stores and Purchase",
-    "title": "Table of contents",
-    "content": "List of Abbreviations: . | S&amp;P | Stores and Purchase |   | F&amp;A | Finance and Accounts | . | PO | Purchase Order |   | AMC | Annual Maintenance Cost | . | OEM | Original Equipment Manufactuter |   | CPP | Central Public Procurement Portal | . | SPC | Stores &amp; Purchase Committee (Institute Level) |   | PPC | Project Purchase Committee (Institute Level) | . | L1 | Lowest Financial Bid |   | GeM | Government e-Marketplace | . ",
-    "url": "/fachandbook/stores_landing/#table-of-contents",
-    
-    "relUrl": "/stores_landing/#table-of-contents"
-  },"228": {
-    "doc": "Stores and Purchase",
-    "title": "Stores and Purchase",
-    "content": " ",
-    "url": "/fachandbook/stores_landing/",
-    
-    "relUrl": "/stores_landing/"
-  },"229": {
-    "doc": "Policies and Grievances",
-    "title": "Table of contents",
-    "content": ". | Rules and rights | . ",
-    "url": "/fachandbook/grieve_landing/#table-of-contents",
-    
-    "relUrl": "/grieve_landing/#table-of-contents"
-  },"230": {
-    "doc": "Policies and Grievances",
-    "title": "Rules and rights",
-    "content": "The terms &amp; conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links: . | Acts | Statutes | Central Civil Services (Conduct) Rules | . SOME IMPORTANT TAKEAWAYS . | No work-from-home | You are on call 24x7 | If you are going out of station even while on personal trips during holidays, you must intimate the HoD through workflow Human Resources :arrow_right: Leave and Vacation :arrow_right: Outstation Intimation (Holidays) | . This essential for insurance purposes and accountability. | You cannot write articles (unless they are of purely literary, artistic or scientific character), give interviews, etc. without institute’s permission | The faculty cannot represent as a group (no unionization); cannot be signatory to any joint representation | . There are several other important points in the Statutes. Please read the statutes document. ",
-    "url": "/fachandbook/grieve_landing/#rules-and-rights",
-    
-    "relUrl": "/grieve_landing/#rules-and-rights"
-  },"231": {
-    "doc": "Policies and Grievances",
-    "title": "Policies and Grievances",
-    "content": " ",
-    "url": "/fachandbook/grieve_landing/",
-    
-    "relUrl": "/grieve_landing/"
-  },"232": {
     "doc": "IIT Madras Contact Directory",
     "title": "Contact Directory",
     "content": "Please use the search facility on the top of the page to look for specific contacts . ",
     "url": "/fachandbook/docs/Telephone_Directory/#contact-directory",
     
     "relUrl": "/docs/Telephone_Directory/#contact-directory"
-  },"233": {
+  },"228": {
     "doc": "IIT Madras Contact Directory",
     "title": "IIT Madras Contact Directory",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/",
     
     "relUrl": "/docs/Telephone_Directory/"
-  },"234": {
-    "doc": "Academic Courses",
-    "title": "Table of contents",
-    "content": ". | Course Work | . ",
-    "url": "/fachandbook/academic_courses_landing/#table-of-contents",
-    
-    "relUrl": "/academic_courses_landing/#table-of-contents"
-  },"235": {
-    "doc": "Academic Courses",
-    "title": "Course Work",
-    "content": " ",
-    "url": "/fachandbook/academic_courses_landing/#course-work",
-    
-    "relUrl": "/academic_courses_landing/#course-work"
-  },"236": {
-    "doc": "Academic Courses",
-    "title": "Academic Courses",
-    "content": " ",
-    "url": "/fachandbook/academic_courses_landing/",
-    
-    "relUrl": "/academic_courses_landing/"
-  },"237": {
+  },"229": {
     "doc": "Departments",
     "title": "Departments",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/"
+  },"230": {
+    "doc": "Faculty Roles and Responsibilities",
+    "title": "Table of contents",
+    "content": " ",
+    "url": "/fachandbook/fac_landing/#table-of-contents",
+    
+    "relUrl": "/fac_landing/#table-of-contents"
+  },"231": {
+    "doc": "Faculty Roles and Responsibilities",
+    "title": "Faculty Roles and Responsibilities",
+    "content": "The Roles and responsibilities of faculty members are classified into three categories: . | Teaching | Research and Projects | Mentoring students &amp; Student projects | Administration | . Every academic and administrative process requires a chain of approvals so as to bring it to a logical conclusion. As part of this chain, faculty will be required to approve/reject various academic and administrative processes. All such tasks awaiting action will be listed under “Tasks” in Workflow. Some tasks are auto approved (SLA- Service Level Approval) after a fixed time to avoid delays in other related processes. However, faculty will still be responsible for tasks auto approved under SLA. So, log in to workflow every day and clear these tasks. ",
+    "url": "/fachandbook/fac_landing/",
+    
+    "relUrl": "/fac_landing/"
+  },"232": {
+    "doc": "Policies and Grievances",
+    "title": "Table of contents",
+    "content": ". | Rules and rights | . ",
+    "url": "/fachandbook/grieve_landing/#table-of-contents",
+    
+    "relUrl": "/grieve_landing/#table-of-contents"
+  },"233": {
+    "doc": "Policies and Grievances",
+    "title": "Rules and rights",
+    "content": "The terms &amp; conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links: . | Acts | Statutes | Central Civil Services (Conduct) Rules | . SOME IMPORTANT TAKEAWAYS . | No work-from-home | You are on call 24x7 | If you are going out of station even while on personal trips during holidays, you must intimate the HoD through workflow Human Resources :arrow_right: Leave and Vacation :arrow_right: Outstation Intimation (Holidays) | . This essential for insurance purposes and accountability. | You cannot write articles (unless they are of purely literary, artistic or scientific character), give interviews, etc. without institute’s permission | The faculty cannot represent as a group (no unionization); cannot be signatory to any joint representation | . There are several other important points in the Statutes. Please read the statutes document. ",
+    "url": "/fachandbook/grieve_landing/#rules-and-rights",
+    
+    "relUrl": "/grieve_landing/#rules-and-rights"
+  },"234": {
+    "doc": "Policies and Grievances",
+    "title": "Policies and Grievances",
+    "content": " ",
+    "url": "/fachandbook/grieve_landing/",
+    
+    "relUrl": "/grieve_landing/"
+  },"235": {
+    "doc": "Central Facilities",
+    "title": "Central Facilities",
+    "content": " ",
+    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/",
+    
+    "relUrl": "/docs/Telephone_Directory/Central_Facilities/"
+  },"236": {
+    "doc": "Getting Started",
+    "title": "Getting Started at IIT Madras",
+    "content": " ",
+    "url": "/fachandbook/getting_started_landing/#getting-started-at-iit-madras",
+    
+    "relUrl": "/getting_started_landing/#getting-started-at-iit-madras"
+  },"237": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/fachandbook/getting_started_landing/",
+    
+    "relUrl": "/getting_started_landing/"
   },"238": {
     "doc": "Central Administration",
     "title": "Central Administration",
@@ -1672,89 +1672,89 @@
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/"
   },"239": {
+    "doc": "Stores and Purchase",
+    "title": "Table of contents",
+    "content": "List of Abbreviations: . | S&amp;P | Stores and Purchase |   | F&amp;A | Finance and Accounts | . | PO | Purchase Order |   | AMC | Annual Maintenance Cost | . | OEM | Original Equipment Manufactuter |   | CPP | Central Public Procurement Portal | . | SPC | Stores &amp; Purchase Committee (Institute Level) |   | PPC | Project Purchase Committee (Institute Level) | . | L1 | Lowest Financial Bid |   | GeM | Government e-Marketplace | . ",
+    "url": "/fachandbook/stores_landing/#table-of-contents",
+    
+    "relUrl": "/stores_landing/#table-of-contents"
+  },"240": {
+    "doc": "Stores and Purchase",
+    "title": "Stores and Purchase",
+    "content": " ",
+    "url": "/fachandbook/stores_landing/",
+    
+    "relUrl": "/stores_landing/"
+  },"241": {
     "doc": "Appendix",
     "title": "Appendix",
     "content": " ",
     "url": "/fachandbook/docs/Appendix/",
     
     "relUrl": "/docs/Appendix/"
-  },"240": {
-    "doc": "Central Facilities",
-    "title": "Central Facilities",
-    "content": " ",
-    "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/",
-    
-    "relUrl": "/docs/Telephone_Directory/Central_Facilities/"
-  },"241": {
-    "doc": "Services",
-    "title": "Table of contents",
-    "content": " ",
-    "url": "/fachandbook/services_landing/#table-of-contents",
-    
-    "relUrl": "/services_landing/#table-of-contents"
   },"242": {
-    "doc": "Services",
-    "title": "Services",
-    "content": " ",
-    "url": "/fachandbook/services_landing/",
-    
-    "relUrl": "/services_landing/"
-  },"243": {
     "doc": "Administration",
     "title": "Table of contents",
     "content": ". | Administration section | . ",
     "url": "/fachandbook/administration_landing/#table-of-contents",
     
     "relUrl": "/administration_landing/#table-of-contents"
-  },"244": {
+  },"243": {
     "doc": "Administration",
     "title": "Administration section",
     "content": "The Administration Section is divided into three subsections: Admin 1, 2, and 3. Admin 1 (Contact: 8110/ 8105) and 3 are relevant for faculty members. Following are the roles and responsibilities of each subsection . In addition Administration handles . | MACPS/DACPS | APAR | LTC | CCL . | For Residents’ certificate/ Service certificate/ Identity certificate for Passport Application/ Renewal – email admin1@zmail.iitm.ac.in | NOC for Passport renewal: Apply through Workflow :arrow_right: Human Resource :arrow_right: Apply for NOC. Submit 3 passport size photographs with white background to Admin1 for attestation. | . ",
     "url": "/fachandbook/administration_landing/#administration-section",
     
     "relUrl": "/administration_landing/#administration-section"
-  },"245": {
+  },"244": {
     "doc": "Administration",
     "title": "Administration",
     "content": " ",
     "url": "/fachandbook/administration_landing/",
     
     "relUrl": "/administration_landing/"
-  },"246": {
+  },"245": {
     "doc": "Academic Research",
     "title": "Table of contents",
     "content": ". | Research Activities | . ",
     "url": "/fachandbook/academic_research_landing/#table-of-contents",
     
     "relUrl": "/academic_research_landing/#table-of-contents"
-  },"247": {
+  },"246": {
     "doc": "Academic Research",
     "title": "Research Activities",
     "content": ". | Academic research matters such as admissions, progress review, grading, etc. are governed by Ordinances and Regulations: See ordinances. | All academic research related activities are coordinated by Dean (Academic Research) . | . ",
     "url": "/fachandbook/academic_research_landing/#research-activities",
     
     "relUrl": "/academic_research_landing/#research-activities"
-  },"248": {
+  },"247": {
     "doc": "Academic Research",
     "title": "Academic Research",
     "content": " ",
     "url": "/fachandbook/academic_research_landing/",
     
     "relUrl": "/academic_research_landing/"
+  },"248": {
+    "doc": "Academic Courses",
+    "title": "Table of contents",
+    "content": ". | Course Work | . ",
+    "url": "/fachandbook/academic_courses_landing/#table-of-contents",
+    
+    "relUrl": "/academic_courses_landing/#table-of-contents"
   },"249": {
-    "doc": "Getting Started",
-    "title": "Getting Started at IIT Madras",
+    "doc": "Academic Courses",
+    "title": "Course Work",
     "content": " ",
-    "url": "/fachandbook/getting_started_landing/#getting-started-at-iit-madras",
+    "url": "/fachandbook/academic_courses_landing/#course-work",
     
-    "relUrl": "/getting_started_landing/#getting-started-at-iit-madras"
+    "relUrl": "/academic_courses_landing/#course-work"
   },"250": {
-    "doc": "Getting Started",
-    "title": "Getting Started",
+    "doc": "Academic Courses",
+    "title": "Academic Courses",
     "content": " ",
-    "url": "/fachandbook/getting_started_landing/",
+    "url": "/fachandbook/academic_courses_landing/",
     
-    "relUrl": "/getting_started_landing/"
+    "relUrl": "/academic_courses_landing/"
   },"251": {
     "doc": "Innovation Ecosystem",
     "title": "Table of contents",
@@ -2113,874 +2113,895 @@
     
     "relUrl": "/docs/Telephone_Directory/Departments/me/#labs--common-facility"
   },"302": {
+    "doc": "Mentoring",
+    "title": "Table of contents",
+    "content": ". | Mentoring Students &amp; Student Projects | . ",
+    "url": "/fachandbook/Mentoring_landing/#table-of-contents",
+    
+    "relUrl": "/Mentoring_landing/#table-of-contents"
+  },"303": {
+    "doc": "Mentoring",
+    "title": "Mentoring Students &amp; Student Projects",
+    "content": "Faculty are also expected to advice a set of students assigned to them on academic matters and also, mentor students in their project work (M. Tech/ M.Sc./ MA/ MBA). FACULTY ADVISOR: Departments assign students from course-based programs (B. Tech, M. Tech., MSc., MA, MBA, etc.) as advisees of the faculty. In addition, all graduate students guided by faculty for their project/ thesis are his/her advisees by default. Faculty advisors have to: . | Keep track of advisees’ academic progress | Help advisees in coursework management. | Approve (via Workflow) the courses that the advisees have registered for every semester. While approving, a. Look at the advisees’ past semester records to understand their ability to handle courses. Restrict the advisees with difficulty in handling courses from registering for more/ difficult courses. Explain the rationale to them. b. Ensure that the students do not drop the core courses (regular/ backlog) that they need to complete in that particular semester. c. Ensure that backlog courses, especially core courses, are given priority while they register, so that they clear them as soon as possible. | Meet each advisee every month and complete Kushal form at https://kushal.iitm.ac.in:9001/. This is mandatory. If advisee appears to have issues of any kind, email: acad-support@smail.iitm.ac.in immediately with a copy to HOD and Dean of Students. | . ",
+    "url": "/fachandbook/Mentoring_landing/#mentoring-students--student-projects",
+    
+    "relUrl": "/Mentoring_landing/#mentoring-students--student-projects"
+  },"304": {
+    "doc": "Mentoring",
+    "title": "Mentoring",
+    "content": " ",
+    "url": "/fachandbook/Mentoring_landing/",
+    
+    "relUrl": "/Mentoring_landing/"
+  },"305": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Metallurgical and Materials Engineering",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/"
-  },"303": {
+  },"306": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Head of the Department",
     "content": "| Name | Cell_Phone | Location | Phone | Email | . | Subramanya Sarma V | 9444008590 | KCB 227 | 4751 | mmhead | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#head-of-the-department",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#head-of-the-department"
-  },"304": {
+  },"307": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Regular Faculty",
     "content": "| Name | Location | Phone | Email | . | Ajay Kumar Shukla | KCB 146 | 4762 | shukla | . | Anand Krishna Kanjarla | KCB 144 | 4753 | kanjarla | . | Balasubramanian M | KCB 235 | 4767 | mbala | . | Bhattacharya S S | MFL 109 | 4765 | ssb | . | Bhuvanesh Srinivasan | KCB 232 | 4783 | bhuvanesh.srini | . | Ganesh Sundara Raman S | KCB 249 | 4768 | ganesh | . | Hari Kumar K C | KCB 244 | 4766 | kchkumar | . | Hemaprabha E | KCB 230 | 4758 | hemaprabha | . | Kamaraj M (E G Ramachandran Chair Professor) | MSB 105A | 4769 | kamaraj | . | Lakshman Neelakantan | KCB 145 | 4786 | nlakshman | . | Manas Mukherjee | MPS 102 | 4782 | manas.mukherjee | . | Murty B S (Institute Professor, Girija and R. Muralidharan Chair Professor) | KCB 250 | 4754 | murty | . | Murugaiyan A | KCB 251 | 4784 | murugaiyan | . | Parasuram Swaminathan | KCB 229 | 4756 | swamnthn | . | Phanikumar G | KCB 231 | 4770 | gphani | . | Pradeep K G | KCB 248 | 4764 | kgprad | . | Prathap Haridoss | KCB 252 | 4771 | prathap | . | Ranjit Bauri | KCB 151 | 4778 | rbauri | . | Ravi Sankar Kottada | MSB 105 | 4779 | ravi.sankar | . | Ravikumar N V | HSB 138 | 4777 | nvrk | . | Rohit Batra | KCB 152 | 4780 | rbatra | . | Sabita Sarkar | KCB 253 | 4755 | sabita.sarkar | . | Sankaran S | KCB 245 | 4776 | ssankaran | . | Satyesh Kumar Yadav | KCB 143 | 4789 | satyesh | . | Somnath Bhattacharyya | MPS 104 | 4760 | somnathb | . | Sreeram K Kalpathy | KCB 246 | 4761 | sreeram | . | Srinivasa Rao Bakshi | MPS 204 | 4781 | sbakshi | . | Subramanya Sarma V | KCB 149 | 4774 | vsarma | . | Surendra Babu Anantharaman | KCB 147 | 4794 | sba | . | Tiju Thomas | MPS 206 | 4757 | tijuthomas | . | Udayachandran Chakkingal | KCB 150 | 4775 | udaychak | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#regular-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#regular-faculty"
-  },"305": {
+  },"308": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Visiting Faculty",
     "content": "| Name | Location | Phone | Email | . | Shotaro Tada | KCB 242 | 4792 | unavailable | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#visiting-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#visiting-faculty"
-  },"306": {
+  },"309": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Adjunct Faculty",
     "content": "| Name | Location | Phone | Email | . | Gopi Chandran | KCB | 4750 | gopichandran.r@gmail.com | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#adjunct-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#adjunct-faculty"
-  },"307": {
+  },"310": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Emeritus Faculty",
     "content": "| Name | Location | Phone | Email | . | TS Sampath Kumar | MML | 4772 | tssk | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#emeritus-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#emeritus-faculty"
-  },"308": {
+  },"311": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Professor of Practise",
     "content": "| Name | Location | Phone | Email | . | Debashish Bhattacharjee | KCB | 4750 | unavailable | . | Admiral Soonil Bhokare | KCB | 4750 | unavailable | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#professor-of-practise",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#professor-of-practise"
-  },"309": {
+  },"312": {
     "doc": "Metallurgical and Materials Engineering",
     "title": "Labs / Common Facility",
     "content": "| Name | Location | Phone | . | AFM | MSB 103A | 5750 | . | Co-exist K C Harikumar | KCB 102 | 9832 | . | Committee Room | KCB 226 | 5752 | . | Correlative Microscopy Lab | MPS 101 | 5786 | . | Corrosion Engg and Mater. Electrochemistry Lab | KCB 113 | 5753 | . | Electronic Materials and Thin Films Lab | KCB 213 | 5784 | . | Electronic Materials and Thin Films Lab | KCB 213 | 8967 | . | Energy Materials Lab | KCB 114 | 8970 | . | Fuel Cells Lab | MPS | 5789 | . | Futuristic Funational Material Lab | KCB 104 | 9833 | . | High Temperature Lab | MSB 106 | 5759 | . | High Performance Ceramics Lab | KCB 207 | 9837 | . | HR SEM Lab | MSB 103 | 5760 | . | ICME Lab | KCB 221 | 5754 | . | Soft Matter and Complex Fluids Lab 1 | KCB 214 | 5519 | . | Soft Matter and Complex Fluids Lab 2 | KCB 214 | 8969 | . | Materials Design Lab | KCB 106 | 9834 | . | Materials Processing Section | MPS | 5772 | . | Materials Testing Facilities I | MTF Annexe I | 5761 | . | Materials Testing Facilities II | MTF Annexe II | 5762 | . | CALPHAD Lab | KCB 243 | 5763 | . | Mechanical Testing Lab | MSB 105D | 5764 | . | Medical Materials (Wet Chemical) Lab | HSB GF | 5765 | . | Metal Casting | MPS | 5766 | . | Materials Forming Lab | MFL | 5767 | . | Joining and Additive Manufacturing Lab | WS 401 | 5768 | . | MTF (Computation facility) | MTF | 5773 | . | MTF (Main Lab) | MTF | 5774 | . | MTF (Research Scholars) | MTF | 5775 | . | Nano Technology Lab | KCB 218 | 5776 | . | NDT Lab | MPS 101 | 5777 | . | New Lab (Dr.Ajaykumar Shukla) | KCB 107 | 5800 | . | NFMTC Lab | MTF Annex | 5909 | . | Physical Metallurgy Lab | KCB 202 | 5779 | . | Research Scholars Lab | MFL 108 | 5783 | . | Research Scholars room | MPS 207 | 5782 | . | Research Scholars room | KCB 127 | 9835 | . | Research Scholars room | KCB 131 | 9836 | . | Seminar Hall | KCB 222 | 5785 | . | Stores | KCB 234 | 5771 | . | Texture and Microstructure Lab | KCB 105 | 5770 | . | Thermomechanical Simulator (Gleeble) Lab | WS 411 | 5769 | . | X-ray Diffraction Lab | HSB 138 | 5787 | . | Office 1 | HSB 142 | 5756 | . | Office 2 | HSB 142 | 5792 | . | Inspect F | HSB 142 | 5793 | . | Quanta 400 | HSB 142 | 5794 | . | Versa | HSB 142 | 5795 | . | Titan | HSB 142 | 5796 | . | PIPS Lab | HSB 142 | 5797 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mm/#labs--common-facility",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mm/#labs--common-facility"
-  },"310": {
+  },"313": {
     "doc": "Magnetic Resonance Imaging",
     "title": "Magnetic Resonance Imaging",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/mri/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/mri/"
-  },"311": {
+  },"314": {
     "doc": "Magnetic Resonance Imaging",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Arun K Thittai | Faculty i/c |   | 4053 | akthittai | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/mri/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/mri/#staff"
-  },"312": {
+  },"315": {
     "doc": "Magnetic Resonance Imaging",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | 500 MHz Micro Imaging | MRI GF | 5921 | . | Biospec Operating Room | MRI GF | 5920 | . | Multi-band DNP | MRI GF | 5922 | . | PC Room | MRI FF | 5923 | . | Researcher’s room | MRI FF | 5924 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/mri/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/mri/#sections"
-  },"313": {
+  },"316": {
     "doc": "Management Studies",
     "title": "Management Studies",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/"
-  },"314": {
+  },"317": {
     "doc": "Management Studies",
     "title": "Head of the Department",
     "content": "| Name | Cell_Phone | Location | Phone | Email | . | Thenmozhi M | 9444008458 | DOMS 106A | 4551 | mshead | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/#head-of-the-department",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/#head-of-the-department"
-  },"315": {
+  },"318": {
     "doc": "Management Studies",
     "title": "Regular Faculty",
     "content": "| Name | Location | Phone | Email | . | Amit R K | DOMS 504 | 4575 | rkamit | . | Arshinder Kaur | DOMS 410 | 4553 | arshinder | . | Arun Kumar G | DOMS 413 | 4563 | garun | . | Imon Chakraborty |   | 4590 | imon | . | Kamalanabhan T J | DOMS 112 | 4556 | tjk | . | Krishna Prasanna P | DOMS 301 | 4571 | pkp | . | Lata Dyaram | DOMS 411 | 4567 | lata.dyaram | . | Madhumathi R | DOMS 302 | 4565 | rmm | . | Nandan Sudarsanam | DOMS 306 | 4580 | nandan | . | Nargis Pervin | DOMS 304 | 4574 | nargisp | . | Pinosh Kumar Hajoary | DOMS 201 | 4586 | pinoshh | . | Prakash Sai L | DOMS 412 | 4568 | lps | . | Prathamesh Vivek Kittur | DOMS 304 | 4588 | prathamesh.kittur | . | Rahul Ratnakar Marathe | DOMS 305 | 4579 | rrmarathe | . | Rajendran C (RAGS Family Foundation Chair Professor) | DOMS 409 | 4559 | craj | . | Richa Agrawal | DOMS 307 | 4564 | richa | . | Rupashree Baral | DOMS 206 | 4561 | rupashree | . | Saji Mathew | DOMS 505 | 4573 | saji | . | Srinivasan G | DOMS 111 | 4560 | gsrini | . | Srinivasan S | DOMS 204 | 4583 | srinivasan | . | Sundarraj RP | DOMS 502 | 4558 | rpsundarraj | . | Thenmozhi M | DOMS 203 | 4562 | mtm | . | Thillai Rajan A | DOMS 202 | 4569 | thillair | . | Usha Mohan | DOMS 205 | 4576 | ushamohan | . | Vaibhav Chawla | DOMS 503 | 4585 | vaibhavchawla | . | Varisha Rehman | DOMS 207 | 4572 | varisha | . | Vartika Srivastava | DOMS 408 | 4581 | vartikas | . | Vijayalakshimi V | DOMS 303 | 4566 | viji | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/#regular-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/#regular-faculty"
-  },"316": {
+  },"319": {
     "doc": "Management Studies",
     "title": "Professor of Practise",
     "content": "| Name | Location | Phone | Email | . | Kandaswamy Paramasivan | DOMS 113B | 4589 | kandy | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/#professor-of-practise",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/#professor-of-practise"
-  },"317": {
+  },"320": {
     "doc": "Management Studies",
     "title": "Officers",
     "content": "| Name | Post | Location | Phone | Email | . | Meenakshi R |   | DOMS 255 | 4584 | rmeena | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/#officers",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/#officers"
-  },"318": {
+  },"321": {
     "doc": "Management Studies",
     "title": "Labs / Common Facility",
     "content": "| Name | Location | Phone | . | AACSB Accreditation | DOMS 414 | 5556 | . | Centre for Learning and Development - Project Office | DOMS 106B | 4587 | . | DOMS Placement Office | DOMS 106 | 5560 | . | EMBA Office | DOMS 414 | 5558 | . | Lift | DOMS | 5514 | . | MBA Lab | DOMS 255 | 5552 | . | Project Lab | DOMS 207A | 5559 | . | Scholars Lab | DOMS 405 | 5553 | . | Seminar Room | DOMS 110 | 5554 | . | Stores | DOMS 255A | 5551 | . | Visionary Leadership in Manufacturing | DOMS 106 | 4570 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ms/#labs--common-facility",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ms/#labs--common-facility"
-  },"319": {
+  },"322": {
     "doc": "Medical Science and Technology",
     "title": "Medical Science and Technology",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/"
-  },"320": {
+  },"323": {
     "doc": "Medical Science and Technology",
     "title": "Head of the Department",
     "content": "| Name | Cell_Phone | Location | Phone | Email | . | Boby George | unknown |   |   | msthead | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/#head-of-the-department",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/#head-of-the-department"
-  },"321": {
+  },"324": {
     "doc": "Medical Science and Technology",
     "title": "Regular Faculty",
     "content": "| Name | Location | Phone | Email | . | Boby George |   | 4465 | boby | . | R Krishna Kumar (Institute Professor, Emeritus Professor) |   | XXXX | rkkumar | . | Srikanth Vedantam |   | 4739 | srikanth | . | Srinivasa Chakravarthy |   | 4115 | schakra | . | Anubama Rajan |   | XXXX | anu | . | Pradeeba Sridar |   | XXXX | spradeeba | . | Sunil Kumar Boda |   | XXXX | sunilboda | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/#regular-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/#regular-faculty"
-  },"322": {
+  },"325": {
     "doc": "Medical Science and Technology",
     "title": "Adjunct Faculty",
     "content": "| Name | Location | Phone | Email | . | M Srinivas |   |   | unavailable | . | RM Anjana |   |   | unavailable | . | Rita Christopher |   |   | unavailable | . | Rohan Jaishankar |   |   | unavailable | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/#adjunct-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/#adjunct-faculty"
-  },"323": {
+  },"326": {
     "doc": "Medical Science and Technology",
     "title": "Professor of Practise",
     "content": "| Name | Location | Phone | Email | . | KR Balakrishnan |   |   | unavailable | . | Vijit Cherian |   |   | unavailable | . | Karthik Kailash |   |   | unavailable | . | Ajit S Mullassari |   |   | unavailable | . | JSN Murthy |   |   | unavailable | . | Bhagyam Raghavan |   |   | unavailable | . | Rajiv Raman |   |   | unavailable | . | Rajan Ravichandran |   |   | unavailable | . | Suresh Seshadri |   |   | unavailable | . | S Vijayakumar |   |   | unavailable | . | Shiv Viswanathan |   |   | unavailable | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/#professor-of-practise",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/#professor-of-practise"
-  },"324": {
+  },"327": {
     "doc": "Medical Science and Technology",
     "title": "Labs / Common Facility",
     "content": "| Name | Location | Phone | . | MST Lab | MST | XXXX | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/mst/#labs--common-facility",
     
     "relUrl": "/docs/Telephone_Directory/Departments/mst/#labs--common-facility"
-  },"325": {
+  },"328": {
     "doc": "National Cadet Corps",
     "title": "National Cadet Corps",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ncc/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ncc/"
-  },"326": {
+  },"329": {
     "doc": "National Cadet Corps",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Office |   | Hostel Avenue | 8532 |   | . | NSS Office |   | Near KV | 8533 |   | . | NSS Coordinator |   | Near KV | 8533 |   | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ncc/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ncc/#staff"
-  },"327": {
+  },"330": {
     "doc": "National Cadet Corps",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Office | Hostel Avenue | 8532 | . | NSS Office | Near KV | 8533 | . | NSS Coordinator | Near KV | 8533 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ncc/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ncc/#sections"
-  },"328": {
+  },"331": {
     "doc": "National Centre for Catalysis Research",
     "title": "National Centre for Catalysis Research",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccr/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccr/"
-  },"329": {
+  },"332": {
     "doc": "National Centre for Catalysis Research",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | P Selvam | Professor | KCL 211 | 4235 | selvam | . | Viswanathan B | Emeritus Professor | KCL 306 | 4241 | bvnathan | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccr/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccr/#staff"
-  },"330": {
+  },"333": {
     "doc": "National Centre for Catalysis Research",
     "title": "Sections",
     "content": "| Name | Location | Phone | — | — | — | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccr/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccr/#sections"
-  },"331": {
+  },"334": {
     "doc": "National Centre for Combustion Research and Development",
     "title": "National Centre for Combustion Research and Development",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccrd/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccrd/"
-  },"332": {
+  },"335": {
     "doc": "National Centre for Combustion Research and Development",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Chakravarthy SR | Head | NCCRD FF | 4011 | src | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccrd/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccrd/#staff"
-  },"333": {
+  },"336": {
     "doc": "National Centre for Combustion Research and Development",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Professor i/c | NCCRD FF | 4011 | . | Office | NCCRD FF | 9860 | . | Manager | NCCRD FF | 9862 | . | Purchase | NCCRD FF | 9863 | . | Coordinator | NCCRD FF | 9864 | . | FAX | NCCRD FF | 9869 | . | Aero Lab | NCCRD 4F | 9891 | . | Aero Student Office 1 | NCCRD 2F | 9874 | . | Aero Student Office 2 | NCCRD 2F | 9873 | . | Aero Student Office 3 | NCCRD 2F | 9870 | . | Aero Student Office 5 | NCCRD 4F | 9892 | . | Aero Student Office 6 | NCCRD 4F | 9894 | . | Anechoic Chamber | NCCRD 3F | 9886 | . | Automotive Lab | NCCRD GF | 9851 | . | Burner Development Lab | NCCRD 3F | 9885 | . | CCTV UPS Room | NCCRD 3F | 9884 | . | Combustion Dynamics Lab | NCCRD 2F | 9871 | . | Computational Lab | NCCRD 3F | 9880 | . | Conference Room 1 | NCCRD 1F | 9865 | . | Conference Room 2 | NCCRD 1F | 9866 | . | Drop Tower Head Room | NCCRD | 9896 | . | Electronic Control Room | NCCRD 3F | 9887 | . | Fire Research Lab | NCCRD 2F | 9872 | . | Fuel Characterization Lab | NCCRD GF | 9855 | . | Gas Dynamics Lab | NCCRD 2F | 9875 | . | Laser Diagnostics Lab | NCCRD 4F | 9893 | . | Lift | NCCRD | 9897 | . | Micro Gravity Lab | NCCRD 1F | 9867 | . | Record Room | NCCRD 1F | 9861 | . | Security Guard | NCCRD GF | 9852 | . | Spray Diagnostics Lab | NCCRD 4F | 9895 | . | Store Room | NCCRD 3F | 9890 | . | Student Room | NCCRD 3F | 9888 | . | Thermal Power Lab | NCCRD GF | 9854 | . | Visiting Faculty Room 1 | NCCRD 3F | 9882 | . | Visiting Faculty Room 2 | NCCRD 3F | 9883 | . | CEO | NCCRD 3F | 9881 | . | Workshop | NCCRD GF | 9853 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nccrd/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nccrd/#sections"
-  },"334": {
+  },"337": {
     "doc": "National Facility for Atom Probe Tomography",
     "title": "National Facility for Atom Probe Tomography",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nfapt/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nfapt/"
-  },"335": {
+  },"338": {
     "doc": "National Facility for Atom Probe Tomography",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Dr.-Ing. KG Pradeep | Faculty i/c | KCB 248 | 4764 | kgprad | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nfapt/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nfapt/#staff"
-  },"336": {
+  },"339": {
     "doc": "National Facility for Atom Probe Tomography",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | LEAP | HSB 134 | 5798 | . | FIB | HSB 141 | 5799 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/nfapt/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/nfapt/#sections"
-  },"337": {
+  },"340": {
     "doc": "Non-GeM Procurement",
     "title": "Table of contents",
     "content": ". | Abbreviations . | Additional specific documents: | . | . ",
     "url": "/fachandbook/nongem_landing/#table-of-contents",
     
     "relUrl": "/nongem_landing/#table-of-contents"
-  },"338": {
+  },"341": {
     "doc": "Non-GeM Procurement",
     "title": "Abbreviations",
     "content": ". | S&amp;P- Stores and Purchase | F&amp;A- Finance and Accounts | PO- Purchase Order | AMC – Annual Maintenance Contract | OEM – Original Equipment Manufacturer | LPC- Local Purchase Committee (End user + 2 other faculty members from the same dept) | CPPP– Central Public Procurement Portal | HoD – Head of Department | SPC- Stores &amp; Purchase Committee; | L1- Lowest Financial Bid | EPC – Exclusive Purchase Committee: HoD (Chairperson) + End user (Convenor) + 2 faculty from allied dept + Deputy registrar (S&amp;P) + | DR/AR (F\\&amp;A) | PPC – Project Purchase Committee | . Tax Invoice . | A GeM Non-Availability Certificate (NAC) must be recorded when an item or service is not available on the GeM portal. Procurement may bypass GeM only after confirming non-availability and with proper approval and justification . | Mandatory documents for local purchases above ₹5 Lakhs: (i) land border sharing compliance; and (ii) Make in India (MII)/ Local content certificate to comply with the Make in India initiative in one of the following categories: . | Class 1 – More than 50% of local content | Class 2 – 20-50% of local content | . | Local content: the total value of the item procured (excluding net domestic indirect taxes) minus the value of imported content in the item (including all custom duties) as a proportion of the total value in percent. | For Non-local (Less than 20% of local content, technical justification required | . | For all purchases above ₹10 lakh, a tender document (detailing the technical specifications of the item to be procured along with additional requirements, including terms &amp; conditions, and timelines) has to be floated mandatorily on the Institute’s Tender Portal (tender.iitm.ac.in) and the CPPP: https://eprocure.gov.in/epublish/app. | 2-Bid System is mandatory: (i) Technical bid – detailing technical specifications of the product that vendor is supplying; (ii) Financial bid. These have to be in 2 separate sealed envelopes which should be opened in the following order: | First: After tender deadline, only technical bids are opened in presence of the respective committee who will countersign on the envelope (before opening) and the technical bid (after opening). Following this, the end user is required to provide a comparative statement between the technical requirements provided in tender and the technical specifications offered in the technical bid. | Second: Once technical comparative statement is prepared by the end user, financial bids are opened only for those bids which are selected/ qualified technically. Financial bids will be opened in the presence of the respective committee who will countersign on the envelope (before opening) and the financial bid (after opening). Once the financial bids are opened, order shall be placed only with the lowest bidder among the opened financial bids. | DO NOT OPEN THE FINANCIAL BIDS IF THEY DID NOT QUALIFY TECHNICALLY, AS PER FIRST STEP | . | Import purchases: a technical write-up and justification for research/non-research must be added. | . ",
     "url": "/fachandbook/nongem_landing/#abbreviations",
     
     "relUrl": "/nongem_landing/#abbreviations"
-  },"339": {
+  },"342": {
     "doc": "Non-GeM Procurement",
     "title": "Additional specific documents:",
     "content": ". | For AMC: PO of the product or PO of its previous AMC | For spares/consumables: Original PO of the product for which the spares/consumables are being procured | . | Slab Value (INR) | Procedure | Documents to be Attached | Approving# Authority | . | Up to ₹1,00,000 (Direct Purchase) | No quotations/bids required. | User certificate for &gt;₹ 15000(Annexure-A) Quotation (if any) countersigned by user For imported goods, OEM Authorization/ proprietary certificate and technical write-up | Approved by HoD PO issued by Dept for local purchase; by Admin Stores for Import/AMC. | . | Above ₹1,00,000 to ₹10,00,000 through Local Purchase Committee (LPC) | Quotation(s) is/are mandatory | Quotation countersigned by user LPC Certificate (Annexure-B: market survey for reasonableness) Comparative Statement OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Approved by HoD PO issued by: Dept for local purchase; Admin Stores for Import/AMC | . | Above ₹10,00,000 to ₹50,00,000 Through Limited tender enquiry | Min. 7 days bid period for tender floated on CPPP &amp; IITM website Min. 4 enquiries should be called for from the bidders through email. Bid Evaluation Committee (&gt;=4 members): HoD + End user + min. 2 other faculty from the same dept. | Tender document, quotations / bids (countersigned) Vendor dispatch proof (emails enquiries sent to 4 potential bidders) CPPP/IITM tender publication proof Comparative statements (Technical Financial) OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | HoD (Dept. initiates) Chairman, SPC (Final Approval) PO issued by AR (S\\&amp;P) | . | Above ₹50,00,000 Through open tenders evaluated by Large Purchase Committee (6+ members) | Only e-procurement mode 2-bid system tender process detailed above to be followed 21-day tender period | Director’s financial approval (if not from dept. budget) Tender document; Technical &amp; Financial bids (countersigned) CPPP/IITM tender publication proof Comparative statements (Technical Financial) OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Director (Final Approval) PO issued by Asst. Registrar (S\\&amp;P) | . | In case of advance payment, partial payment can be done against proforma invoice. | Final payment is released only after the vendor provides tax invoice and any additional documents (warranty certificate, installation certificate, service report) as applicable. | For purchases other than goods &amp; equipment, Heads of Dept/ Centres, Registrar, and all Deans are authorized to approve service-related procurements up to ₹5,00,000. Above ₹5,00,000, approval must be obtained from the Director. | Repeat order: Goods/equipment which have already been procured following appropriate procedures can be purchased by simply raising that PO again, provided the order is placed within 90 days of the original order. Repeat order can be placed only once for a given original PO. | . ",
     "url": "/fachandbook/nongem_landing/#additional-specific-documents",
     
     "relUrl": "/nongem_landing/#additional-specific-documents"
-  },"340": {
+  },"343": {
     "doc": "Non-GeM Procurement",
     "title": "Non-GeM Procurement",
     "content": " ",
     "url": "/fachandbook/nongem_landing/",
     
     "relUrl": "/nongem_landing/"
-  },"341": {
+  },"344": {
     "doc": "National Technology Centre for Ports, Waterways and Coasts",
     "title": "National Technology Centre for Ports, Waterways and Coasts",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ntcpwc/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ntcpwc/"
-  },"342": {
+  },"345": {
     "doc": "National Technology Centre for Ports, Waterways and Coasts",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Murali K | Faculty i/c | DOE 005 | 4816 | murali | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ntcpwc/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ntcpwc/#staff"
-  },"343": {
+  },"346": {
     "doc": "National Technology Centre for Ports, Waterways and Coasts",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Conference Room | NAC1 6th Floor | 8910 | . | Officers Room 1 to 4 | NAC1 6th Floor | 8911 to 8914 | . | PI’s Room-1 | NAC1 6th Floor | 8915 | . | PI’s Room-2 | NAC1 6th Floor | 8916 | . | Project Officers and Associate | NAC1 6th Floor | 8917 | . | Admin Staff-1 | NAC1 6th Floor | 8918 | . | Admin Staff-2 | NAC1 6th Floor | 8919 | . | Admin Staff-3 | NAC1 6th Floor | 8920 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/ntcpwc/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/ntcpwc/#sections"
-  },"344": {
+  },"347": {
     "doc": "Ocean Engineering",
     "title": "Ocean Engineering",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/oe/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/oe/"
-  },"345": {
+  },"348": {
     "doc": "Ocean Engineering",
     "title": "Head of the Department",
     "content": "| Name | Cell_Phone | Location | Phone | Email | . | Nallayarasu S | 9444008621 | DOE 102 | 4801 | headoec | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/oe/#head-of-the-department",
     
     "relUrl": "/docs/Telephone_Directory/Departments/oe/#head-of-the-department"
-  },"346": {
+  },"349": {
     "doc": "Ocean Engineering",
     "title": "Regular Faculty",
     "content": "| Name | Location | Phone | Email | . | Abdus Samad | DOE 308 | 4826 | samad | . | Abhilash Sharma Somayajula | DOE 004A | 4823 | abhilash | . | Ananthakrishnan P | DOE 104A | 4811 | ananthakrishnan | . | Arjun Jegannathan | DOE 002 | 4806 | arjunj | . | Bithin Ghorai | DOE 115 | 4815 | bghorai | . | Deepak Kumar | DOE 105 | 4828 | deepakkumar | . | Krishnankutty P | DOE 307 | 4820 | pkrishnankutty | . | Murali K | DOE 005 | 4816 | murali | . | Nallayarasu S | DOE 211 | 4819 | nallay | . | Narendran Kumar | DOE 005B | 4831 | knaren | . | Nilanjan Saha | DOE 104B | 4827 | nilanjan | . | Paneer Selvam R | DOE 212 | 4807 | pselvam | . | Poguluri Sunny Kumar | DOE 006 | 4805 | pskumar | . | Rajesh R Nair | DOE 007 | 4824 | rajeshnair | . | Rajiv Sharma | DOE 208 | 4822 | rajivatri | . | Sannasiraj S A | DOE 209 | 4817 | sasraj | . | Shanmugam P | DOE 110 | 4818 | pshanmugam | . | Srinivasan Chandrasekaran | DOE 207 | 4821 | drsekaran | . | Sriram V | DOE 304 | 4813 | vsriram | . | Suresh Kumar G | DOE 307 | 4814 | gskumar | . | Suresh Rajendran | DOE 301 | 4830 | sureshr | . | Tharun K Chandrayadula | DOE 109B | 4808 | tkchandr | . | Vijay K G | DOE 310 | 4812 | vijaykg | . | Vijayakumar R | DOE 302 | 4829 | vijay2028 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/oe/#regular-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/oe/#regular-faculty"
-  },"347": {
+  },"350": {
     "doc": "Ocean Engineering",
     "title": "Emeritus Faculty",
     "content": "| Name | Location | Phone | Email | . | Sundar V | DOE 305 | 4809 | vsundar | . | Sundaravadivelu R | DOE 305 | 4810 | rsun | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/oe/#emeritus-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/oe/#emeritus-faculty"
-  },"348": {
+  },"351": {
     "doc": "Ocean Engineering",
     "title": "Labs / Common Facility",
     "content": "| Name | Location | Phone | . | 2m wave cum current flume | DOE 114 | 5833 | . | 4m wave flume | DOE 116 | 5803 | . | ABCD Lab-Global Watersclimate Adaptation Centre | KCB 348 | 5830 | . | CMIS / CWC IITM Cell Lab | DOE GF | 5802 | . | Coastal and Environmental Modeling Lab | DOE Annex | 5807 | . | Conference Room | DOE 112 | 5829 | . | DCF | DOE 102A | 5801 | . | DCF GF | DOE 010 | 5835 | . | Dynamics Lab | DOE GF | 5831 | . | Drilling Technology Lab | DOE GF | 5840 | . | Gas Hydrates Lab | DOE GF | 5834 | . | Glass Flume GF | DOE 002 | 5817 | . | Instrumentation Lab | DOE 111 | 5806 | . | Library | DOE 216 | 5808 | . | Lift | DOE | 5809 | . | Meeting Lounge | DOE 114 | 5845 | . | MEWM Basement Room | DOE 008 | 5813 | . | NIOT Cell | DOE 005A | 5844 | . | Ocean Acoustics and Signal Processing Lab | DOE 121 | 5843 | . | Ocean Energy Lab | DOE Annex | 5805 | . | Offshore Structure Lab | DOE | 5811 | . | Offshore Testing Lab | DOE 218 | 5823 | . | Petroleum Geomechanics Lab | DOE 003 | 5839 | . | Project Staff Room | DOE 205 | 5822 | . | Project Staff Room | DOE 212 | 5836 | . | Project Staff Room | DOE 311B | 5818 | . | Project Staff Room | DOE 213 | 5819 | . | Project Staff Room | DOE 312 | 5824 | . | Research Scholar Room | DOE GF | 5838 | . | Research Scholar Room | DOE 311A | 5812 | . | Research Scholar Room | DOE 008 | 5804 | . | Research Scholar Room | DOE 101 | 5821 | . | Research Scholar Room | DOE 007A | 5842 | . | Research Scholar Room | DOE GF | 5810 | . | Seminar Room | DOE 201 | 5825 | . | Shallow Flume | DOE FF | 5816 | . | Shallow Water Basin | DOE GF | 5832 | . | Stores | DOE 102 | 5826 | . | Towing Tank | TWT | 5841 | . | UTM Lab Control Room | DOE GF | 5814 | . | Wave Basin Bay | DOE | 5846 | . | Wave Basin Control Room | DOE 113 | 5827 | . | Wave Energy and Fluid Engg Lab | DOE GF | 5837 | . | Workshop | DOE 009 | 5828 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/oe/#labs--common-facility",
     
     "relUrl": "/docs/Telephone_Directory/Departments/oe/#labs--common-facility"
-  },"349": {
+  },"352": {
     "doc": "Offering Courses",
     "title": "Table of contents",
     "content": ". | Things to do in the first week of classes | Letter grades and points | Offering a new course | Options available to students for academic improvement | Specially-abled students: | Teacher course feedback | Uploading final grades | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#table-of-contents",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#table-of-contents"
-  },"350": {
+  },"353": {
     "doc": "Offering Courses",
     "title": "Things to do in the first week of classes",
     "content": ". | Clearly communicate the evaluation pattern. Later it must be approved by Class Committee (constituted by the department in the beginning of the semester to ensure the smooth conduct of the course). Typical evaluation pattern: 20-30% each for Quiz I &amp; Quiz II, 0-20% for assignments, and 40-60% (to be strictly adhered to) for an end semester exam. | Course Outline | Introduce TAs | Office hours- yours as well as TAs | Check your attendance frequently through the Digiicampus app. | Make the students aware of the academic dishonesty policy. There are graded punishments for various academic malpractices and unfair means during examinations and assignments which can be found at this link. | Let the students know that they should follow an official process (through workflow) to request for taking up makeup, supplementary exam or E to D upgradation. Private/ email requests will not be entertained. | Supplementary and makeup exams are conducted on institute stipulated dates at the end of the particular semester, and not later or any other day. | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#things-to-do-in-the-first-week-of-classes",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#things-to-do-in-the-first-week-of-classes"
-  },"351": {
+  },"354": {
     "doc": "Offering Courses",
     "title": "Letter grades and points",
     "content": "Different letter grades carry the following points: . | Grade | S | A | B | C | D | E | U | . | Points | 10 | 9 | 8 | 7 | 6 | 4 | 0 | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#letter-grades-and-points",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#letter-grades-and-points"
-  },"352": {
+  },"355": {
     "doc": "Offering Courses",
     "title": "Offering a new course",
     "content": ". | To offer a new course in a particular semester, start the process at the beginning of the previous semester.** . | Workflow :arrow_right: Academics :arrow_right: Introduce/Modify Course: **After filling in details, Click PrintCourse button and download the document and share with department. | Following approvals are needed: DCC (Dept Consultative Committee) :arrow_right: BAC (Board of Academic Courses) :arrow_right: Senate | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#offering-a-new-course",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#offering-a-new-course"
-  },"353": {
+  },"356": {
     "doc": "Offering Courses",
     "title": "Options available to students for academic improvement",
     "content": ". | Supplementary exam is a retest for the end semester exam only (not for quizzes or assignments), to be completed before the next semester begins. It is given for those who got a U grade and have 75% or more attendance. Only one attempt is allowed. | Makeup exams for quizzes/ end semester exams are given to those who missed the respective exams due to: a) medical emergency (with the approval of CMO of IITM hospital) b) other emergencies for which approval is required from Dean Academic Courses. | E to D upgradation exam is a retest for the end semester exam only (not for quizzes or assignments), to be completed before the next semester begins. It is given for those who secured a E grade and have 75% or more attendance. Only one attempt is allowed. | Summer course is offered for students with a backlog in core course, if the concerned faculty is willing to offer the same. A student can take up a maximum of two such courses at a time. | Contact course may be offered during a regular semester or summer, to final-year students with a backlog in a CORE course, provided the course is not offered during that period. Contact courses are subject to departmental approval and faculty-student agreement. A student can take up a maximum of two such courses at a time. | . Students have to apply to academic section through a due process for the above options. Academic section will inform the faculty regarding the same. Faculty should not entertain individual requests. ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#options-available-to-students-for-academic-improvement",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#options-available-to-students-for-academic-improvement"
-  },"354": {
+  },"357": {
     "doc": "Offering Courses",
     "title": "Specially-abled students:",
     "content": "Office of Dean Academic Courses will intimate the department and the faculty concerning the presence of students with special needs in your course. Please take note of it and follow the guidelines shared. ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#specially-abled-students",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#specially-abled-students"
-  },"355": {
+  },"358": {
     "doc": "Offering Courses",
     "title": "Teacher course feedback",
     "content": ". | Students give feedback about the course and instructor towards the end of semester | Faculty can view the above anonymous feedback on workflow after the grades are uploaded and approved | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#teacher-course-feedback",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#teacher-course-feedback"
-  },"356": {
+  },"359": {
     "doc": "Offering Courses",
     "title": "Uploading final grades",
     "content": ". | Uploading grades in the workflow has to be completed before a given deadline (indicated in the academic calendar). | . It is MANDATORY to stick to this deadline as otherwise it affects the academic operations severely. | After the grades are uploaded by instructor, the Class Committee chairman has to approve. | . ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/#uploading-final-grades",
     
     "relUrl": "/docs/academic_courses/offerring_courses/#uploading-final-grades"
-  },"357": {
+  },"360": {
     "doc": "Offering Courses",
     "title": "Offering Courses",
     "content": " ",
     "url": "/fachandbook/docs/academic_courses/offerring_courses/",
     
     "relUrl": "/docs/academic_courses/offerring_courses/"
-  },"358": {
+  },"361": {
     "doc": "Alumni and Corporate relations and Global Engagement",
     "title": "Table of contents",
     "content": ". | Alumni and Corporate Relations (ACR) | Global Engagement (GE) | . ",
     "url": "/fachandbook/docs/academic_research/others/#table-of-contents",
     
     "relUrl": "/docs/academic_research/others/#table-of-contents"
-  },"359": {
+  },"362": {
     "doc": "Alumni and Corporate relations and Global Engagement",
     "title": "Alumni and Corporate Relations (ACR)",
     "content": ". | Office of ACR: Location: 2nd floor, ICSR Building. 8071, email: deanacroffice@iitm.ac.in, Website: https://acr.iitm.ac.in/ . | Office of ACR coordinates with alumni network to bring funds to the institute; and connects with corporates to bring Corporate Social Responsibility funding. | . ",
     "url": "/fachandbook/docs/academic_research/others/#alumni-and-corporate-relations-acr",
     
     "relUrl": "/docs/academic_research/others/#alumni-and-corporate-relations-acr"
-  },"360": {
+  },"363": {
     "doc": "Alumni and Corporate relations and Global Engagement",
     "title": "Global Engagement (GE)",
     "content": "Office of GE supports student and faculty exchange programs, joint degree programs, joint research initiatives with international institutions, and support for planning and organizing international conferences at IITM. ",
     "url": "/fachandbook/docs/academic_research/others/#global-engagement-ge",
     
     "relUrl": "/docs/academic_research/others/#global-engagement-ge"
-  },"361": {
+  },"364": {
     "doc": "Alumni and Corporate relations and Global Engagement",
     "title": "Key Divisions:",
     "content": ". | International Partnerships: To facilitate MoUs with partner institutions . | International Academic Programs (email): To initiate international collaborative programs, the initiating faculty must serve as faculty champion from IITM, and submit a joint proposal with partner institution for review by the steering committee of both institutions. The following are some of the current programs available: . | Jointly Funded Bilateral Mobility Program (JFBMP): to support travel and living expenses (no per diem) for visiting partner universities and vice-versa. Mirror funding from the partner institution is mandatory. | High Risk High Reward Mobility Grant: to strengthen IITM’s global visibility and reputation through ties with top-ranked institutions (e.g., QS top 25). Expected outcomes are high-quality research publications, joint research projects, innovative solutions, new academic resources. | Visiting Faculty Fellowship: to foster internationalization by inviting distinguished global researchers (receive consolidated remuneration) to collaborate with IITM for 2-12 weeks. | . | International Conference Secretariat (email): To support international and industry-focused conferences/ workshops/ seminars. Support includes: Financial assistance; logistics and operations support; necessary clearances from ministries, etc. It will provide comprehensive guidance for streamlined planning, execution and follow-up. Schedule a meeting with the secretariat while planning a conference. Calls for proposals are issued 3 times a year. | . ",
     "url": "/fachandbook/docs/academic_research/others/#key-divisions",
     
     "relUrl": "/docs/academic_research/others/#key-divisions"
-  },"362": {
+  },"365": {
     "doc": "Alumni and Corporate relations and Global Engagement",
     "title": "Alumni and Corporate relations and Global Engagement",
     "content": " ",
     "url": "/fachandbook/docs/academic_research/others/",
     
     "relUrl": "/docs/academic_research/others/"
-  },"363": {
+  },"366": {
     "doc": "Payslip",
     "title": "Table of contents",
     "content": ". | Understanding your payslip | Allowances | Deductions | . ",
     "url": "/fachandbook/payslip/#table-of-contents",
     
     "relUrl": "/payslip/#table-of-contents"
-  },"364": {
+  },"367": {
     "doc": "Payslip",
     "title": "Understanding your payslip",
     "content": ". | For salary related queries contact Pay Bills Section - 8248 | . Salary is disbursed at the end of the month. Below is a sample salary slip (for indicative purposes only): . | Basic pay is based on the pay grade. | Faculty pay grades are described at https://admin.iitm.ac.in/pay-matrix-table/. | . ",
     "url": "/fachandbook/payslip/#understanding-your-payslip",
     
     "relUrl": "/payslip/#understanding-your-payslip"
-  },"365": {
+  },"368": {
     "doc": "Payslip",
     "title": "Allowances",
     "content": "| Type of Allowance | Details | Amount ( % of basic pay ) | . | Dearness Allowance (DA) | Cost-of-living adjustment fixed by the govt. – Revised every 6 months | 53% as of July 2024 | . | House Rent Allowance (HRA) | Only if living off-campus. | 27% as of June 2024 | . | Transport Allowance (TA) |   | Rs. 7200 + (DA% of 7200) | . | Reim. Telephone | Telephone &amp; Broadband Charges | Rs 750 | . | Children’s Education Allowance | For schooling and hostel requirements of children (up to 2) from KG to class 12. Form to be filled in Workflow. Appears on the pay slip as Tuition Fees. | Rs. 33,750 for schooling, Rs. 1,01,250 for hostel. Divyaang children entitled to double the amount. | . Additional payments from Consultancy projects, GATE/JEE responsibilities, honorarium from online courses, etc. will also reflect in your salary slip. ",
     "url": "/fachandbook/payslip/#allowances",
     
     "relUrl": "/payslip/#allowances"
-  },"366": {
+  },"369": {
     "doc": "Payslip",
     "title": "Deductions",
     "content": "|   | Details | Contact | . | National Pension Scheme (NPS) | https://www.npscra.nsdl.co.in/ | 8255 | . | Group Medical Insurance (GMIS) | For Institute employees and eligible dependents (mandatory). The institute will send emails from time to time regarding optional additional coverage. https://admin.iitm.ac.in/insurance-details/ | 8120/8112 | . | Group Term Insurance Scheme (GTIS) | Offers a lump sum payment to the employee’s beneficiary in case of death for employees to cover against death. Option available to choose higher premiums for better coverage. Once withdrawn, there is no option to re-enroll in this scheme. https://admin.iitm.ac.in/wp-content/uploads/2023/03/GTIS-Circular-Employee-2023-24.pdf | 8120/8112 | . | License Fee | A license fee is charged for those availing campus residence, depending on the type of quarters allotted. |   | . | Staff Medical Facilities | A nominal fee is deducted towards staff medical facilities at IITM Hospital. |   | . | Professional Tax |   |   | . In addition, for campus residents, charges towards utilities such as water, electricity, waste disposal, milk supply (if through staff club), satellite TV (if through staff club), are also deducted from salary. Membership fees for various associations and clubs on campus like Faculty Association, Film Club, etc. are also deducted. ",
     "url": "/fachandbook/payslip/#deductions",
     
     "relUrl": "/payslip/#deductions"
-  },"367": {
+  },"370": {
     "doc": "Payslip",
     "title": "Payslip",
     "content": " ",
     "url": "/fachandbook/payslip/",
     
     "relUrl": "/payslip/"
-  },"368": {
+  },"371": {
     "doc": "Physics",
     "title": "Physics",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/"
-  },"369": {
+  },"372": {
     "doc": "Physics",
     "title": "Head of the Department",
     "content": "| Name | Cell_Phone | Location | Phone | Email | . | Santhosh P N | 9444008651 | HSB 205 | 4851 | phhead | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#head-of-the-department",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#head-of-the-department"
-  },"370": {
+  },"373": {
     "doc": "Physics",
     "title": "Regular Faculty",
     "content": "| Name | Location | Phone | Email | . | Abhishek Misra | HSB 252B | 4859 | abhishek.misra | . | Aravind G | HSB 232 | 4863 | garavind | . | Arul Lakshminarayan | HSB 215 | 4878 | arul | . | Ashwin Joy | HSB 304A | 4892 | ashwin | . | Ayan Mukhopadyay | HSB 248B | 4842 | ayan | . | Basudev Roy | HSB 271 | 4843 | basudev | . | Bisht P B | HSB 307 | 4866 | bisht | . | Chandra Kanth Mishra | HSB 234 | 4860 | ckm | . | Dawood Kothawala | HSB 224D | 4848 | dawood | . | Dillip Kumar Satapathy | MSB 323 | 4899 | dks | . | Ganesan A R | MSB 350 | 4891 | arg | . | Govindarajan Suresh | HSB 315A | 4867 | suresh | . | Harish Kumar N | HSB 103 | 4879 | nhk | . | Ipsita Saha | HSB 311 | 4869 | ipsita | . | James Frederick Libby | HSB 116A | 4885 | libby | . | Jatindra Kumar Rath | HSB 267 | 4855 | jkr | . | Jayeeta Bhattacharyya | HSB 304B | 4856 | jayeeta | . | Kasiviswanathan S | HSB 115 | 4868 | kasi | . | Krishnamurthy C V | HSB 111A | 4864 | cvkm | . | Mahaveer Kumar Jain | HSB 213A | 4880 | mkjain | . | Manoj Gopalakrishnan | HSB 218A | 4894 | manojgopal | . | Manu Jaiswal | HSB 252A | 4893 | manu.jaiswal | . | Murugavel P | HSB 252 | 4897 | muruga | . | Neelima N Gupte | HSB 312 | 4861 | gupte | . | Nirmala R | HSB 117 | 4888 | nirmala | . | Panchanana Khuntia | HSB 119A | 4847 | pkhuntia | . | Parvendra Kumar | HSB 247B | 4881 | parvendra | . | Pattabiraman M | HSB 114 | 4890 | pattu | . | Prabha Mandayam | HSB 309A | 4853 | prabhamd | . | Prabhat Ranjan Pujahari | HSB 251 | 4844 | p.pujahari | . | Prafulla Kumar Behera | HSB 101B | 4898 | behera | . | Prahallad Padhan | HSB 213 | 4884 | padhan | . | Prasanta Kumar Muduli | HSB 112 | 4837 | muduli | . | Prasanta Kumar Tripathy | HSB 311 | 4889 | prasanta | . | Praveen Vidya Bhallamudi | HSB 250 | 4849 | praveen.bhallamudi | . | Rajesh Narayanan | HSB 311A | 4858 | rnarayanan | . | Rajesh Singh | HSB 112A | 4838 | rsingh | . | Ramachandra Rao M S (R Srinivasan Chair Professor) | MRC 103 | 4872 | msrrao | . | Ranjit Kumar Nanda B | HSB 245 | 4887 | nandab | . | Ravichandran Shivanna | HSB 247A | 4834 | ravics | . | Samir Choudhuri | HSB 224C | 4865 | samir | . | Santhosh P N | HSB 113 | 4882 | santhosh | . | Satyanarayana M V | HSB 310C | 4874 | mvs | . | Sethupathi K | HSB 110 | 4875 | ksethu | . | Shantanu Mukherjee | HSB 254H | 4845 | shantanu | . | Siddarth D Dhomkar | HSB 116B | 4873 | sdhomkar | . | Sivarama Krishnan | MSB 323 | 4857 | srkrishnan | . | Somnath Chanda Roy | HSB 119B | 4886 | somnath | . | Srinivas V | HSB 106C | 4896 | veeturi | . | Sriramkumar L | HSB 202A | 4854 | sriramkumar | . | Subramanian V | HSB 223 | 4883 | manianvs | . | Sudakar Chandran | HSB 236 | 4895 | csudakar | . | Sunethra Ramanan | HSB 315 | 4871 | suna | . | Sunil Kumar P B | MSB 322A | 4876 | sunil | . | Vaibhav Madhok | HSB 234 | 4846 | madhok | . | Yasir Iqbal | HSB 249A | 4841 | yiqbal | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#regular-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#regular-faculty"
-  },"371": {
+  },"374": {
     "doc": "Physics",
     "title": "Visiting Faculty",
     "content": "| Name | Location | Phone | Email | . | Srinivas Krishnamurthy | HSB 251 | 4833 | unavailable | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#visiting-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#visiting-faculty"
-  },"372": {
+  },"375": {
     "doc": "Physics",
     "title": "Emeritus Faculty",
     "content": "| Name | Location | Phone | Email | . | Ramaprabhu S | HSB 111 | 4862 | ramp | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#emeritus-faculty",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#emeritus-faculty"
-  },"373": {
+  },"376": {
     "doc": "Physics",
     "title": "Officers",
     "content": "| Name | Post | Location | Phone | Email | . | Rajan G B | Technical Officer | HSB 324 | 4881 | gbrajan | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#officers",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#officers"
-  },"374": {
+  },"377": {
     "doc": "Physics",
     "title": "Labs / Common Facility",
     "content": "| Name | Location | Phone | . | 2D Laboratory | HSB 262 | 8949 | . | Advanced Magnetic Materials Lab (AMMLa) | HSB 103 | 5883 | . | Advanced X-Ray Lab | HSB 140B | 5894 | . | Alternative Energy and Nanotechnology Lab-I | HSB 105A | 5850 | . | Alternative Energy and Nanotechnology Lab-II | HSB 131A | 5850 | . | AMMLa 1 | HSB 131 | 5864 | . | AMMLa 2 | HSB 106 | 5869 | . | Atomic and Molecular Physics | HSB 232 | 5851 | . | B.Tech Lab | HSB 324 | 5852 | . | Central Facilities Laboratory | HSB 201 | 5853 | . | Complex Fluids Lab | HSB 234 | 5854 | . | Complex Fluids Lab Server Room | MSB 320 | 5891 | . | Condenced Matter Teaching Lab | HSB 227 | 5878 | . | Condenced Matter Theory and Computational Lab | HSB 242 | 5899 | . | Conducting Polymers Lab | HSB 328 | 5855 | . | Conference Room | HSB 203 | 5856 | . | Department Workshop | HSB 109 | 5859 | . | Dept. Computing Facility(DCF), Physics | HSB 226C | 5860 | . | Dept. Stores | HSB FF | 5858 | . | Diamond Lab | MRC 114 | 5913 | . | Dynamical System Lab 1 | HSB 313 | 5861 | . | Dynamical System Lab 2 | HSB 204 | 5881 | . | EHEP (UGP) Lab | HSB 258 | 8960 | . | Electromagnetic Teaching Lab | HSB 304 | 5873 | . | Electronics Teaching Lab | HSB 302 | 5862 | . | Electronics Workshop | HSB 304 | 5863 | . | Environmental Nanotechnology Lab | HSB 102A | 5890 | . | Experimental DD Lab | HSB 101 | 5888 | . | Femtosecond Laser Facility Lab | MSB GF | 5898 | . | Graphene and 2D Systems Lab | HSB 225B | 5892 | . | Gravidational Wave Group / Students Room | HSB 224E | 9829 | . | Laser Cooling Lab | HSB 112 | 5865 | . | Low Temperature Lab | HSB 129 | 5867 | . | LT Lab Liquefier Room | HSB 129A | 5895 | . | Materials Science Teaching Lab | HSB 237 | 5886 | . | Measurements Lab | MRC 211 | 5912 | . | Microwave Lab | HSB 222 | 5870 | . | Multifunctional Materials Lab-1 | HSB 224 | 5889 | . | Multifunctional Materials Lab-2 | HSB 236.1 | 5872 | . | Nanoscale Physics Lab-1 | HSB 223B | 5887 | . | Nanoscale Physics Lab-2 | HSB 122A | 9830 | . | New Lab (Dr. Panchanana Khuntia) | HSB 257 | 8959 | . | Optics Lab | MSB 329 | 5871 | . | Optics and Spectroscopy Lab | HSB 305 | 5877 | . | Photo Voltaic Fabrication Lab (PV Lab) | PhLTAX/HSB | 5857 | . | PV Lab-2 | HSB 107 | 5868 | . | Photonics Laboratory | HSB 225 | 5874 | . | Physical Property Measurement System | HSB 140A | 5847 | . | Perboskite Materials Lab | HSB 256 | 8442 | . | Quantum Desects Lab | HSB 260 | 8948 | . | Quantum Information Laboratory 1 | HSB 315 | 5879 | . | Quantum Information Laboratory 2 | HSB 218 | 5882 | . | Quantum Optics Group | HSB 310A | 5884 | . | Research Scholars room | HSB 128 | 5896 | . | Research Scholars room (Dr. Yasir Igbal) | HSB 251A | 8958 | . | Scanning Electron Microscope (SEM) | MRC 103 | 5849 | . | Semiconductor Lab | HSB 229 | 5876 | . | Soft Materials Laboratory | MSB 325 | 5893 | . | Spectroscopy Lab | HSB 225B | 5897 | . | Mechanics lab and Preparatory course lab | HSB 328A | 5885 | . | Thin Film Lab | HSB 124 | 5875 | . | Ultrafast Lasers and Optical Amplifier Lab | HSB 309 | 5866 | . | XRD Lab | HSB 202 | 5880 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Departments/ph/#labs--common-facility",
     
     "relUrl": "/docs/Telephone_Directory/Departments/ph/#labs--common-facility"
-  },"375": {
+  },"378": {
     "doc": "Research programs",
     "title": "Table of contents",
     "content": ". | Research programs: | Categories of MD/PhD Scholars | Admission timelines and allocation of regular HTRA seats | How to attract good research scholars? | Other avenues for institute funded human resources | . ",
     "url": "/fachandbook/docs/academic_research/programs/#table-of-contents",
     
     "relUrl": "/docs/academic_research/programs/#table-of-contents"
-  },"376": {
+  },"379": {
     "doc": "Research programs",
     "title": "Research programs:",
     "content": ". | PhD: Those with Master’s degree apply to this program. | MS + PhD: Those with Bachelor’s degree having a CGPA &gt; 8/10 can apply to this program. If they are from a CFTI (MoE funded technical institutes ), GATE score is not required, otherwise GATE score is required. | Upgraded PhD: Those who are enrolled in Master’s program at IITM can upgrade to PhD if they have a CGPA of more than 8. | MS: Those with a Bachelor’s degree, apply to this program. If they are from a CFTI with CGPA &gt; 8/10, GATE score is not required, otherwise GATE score is required. Candidates with degrees in basic sciences must have an MSc. Degree. | . The above are the most commonly occurring cases. For exceptions, please check the ordinances. ",
     "url": "/fachandbook/docs/academic_research/programs/#research-programs",
     
     "relUrl": "/docs/academic_research/programs/#research-programs"
-  },"377": {
+  },"380": {
     "doc": "Research programs",
     "title": "Categories of MD/PhD Scholars",
     "content": "| Category | Details | . | Regular-HTRA | Students receive a Half-Time Research Assistantship (HTRA) from the Ministry of Education. Students are expected to contribute to departmental academic and related activities for 8 hours per week. HTRA is for 5 years for PhD and 2.5 years for MS. | . | Regular-Fellowship | The students are admitted with fellowships from agencies such as UGC, CSIR, industry, INSPIRE, etc. | . | Regular-Project HTRA | Students are funded through a project at IITM, and the faculty is required to show financial support for one year. The students need to fulfil all the criteria as regular-HTRA and can be converted to regular HTRA at any time subject to availability of regular HTRA seats. | . | Regular-Project-NHTRA | National-level eligibility exam score requirement is waived. Six months experience in a project at IITM is required. Funding is through a project at IITM, and the faculty is required to show financial support for one year. These students can never be converted to regular HTRA. | . | External | Sponsored by and employed in an industry, organization, or institution having R\\&amp;D facilities and recognized by DST (DSIR) or IITM, with a co-guide at home organization. Two years of relevant work experience, except for those employed at Research Park and organizations with whom IITM has an MoU. | . | Part-time | Should be employed in a reputed industry, organization, or institution located within commutable distance of IITM. Should have at least 2 years of relevant work experience. | . | Staff | Should be a permanent staff member of IITM with at least 2 years of experience. | . | QIP | Faculty from other degree-granting academic institutes, sponsored by AICTE under the Quality Improvement Program (QIP) can pursue PhD. They will typically have only 3 years of residence at IITM. | . ",
     "url": "/fachandbook/docs/academic_research/programs/#categories-of-mdphd-scholars",
     
     "relUrl": "/docs/academic_research/programs/#categories-of-mdphd-scholars"
-  },"378": {
+  },"381": {
     "doc": "Research programs",
     "title": "Admission timelines and allocation of regular HTRA seats",
     "content": ". | Admissions to MS/ PhD happens in two cycles. Application deadlines are March 31st and October 31st for intake in July and Jan respectively. | The institute allocates a fixed number of new Regular-HTRA seats to each department every year based on the current faculty strength. The department evolves its own policy for allocating these students to faculty in a fair and equitable manner while keeping in mind the interests of the student to the extent possible. | . ",
     "url": "/fachandbook/docs/academic_research/programs/#admission-timelines-and-allocation-of-regular-htra-seats",
     
     "relUrl": "/docs/academic_research/programs/#admission-timelines-and-allocation-of-regular-htra-seats"
-  },"379": {
+  },"382": {
     "doc": "Research programs",
     "title": "How to attract good research scholars?",
     "content": ". | Outreach: While travelling for any purpose, especially GATE/ JEE exam duties, use the opportunity to give talks in reputed colleges in the region to attract good research scholars. | SUMMER FELLOWSHIP PROGRAM: See the link for further information. The institute solicits applications from non- IIT undergraduates from 3rd year and above for internships at IIT Madras for 2 months. Candidates are selected by the Department. They are potential research scholars . | MoU with NITs: IITM has MoUs with several NITs (see the link) where the top performing students (at the end of 6th semester) can complete their 7th and 8th semester of their BTech program at IITM. In general, students who performed well during their tenure at IITM are eligible to MS+PhD program admissions at IITM without GATE/interview. | . ",
     "url": "/fachandbook/docs/academic_research/programs/#how-to-attract-good-research-scholars",
     
     "relUrl": "/docs/academic_research/programs/#how-to-attract-good-research-scholars"
-  },"380": {
+  },"383": {
     "doc": "Research programs",
     "title": "Other avenues for institute funded human resources",
     "content": "In addition to HTRA scholars, the institute offers the following . | Institute Post Doctoral Fellowship (IPDF) (https://www.iitm.ac.in/careers/post-doctoral-opportunities): Selected via a two-step process. A research proposal is expected to be evolved based on interaction between the candidate and the mentor before the candidate submits the application.   . | Eligibility:  | Within five years after completion of Ph.D. Maximum Age is 35 years (Relaxed by 5 years for women and reserved category).  | Ph.D. scholars after submission of thesis can also apply for Institute PDF posts. | Duration: Initially for 2 years, extendable to one more year based on the progress of the PDF and the recommendation of the Department. | . | To encourage women who have taken a minimum of 2 years career break to get back to research, the institute offers Post-Doctoral Fellowship for Women with Break in Career. | . Similar to this, ANRF also supports PDF through the National Post Doctoral Fellowship scheme: https://anrfonline.in/ANRF/npdf . ",
     "url": "/fachandbook/docs/academic_research/programs/#other-avenues-for-institute-funded-human-resources",
     
     "relUrl": "/docs/academic_research/programs/#other-avenues-for-institute-funded-human-resources"
-  },"381": {
+  },"384": {
     "doc": "Research programs",
     "title": "Research programs",
     "content": " ",
     "url": "/fachandbook/docs/academic_research/programs/",
     
     "relUrl": "/docs/academic_research/programs/"
-  },"382": {
+  },"385": {
     "doc": "Promotions",
     "title": "Table of contents",
     "content": ". | Promotions . | Process and timelines | . | . ",
     "url": "/fachandbook/promo_landing/#table-of-contents",
     
     "relUrl": "/promo_landing/#table-of-contents"
-  },"383": {
+  },"386": {
     "doc": "Promotions",
     "title": "Promotions",
     "content": "Appointments of internal Faculty to Associate Professor (ASP) and full Professor (Prof) will be by merit-based selection (MBS). Internal announcements for Faculty selections are released periodically. Eligible Faculty should submit applications with their academic portfolio for evaluation. Further details on the process will be available from the departments. ",
     "url": "/fachandbook/promo_landing/",
     
     "relUrl": "/promo_landing/"
-  },"384": {
+  },"387": {
     "doc": "Promotions",
     "title": "Process and timelines",
     "content": "| From | To | Timeline | Process | :—- | :—- | :—- | AP Gr- II | AP Gr- I | 3 years after PhD. | Evaluation through presentation in front of a committee. | AP Gr- I | ASP | Min. of 6 years after PhD, with at least 3 yrs at the level of AP/ equivalent. | MBS, Min. expectations: 1 PhD graduated, publication record as per department norms, at least 1 externally funded project, good teaching record. | ASP | Prof | Min of 4 years at ASP level | MBS, Minimum expectations: 2 PhD graduated (4 desirable?) with at least 1 as primary guide, publication record as per department norms, at least 1 externally funded project in last 4 yrs, good teaching record, Dept. institute administrative responsibilities. | Prof | Prof (HAG) | Min of 6 yrs as Prof (max of 40% of professors can be HAG at any instant of time) | Submit details of accomplishments against a call. It is expected that the faculty, in previous 6 yrs, meet or exceed the rate at which they performed prior to being appointed as professor. | . | Department may prescribe higher norms for MBS. | After 10 yrs as a professor, faculty can apply for Chair Professorship against a call. Application is evaluated by a committee of Chair Professors. | . ",
     "url": "/fachandbook/promo_landing/#process-and-timelines",
     
     "relUrl": "/promo_landing/#process-and-timelines"
-  },"385": {
+  },"388": {
     "doc": "Robert Bosch Centre for Data Sciences and Artificial Intelligence",
     "title": "Robert Bosch Centre for Data Sciences and Artificial Intelligence",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/rbcdsai/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/rbcdsai/"
-  },"386": {
+  },"389": {
     "doc": "Robert Bosch Centre for Data Sciences and Artificial Intelligence",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | B Ravindran | Chairman | New BT 5F | 8980 | ravib | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/rbcdsai/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/rbcdsai/#staff"
-  },"387": {
+  },"390": {
     "doc": "Robert Bosch Centre for Data Sciences and Artificial Intelligence",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Reception | New BT 5F | 8980 | . | Chief Operating Officer | New BT 5F | 8981 | . | Conference Room (CXO Area) | New BT 5 | 8982 | . | Chief Executive Officer | New BT 5F | 8983 | . | Administration | New BT 5F | 8984 | . | Research Area | New BT 5F | 8985 | . | IBSE Faculty | New BT 5F | 8986 | . | IBSE Lab | New BT 5F | 8987 | . | New Faculty Room 1 | New BT 5F | 8988 | . | New Lab | New BT 5F | 8989 | . | Visiting Faculty Office | New BT 5F | 8990 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/rbcdsai/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/rbcdsai/#sections"
-  },"388": {
+  },"391": {
     "doc": "Research",
     "title": "Table of contents",
     "content": ". | Research and projects . | Publication | Research Guidance | Projects | Memberships | Intellectual Property (IP) | . | Mentoring Students &amp; Student Projects | . ",
     "url": "/fachandbook/Research_landing/#table-of-contents",
     
     "relUrl": "/Research_landing/#table-of-contents"
-  },"389": {
+  },"392": {
     "doc": "Research",
     "title": "Research and projects",
     "content": ". | Core Activity | . Faculty members are expected to continuously engage in Guidance of Research Scholars (MS/ PhD), Journal Publications, Externally funded Projects, and generate Intellectual Property (IP). ",
     "url": "/fachandbook/Research_landing/#research-and-projects",
     
     "relUrl": "/Research_landing/#research-and-projects"
-  },"390": {
+  },"393": {
     "doc": "Research",
     "title": "Publication",
     "content": "Journals: SCI/Scopus Indexed or Equivalent in the field; Q1/Q2/Best in the field; Equivalent Conferences. ",
     "url": "/fachandbook/Research_landing/#publication",
     
     "relUrl": "/Research_landing/#publication"
-  },"391": {
+  },"394": {
     "doc": "Research",
     "title": "Research Guidance",
     "content": "On an average, faculty are expected to graduate 0.8 PhD/yr in line with average intake rate. ",
     "url": "/fachandbook/Research_landing/#research-guidance",
     
     "relUrl": "/Research_landing/#research-guidance"
-  },"392": {
+  },"395": {
     "doc": "Research",
     "title": "Projects",
     "content": "Project staff is hired and scientific infrastructure is built mostly from research funding. ",
     "url": "/fachandbook/Research_landing/#projects",
     
     "relUrl": "/Research_landing/#projects"
-  },"393": {
+  },"396": {
     "doc": "Research",
     "title": "Memberships",
     "content": "Faculty should aspire to be (i) Fellows of relevant leading/reputed Professional Societies; (ii) Editors of reputed Journals; (iii) Members of funding panels etc. ",
     "url": "/fachandbook/Research_landing/#memberships",
     
     "relUrl": "/Research_landing/#memberships"
-  },"394": {
+  },"397": {
     "doc": "Research",
     "title": "Intellectual Property (IP)",
     "content": "IP creation, in terms of patents/ design registration/ copyright/ transfer of technology, is a part of technology development. title: Mentoring Students &amp; Student Projects nav_order: 3 permalink : /Research_landing/ parent: Faculty Roles and Responsibilities — . ",
     "url": "/fachandbook/Research_landing/#intellectual-property-ip",
     
     "relUrl": "/Research_landing/#intellectual-property-ip"
-  },"395": {
+  },"398": {
     "doc": "Research",
     "title": "Mentoring Students &amp; Student Projects",
     "content": "Faculty are also expected to advice a set of students assigned to them on academic matters and also, mentor students in their project work (M. Tech/ M.Sc./ MA/ MBA). FACULTY ADVISOR: Departments assign students from course-based programs (B. Tech, M. Tech., MSc., MA, MBA, etc.) as advisees of the faculty. In addition, all graduate students guided by faculty for their project/ thesis are his/her advisees by default. Faculty advisors have to: . | Keep track of advisees’ academic progress | Help advisees in coursework management. | Approve (via Workflow) the courses that the advisees have registered for every semester. While approving, a. Look at the advisees’ past semester records to understand their ability to handle courses. Restrict the advisees with difficulty in handling courses from registering for more/ difficult courses. Explain the rationale to them. b. Ensure that the students do not drop the core courses (regular/ backlog) that they need to complete in that particular semester. c. Ensure that backlog courses, especially core courses, are given priority while they register, so that they clear them as soon as possible. | Meet each advisee every month and complete Kushal form at https://kushal.iitm.ac.in:9001/. This is mandatory. If advisee appears to have issues of any kind, email: acad-support@smail.iitm.ac.in immediately with a copy to HOD and Dean of Students. | For their research scholars faculty have to give feedback on their research progress in the Kushal website. | . ",
     "url": "/fachandbook/Research_landing/#mentoring-students--student-projects",
     
     "relUrl": "/Research_landing/#mentoring-students--student-projects"
-  },"396": {
+  },"399": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "/fachandbook/Research_landing/",
     
     "relUrl": "/Research_landing/"
-  },"397": {
+  },"400": {
     "doc": "Research facilities",
     "title": "Table of contents",
     "content": ". | Common research facilities and equipment | Equipment Reservation System | Central library(8:00 am - midnight) | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#table-of-contents",
     
     "relUrl": "/docs/academic_research/research_equipments/#table-of-contents"
-  },"398": {
+  },"401": {
     "doc": "Research facilities",
     "title": "Common research facilities and equipment",
     "content": ". | Common Instruments Facility (Housed at First Floor, KCB) - https://icsr.iitm.ac.in/facility.php: Differential Scanning Calorimetry (DSC), Thermo-Gravimetric Differential Thermal Analyser (TG-DTA), Scanning Electron Microscopy with EDAX (SEM), X-ray Diffraction (Powder) System(XRD), X-ray Fluorescence System (XRF), Atomic Force Microscopy (AFM), etc. | Sophisticated Analytical Instruments Facility (SAIF) - https://saif.iitm.ac.in/ | PG Senapathy Centre for Computing Resources: https://cc.iitm.ac.in/ Centralized computing facility which houses High Performance Computing Environment (HPCE- https://cc.iitm.ac.in/hpce/introduction.html), servers and clusters from various departments, web server, a few standard commercial and open source software. | Spectrometers- Raman, Nuclear Magnetic Resonance, Electron Spin Resonance, Fluorimeter etc. - https://chem.iitm.ac.in/facilities | SERB National Facility for Cryo Electron Microscopy - https://cryoem.iitm.ac.in/ | Crystallography - Single Crystal X-ray Diffractometer (housed in Humanities Sciences Block) | Imaging - High Resolution Scanning Electron Microscope- https://saif.iitm.ac.in/hrsem.html | Magnetometry - Vibrating Sample Magnetometers - https://chem.iitm.ac.in/facilities/vsm/ | Chromatography - Gas Chromatography - Mass Spectrometry, Quadrupole Time-of- Flight Mass Spectrometry. - https://chem.iitm.ac.in/facilities | Central Electronics Centre - https://cecweb.iitm.ac.in/: For maintenance and repair of electronic items and computers | Central Skill Training and Fabrication Facility (CSTF)- https://cstf.iitm.ac.in/ - For hardware fabrication | Central Glass Blowing Section | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#common-research-facilities-and-equipment",
     
     "relUrl": "/docs/academic_research/research_equipments/#common-research-facilities-and-equipment"
-  },"399": {
+  },"402": {
     "doc": "Research facilities",
     "title": "Equipment Reservation System",
     "content": ". | Facilities at IITM available on payment basis: https://ers.iitm.ac.in/webroot/equipment_search.php. | To book: https://ers.iitm.ac.in/webroot/home.php. | . | For New lab registration in ERS portal, send email or call Ext: 9794 | Publicly funded R&amp;D equipment and facilities across the country, I-STEM: https://www.istem.gov.in/ | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#equipment-reservation-system",
     
     "relUrl": "/docs/academic_research/research_equipments/#equipment-reservation-system"
-  },"400": {
+  },"403": {
     "doc": "Research facilities",
     "title": "Central library(8:00 am - midnight)",
     "content": ". | Access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. | Inter-library loan facility allows access to research papers, publications, etc. from other libraries. | Library Affairs Committee (LAC) member from each department coordinates the purchase of books from the allotted budget. These books will be placed in the central library. | . ",
     "url": "/fachandbook/docs/academic_research/research_equipments/#central-library800-am---midnight",
     
     "relUrl": "/docs/academic_research/research_equipments/#central-library800-am---midnight"
-  },"401": {
+  },"404": {
     "doc": "Research facilities",
     "title": "Research facilities",
     "content": " ",
     "url": "/fachandbook/docs/academic_research/research_equipments/",
     
     "relUrl": "/docs/academic_research/research_equipments/"
-  },"402": {
+  },"405": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Sophisticated Analytical Instrumentation Facility",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/"
-  },"403": {
+  },"406": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | SS Bhattacharya | Head | MFL |   | ssb | . | Paranjothi K | Technical Officer | HSB 142 A2 | 4942 | kpjothi | . | Rama KV | Technical Officer | SAIF 06 | 4934 | rama | . | Sudhadevi P K | Technical Officer | HSB 142C | 4940 | sdevi | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/#staff"
-  },"404": {
+  },"407": {
     "doc": "Sophisticated Analytical Instrumentation Facility",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Fax | SAIF 15 | 4937 | . | CHNSO Lab | SAIF 26 | 5933 | . | Electronics Lab | SAIF 21 | 5944 | . | EPR Spectrameter | SAIF 8 | 4917 | . | Fluorescence / Lifetime Lab | SAIF 27 | 5926 | . | FT-IR Lab | SAIF 18 | 4938 | . | FT-Raman Lab | SAIF 24 | 5937 | . | GC-MS Lab | HSB 142A1 | 5932 | . | LC-HRMS Lab | HSB 142A2 | 5943 | . | HRSEM Lab | SAIF 3,4 | 5935 | . | ICP-OES Lab | SAIF 06 | 5927 | . | Lift | SAIF | 5919 | . | Mossbauer Lab | SAIF 28 | 5925 | . | NMR Lab | SAIF 01 , 02 | 4939 | . | Single Crystal XRD | HSB142C | 5939 | . | Stores | SAIF 22 | 4943 | . | TGA/DSC Lab | SAIF 23 | 4933 | . | Wet Lab | SAIF 05 | 5928 | . | XRF Lab | HSB 142C | 5934 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/saif/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/saif/#sections"
-  },"405": {
+  },"408": {
     "doc": "Schools",
     "title": "Table of contents",
     "content": ". | On-campus schools | List of schools . | Kendriya Vidyalaya (CBSE) | Vana Vani Matriculation Higher Secondary School (State board) | . | . ",
     "url": "/fachandbook/schools_landing/#table-of-contents",
     
     "relUrl": "/schools_landing/#table-of-contents"
-  },"406": {
+  },"409": {
     "doc": "Schools",
     "title": "On-campus schools",
     "content": "These schools give priority to the IITM Faculty/ Staff/ Research Scholars for the admission of their wards. For admission-related queries, contact the respective Principals, sufficiently in advance. Admission forms can be picked up from the school, also available online. ",
     "url": "/fachandbook/schools_landing/#on-campus-schools",
     
     "relUrl": "/schools_landing/#on-campus-schools"
-  },"407": {
+  },"410": {
     "doc": "Schools",
     "title": "List of schools",
     "content": " ",
     "url": "/fachandbook/schools_landing/#list-of-schools",
     
     "relUrl": "/schools_landing/#list-of-schools"
-  },"408": {
+  },"411": {
     "doc": "Schools",
     "title": "Kendriya Vidyalaya (CBSE)",
     "content": "See the website, https://chennaiiit.kvs.ac.in/ for more information . ",
     "url": "/fachandbook/schools_landing/#kendriya-vidyalaya-cbse",
     
     "relUrl": "/schools_landing/#kendriya-vidyalaya-cbse"
-  },"409": {
+  },"412": {
     "doc": "Schools",
     "title": "Vana Vani Matriculation Higher Secondary School (State board)",
     "content": "Run by the IIT Madras Educational Trust. See the website https://vanavani.iitm.ac.in/ for more information. Typically, the deadline for submission of school applications are in February for on-campus schools, and in December for off-campus schools. ",
     "url": "/fachandbook/schools_landing/#vana-vani-matriculation-higher-secondary-school-state-board",
     
     "relUrl": "/schools_landing/#vana-vani-matriculation-higher-secondary-school-state-board"
-  },"410": {
+  },"413": {
     "doc": "Schools",
     "title": "Schools",
     "content": " ",
     "url": "/fachandbook/schools_landing/",
     
     "relUrl": "/schools_landing/"
-  },"411": {
+  },"414": {
     "doc": "Security",
     "title": "Security",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Prakash | Chief Security Officer | 9444008105 | ADB GF | 8263 | prakash | . | Name | Location | Phone | . | Office | ADB GF | 8260 | . | Fax | ADB GF | 8161 | . | Duty Room | ADB GF | 8280 | . | Emergency Call | ADB GF | 9999 | . | POS Machine | ADB GF | 8279 | . | CISS Security | Near Comm Hall | 9471 | . | Security Post | Adyar IN Gate | 8267 | . | Security Post | Adyar OUT Gate | 8268 | . | Security Post | Director’s Residence | 8274 | . | Security Post | Mandakini Gate | 8270 | . | Security Post | KCB | 8273 | . | Security Post | Research Park Gate | 8278 | . | Security Post | Taramani Gate | 8271 | . | Security Post | Velachery Gate | 8272 | . | Security Post | Thiruvanmiyur Site | 22542905 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sec/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sec/"
-  },"412": {
+  },"415": {
     "doc": "Stores  & Purchase",
     "title": "Stores &amp; Purchase",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Sheba Sabari PK | Assistant Registrar | 9445098865 | ADB 3 | 8108 | sheeba | . | Name | Location | Phone | . | Office | ADB 3 | 8285 | . | Superintendent | ADB 3 | 8288 | . | Purchase Section | ADB 3 | 8290 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sp/#stores--purchase",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sp/#stores--purchase"
-  },"413": {
+  },"416": {
     "doc": "Stores  & Purchase",
     "title": "Stores  & Purchase",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/sp/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/sp/"
-  },"414": {
+  },"417": {
     "doc": "Sports",
     "title": "Table of contents",
     "content": ". | Sports facilities | . ",
     "url": "/fachandbook/sports_landing/#table-of-contents",
     
     "relUrl": "/sports_landing/#table-of-contents"
-  },"415": {
+  },"418": {
     "doc": "Sports",
     "title": "Sports facilities",
     "content": ". | Gymkhana (opposite Taramani Guest House) – Fitness centre, yoga, power lifting, table tennis and squash courts | Sitara Indoor Sports Complex (Next to Gymkhana, opposite Chemistry building) | Student Activities Centre – Badminton court | Swimming Pool (Contact: 8529) | Manohar C. Watsa Stadium | IITM Chemplast Cricket Ground (behind Engineering Design Building) | Hockey &amp; Football fields (opposite Computer centre) | Tennis courts (next to Gymkhana) | . For semester-wise membership, contact the Gymkhana office (8520), opposite to Taramani Guest House. IITM has inter-IIT sports teams for faculty &amp; staff. Coaching for these sports is available. ",
     "url": "/fachandbook/sports_landing/#sports-facilities",
     
     "relUrl": "/sports_landing/#sports-facilities"
-  },"416": {
+  },"419": {
     "doc": "Sports",
     "title": "Sports",
     "content": " ",
     "url": "/fachandbook/sports_landing/",
     
     "relUrl": "/sports_landing/"
-  },"417": {
+  },"420": {
     "doc": "Students",
     "title": "Students",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | Sudhakar Rao Pujari | Deputy Registrar | 9444396148 | TEL EX 2F | 8053 | pujari | . | Raju P | Sports Officer | 9444396166 | Sports Complex | 8525 | raju_p | . | Edin Brow Pakiaraj H | Sports Officer |   | Sports Complex | 8538 | ebrow | . | Jayavel G | PTI Grade-1 |   | Sports Complex | 8537 | gjayavel | . | Palaniappan Ramu | Advisor, CMGFS | 9444008125 |   |   | ramu | . |   | Academic Affairs Secretary | 9444005765 |   | 8540 |   | . |   | Co-curricular Secretary | 9444407541 |   | 8541 |   | . |   | Cultural Affairs Secretary (Arts) | 9444005768 |   | 8542 |   | . |   | Cultural Affairs Secretar (Lit) | 9444005769 |   | 8543 |   | . |   | General Secretary | 9444005782 |   | 8546 |   | . |   | Hostel Affairs Secretary | 9444005783 |   | 8547 |   | . |   | Research Affairs Secretary | 9444005772 |   | 8548 |   | . |   | Speaker SAC | 9444005773 |   | 8549 |   | . |   | Sports Secretary | 9444005774 |   | 8550 |   | . |   | IAR Secretary | 9444396170 |   | 8551 |   | . |   | Academic Affairs Secretary | 9444005765 |   | 8540 |   | . |   | Co-curricular Secretary | 9444407541 |   | 8541 |   | . |   | Cultural Affairs Secretary (Arts) | 9444005768 |   | 8542 |   | . |   | Cultural Affairs Secretar (Lit) | 9444005769 |   | 8543 |   | . |   | General Secretary | 9444005782 |   | 8546 |   | . |   | Hostel Affairs Secretary | 9444005783 |   | 8547 |   | . |   | Research Affairs Secretary | 9444005772 |   | 8548 |   | . |   | Speaker SAC | 9444005773 |   | 8549 |   | . |   | Sports Secretary | 9444005774 |   | 8550 |   | . |   | IAR Secretary | 9444396170 |   | 8551 |   | . | Name | Location | Phone | . | Office | TEL EX 2F | 8054 | . | New Advisor Room 1 | TEL EX 2F | 8057 | . | New Advisor Room 2 | TEL EX 2F | 8058 | . | Conference Hall | TEL EX 2F | 8059 | . | STACT Office | TEL EX 2F | 8519 | . | Gymkhana Office | Sports Complex | 8520 | . | Wellness Center | TEL EX 1F | 8522 | . | Chemplast Cricket Ground | Near ED | 8526 | . | Fitness Centre |   | 8528 | . | Lift | DoSt Block | 8950 | . | Swimming Pool |   | 8529 | . | Sports Complex |   | 8536 | . | Lift | Sports Complex | 8539 | . | SAC | SAC | 9440 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/students/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/students/"
-  },"418": {
+  },"421": {
     "doc": "Teaching",
     "title": "Table of contents",
     "content": ". | Teaching | . ",
     "url": "/fachandbook/Teaching_landing/#table-of-contents",
     
     "relUrl": "/Teaching_landing/#table-of-contents"
-  },"419": {
+  },"422": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": ". | Core Activity . | 18 credits per academic year. 1 core course every year. | 540-1080 student credits (18 credits x 30 - 60 students) per academic year. | Offer short-term courses/NPTEL/MOOC courses every few years. | Students provide teacher course feedback (TCF) for faculty and TAs separately. | . ",
     "url": "/fachandbook/Teaching_landing/",
     
     "relUrl": "/Teaching_landing/"
-  },"420": {
+  },"423": {
     "doc": "Taramani Guest House",
     "title": "Taramani Guest House",
     "content": "| Name | Post | Cell_Phone | Location | Phone | Email | . | B. Sathiya | Office i/c | 9444009241 | ADB 2F | 8449 | taramani | . | Name | Location | Phone | . | Office | TGH | 8450 | . | Kitchen | TGH | 8469 | . | Security | TGH | 8470 | . | Guest Rooms AB (01..99) | TGH AB | 95AB | . | Guest Rooms ABC (101..120) | TGH BC | 96BC | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Administration/tgh/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Administration/tgh/"
-  },"421": {
+  },"424": {
     "doc": "Teaching Learning Center",
     "title": "Teaching Learning Center",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/"
-  },"422": {
+  },"425": {
     "doc": "Teaching Learning Center",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | Prof. Prasad Edamana | TLC Head | Central Library 4F | 4911 | pre | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/#staff"
-  },"423": {
+  },"426": {
     "doc": "Teaching Learning Center",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | TLC Office | Central Library 4F | 4907 | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tlc/#sections",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tlc/#sections"
-  },"424": {
+  },"427": {
     "doc": "Thematic Unit of Excellence",
     "title": "Thematic Unit of Excellence",
     "content": " ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tue/",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tue/"
-  },"425": {
+  },"428": {
     "doc": "Thematic Unit of Excellence",
     "title": "Staff",
     "content": "| Name | Post | Location | Phone | Email | . | T Pradeep | Faculty i/c | HSB148 | 4208 | pradeep | . ",
     "url": "/fachandbook/docs/Telephone_Directory/Central_Facilities/tue/#staff",
     
     "relUrl": "/docs/Telephone_Directory/Central_Facilities/tue/#staff"
-  },"426": {
+  },"429": {
     "doc": "Thematic Unit of Excellence",
     "title": "Sections",
     "content": "| Name | Location | Phone | . | Imaging/Characterization | MRC 2nd Floor | 5571 | . | Students sitting place/Wet lab | MRC 2nd Floor | 5572 | . | Validation/Prototyping | MRC 2nd Floor | 5573 | . | Server/Biology | MRC 2nd Floor | 5574 | . | Staff room/Lobby | MRC 2nd Floor | 5575 | . | Faculty Room | MRC 2nd Floor | 5576 | . ",
