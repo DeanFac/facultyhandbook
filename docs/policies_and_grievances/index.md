@@ -13,9 +13,9 @@ permalink : /grieve_landing/
 
 The terms & conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links:
 
--	[Acts] (https://admin.iitm.ac.in/wp-content/uploads/2025/09/ACTS.pdf)
--	[Statutes] (https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf) 
--	[Central Civil Services (Conduct) Rules] (https://dopt.gov.in/ccs-cca-rules-1965)
+-	[Acts](https://admin.iitm.ac.in/wp-content/uploads/2025/09/ACTS.pdf)
+-	[Statutes](https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf) 
+-	[Central Civil Services (Conduct) Rules](https://dopt.gov.in/ccs-cca-rules-1965)
 
 **SOME IMPORTANT TAKEAWAYS**
 * No work-from-home
