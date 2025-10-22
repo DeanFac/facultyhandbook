@@ -31,7 +31,7 @@ To address complaints/ allegations related to caste-based discriminations:
 * Committee to inquire into sexual harassment complaints
 * Harassment complaints can be raised at ccash@iitm.ac.in. 
 * Faculty have to undergo the **mandatory** online training program for Prevention of Sexual Harassment (PoSH) Awareness. 
-[https://www.iitm.ac.in/the-institute/administration/complaint-committee](https://www.iitm.ac.in/the-institute/administration/complaint-committee)
+
 
 
 

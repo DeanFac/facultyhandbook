@@ -19,7 +19,7 @@ All administrative activities in this academic institute are ultimately supervis
 
 {: .important}
 NEVER SAY YES WHEN YOU WANT TO SAY NO - Nina Brown
-{: .fs-7 .fw-500}
+{: .fs-6 .fw-400}
 
 
 ## Department Level Responsibilities

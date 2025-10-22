@@ -14,7 +14,7 @@ parent: Faculty Roles and Responsibilities
 
 To reward and recognize high performing faculty
 
-## Best Teacher Award
+## Teaching Excellence Award
 For one faculty in every department every year for teaching excellence. 
 
 ## Young Faculty Recognition Award
