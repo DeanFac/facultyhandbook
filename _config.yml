@@ -178,10 +178,10 @@ color_scheme: iitm_scheme
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: yellow
+    color: blue
   important:
     title: Important
-    color: blue
+    color: yellow
   new:
     title: New
     color: green
