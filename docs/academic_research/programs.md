@@ -1,7 +1,7 @@
 ---
 title: Research programs
 nav_order: 2
-parent: Academic Research
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

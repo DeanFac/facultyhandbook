@@ -7623,14 +7623,14 @@ div.opaque {
 }
 
 p.highlight, blockquote.highlight {
-  background: rgba(255, 235, 130, 0.2);
-  border-left: 4px solid #e7af06;
+  background: rgba(44, 132, 250, 0.2);
+  border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
 p.highlight > .highlight-title, blockquote.highlight > .highlight-title {
-  color: #e7af06;
+  color: #183385;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
@@ -7639,8 +7639,8 @@ p.highlight > .highlight-title, blockquote.highlight > .highlight-title {
 }
 
 p.highlight-title, blockquote.highlight-title {
-  background: rgba(255, 235, 130, 0.2);
-  border-left: 4px solid #e7af06;
+  background: rgba(44, 132, 250, 0.2);
+  border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
@@ -7648,7 +7648,7 @@ p.highlight-title, blockquote.highlight-title {
 p.highlight-title > p:first-child, blockquote.highlight-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #e7af06;
+  color: #183385;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
@@ -7679,14 +7679,14 @@ blockquote.highlight-title > p:last-child {
 }
 
 p.important, blockquote.important {
-  background: rgba(44, 132, 250, 0.2);
-  border-left: 4px solid #183385;
+  background: rgba(255, 235, 130, 0.2);
+  border-left: 4px solid #e7af06;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
 p.important::before, blockquote.important::before {
-  color: #183385;
+  color: #e7af06;
   content: "Important";
   display: block;
   font-weight: bold;
@@ -7695,7 +7695,7 @@ p.important::before, blockquote.important::before {
   padding-bottom: 0.125rem;
 }
 p.important > .important-title, blockquote.important > .important-title {
-  color: #183385;
+  color: #e7af06;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
@@ -7704,8 +7704,8 @@ p.important > .important-title, blockquote.important > .important-title {
 }
 
 p.important-title, blockquote.important-title {
-  background: rgba(44, 132, 250, 0.2);
-  border-left: 4px solid #183385;
+  background: rgba(255, 235, 130, 0.2);
+  border-left: 4px solid #e7af06;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
@@ -7713,7 +7713,7 @@ p.important-title, blockquote.important-title {
 p.important-title > p:first-child, blockquote.important-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #183385;
+  color: #e7af06;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
@@ -7879,15 +7879,6 @@ p.warning, blockquote.warning {
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
-}
-p.warning::before, blockquote.warning::before {
-  color: #dd2e2e;
-  content: "Warning";
-  display: block;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 0.75em;
-  padding-bottom: 0.125rem;
 }
 p.warning > .warning-title, blockquote.warning > .warning-title {
   color: #dd2e2e;

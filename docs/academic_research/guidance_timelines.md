@@ -1,7 +1,7 @@
 ---
 title: Guidance and timelines
 nav_order: 3
-parent: Academic Research
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

@@ -12,9 +12,9 @@ parent: Getting Started
 # Pre-arrival procedures
 
 * E-mail Head of Department (HoD): Acceptance & Proposed date of joining.
-  Cc: Dean of Faculty ([deanfaculty@iitm.ac.in](mailto:deanadmn@iitm.ac.in)), Recruitment Section ([Recruit@iitm.ac.in](mailto:Recruit@iitm.ac.in)  ) 
-* E-mail Taramani Guest House ([taramani@iitm.ac.in](mailto:taramani@iitm.ac.in)) to book temporary accommodation  
-  Cc: HoD
+  Cc: Dean of Faculty ([deanfaculty@iitm.ac.in](mailto:deanadmn@iitm.ac.in)), Recruitment Section ([recruit@iitm.ac.in](mailto:Recruit@iitm.ac.in)). 
+* E-mail Taramani Guest House ([taramani@iitm.ac.in](mailto:taramani@iitm.ac.in)) to book temporary accommodation.  
+  Cc: HoD.
 
 
 # First week
@@ -40,7 +40,7 @@ Submission and verification of [all your documents]({{ "/documents/" | relative_
 For Leave Travel Concession (LTC), Medical and Insurance benefits, the dependents need to be declared. 
 Following are eligible to be declared as dependents:
 
-* **Spouse** (employed/ unemployed): If employed in another organization which provides medical, travel or children education facilities:
+* **Spouse** (employed/ unemployed)- If employed in another organization which provides medical, travel or children education facilities:
   * choose facilities provided by either IITM or spouse’s organization.
   * a joint declaration to be furnished as to who will avail LTC and for whom.
   * An appropriate certificate to be obtained from the Competent Authority of the spouse’s office.

@@ -9,8 +9,8 @@ parent: Getting Started
 * TOC
 {:toc}
 
-# Board of Governors (**BOG**)
-There is a Board of Governors (BoG) which deals with administrative matters related to functioning of the institute. 
+# Board of Governors (BoG)
+The BoG deals with administrative matters related to functioning of the institute.
 
 # Senate 
 The senate controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results.
@@ -18,17 +18,17 @@ The Director is the ex-officio Chairman of the Senate.
 Other ex-officio members include Deputy Directors, Dean (Academic Courses), Dean (Academic Research), Professors, Heads of Department (HoDs), Registrar, Librarian, Wardens, and Student Secretaries (Academic Affairs, Research Affairs, & General Secretary).
 
 Some of the Institute-level committees that assist in various operations: Board of Academic Research (BAR), Board of Academic Courses (BAC), Board of Students, Board of Infrastructure (BoI), Placement Board, Board of ICSR, Library Affairs Committee (LAC).
-They have one representative from each department.
+They have one representative from each department. 
 
-# HoD and Departmental Consultative Committee **(DCC)** 
+# HoD and Departmental Consultative Committee (DCC) 
 HoD handles department level administrative and academic matters. The DCC, chaired by HoD, takes decisions on all department-level policy-related matters, including academics and administration.
 
-{: .important } 
-All academic matters are handled by the **Senate** and **Departmental Consultative Committee (DCC)**.
+{: .highlight} 
+All academic matters are handled by the **Senate** and **DCC**.
 
 # Deans
 
-The Deans assist the Director in the following operational matters of IITM:
+The Deans assist the Director in the following operational matters of IIT Madras:
 
 | Dean | Portfolio | Extn | Secretary | Email | Location                                      |
 | :---- | :---- | :---- | :---- | :---- |:----------------------------------------------|

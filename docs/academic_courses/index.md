@@ -1,7 +1,7 @@
 ---
-title: Academic Courses
+title: Course Work
 nav_order: 3
-permalink : /academic_courses_landing/
+permalink : /course_work_landing/
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

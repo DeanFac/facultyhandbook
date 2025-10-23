@@ -16,8 +16,3 @@ Every academic and administrative process requires a chain of approvals so as to
 Some tasks are ***auto approved*** (SLA- Service Level Approval) after a fixed time to avoid delays in other related processes. However, faculty will still be responsible for tasks auto approved under SLA.  So, **log in to workflow every day and clear these tasks.**  
 
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-

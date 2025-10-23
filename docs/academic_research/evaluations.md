@@ -1,7 +1,7 @@
 ---
 title: Thesis evaluations
 nav_order: 4
-parent: Academic Research
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

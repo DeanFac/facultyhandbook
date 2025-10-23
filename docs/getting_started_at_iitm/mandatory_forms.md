@@ -16,4 +16,5 @@ parent: Getting Started
 | Working during Vacation | Workflow :arrow_right: Leave and Vacation                          | Twice a year \- before 31<sup>st</sup> Jul and 31<sup>st</sup> Jan |
 | Children Education Allowance (CEA) | Workflow :arrow_right: Main Accounts :arrow_right: Reimbursement                         | 31<sup>st</sup> March         
 
-*Notify Admin 1 if buying or selling property.                           
+{: .highlight}
+***Notify Admin 1 if buying or selling property.**

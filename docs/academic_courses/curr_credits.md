@@ -1,15 +1,14 @@
 ---
 title: Curriculum, Credits and Registration
 nav_order: 2
-parent: Academic Courses
+parent: Course Work
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
 * TOC
 {:toc}
 
-{: .important }
-All academic courses related activities are coordinated by Dean (Academic Courses).
+**All academic courses related activities are coordinated by Dean (Academic Courses).**
 
 # Academic calendar
 [Academic calendar](https://www.iitm.ac.in/academics/academic-calendar)
@@ -21,7 +20,7 @@ See this [link](https://www.iitm.ac.in/academics/academic-curricula) for curricu
 
 * The curriculum includes suggested semester-wise course work.   
 * Curriculum involves a combination of core (mandatory) and elective courses in various categories (basic sciences- S; basic engineering- E; humanities-H; professional- P; management-M; computing- C; general- G).   
-* The students are expected to put in certain number of credit hours (1 credit hour \= 50 mins) of effort every week for each course  
+* The students are expected to put in certain number of credit hours (1 credit hour \= 50 mins) of effort every week for each course:  
   * ‘L’ classroom lectures   
   * ‘T’ tutorial sessions  
   * ‘E’ extended tutorial sessions  
@@ -44,13 +43,13 @@ Faculty of the department meet and decide the respective courses to be offered d
 # Course registration and add/drop
 
 Students typically register for the subsequent semester courses at the end of current semester. 
-At the beginning of a semester, the students may request to add/ drop course(s) 
+At the beginning of a semester, the students may request to add/ drop course(s)
 through workflow during the allotted window as per the academic calendar. The faculty advisor and 
 course faculty need to approve the requests through workflow.
 
 Workflow :arrow_right: Academic  :arrow_right:  Approvals  :arrow_right:  Add or Drop
 
-{: .important}
+{: .highlight}
 For Allocation of Teaching Assistants, each department has its own policy. 
 
  [**Teaching Learning Center (TLC)**](https://tlc.iitm.ac.in/index.html) conducts workshops and training programs for faculty on teaching resources and techniques.

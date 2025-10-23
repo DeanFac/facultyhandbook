@@ -8,11 +8,11 @@ parent: Getting Started
 
 # First Month
 
-| Task to Complete | Concerned Department(s)               |
-| :---- |:--------------------------------------|
+| Task to Complete     | Concerned Department(s)               |
+| :------------------- |:-----------------------------------|
 | Info on Courses & Course Allocation | Head of the Department                |
 | Updating Personal Details, Register Vehicle | [Workflow](http://workflow.iitm.ac.in) portal                       |
-| Apply for Dependent ID cards | Add dependents on [workflow](http://workflow.iitm.ac.in)> Human Resource> Personal Information. Followed by application via [SSP Portal](https://ssp.iitm.ac.in/) |
+| Apply for Dependent ID cards | Add dependents on [workflow](http://workflow.iitm.ac.in) :arrow_right: Human Resource :arrow_right: Personal Information. Followed by application via [SSP Portal](https://ssp.iitm.ac.in/) |
 
 # Second Month
 
@@ -22,8 +22,8 @@ parent: Getting Started
 | Understand Funding & Grant Opportunities— NFIG & NFSG | Centre for IC&SR                                          |
    
 
-{: .important } 
-New Faculty Initiation Grant (NFIG): Rs. 5 Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> New Faculty Seed Grant (NFSG): Up to Rs. 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Apply within 3 years of joining (typically after 1.5-2 years). 
+{: .highlight} 
+**New Faculty Initiation Grant (NFIG)-** Rs. 5 Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> **New Faculty Seed Grant (NFSG)-** Up to Rs. 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Apply within 3 years of joining (typically after 1.5-2 years). 
 
 
 # OFFICE & LABORATORY: 
@@ -31,7 +31,7 @@ New Faculty Initiation Grant (NFIG): Rs. 5 Lakhs for purchase of basic equipment
 * **Office space & furniture:** Department’s responsibility.
 {: .no_toc}
 
-{: .important } 
+{: .highlight}
 As per Central Civil Services (Conduct) Rules, working from home option is **NOT** permitted for faculty or research scholars. 
 
 

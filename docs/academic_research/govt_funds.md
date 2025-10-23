@@ -1,7 +1,7 @@
 ---
 title: Government funding agencies for extramural projects
-nav_order: 7
-parent: Academic Research
+nav_order: 8
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

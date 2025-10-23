@@ -189,7 +189,7 @@ callouts:
     title: Note
     color: purple
   warning:
-    title: Warning
+    title: 
     color: red
 
 # Google Analytics Tracking (optional)

@@ -54,11 +54,11 @@ A clearance is required from the CMO and HAC makes a call as to whether the requ
 
 **All circulars announcing apartment availability may contain special clauses. Please read them carefully.**
 
-{: .important} 
+{: .warning} 
 Debarring Clause: Declining or withdrawing subsequent to allotment of quarters will result in debar from applying for on-campus housing for one year.
 
 # LIVING OUTSIDE CAMPUS
 
-* Nearby residential locations for off-campus accommodation: Adyar, Besant Nagar, Indiranagar, Kotturpuram, Velachery, Taramani, Perungudi and Thiruvanmiyur. 
+Nearby residential locations for off-campus accommodation: Adyar, Besant Nagar, Indiranagar, Kotturpuram, Velachery, Taramani, Perungudi and Thiruvanmiyur. 
 
-* Staying outside will involve costs on rent, commuting, etc. which have to be balanced against HRA (partially tax-free), license fee, etc. and the convenience of staying on campus.
+Staying outside will involve costs on rent, commuting, etc. which have to be balanced against HRA (partially tax-free), license fee, etc. and the convenience of staying on campus.

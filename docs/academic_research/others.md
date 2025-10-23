@@ -1,7 +1,7 @@
 ---
 title: Alumni and Corporate relations and Global Engagement
 nav_order: 9
-parent: Academic Research
+parent: Research Activities
 ---
 
 ## Table of contents

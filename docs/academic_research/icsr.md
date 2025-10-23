@@ -1,7 +1,7 @@
 ---
 title: Center for Industrial Consultancy and Sponsored Research
-nav_order: 6
-parent: Academic Research
+nav_order: 7
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
@@ -28,7 +28,7 @@ parent: Academic Research
 
 * **For various project-related details, visit**: [https://icsr.iitm.ac.in/Projects.php](https://icsr.iitm.ac.in/Projects.php); **Video:** [https://icsr.iitm.ac.in/admin/upload/video/TypesofProjects.mp4](https://icsr.iitm.ac.in/admin/upload/video/TypesofProjects.mp4) 
 
-{: .important }
+{: .highlight}
 Project office:9791  
 IPM Cell: 9751
 
@@ -48,18 +48,18 @@ IPM Cell: 9751
 | :---- | :---- | :---- | :---- | :---- |
 | **New Faculty Initiation Grant (NFIG)** | **Rs. 5 lakhs (Duration- 2 years)** | Purchase of basic equipment. Not meant for office furniture and standard supplies. | Email the proposal to the Dean, ICSR through HoD. | Within 1 year of joining |
 | **New Faculty Seed Grant (NFSG)** | **Up to 50 lakhs (Duration- 3 years)** | This is not an entitlement — only a partial amount may be awarded. | A proposal with proper justification has to be submitted and presented in front of a committee. | Within 3 years of joining. (Typically, after 1.5-2 years) |
-| **Exploratory Research Projects**  | **Up to 10 lakhs (Duration 1 year)** | Developing proof of concept before applying for a larger external funding | A proposal with proper justification has to be submitted against a call. | Throughout career |
-| **Socially Relevant Project** | **Up to 7 lakhs (Duration 1 year)** |  | A proposal with proper justification has to be submitted against a call. | Throughout career |
+| **Exploratory Research Projects**  | **Up to 10 lakhs (Duration 1 year)** | Developing proof of concept before applying for a larger external funding | A proposal with proper justification has to be submitted <u>against a call.</u> | Throughout career |
+| **Socially Relevant Project** | **Up to 7 lakhs (Duration 1 year)** |  | A proposal with proper justification has to be submitted <u>against a call.</u> | Throughout career |
 
 # Funding Sources Available for Professional Development
 
 | Grant | Amount                                                                                                                                                                 | Purpose | Process | Timeline |
 | :---- |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---- | :---- | :---- |
-| **Cumulative Professional Development Allowance (CPDA)** | **Rs. 3 lakhs for a block period of 3 years  (on a reimbursable basis)**                                                                                               | Conference travels Membership for Professional Societies Equipment, components and maintenance. Books, Journals, Patent, Monograms, Chemicals, Data purchase, Testing Charges, Professional development courses, Software, Cloud space. Field visit / collection of samples Publication charges for approved open access journals. | Apply through workflow Advance will be provided only for International Travel Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. **NOT** allowed under CPDA, but allowed under PCF. | Unutilized CPDA amount of one block will be carried forward to the next block |
-| **Personal Contingency Funds (PCF)** | **35% of institute overheads from every externally sponsored project is added to PCF Further, consultancy and other earnings can also be deposited in PCF <sup>†</sup> |  |  | PCF accumulates throughout the faculty’s career  |
+| **Cumulative Professional Development Allowance (CPDA)** | Rs. 3 lakhs for a block period of 3 years  (on a reimbursable basis)                                                                                               | • Conference travels <br> • Membership for Professional Societies <br> • Equipment, components and maintenance <br> • Books, Journals, Patent, Monograms, Chemicals, Data purchase, Testing Charges, Professional development courses, Software, Cloud space <br> • Field visit / collection of samples <br> • Publication charges for approved open access journals | Apply through workflow Advance will be provided only for International Travel Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. **NOT** allowed under CPDA, but allowed under PCF. | Unutilized CPDA amount of one block will be carried forward to the next block |
+| **Personal Contingency Funds (PCF)** | 35% of institute overheads from every externally sponsored project is added to PCF Further, consultancy and other earnings can also be deposited in PCF <sup>†</sup> |  |  | PCF accumulates throughout the faculty’s career  |
 | **High Risk High Reward Mobility Grant** |                                                                                                                                                                        | Strengthen ties with top-ranked institutions (e.g., QS top 25\) and improve perception/ visibility. Achieve tangible outcomes : publications, innovative solutions, and new academic resources  | [https://ge.iitm.ac.in/programs/faculty-mobility/hrhrg](https://ge.iitm.ac.in/programs/faculty-mobility/hrhrg)  | Research Stays: Faculty: 2-3 months. Ph.D. students: 6-12 months. |
 
-{: .important}
+{: .highlight}
  <sup>†</sup> Amount deposited to PCF is not taxed. While in service, PCF amount cannot be encashed but can be used for purposes shown in the table. At the time of retirement, PCF from consultancy and other similar earnings can be encashed (subject to income tax) but not PCF Contributions from sponsored research. 
 
 # International travel
@@ -72,5 +72,5 @@ IPM Cell: 9751
 
 * Travel via CPDA, please see the [link](https://admin.iitm.ac.in/wp-content/uploads/2025/02/Per-Diem-Rule.pdf). For CPDA related queries, contact: 8249
 
-* **Number of days eligible for Accommodation & Per Diem:** Conference/ event days  + 1 day before  + 1 day after
+* **Number of days eligible for Accommodation & Per Diem-** Conference/ event days  + 1 day before  + 1 day after
 

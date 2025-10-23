@@ -1,7 +1,7 @@
 ---
 title: Innovation Ecosystem
 nav_order: 8
-parent: Academic Research
+parent: Research Activities
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
