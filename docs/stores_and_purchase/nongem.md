@@ -30,10 +30,10 @@ It is expected that all purchases are done through GeM. Procurement may bypass G
     (a) Class 1 – More than 50% of local content <br>
     (b) Class 2 – 20-50% of local content  
  
+$\displaystyle \text{Local content }\%=\dfrac{\text{Total value of the item}-\text{value of imported content in the item}}{\text{Total value of the item}}\times 100$
+
+ 
 $\displaystyle \text{Local content\%}  \= \frac{\text{Total value of the item}-\text{value of imported content in the item}}{\text{Total value of the item}}\times 100$
-
-
-Local content: the total value of the item procured (excluding net domestic indirect taxes) minus the value of imported content in the item (including all custom duties) as a proportion of the total value in percent. 
   
 Total value of item procured excludes net domestic indirect taxes. Value of imported content includes all custom duties.
 **For non-local purchase (less than 20% of local content), technical justification required**
