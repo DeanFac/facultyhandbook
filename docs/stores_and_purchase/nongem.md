@@ -31,7 +31,7 @@ It is expected that all purchases are done through GeM. Procurement may bypass G
     (b) Class 2 – 20-50% of local content  
  
 $$
-\text{Local content }\% =
+\text{Local content} \%  \=
 \frac{\text{Total value of the item} - \text{value of imported content in the item}}
 {\text{Total value of the item}}
 \times 100
