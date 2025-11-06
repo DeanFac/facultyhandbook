@@ -1,12 +1,9 @@
 ---
 title: Mandatory forms to be filled periodically
 nav_order: 5
+permalink : /mandatory_forms/
 parent: Engaging with IITM
 ---
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
 
 | Mandatory Forms to Fill | Where to fill                                                      | When to fill                                            |
 | :---- |:-------------------------------------------------------------------|:--------------------------------------------------------|

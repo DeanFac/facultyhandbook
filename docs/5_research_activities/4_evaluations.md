@@ -1,6 +1,7 @@
 ---
 title: Thesis evaluations
 nav_order: 4
+permalink : /evaluations/
 parent: Research Activities
 ---
 ## Table of contents

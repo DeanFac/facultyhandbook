@@ -1,6 +1,7 @@
 ---
 title: Mailing lists
 nav_order: 4
+permalink : /mailing_lists/
 parent: Engaging with IITM
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Guidance and timelines
 nav_order: 3
+permalink : /guidance_timelines/
 parent: Research Activities
 ---
 ## Table of contents

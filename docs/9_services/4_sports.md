@@ -5,11 +5,6 @@ permalink : /sports_landing/
 parent: Services on Campus
 ---
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-
 # Sports facilities
 
 * Gymkhana (opposite Taramani Guest House) – Fitness centre, yoga, power lifting, table tennis and squash courts  

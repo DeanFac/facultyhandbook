@@ -5,11 +5,6 @@ permalink : /Research_landing/
 parent: Responsibilities & Career Progression
 ---
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-
 # Research and projects
 
 **Core Activity**

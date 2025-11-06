@@ -1,6 +1,7 @@
 ---
 title: Interface with IITM
 nav_order: 2
+permalink : /interfaces/
 parent: Engaging with IITM
 ---
 ## Table of contents

@@ -42,11 +42,11 @@ NEVER SAY **YES** WHEN YOU WANT TO SAY **NO** - Nina Brown
 * GATE/JAM/JEE confidential operations including paper setting, etc  
 * Warden, other activities
 
-{: .important}
+{: .highlight}
 Faculty’s involvement in administrative activities typically increases with seniority. 
 
 # Other activities which may be useful
-*Register and go as Institute Representatives (IR) for JEE Advanced / GATE exam duties. This is a good opportunity to get connected with non-academic employees of the institute.* 
+*Register and go as Institute Representatives (IR) for JEE Advanced / GATE exam duties. This is a good opportunity to get connected with faculty and staff from other departments.* 
 
 | *Exam* | *Email for registration* | *Typical Exam Dates* |
 | :---- | :---- | :---- |
@@ -57,14 +57,7 @@ Faculty’s involvement in administrative activities typically increases with se
 (**[http://facportal.iitm.ac.in/mentorship/](http://facportal.iitm.ac.in/mentorship/)**)
 * The Dean Faculty office coordinates a mentorship program to support faculty in their career development. Faculty who have joined the institution within the last 5 years are connected with senior faculty members with a proven track record of excellence. New faculty can sign up for an initial mentorship session by logging onto the website.   
    	  
-# Faculty academic profile 
 
-The Faculty Academic Profile (https://fap.iitm.ac.in) is for Faculty to update academic data and achievements annually. 
-The reports created from the submitted FAP data can be viewed at https://workflowreports.iitm.ac.in/ :arrow_right: HumanResources :arrow_right: FAP
-
-{: .important}
-It is mandatory to fill this and the data will be used during career progress through MBS (merit based selection).
-
-{: .important}
+{: .highlight}
 “If you have taken care of the above responsibilities sincerely, you don't have to worry about career progress!”
 {: .fs-7 .fw-500}

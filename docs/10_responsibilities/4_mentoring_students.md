@@ -1,14 +1,9 @@
 ---
-title: Mentoring
+title: Student Mentoring
 nav_order: 3
 permalink : /Mentoring_landing/
 parent: Responsibilities & Career Progression
 ---
-
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
 
 # Mentoring Students & Student Projects
 

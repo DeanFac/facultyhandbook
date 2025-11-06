@@ -1,6 +1,7 @@
 ---
 title: Curriculum, Credits and Registration
 nav_order: 2
+permalink : /curriculum/
 parent: Course Work
 ---
 ## Table of contents
@@ -10,9 +11,10 @@ parent: Course Work
 
 **All academic courses related activities are coordinated by Dean (Academic Courses).**
 
-# Academic calendar
-[Academic calendar](https://www.iitm.ac.in/academics/academic-calendar)
-
+# Academic calendar & Timetable
+* [Academic calendar](https://www.iitm.ac.in/academics/academic-calendar)
+* [Academic Time Table](https://www.iitm.ac.in/academics/academic-services/timetable)
+ - **Note that there are three-time tables. Refer to the one that pertains to the correct program while deciding slots.**
 # Curriculum and credits
 
 Course-based core programs follow a given curriculum which is revised periodically (typically once in 5-10 years) 
@@ -52,4 +54,4 @@ Workflow :arrow_right: Academic  :arrow_right:  Approvals  :arrow_right:  Add or
 {: .highlight}
 For Allocation of Teaching Assistants, each department has its own policy. 
 
- [**Teaching Learning Center (TLC)**](https://tlc.iitm.ac.in/index.html) conducts workshops and training programs for faculty on teaching resources and techniques.
+ 

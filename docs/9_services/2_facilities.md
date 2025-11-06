@@ -5,11 +5,6 @@ permalink : /facilities_landing/
 parent: Services on Campus
 ---
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-
 # Facilities on Campus
 
 | Facilities | Details |

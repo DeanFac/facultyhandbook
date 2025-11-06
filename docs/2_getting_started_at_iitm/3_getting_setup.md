@@ -1,6 +1,7 @@
 ---
 title: First Week
 nav_order: 3
+permalink : /first_week/
 parent: Getting Started
 ---
 ## Table of contents

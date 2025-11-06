@@ -1,6 +1,7 @@
 ---
 title: IIT Madras Campuses
 nav_order: 2
+permalink : /iitm_campuses/
 parent: Getting Started
 ---
 ## Table of contents

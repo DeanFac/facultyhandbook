@@ -5,11 +5,6 @@ permalink : /rules_landing/
 parent: Services on Campus
 ---
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-
 # Campus rules
 
 * Speed limit: 20 km/h.   

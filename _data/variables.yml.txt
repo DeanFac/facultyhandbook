@@ -1,0 +1,1 @@
+nfig: 10 # New faculty initiation grant in lakhs

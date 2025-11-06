@@ -1,6 +1,7 @@
 ---
 title: Decision making bodies
 nav_order: 3
+permalink : /decision_making/
 parent: Engaging with IITM
 ---
 
@@ -10,7 +11,7 @@ parent: Engaging with IITM
 {:toc}
 
 # Board of Governors (BoG)
-The BoG deals with administrative matters related to functioning of the institute.
+The BoG deals with administrative matters related to functioning of the institute. BoG also ratifies senate minutes.
 
 # Senate 
 The senate controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results.

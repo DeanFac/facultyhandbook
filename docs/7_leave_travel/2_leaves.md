@@ -5,11 +5,6 @@ permalink : /leaves/
 parent: Leaves and Travel
 ---
 
-## Table of contents
-{: .no_toc .text-delta } 
-* TOC
-{:toc}
-
 # Leaves
 
 **Prefixing/ Suffixing** - If you have **holidays** before/ after your leave, you can prefix/suffix them while you apply for leave in

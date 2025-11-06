@@ -1,6 +1,7 @@
 ---
 title: Research facilities
 nav_order: 5
+permalink : /research_facilities/
 parent: Research Activities
 ---
 ## Table of contents

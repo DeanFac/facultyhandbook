@@ -1,6 +1,7 @@
 ---
 title: Research programs
 nav_order: 2
+permalink : /research_programs/
 parent: Research Activities
 ---
 ## Table of contents
