@@ -16,10 +16,10 @@ It is expected that all purchases are done through GeM. Procurement may bypass G
 
 | Slab Value (INR) | Procedure | Documents to be Attached | Approving# Authority |
 | ----- | ----- | ----- | ----- |
-| Up to ₹1 lakh (Direct Purchase) |  No quotations/bids required. | User certificate for \>₹ 15000(Annexure-A) <br> Quotation (if any) countersigned by user <br> For imported goods, OEM Authorization/ proprietary certificate and technical write-up | Approved by HoD <br> PO issued by Dept for local purchase; by Admin Stores for Import/AMC. |
-| Above ₹1 lakh to ₹10 lakhs through market survey by Local Purchase Committee (LPC) |  Quotation(s) is/are mandatory | Quotation countersigned by user LPC Certificate <br> (Annexure-B: market survey for reasonableness) <br>  Comparative Statement <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Approved by HoD <br> PO issued by: Dept for local purchase; Admin Stores for Import/AMC |
-| Above ₹10 lakhs to ₹50 lakhs through Limited tender enquiry (bidding) to be evaluated by HoD \+ End user \+ min. 2 faculty from same dept  | Tender floated on CPPP & IITM website <br> Min. 7 days for vendors to bid <br> In addition, email the tender to at least 4 potential bidders. | Tender document, quotations / bids (countersigned) <br> Vendor dispatch proof (emails enquiries sent to 4 potential bidders) <br> CPPP/IITM tender publication proof <br> Comparative statements (Technical Financial) <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | HoD (Dept. initiates) <br> Chairman, SPC (Final Approval) <br> PO issued by AR (S\&P) |
-| Above ₹50 lakhs   Through open tenders evaluated by Large Purchase Committee: HoD \+ End user \+ 2 faculty from other dept. \+ DR (S&P) \+ DR/AR (F&A)   | Only e-procurement mode <br> 2-bid system tender process detailed above to be followed <br> 21-day tender period   | Director's financial approval (if not from dept. budget) <br> Tender document; Technical & Financial bids (countersigned) <br> CPPP/IITM tender publication proof <br> Comparative statements (Technical Financial) <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Director (Final Approval) <br> PO issued by Asst. Registrar (S\&P) |
+| Up to ₹ {{ site.data.variables.dp_nongem }} lakh (Direct Purchase) |  No quotations/bids required. | User certificate for \>₹ 15000(Annexure-A) <br> Quotation (if any) countersigned by user <br> For imported goods, OEM Authorization/ proprietary certificate and technical write-up | Approved by HoD <br> PO issued by Dept for local purchase; by Admin Stores for Import/AMC. |
+| Above ₹ {{ site.data.variables.dp_nongem }} lakh to ₹ {{ site.data.variables.lpc }} lakhs through market survey by Local Purchase Committee (LPC) |  Quotation(s) is/are mandatory | Quotation countersigned by user LPC Certificate <br> (Annexure-B: market survey for reasonableness) <br>  Comparative Statement <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Approved by HoD <br> PO issued by: Dept for local purchase; Admin Stores for Import/AMC |
+| Above ₹ {{ site.data.variables.lpc }} lakhs to ₹ {{ site.data.variables.tender }} lakhs through Limited tender enquiry (bidding) to be evaluated by HoD \+ End user \+ min. 2 faculty from same dept  | Tender floated on CPPP & IITM website <br> Min. 7 days for vendors to bid <br> In addition, email the tender to at least 4 potential bidders. | Tender document, quotations / bids (countersigned) <br> Vendor dispatch proof (emails enquiries sent to 4 potential bidders) <br> CPPP/IITM tender publication proof <br> Comparative statements (Technical Financial) <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | HoD (Dept. initiates) <br> Chairman, SPC (Final Approval) <br> PO issued by AR (S\&P) |
+| Above ₹ {{ site.data.variables.tender }} lakhs   through open tenders evaluated by Large Purchase Committee: HoD \+ End user \+ 2 faculty from other dept. \+ DR (S&P) \+ DR/AR (F&A)   | Only e-procurement mode <br> 2-bid system tender process detailed above to be followed <br> 21-day tender period   | Director's financial approval (if not from dept. budget) <br> Tender document; Technical & Financial bids (countersigned) <br> CPPP/IITM tender publication proof <br> Comparative statements (Technical Financial) <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Director (Final Approval) <br> PO issued by Asst. Registrar (S&P) |
 
  - A. For Import purchases: a technical write-up and justification for research/non-research must be added.
  - B. Mandatory documents for local purchases above ₹5 Lakhs: 
@@ -30,12 +30,17 @@ It is expected that all purchases are done through GeM. Procurement may bypass G
     (a) Class 1 – More than 50% of local content <br>
     (b) Class 2 – 20-50% of local content  
  
-$\displaystyle \text{Local content\%} \= \frac{\text{Total value of the item}-\text{value of imported content in the item}}{\text{Total value of the item}}\times 100$
+$$
+\text{Local content%}
+= \frac{\text{Total value of the item} - \text{value of imported content in the item}}
+       {\text{Total value of the item}} \times 100
+$$
+
   
 Total value of item procured excludes net domestic indirect taxes. Value of imported content includes all custom duties.
 **For non-local purchase (less than 20% of local content), technical justification required**
 
- - C. Above ₹50 lakh:  Exclusive Purchase Committee (EPC) **has to be** formed with approval from Director before purchase process can be initiated. The committee meets on the following points:
+ - C. Above ₹ {{ site.data.variables.tender }} lakh:  Exclusive Purchase Committee (EPC) **has to be** formed with approval from Director before purchase process can be initiated. The committee meets on the following points:
 
 	- (i)	Finalize tender document detailing the technical specifications of the item to be procured along with additional requirements, including terms & conditions, and timelines.
 			Tender should indicate that a 2-Bid System is mandatory: 

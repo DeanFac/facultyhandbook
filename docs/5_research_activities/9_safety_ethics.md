@@ -39,6 +39,6 @@ There are specific rules for disposal of chemicals, hazardous and biomedical was
 
 # Plagiarism Detection Tool
 
-IITM has an institutional account for *Turnitin*, a plagiarism detection software that can be used to check reports, assignments, theses, and research manuscripts for similarity. Faculty members can be added to this IITM account by contacting the Central Library. The Deputy Librarian may be contacted for assistance (Extension 4954 / 4951). Once an account is created using the IITM email ID, it becomes possible to log in to *Turnitin* and submit files for plagiarism checks.
+IITM has an institutional account for *Turnitin*, a plagiarism detection software that can be used to check reports, assignments, theses, and research manuscripts for similarity. Faculty members can be added to this IITM account by contacting the Central Library. The Deputy Librarian may be contacted for assistance (Extension: 4954 / 4951). Once an account is created using the IITM email ID, it becomes possible to log in to *Turnitin* and submit files for plagiarism checks.
 
 **When submitting files to *Turnitin*, it is important to unselect the option for keeping the file in the repository. Otherwise, the file will remain in the *Turnitin* repository, and future submissions of the same or similar content (for instance, by collaborators or students) will show a 100% similarity match.**

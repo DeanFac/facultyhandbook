@@ -27,7 +27,7 @@ parent: Getting Started
    
 
 {: .highlight} 
-**New Faculty Initiation Grant (NFIG)-** Rs. {{ site.data.variables.nfig }} Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> **New Faculty Seed Grant (NFSG)-** Up to Rs. 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Apply within 3 years of joining (typically after 1.5-2 years). 
+**New Faculty Initiation Grant (NFIG)-** ₹ {{ site.data.variables.nfig }} Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> **New Faculty Seed Grant (NFSG)-** Up to ₹ {{ site.data.variables.nfsg }} lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Apply within 3 years of joining (typically after 1.5-2 years). 
 
 
 # Office & Laboratory

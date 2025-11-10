@@ -209,6 +209,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+  math_engine: mathjax
+  math_engine_opts: {}
 
 compress_html:
   clippings: all

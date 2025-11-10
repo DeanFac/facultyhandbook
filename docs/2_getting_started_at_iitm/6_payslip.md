@@ -25,11 +25,11 @@ Salary is disbursed at the end of the month. Below is a sample salary slip (for 
 
 | Type of Allowance | Details | Amount ( % of basic pay )                                                                            |
 | :---- | :---- |:-----------------------------------------------------------------------------------------------------|
-| **Dearness Allowance (DA)** | Cost-of-living adjustment fixed by the govt. – Revised every 6 months  | 58%  as of July 2025                                                                                 |
-| **House Rent Allowance (HRA)**  | Only if living off-campus. | 30% as of July 2024                                                                                  |
-| **Transport Allowance (TA)**  |  | Rs. 7200 + (DA% of 7200)                                                                           |
-| **Reim. Telephone**  | Telephone & Broadband Charges | Rs 750                                                                                             |
-| **Children’s Education Allowance** | For schooling and hostel requirements of children (up to 2\) from KG to class 12\.  Form to be filled in Workflow.  Appears on the pay slip as Tuition Fees. | Rs. 33,750 for schooling,  Rs. 1,01,250 for hostel. Divyaang children entitled to double the amount. |
+| **Dearness Allowance (DA)** | Cost-of-living adjustment fixed by the govt. – Revised every 6 months  | {{ site.data.variables.dapercent }}%  as of {{ site.data.variables.daperiod }}                                                                                 |
+| **House Rent Allowance (HRA)**  | Only if living off-campus. |  {{ site.data.variables.hrapercent }}% as of  {{ site.data.variables.hraperiod }} |
+| **Transport Allowance (TA)**  |  | ₹ 7200 + (DA% of 7200)                                                                           |
+| **Reim. Telephone**  | Telephone & Broadband Charges | ₹ {{ site.data.variables.reimtele }} |
+| **Children’s Education Allowance** | For schooling and hostel requirements of children (up to 2\) from KG to class 12\.  Form to be filled in Workflow.  Appears on the pay slip as Tuition Fees. | ₹ {{ site.data.variables.ceaschool }} for schooling,  ₹ {{ site.data.variables.ceahostel }} for hostel. Divyaang children entitled to double the amount. |
 
 Additional payments from Consultancy projects, GATE/JEE responsibilities, honorarium from online courses, etc.
 will also reflect in your salary slip. 

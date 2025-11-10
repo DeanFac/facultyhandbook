@@ -14,9 +14,9 @@ parent: Stores and Purchase
 
 | Slab Value (INR) | Procurement Mode | Procedure |
 | :---: | :---: | ----- |
-| Up to ₹50,000 | Direct Purchase (DP) | Direct purchase from GeM seller <br> Comparison optional; purchase based on immediate requirement and availability |
-| Above ₹50,000 to ₹10 lakhs | Direct Purchase (DP) via L1 from 3 OEM brands | Compare at least three OEM brands; Ensure product meets required specifications <br> Purchase from L1 seller (lowest price among comparable OEMs) |
-| Above ₹10 lakhs | Online Bidding / Reverse Auction (RA) | Float bid or conduct RA via GeM tools; Minimum 3 responsive bidders preferred <br> Select L1 seller meeting technical specs, quality, and delivery requirements |
+| Up to ₹{{ site.data.variables.dpslab }} | Direct Purchase (DP) | Direct purchase from GeM seller <br> Comparison optional; purchase based on immediate requirement and availability |
+| Above ₹ {{ site.data.variables.dpslab }} to ₹{{ site.data.variables.dpl1 }} lakhs | Direct Purchase (DP) via L1 from 3 OEM brands | Compare at least three OEM brands; Ensure product meets required specifications <br> Purchase from L1 seller (lowest price among comparable OEMs) |
+| Above ₹ {{ site.data.variables.dpl1 }} lakhs | Online Bidding / Reverse Auction (RA) | Float bid or conduct RA via GeM tools; Minimum 3 responsive bidders preferred <br> Select L1 seller meeting technical specs, quality, and delivery requirements |
 
 * **For more details and purchase forms, visit [https://icsr.iitm.ac.in/Purchase.php](https://icsr.iitm.ac.in/Purchase.php)**
 

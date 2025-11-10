@@ -1,1 +1,29 @@
-nfig: 10 # New faculty initiation grant in lakhs
+nfig: 5 # New faculty initiation grant in lakhs
+nfsg: 50 # New faculty seed grant in lakhs
+dapercent: 58 #Dearness Allowance%
+daperiod: July 2025 #Period when DA% was updated
+hrapercent: 30 #HRA allowance%
+hraperiod: July 2024 #Period when HRA% was updated
+transport: #check for variable assigning
+reimtele: 750 #telephone reimbursement
+ceaschool: 33,750 #Children's education allowance for schooling
+ceahostel: 1,01,250 #Children's education allowance for hostel
+erp: 10 #exploratory research grant in lakhs
+soc_rel: 7 #socially relevant projects funding in lakhs
+cpda: 3 #cumulative professional development allowance (cpda) in lakhs
+cpdablock: 3 #number of years that constitute a cpda block year
+pcf: 35 #% of institute overheads added to PCF
+
+#Stores and Purchase limits:
+#GeM purchase:
+dpslab: 50,000 #Direct Purchase upto
+dpl1: 10 #Direct Purchase (DP) via L1 from 3 OEM brands in lakhs
+#Non-GeM Purchase:
+dp_nongem: 1 #Direct Purchase under Non-GeM in lakhs
+lpc: 10 #Upper slab in lakhs for Local Purchase Committee procurement
+tender: 50 #Upper slab in lakhs for procurement through Limited tender enquiry
+s&p_reim: 25000 #Reimbursement limit for direct purchases
+
+
+#project overheads
+#To add variable: {{ site.data.variables.labelname }}

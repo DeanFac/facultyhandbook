@@ -29,11 +29,11 @@ Welcome to the IIT Madras Faculty Guide!
 
 
 | ----- | ----- | ----- | ----- |----- |
-| CPDA | Cumulative Professional Development Allowance |       | F&A | Finance and Accounts    |
-| LTC  | Leave Travel Concession                       |       | AMC | Annual Maintenance Cost |
-| OEM  | Original Equipment Manufactuter               |       | CPP | Central Public Procurement Portal |
-| SPC  | Stores & Purchase Committee (Institute Level) |       | PPC | Project Purchase Committee (Institute Level) |
-| L1   | Lowest Financial Bid                          |       | GeM | Government e-Marketplace |
+| CPDA | Cumulative Professional Development Allowance |       | HoD | Head of the Department    |
+| LTC  | Leave Travel Concession                       |       |  | |
+| ICSR | Industrial Consultancy and Sponsored Research |       |  |  |
+|   |  |       |  |  |
+|    |                         |       |  |  |
 
 
 # Some key terms explained
