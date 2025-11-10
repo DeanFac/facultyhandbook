@@ -21,7 +21,6 @@ parent: Services on Campus
 | Exhibition Hall | Ground Floor, ICSR | NA | Multipurpose Hall | Via [https://ioas.iitm.ac.in/HBS](https://ioas.iitm.ac.in/HBS) or contact: 9789/9788 |
 | Main Dining Hall | Ground Floor, ICSR | 100 persons | Dining Hall- can only be booked along with a hall | Via [https://ioas.iitm.ac.in/HBS](https://ioas.iitm.ac.in/HBS) or contact: 9789/9788 |
 | Annexe Dining Hall | Ground Floor, ICSR | 60 persons | Dining Hall- can only be booked along with a hall | Via [https://ioas.iitm.ac.in/HBS](https://ioas.iitm.ac.in/HBS) or contact: 9789/9788 |
-| BEGH Conference Room | First floor, Bose-Einstein Guest House | 15 persons | Conference Room | Email taramani@iitm.ac.in  |
 | HSB 133 | Location | capacity |Details | Booking Process |
 | Terrace Hall | Location | capacity |Details | Booking Process |
 | Student Activities Centre | Location | capacity |Details | Booking Process |
@@ -32,7 +31,6 @@ parent: Services on Campus
 | Yoga Hall | Location | capacity |Details | Booking Process |
 | Sangam Ground | Location | capacity |Details | Booking Process |
 | Campus Community Centre | Near the Staff Club/ Shopping Centre | capacity | For conducting family functions of employees and retired employees of the Institute | Contact:9423 |
-| Ladies Club | Location | capacity |Details | Booking Process |
 
 In addition to these, departments also have conference halls/ meeting rooms/ seminar halls. 
 
