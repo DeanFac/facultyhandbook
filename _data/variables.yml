@@ -22,8 +22,14 @@ dpl1: 10 #Direct Purchase (DP) via L1 from 3 OEM brands in lakhs
 dp_nongem: 1 #Direct Purchase under Non-GeM in lakhs
 lpc: 10 #Upper slab in lakhs for Local Purchase Committee procurement
 tender: 50 #Upper slab in lakhs for procurement through Limited tender enquiry
-s&p_reim: 25000 #Reimbursement limit for direct purchases
+sp_reim: 25000 #Reimbursement limit for direct purchases
 
+##International travel
+acco: 120 #typical reimbursement for accommodation
+usuk: 150 #Project funds per diem allowance in USD for USA, UK, Canada, Australia, France, Belgium, Hong Kong, China, South Korea, etc.
+perdiemother: \\$125, \\$100 #Project funds per diem allowance in USD for other countries
 
 #project overheads
+
+
 #To add variable: {{ site.data.variables.labelname }}
