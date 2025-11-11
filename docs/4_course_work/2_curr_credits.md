@@ -1,5 +1,5 @@
 ---
-title: Curriculum, Credits and Registration
+title: Curriculum & Credits
 nav_order: 2
 permalink : /curriculum/
 parent: Course Work
@@ -36,22 +36,7 @@ L+T+E+P+O \= the total number of credits assigned to the particular course.
 IIT Madras follows a system, where each course or lab is assigned a slot (A–H, J–M, P–S). 
 The academic timetable with slots is available [here](https://www.iitm.ac.in/academics/academic-services/timetable).
 
-# Course allotment
-Faculty of the department meet and decide the respective courses to be offered during the subsequent semester as per the following schedule:
-* Odd Sem (July-Nov) - done in February  
-* Even Sem (Jan- May) - done in September
 
 
-# Course registration and add/drop
-
-Students typically register for the subsequent semester courses at the end of current semester. 
-At the beginning of a semester, the students may request to add/ drop course(s)
-through workflow during the allotted window as per the academic calendar. The faculty advisor and 
-course faculty need to approve the requests through workflow.
-
-Workflow :arrow_right: Academic  :arrow_right:  Approvals  :arrow_right:  Add or Drop
-
-{: .highlight}
-For Allocation of Teaching Assistants, each department has its own policy. 
 
  

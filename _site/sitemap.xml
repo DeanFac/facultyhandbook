@@ -73,6 +73,9 @@
 <loc>http://localhost:4000/fachandbook/ofac_landing/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fachandbook/conducting_courses/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/fachandbook/first_week/</loc>
 </url>
 <url>
@@ -91,9 +94,6 @@
 <loc>http://localhost:4000/fachandbook/off_campus/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/fachandbook/offering_courses/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/fachandbook/Research_landing/</loc>
 </url>
 <url>
@@ -104,6 +104,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/fachandbook/payment_landing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/fachandbook/course_evaluation/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/fachandbook/evaluations/</loc>
@@ -119,9 +122,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/fachandbook/sports_landing/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/fachandbook/tlc/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/fachandbook/travel_norms/</loc>
