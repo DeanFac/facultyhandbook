@@ -31,9 +31,29 @@ Different letter grades carry the following points:
 The following guidelines can be used for determining the cut-off marks for different grades after sorting the marks in ascending/ descending order:
 
 
-(i)  Class size is more than 50:
+(i)  Class size is more than 50: ( $\mu$ - mean; $\sigma$ - standard deviation)
+
+
+| Grade | From (cut-off)                     | To (<)                       | Approx % |
+|:----:|:-----------------------------------:|:----------------------------:|:--------:|
+| S    | $ \ge \mu + 1.65\,\sigma $          | —                            | 5        |
+| A    | $ \mu + 0.85\,\sigma $              | $ \mu + 1.65\,\sigma $       | 15       |
+| B    | $ \mu + 0.12\,\sigma $              | $ \mu + 0.85\,\sigma $       | 25       |
+| C    | $ \mu - 0.65\,\sigma $              | $ \mu + 0.12\,\sigma $       | 30       |
+| D    | $ \mu - 1.3\,\sigma $               | $ \mu - 0.65\,\sigma $       | 15       |
+| E    | —                                   | $ \mu - 1.3\,\sigma $        | 10       |
+
+
+
 
 (ii) Class size between 20 and 50:
+
+| Grade  | Approximate % of Students in the range |
+|:-------|:---------------------------------------|
+| S, A, B | Top 45%  |
+| C, D    | Next 45% |
+| E & U   | Next 10% |
+
 
 There is no specific guideline recommended for small classes. These are just guidelines and not mandatory. 
 
