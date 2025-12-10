@@ -2,7 +2,7 @@
 title: Disposal
 nav_order: 5
 permalink : /disposal_landing/
-parent: Stores and Purchase
+parent: Stores & Purchase
 ---
 
 

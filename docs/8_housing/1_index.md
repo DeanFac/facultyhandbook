@@ -1,10 +1,10 @@
 ---
-title: Housing
+title: Housing & Estate
 nav_order: 8
-permalink : /estate_landing/
+permalink : /housing_estate/
 ---
 
-# Housing
+# Housing and Estate
 Estate: 8114 
 
 Please note that provision of quarters on campus is a privilege accorded and not an entitlement.

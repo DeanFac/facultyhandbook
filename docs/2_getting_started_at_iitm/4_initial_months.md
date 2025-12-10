@@ -27,7 +27,7 @@ parent: Getting Started
    
 
 {: .highlight} 
-**New Faculty Initiation Grant (NFIG)-** ₹ {{ site.data.variables.nfig }} Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> **New Faculty Seed Grant (NFSG)-** Up to ₹ {{ site.data.variables.nfsg }} lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. Apply within 3 years of joining (typically after 1.5-2 years). 
+**New Faculty Initiation Grant (NFIG)-** ₹ {{ site.data.variables.nfig }} Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year.   <br> **New Faculty Seed Grant (NFSG)-** Up to ₹ {{ site.data.variables.nfsg }} lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. On a case to case basis, properly justified proposals can be considered for funding beyong 50 lakhs. Apply within 3 years of joining (typically in 2nd year). 
 
 
 # Office & Laboratory
@@ -40,5 +40,5 @@ As per Central Civil Services (Conduct) Rules, working from home option is **NOT
 
 
 * **Lab** Space is allotted based on requirement projected to the department. For purchases, follow [Institute procedures]({{ "/stores_landing/" | relative_url }}).
-Coordinate with the [Engineering Unit (EU)]({{ "/ofac_landing/" | relative_url }}) for major electrical works, plumbing works, etc.
+Coordinate with the [Engineering Unit (EU)]({{ "/estate/" | relative_url }}) for major electrical works, plumbing works, etc.
 {: .no_toc}

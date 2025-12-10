@@ -1,5 +1,5 @@
 ---
-title: Leaves and Travel
+title: Leaves & Travel
 nav_order: 7
 permalink : /leavesandtravel/
 ---

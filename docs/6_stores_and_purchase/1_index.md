@@ -1,5 +1,5 @@
 ---
-title: Stores and Purchase
+title: Stores & Purchase
 nav_order: 6
 permalink : /stores_landing/
 ---

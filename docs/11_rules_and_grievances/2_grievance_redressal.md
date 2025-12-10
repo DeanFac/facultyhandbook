@@ -2,7 +2,7 @@
 title: Grievance Redressal
 nav_order: 2
 permalink : /grieve_redress_landing/
-parent: Rules and Grievances
+parent: Rules & Grievances
 ---
 
 ## Table of contents

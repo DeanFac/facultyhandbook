@@ -2,7 +2,7 @@
 title: Non-GeM Procurement
 nav_order: 3
 permalink : /nongem_landing/
-parent: Stores and Purchase
+parent: Stores & Purchase
 ---
 
 ## Table of contents
@@ -14,7 +14,7 @@ parent: Stores and Purchase
 
 It is expected that all purchases are done through GeM. Procurement may bypass GeM only after confirming non-availability and with proper approval and justification GeM Non-Availability Certificate (NAC) must be recorded when items/ service is not available on the GeM portal.
 
-| Slab Value (INR) | Procedure | Documents to be Attached | Approving# Authority |
+| Slab Value (INR) | Procedure | Documents to be Attached | Approving Authority |
 | ----- | ----- | ----- | ----- |
 | Up to ₹ {{ site.data.variables.dp_nongem }} lakh (Direct Purchase) |  No quotations/bids required. | User certificate for \>₹ 15000(Annexure-A) <br> Quotation (if any) countersigned by user <br> For imported goods, OEM Authorization/ proprietary certificate and technical write-up | Approved by HoD <br> PO issued by Dept for local purchase; by Admin Stores for Import/AMC. |
 | Above ₹ {{ site.data.variables.dp_nongem }} lakh to ₹ {{ site.data.variables.lpc }} lakhs through market survey by Local Purchase Committee (LPC) |  Quotation(s) is/are mandatory | Quotation countersigned by user LPC Certificate <br> (Annexure-B: market survey for reasonableness) <br>  Comparative Statement <br> OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Approved by HoD <br> PO issued by: Dept for local purchase; Admin Stores for Import/AMC |

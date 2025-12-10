@@ -1,8 +1,8 @@
 ---
-title: Off Campus
+title: Off Campus Housing
 nav_order: 3
 permalink : /off_campus/
-parent: Housing
+parent: Housing & Estate
 ---
 
 # Living Outside Campus

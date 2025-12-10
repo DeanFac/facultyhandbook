@@ -2,7 +2,7 @@
 title: Payment mechanisms for purchases
 nav_order: 4
 permalink : /payment_landing/
-parent: Stores and Purchase
+parent: Stores & Purchase
 ---
 
 ## Table of contents

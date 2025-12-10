@@ -2,7 +2,7 @@
 title: Authorized Travel Agents
 nav_order: 5
 permalink : /travel_norms/
-parent: Leaves and Travel
+parent: Leaves & Travel
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

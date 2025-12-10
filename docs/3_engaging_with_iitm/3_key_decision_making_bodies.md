@@ -2,7 +2,7 @@
 title: Decision making bodies
 nav_order: 3
 permalink : /decision_making/
-parent: Engaging with IITM
+parent: Engaging within IITM
 ---
 
 ## Table of contents
@@ -11,10 +11,10 @@ parent: Engaging with IITM
 {:toc}
 
 # Board of Governors (BoG)
-The BoG deals with administrative matters related to functioning of the institute. BoG also ratifies senate minutes.
+The [BoG](https://www.iitm.ac.in/the-institute/administration/governing-board) deals with administrative matters related to functioning of the institute. BoG also ratifies senate minutes.
 
 # Senate 
-The senate controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results.
+The [senate](https://www.iitm.ac.in/the-institute/administration/senate) controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results.
 The Director is the ex-officio Chairman of the Senate. 
 Other ex-officio members include Deputy Directors, Dean (Academic Courses), Dean (Academic Research), Professors, Heads of Department (HoDs), Registrar, Librarian, Wardens, and Student Secretaries (Academic Affairs, Research Affairs, & General Secretary).
 

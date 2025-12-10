@@ -2,7 +2,7 @@
 title: Mailing lists
 nav_order: 4
 permalink : /mailing_lists/
-parent: Engaging with IITM
+parent: Engaging within IITM
 ---
 
 # Mailing lists   
@@ -10,7 +10,7 @@ By default, all new faculty members are added to the first three mailing lists g
 
 | Mailing List | Purpose |
 | :---- | :---- |
-| Announce | Information relevant to the entire institute – including faculty, students, staff, etc.  |
-| Faculty | Any information specifically relevant to the faculty. Eg: grant announcements, academic related information, etc. |
-| Seminar | Information related to MS/ PhD seminars of all departments |
-| Residents | Information relevant to on-campus residents |
+| Announce: announce@list.iitm.ac.in | Information relevant to the entire institute – including faculty, students, staff, etc.  |
+| Faculty: faculty@list.iitm.ac.in | Any information specifically relevant to the faculty. Eg: grant announcements, academic related information, etc. |
+| Seminar: seminars@list.iitm.ac.in | Information related to seminars of all departments (including MS/ PhD seminars)|
+| Residents: residents@list.iitm.ac.in | Information relevant to on-campus residents |

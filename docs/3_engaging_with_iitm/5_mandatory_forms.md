@@ -2,7 +2,7 @@
 title: Mandatory forms to be filled periodically
 nav_order: 5
 permalink : /mandatory_forms/
-parent: Engaging with IITM
+parent: Engaging within IITM
 ---
 
 | Mandatory Forms to Fill | Where to fill                                                      | When to fill                                            |
@@ -12,6 +12,3 @@ parent: Engaging with IITM
 | Immovable Property Returns (IPR)* | Workflow :arrow_right: Human Resources                                        | Before 31<sup>st</sup> Jan                                         |
 | Working during Vacation | Workflow :arrow_right: Leave and Vacation                          | Twice a year \- before 31<sup>st</sup> Jul and 31<sup>st</sup> Jan |
 | Children Education Allowance (CEA) | Workflow :arrow_right: Main Accounts :arrow_right: Reimbursement                         | 31<sup>st</sup> March         
-
-{: .highlight}
-***Notify Admin 1 if buying or selling property.**

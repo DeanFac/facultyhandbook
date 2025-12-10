@@ -1,8 +1,8 @@
 ---
-title: On Campus
+title: On Campus Housing
 nav_order: 2
 permalink : /on_campus/
-parent: Housing
+parent: Housing & Estate
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

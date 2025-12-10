@@ -2,7 +2,7 @@
 title: GeM Procurement
 nav_order: 2
 permalink : /gem_landing/
-parent: Stores and Purchase
+parent: Stores & Purchase
 ---
 
 ## Table of contents

@@ -2,7 +2,7 @@
 title: Interface with IITM
 nav_order: 2
 permalink : /interfaces/
-parent: Engaging with IITM
+parent: Engaging within IITM
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
@@ -22,6 +22,7 @@ parent: Engaging with IITM
 | IRINS Portal | [https://iitm.irins.org/](https://iitm.irins.org/) | Summarises scholarly activities from ORCID, Scopus, Web of Science, and Google Scholar. Login to edit/ update information.  Contact librarian: 4951 to set up account |
 | Faculty Staff Portal | [https://iitmfsp.iitm.ac.in/](https://iitmfsp.iitm.ac.in/)  | Download payslips, Form 16, insurance card |
 | Academic Portal | [https://academic.iitm.ac.in/](https://academic.iitm.ac.in/) | Information on curriculum, courses, student roll list, academic circulars and forms |
+| Faculty Portal | [http://facportal.iitm.ac.in](http://facportal.iitm.ac.in) | Information related to faculty; mentorship program booking; faculty handbook |
 
 # [Admin section](https://admin.iitm.ac.in)
 

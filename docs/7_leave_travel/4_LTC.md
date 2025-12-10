@@ -2,7 +2,7 @@
 title: Leave Travel Concession (LTC)
 nav_order: 4
 permalink : /ltc/
-parent: Leaves and Travel
+parent: Leaves & Travel
 ---
 
 # Leave Travel Concession (LTC) - 8255

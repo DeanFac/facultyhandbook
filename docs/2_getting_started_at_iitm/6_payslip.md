@@ -43,6 +43,6 @@ will also reflect in your salary slip.
 | **Group Term Insurance Scheme**  **(GTIS)** | Offers a lump sum payment to the employee’s beneficiary in case of death for employees to cover against death. Option available to choose higher premiums for better coverage. Once withdrawn, there is no option to re-enroll in this scheme.  [https://admin.iitm.ac.in/insurance-details/](https://admin.iitm.ac.in/insurance-details/)   | 8120/8112 |
 | **License Fee** | A license fee is charged for those availing campus residence, depending on the type of quarters allotted.  |  |
 | **Staff Medical Facilities** | A nominal fee is deducted towards staff medical facilities at IITM Hospital.  |  |
-| **Professional Tax** | |  |
+| **Professional Tax** | Tax collected by State govt.|  |
 
 In addition, for campus residents, charges towards utilities such as water, electricity, waste disposal, milk supply (if through staff club), satellite TV (if through staff club), are also deducted from salary. Membership fees for various associations and clubs on campus like Faculty Association, Film Club, etc. are also deducted.

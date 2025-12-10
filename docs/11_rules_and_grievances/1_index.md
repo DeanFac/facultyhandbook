@@ -1,5 +1,5 @@
 ---
-title: Rules and Grievances
+title: Rules & Grievances
 nav_order: 11
 permalink : /grieve_landing/
 ---

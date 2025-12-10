@@ -2,7 +2,7 @@
 title: Leaves
 nav_order: 2
 permalink : /leaves/
-parent: Leaves and Travel
+parent: Leaves & Travel
 ---
 
 # Leaves
