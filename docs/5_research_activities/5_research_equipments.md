@@ -9,6 +9,14 @@ parent: Research Activities
 * TOC
 {:toc}
 
+
+# Equipment Reservation System
+
+* Facilities at IITM available on payment basis:  [https://ers.iitm.ac.in/webroot/equipment\_search.php](https://ers.iitm.ac.in/webroot/equipment_search.php). 
+	- To book:  [https://ers.iitm.ac.in/webroot/home.php](https://ers.iitm.ac.in/webroot/home.php). 
+* For New lab registration in ERS portal, send [email](mailto:cmit-icsr@icsrpis.iitm.ac.in) or call Ext: 9794
+* Publicly funded R&D equipment and facilities across the country, I-STEM: [https://www.istem.gov.in/](https://www.istem.gov.in/) 
+
 # Common research facilities and equipment
 
 Some of the available facilities on campus are given below. (This is not an exhaustive list).
@@ -28,13 +36,6 @@ Some of the available facilities on campus are given below. (This is not an exha
 | [Central Skill Training and Fabrication Facility (CSTF)](https://cstf.iitm.ac.in/) | For hardware fabrication  |  
 | Central Glass Blowing Section | For making customized glassware for experimental purposes  |  
 
-
-# Equipment Reservation System
-
-* Facilities at IITM available on payment basis:  [https://ers.iitm.ac.in/webroot/equipment\_search.php](https://ers.iitm.ac.in/webroot/equipment_search.php). 
-	- To book:  [https://ers.iitm.ac.in/webroot/home.php](https://ers.iitm.ac.in/webroot/home.php). 
-* For New lab registration in ERS portal, send [email](mailto:cmit-icsr@icsrpis.iitm.ac.in) or call Ext: 9794
-* Publicly funded R&D equipment and facilities across the country, I-STEM: [https://www.istem.gov.in/](https://www.istem.gov.in/) 
 
 # [Central library](https://cenlib.iitm.ac.in/)
 * Timings: 8:00 am - midnight

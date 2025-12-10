@@ -4,6 +4,10 @@ nav_order: 2
 permalink : /research_programs/
 parent: Research Activities
 ---
+{: .highlight }
+The governing rules for research programs can be found in the [ordinances](https://www.iitm.ac.in/academics/academic-services/ordinances).
+
+
 ## Table of contents
 {: .no_toc .text-delta } 
 * TOC

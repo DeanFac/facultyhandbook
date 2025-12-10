@@ -19,7 +19,7 @@ For MS Thesis evaluation, guide suggests 2 examiners. HoD will choose one examin
 A two-track policy is followed for PhD thesis evaluation. 
 
 1) Track 1:   
-   1. If 70% or more of the thesis has already been published in peer reviewed journal/s.   
+   1. If 70% or more of the thesis has already been published in peer reviewed journal(s)/ venue.   
    2. Guide suggests 2 reviewers (can be from IITM or outside) after confirming their willingness by e-mail. The thesis will be sent to the 2 examiners and viva voce is scheduled once one of the reviews is received.   
    
 2) Track A:  

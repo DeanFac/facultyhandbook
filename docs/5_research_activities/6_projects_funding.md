@@ -46,6 +46,8 @@ IPM Cell: 9751
 
 # Internal Funding Opportunities 
 
+Faculty shall not consider the internal funding opportunities as a main source of funding. It is only to augment one's research ambitions. The IIT system expects faculty to secure large scale funding from [government](http://facportal.iitm.ac.in/fachandbook/projects_funding/#govt-funding-agencies) and non-governmental agencies. 
+
 | Grant | Amount | Purpose | Process | Timeline |
 | :---- | :---- | :---- | :---- | :---- |
 | **New Faculty Initiation Grant (NFIG)** | **₹ {{ site.data.variables.nfig }} lakhs (Duration- 2 years)** | Purchase of basic equipment. Not meant for office furniture and standard supplies. | Email the proposal to the Dean, ICSR through HoD. | Within 1 year of joining |

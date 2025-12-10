@@ -73,19 +73,19 @@ Its mission is to nurture and sustain Innovation Ecosystems through collaboratio
 2. **Centers of Excellence (CoE) established in partnership with industry/ government agencies:** New faculty are encouraged to engage with any of these CoEs as per their interest. List of such CoEs include:
 * [IITM Pravartak Technologies Foundation](https://iitmpravartak.org.in/) (section 08 company: Technology Innovation Hub on Sensors, Networking, Actuators, & Control Systems - SNACS, funds projects in these domains)
 * [Advanced Manufacturing Technology Development Centre - AMTDC](https://amtdc.org/) 
-* CoE in Advanced Automotive Research - CAAR
+* [CoE in Advanced Automotive Research - CAAR](https://www.caar.tech/)
 * Center of Battery Engineering & Electric Vehicles - CBEEV
-* Centre for Railway Research - CRR
-* Center for Excellence in Energy & Telecommunications - CEET 
-* Center of Excellence in Wireless Technology - CEWiT
-* Center for Urbanization, Buildings & Environment - CUBE
-* International Center for Clean Water - ICCW
-* National Center for Assistive Health Technologies - NCAHT
-* IITM CDOT Samgnya Technologies Foundation
-* India Centre for Lab Grown Diamond
-* Healthcare Technology Innovation Centre - HTIC
-* Kotak-IIT Madras Save Energy Mission
-* Centre of Excellence in Road Safety
+* [Centre for Railway Research - CRR](https://crr.iitm.ac.in/)
+* Center for Excellence in Energy & Telecommunications - CEET
+* [Center of Excellence in Wireless Technology - CEWiT](https://cewit.org.in/)
+* [Center for Urbanization, Buildings & Environment - CUBE](https://www.cubeiitm.org/)
+* [International Center for Clean Water - ICCW](https://iccw.world/)
+* [National Center for Assistive Health Technologies - NCAHT](https://r2d2.iitm.ac.in/resources/ncaht)
+* [IITM CDOT Samgnya Technologies Foundation](https://www.samgnya.in/)
+* [India Centre for Lab Grown Diamond - InCent-LGD](https://incentlgdiitm.org/)
+* [Healthcare Technology Innovation Centre - HTIC](https://www.hticiitm.org/)
+* [Kotak-IIT Madras Save Energy Mission - KISEM](https://kisem.org/)
+* [Centre of Excellence in Road Safety - CoERS](https://ed.iitm.ac.in/~vb/rbg/CoERS.html)
 * Agnishodh, the Indian Army Research Cell - IARC
 <br><br>
 
