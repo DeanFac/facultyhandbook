@@ -29,6 +29,11 @@ acco: 120 #typical reimbursement for accommodation
 usuk: 150 #Project funds per diem allowance in USD for USA, UK, Canada, Australia, France, Belgium, Hong Kong, China, South Korea, etc.
 perdiemother: \\$125, \\$100 #Project funds per diem allowance in USD for other countries
 
+#Main Index (home page) - Block year
+cpda_block: 2024-2027
+ltc_block: 2026-2029 
+
+
 #project overheads
 
 

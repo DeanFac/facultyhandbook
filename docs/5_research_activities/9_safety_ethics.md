@@ -27,6 +27,7 @@ Some of the common things to keep in mind are listed below:
 -	E-waste & outdated/ non-functioning equipment which have Stores Received Book (SRB) entries have to be disposed through a condemnation committee coordinated by department office/ stores. 
 -	To dispose radioactive material, contact the **Radiation Safety Officer (RSO)** who will in turn connect with the approved vendor and approve the disposal. 
 -	Bio Medical Waste Disposal should be done through registered vendors. While there is no centralized process for this, contact the department for guidelines.
+- For disposal of other items, check [stores & purchase - disposal section]({{ "/disposal_landing/" | relative_url }}).
 
 {: .highlight}
 There are specific rules for disposal of chemicals, hazardous and biomedical waste. Check [Engineering Unit Handbook](https://enggunit.iitm.ac.in/includes/pdf/Handbook-EU-corrected-FINAL.pdf)

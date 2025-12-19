@@ -42,6 +42,8 @@ Welcome to the IIT Madras Faculty Guide!
 
 Block Years are periods during which an employee can avail CPDA or LTC benefits. These blocks are fixed periods decided by the Government of India. The starting date of a specific block has no relationship to the employee's joining date. Consequently, the employee's joining date will proportionally affect the extent to which he/she can avail the benefits during that block. Please see examples below. <br>
 
-Example 1 - Faculty are given 3 Lakhs CPDA for every 3-year block. Suppose that one such 3-year block is from Jan 1st 2021 to December 31st 2023. If a faculty joins the institute in June 2022, then he/she receives only 1.5 Lakhs for that block. Subsequent blocks will have 3 Lakhs. <br>
+Case 1 - Faculty are given 3 Lakhs CPDA for every 3-year block. Suppose that one such 3-year block is from Jan 1st 2021 to December 31st 2023. If a faculty joins the institute in June 2022, then he/she receives only 1.5 Lakhs for that block. Subsequent blocks will have 3 Lakhs. <br>
+**Current block year for CPDA- {{ site.data.variables.cpda_block }}**
 
-Example 2 - Employees can avail LTC for two hometown trips in a 4-year block. They can only do this once in every two-year sub-block. Suppose that one such 4-year block is from Jan 1st 2021 to December 31st 2024. If a faculty did not avail this in the first sub-block (2021 and 2022), he/she can only travel once to his/her hometown in either 2023 or 2024.
+Case 2 - Employees can avail LTC for two hometown trips in a 4-year block. They can only do this once in every two-year sub-block. Suppose that one such 4-year block is from Jan 1st 2021 to December 31st 2024. If a faculty did not avail this in the first sub-block (2021 and 2022), he/she can only travel once to his/her hometown in either 2023 or 2024.<br>
+**Current block year for LTC- {{ site.data.variables.ltc_block }}**

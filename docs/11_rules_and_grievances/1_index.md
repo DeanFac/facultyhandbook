@@ -1,7 +1,7 @@
 ---
 title: Rules & Grievances
 nav_order: 11
-permalink : /grieve_landing/
+permalink : /rule_grieve_landing/
 ---
 
 ## Table of contents
@@ -13,9 +13,11 @@ permalink : /grieve_landing/
 
 The terms & conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links:
 
--	[Acts](https://admin.iitm.ac.in/wp-content/uploads/2025/09/ACTS.pdf)
--	[Statutes](https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf) 
--	[Central Civil Services (Conduct) Rules](https://dopt.gov.in/ccs-cca-rules-1965)
+- [IITM Act](https://admin.iitm.ac.in/wp-content/uploads/2025/09/ACTS.pdf)
+- [Statutes](https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf) 
+- [Central Educational Institutions (CEIs)]()
+- [Central Civil Services (Conduct) Rules](https://dopt.gov.in/ccs-cca-rules-1965)
+- [General Financial Rules, 2017](https://doe.gov.in/files/circulars_document/FInal_GFR_upto_31_07_2024.pdf)
 
 **SOME IMPORTANT TAKEAWAYS**
 * No work-from-home.

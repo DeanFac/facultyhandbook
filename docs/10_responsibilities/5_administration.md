@@ -17,12 +17,10 @@ All administrative activities in this academic institute are ultimately supervis
 *Among the various administrative responsibilities, listed below (not exhaustive), faculty can contribute in the ones that they feel passionate about. While the faculty can say no to some of the administrative responsibilities that do not suit them, don’t say no to everything!* 
 
 
-{: .highlight}
-NEVER SAY **YES** WHEN YOU WANT TO SAY **NO** - Nina Brown
-{: .fs-6 .fw-400}
-
-
 ## Department Level Responsibilities
+
+**Every faculty is expected to take up some of these responsibilities.**
+
 * Member/ Chairperson of GTC/DC meetings/Viva committees  
 * Members of BAC, BAR, LAC, board of ICSR, BoI, Placement board, Time table committee, Board of ACR, GE liaison officer
 * UG/ PG project evaluation coordinator/ committee, invigilation committee  
@@ -43,7 +41,9 @@ NEVER SAY **YES** WHEN YOU WANT TO SAY **NO** - Nina Brown
 * Warden, other activities
 
 {: .highlight}
-Faculty’s involvement in administrative activities typically increases with seniority. 
+• Faculty’s involvement in administrative activities typically increases with seniority.<br>
+• Never compromise your research and guidance for the purpose of administration.<br>
+• Never say YES when you want to say NO.
 
 # Other activities which may be useful
 *Register and go as Institute Representatives (IR) for JEE Advanced / GATE exam duties. This is a good opportunity to get connected with faculty and staff from other departments.* 
@@ -52,10 +52,6 @@ Faculty’s involvement in administrative activities typically increases with se
 | :---- | :---- | :---- |
 | *JEE advanced* | *February* | *Mid-May* |
 | *GATE* | *September* | *Early February* |
-
-# Mentorship program 
-(**[http://facportal.iitm.ac.in/mentorship/](http://facportal.iitm.ac.in/mentorship/)**)
-* The Dean Faculty office coordinates a mentorship program to support faculty in their career development. Faculty who have joined the institution within the last 5 years are connected with senior faculty members with a proven track record of excellence. New faculty can sign up for an initial mentorship session by logging onto the website.   
    	  
 
 {: .highlight}

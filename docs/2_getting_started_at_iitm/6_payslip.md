@@ -34,6 +34,8 @@ Salary is disbursed at the end of the month. Below is a sample salary slip (for 
 Additional payments from Consultancy projects, GATE/JEE responsibilities, honorarium from online courses, etc.
 will also reflect in your salary slip. 
 
+![PaySlip_Projects]({{ site.baseurl }}/assets/images/payslip_projects.png)
+
 # Deductions
 
 |  | Details | Contact |

@@ -107,23 +107,23 @@
     "doc": "Rules & Grievances",
     "title": "Table of contents",
     "content": ". | Rules and rights | . ",
-    "url": "/fachandbook/grieve_landing/#table-of-contents",
+    "url": "/fachandbook/rule_grieve_landing/#table-of-contents",
     
-    "relUrl": "/grieve_landing/#table-of-contents"
+    "relUrl": "/rule_grieve_landing/#table-of-contents"
   },"16": {
     "doc": "Rules & Grievances",
     "title": "Rules and rights",
-    "content": "The terms &amp; conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links: . | Acts | Statutes | Central Civil Services (Conduct) Rules | . SOME IMPORTANT TAKEAWAYS . | No work-from-home. | You are on call 24x7. There is no signing in and signing out. Unless otherwise stated specifically in the terms of appointment, every employee is a whole-time employee of the Institute, and may be called upon to perform such duties, as may be assigned to him by the competent authority, beyond scheduled working hours and on closed holidays and Sundays. These duties shall, inter alia, include attendance at meetings of Committees to which he may be appointed by the Institute. | If you are going out of station even while on personal trips during holidays, you must intimate the HoD through workflow. Human Resources :arrow_right: Leave and Vacation :arrow_right: Outstation Intimation (Holidays) This is essential for insurance purposes and accountability. | You cannot write articles (unless they are of purely literary, artistic or scientific character), give interviews, etc. without institute’s permission. | The faculty cannot represent as a group (no unionization); cannot be signatory to any joint representation. | Be courteous to faculty, staff, and students. | . There are several other important points in the Statutes. Please read the statutes document. ",
-    "url": "/fachandbook/grieve_landing/#rules-and-rights",
+    "content": "The terms &amp; conditions of service and conduct rules; vacation and leave policies, etc. are detailed in the following links: . | IITM Act | Statutes | Central Educational Institutions (CEIs) | Central Civil Services (Conduct) Rules | General Financial Rules, 2017 | . SOME IMPORTANT TAKEAWAYS . | No work-from-home. | You are on call 24x7. There is no signing in and signing out. Unless otherwise stated specifically in the terms of appointment, every employee is a whole-time employee of the Institute, and may be called upon to perform such duties, as may be assigned to him by the competent authority, beyond scheduled working hours and on closed holidays and Sundays. These duties shall, inter alia, include attendance at meetings of Committees to which he may be appointed by the Institute. | If you are going out of station even while on personal trips during holidays, you must intimate the HoD through workflow. Human Resources :arrow_right: Leave and Vacation :arrow_right: Outstation Intimation (Holidays) This is essential for insurance purposes and accountability. | You cannot write articles (unless they are of purely literary, artistic or scientific character), give interviews, etc. without institute’s permission. | The faculty cannot represent as a group (no unionization); cannot be signatory to any joint representation. | Be courteous to faculty, staff, and students. | . There are several other important points in the Statutes. Please read the statutes document. ",
+    "url": "/fachandbook/rule_grieve_landing/#rules-and-rights",
     
-    "relUrl": "/grieve_landing/#rules-and-rights"
+    "relUrl": "/rule_grieve_landing/#rules-and-rights"
   },"17": {
     "doc": "Rules & Grievances",
     "title": "Rules & Grievances",
     "content": " ",
-    "url": "/fachandbook/grieve_landing/",
+    "url": "/fachandbook/rule_grieve_landing/",
     
-    "relUrl": "/grieve_landing/"
+    "relUrl": "/rule_grieve_landing/"
   },"18": {
     "doc": "Housing & Estate",
     "title": "Housing and Estate",
@@ -140,1461 +140,1566 @@
     "relUrl": "/housing_estate/"
   },"20": {
     "doc": "Stores & Purchase",
-    "title": "Table of contents",
-    "content": "List of Abbreviations: . | S&amp;P | Stores and Purchase |   | F&amp;A | Finance and Accounts | . | PO | Purchase Order |   | AMC | Annual Maintenance Cost | . | OEM | Original Equipment Manufactuter |   | CPP | Central Public Procurement Portal | . | SPC | Stores &amp; Purchase Committee (Institute Level) |   | PPC | Project Purchase Committee (Institute Level) | . | L1 | Lowest Financial Bid |   | GeM | Government e-Marketplace | . ",
-    "url": "/fachandbook/stores_landing/#table-of-contents",
+    "title": "Stores and Purchase",
+    "content": "Purchase procedures are governed by the General Financial Rules issued by the Department of Expenditure, Government of India. ",
+    "url": "/fachandbook/stores_landing/#stores-and-purchase",
     
-    "relUrl": "/stores_landing/#table-of-contents"
+    "relUrl": "/stores_landing/#stores-and-purchase"
   },"21": {
+    "doc": "Stores & Purchase",
+    "title": "List of Abbreviations",
+    "content": "| S&amp;P | Stores and Purchase |   | F&amp;A | Finance and Accounts | . | PO | Purchase Order |   | AMC | Annual Maintenance Cost | . | OEM | Original Equipment Manufactuter |   | CPP | Central Public Procurement Portal | . | SPC | Stores &amp; Purchase Committee (Institute Level) |   | PPC | Project Purchase Committee (Institute Level) | . | L1 | Lowest Financial Bid |   | GeM | Government e-Marketplace | . ",
+    "url": "/fachandbook/stores_landing/#list-of-abbreviations",
+    
+    "relUrl": "/stores_landing/#list-of-abbreviations"
+  },"22": {
     "doc": "Stores & Purchase",
     "title": "Stores & Purchase",
     "content": " ",
     "url": "/fachandbook/stores_landing/",
     
     "relUrl": "/stores_landing/"
-  },"22": {
+  },"23": {
     "doc": "Leaves & Travel",
     "title": "Leaves and Travel",
     "content": "For Residents’ certificate/ Service certificate/ Identity certificate for Passport Application/ Renewal – email admin1@zmail.iitm.ac.in NOC for Passport renewal: Apply through Workflow :arrow_right: Human Resource :arrow_right: Apply for NOC. Submit 3 passport size photographs with white background to Admin1 for attestation. ",
     "url": "/fachandbook/leavesandtravel/#leaves-and-travel",
     
     "relUrl": "/leavesandtravel/#leaves-and-travel"
-  },"23": {
+  },"24": {
     "doc": "Leaves & Travel",
     "title": "Leaves & Travel",
     "content": " ",
     "url": "/fachandbook/leavesandtravel/",
     
     "relUrl": "/leavesandtravel/"
-  },"24": {
+  },"25": {
     "doc": "Course Work",
     "title": "Course Work",
     "content": " ",
     "url": "/fachandbook/course_work_landing/",
     
     "relUrl": "/course_work_landing/"
-  },"25": {
+  },"26": {
     "doc": "IIT Madras Campuses",
     "title": "Table of contents",
     "content": ". | IIT Madras Campuses | Campus Gates | . ",
     "url": "/fachandbook/iitm_campuses/#table-of-contents",
     
     "relUrl": "/iitm_campuses/#table-of-contents"
-  },"26": {
+  },"27": {
     "doc": "IIT Madras Campuses",
     "title": "IIT Madras Campuses",
     "content": "IIT Madras (IITM) has the following campuses in Tamil Nadu: . | Main campus at Chennai. The campus map can be downloaded here. | Discovery campus at Thaiyur | . IITM research park, a section 08 company adjacent to IITM main campus houses incubation cells/ start-ups, centres of excellence as well as R&amp;D centers of some of the established industries which are collaborating with IITM. IITM also has an international campus at Zanzibar in collaboration with Tanzania. This document pertains mainly to the IITM Main campus . ",
     "url": "/fachandbook/iitm_campuses/",
     
     "relUrl": "/iitm_campuses/"
-  },"27": {
+  },"28": {
     "doc": "IIT Madras Campuses",
     "title": "Campus Gates",
     "content": "| Gate | Access For | . | Main Gate, on Sardar Patel Road | :blue_car: :walking: :motorcycle: | . | Velachery Gate | :walking: :motorcycle: | . | Taramani Gate | :walking: :motorcycle: | . :blue_car: Four wheelers are allowed only through the Main Gate. | The campus is connected to the IITM Research Park through the Industry–Academia Bridge. | . | Best way to reach IITM from the airport/ railway station is to use pre-paid taxi counter available inside the airport. | . ",
     "url": "/fachandbook/iitm_campuses/#campus-gates",
     
     "relUrl": "/iitm_campuses/#campus-gates"
-  },"28": {
+  },"29": {
     "doc": "Curriculum & Credits",
     "title": "Table of contents",
     "content": ". | Academic calendar &amp; Timetable | Curriculum and credits | . All academic courses related activities are coordinated by Dean (Academic Courses). ",
     "url": "/fachandbook/curriculum/#table-of-contents",
     
     "relUrl": "/curriculum/#table-of-contents"
-  },"29": {
+  },"30": {
     "doc": "Curriculum & Credits",
     "title": "Academic calendar &amp; Timetable",
     "content": ". | Academic calendar | Academic Time Table | Note that there are three-time tables. Refer to the one that pertains to the correct program while deciding slots. ",
     "url": "/fachandbook/curriculum/#academic-calendar--timetable",
     
     "relUrl": "/curriculum/#academic-calendar--timetable"
-  },"30": {
+  },"31": {
     "doc": "Curriculum & Credits",
     "title": "Curriculum and credits",
     "content": "| . Course-based core programs follow a given curriculum which is revised periodically (typically once in 5-10 years) See this link for curricula. | The curriculum includes suggested semester-wise course work. | Curriculum involves a combination of core (mandatory) and elective courses in various categories (basic sciences- S; basic engineering- E; humanities-H; professional- P; management-M; computing- C; general- G). | The students are expected to put in certain number of credit hours (1 credit hour = 50 mins) of effort every week for each course: . | ‘L’ classroom lectures | ‘T’ tutorial sessions | ‘E’ extended tutorial sessions | ‘P’ lab sessions | ‘O’ preparation outside formal classroom engagement. Typically, a student is supposed to spend 2 hours of time preparing for every 1 credit hour of lecture. | . | . L+T+E+P+O = the total number of credits assigned to the particular course. | A minimum number of course credits are required to be completed in various categories to complete a degree. | . IIT Madras follows a system, where each course or lab is assigned a slot (A–H, J–M, P–S). The academic timetable with slots is available here. ",
     "url": "/fachandbook/curriculum/#curriculum-and-credits",
     
     "relUrl": "/curriculum/#curriculum-and-credits"
-  },"31": {
+  },"32": {
     "doc": "Curriculum & Credits",
     "title": "Curriculum & Credits",
     "content": " ",
     "url": "/fachandbook/curriculum/",
     
     "relUrl": "/curriculum/"
-  },"32": {
+  },"33": {
     "doc": "Facilities on Campus",
     "title": "Facilities on Campus",
     "content": "| Facilities | Details | . | State Bank of India (SBI) | Bank on Bonn Avenue, opposite the Post Office SBI ATM also located at the rear end of Taramani Guest House | . | Canara Bank | Shopping Centre on Delhi Avenue | . | ICICI Bank | Near Nilgiris/Krishna hostel | . | HDFC Bank | Near Jamuna hostel, near Taramani Gate | . | Post Office | Located Opposite SBI on Bonn Avenue | . | Institute Bus Services | Free bus service within campus (6:15 AM–10 PM; intervals: 10–20 mins): Main In-Gate, Velachery Gate, Gajendra Circle, and Hostel Zone | . | Shopping complex (residential zone, at the intersection of Bonn Ave. &amp; Banyan Ave.) | Main Building Ground floor shops: Vegetables &amp; Fruits; Groceries; Ration Main Building First floor shops: Departmental Stores; Tailor; Fancy stores; Beauty Parlour; Hair salon; gift shop. Annex (next to main building): LPG Cylinder, Flour Mill, Mineral Water Can, Shoe Cobbling, 2 &amp; 4 wheeler mechanic shop, Photo Studio, Xerox. | . | Departmental Stores | In Hostel zone: Prime Mart near CCW office; Near Main Library building | . | Campus Community Centre | Near the Staff Club/ Shopping Centre (PABX No. 9423): for conducting family functions of employees and retired employees of the Institute. | . | Bicycle Service Points | New Student Facilities Centre (near Usha Cafe) Near Tapti Hostel Bonn Avenue, opp. 3rd cross road Near Sangam Ground (Jamuna Hostel) | . | Laundry &amp; Drycleaning | Shop located at Narmada Basement (9677418873); Door-to-door pickup: Washdoor Services – 9176484448/ 9500484448 | . | E-Charging points | Located at: (1) ICSR Parking area – accessible 24x7; (2) KCB (NAC-1) | . | Ayurvedic hospital &amp; massaging | Staff Club (Estate): 9566278666 | . | Tech Kids Daycare and Activity Centre | Near Vana Vani School (PABX No. 9426) | . ",
     "url": "/fachandbook/facilities_landing/",
     
     "relUrl": "/facilities_landing/"
-  },"33": {
+  },"34": {
     "doc": "GeM Procurement",
     "title": "Table of contents",
     "content": ". | Gem financial rules | . ",
     "url": "/fachandbook/gem_landing/#table-of-contents",
     
     "relUrl": "/gem_landing/#table-of-contents"
-  },"34": {
+  },"35": {
     "doc": "GeM Procurement",
     "title": "Gem financial rules",
     "content": "| Slab Value (INR) | Procurement Mode | Procedure | . | Up to ₹50000 | Direct Purchase (DP) | Direct purchase from GeM seller Comparison optional; purchase based on immediate requirement and availability | . | Above ₹ 50000 to ₹10 lakhs | Direct Purchase (DP) via L1 from 3 OEM brands | Compare at least three OEM brands; Ensure product meets required specifications Purchase from L1 seller (lowest price among comparable OEMs) | . | Above ₹ 10 lakhs | Online Bidding / Reverse Auction (RA) | Float bid or conduct RA via GeM tools; Minimum 3 responsive bidders preferred Select L1 seller meeting technical specs, quality, and delivery requirements | . | For more details and purchase forms, visit https://icsr.iitm.ac.in/Purchase.php . | Reverse Auction – Post financial bid opening, the selected vendors can revise their financial bids (3-5 cycles of revision). The L1 subsequent to the final revision wins the bid. | . ",
     "url": "/fachandbook/gem_landing/#gem-financial-rules",
     
     "relUrl": "/gem_landing/#gem-financial-rules"
-  },"35": {
+  },"36": {
     "doc": "GeM Procurement",
     "title": "GeM Procurement",
     "content": " ",
     "url": "/fachandbook/gem_landing/",
     
     "relUrl": "/gem_landing/"
-  },"36": {
+  },"37": {
     "doc": "Grievance Redressal",
     "title": "Table of contents",
     "content": ". | Grievance Redressal Mechanism | The Office of Diversity &amp; Inclusion | High Power Committees (HPC) | Complaint committee against sexual harassment (CCASH) | . ",
     "url": "/fachandbook/grieve_redress_landing/#table-of-contents",
     
     "relUrl": "/grieve_redress_landing/#table-of-contents"
-  },"37": {
+  },"38": {
     "doc": "Grievance Redressal",
     "title": "Grievance Redressal Mechanism",
     "content": "https://behappy.iitm.ac.in/redressal-mechanism.html: . ",
     "url": "/fachandbook/grieve_redress_landing/#grievance-redressal-mechanism",
     
     "relUrl": "/grieve_redress_landing/#grievance-redressal-mechanism"
-  },"38": {
+  },"39": {
     "doc": "Grievance Redressal",
     "title": "The Office of Diversity &amp; Inclusion",
     "content": "Website- https://odei.iitm.ac.in/ . ",
     "url": "/fachandbook/grieve_redress_landing/#the-office-of-diversity--inclusion",
     
     "relUrl": "/grieve_redress_landing/#the-office-of-diversity--inclusion"
-  },"39": {
+  },"40": {
     "doc": "Grievance Redressal",
     "title": "High Power Committees (HPC)",
     "content": "To address complaints/ allegations related to caste-based discriminations: . | OBC: https://www.iitm.ac.in/the-institute/administration/high-power-committee-obc; hpcobc@iitm.ac.in | SC/ST: https://www.iitm.ac.in/the-institute/administration/high-power-committee; grievancedisc@iitm.ac.in | . ",
     "url": "/fachandbook/grieve_redress_landing/#high-power-committees-hpc",
     
     "relUrl": "/grieve_redress_landing/#high-power-committees-hpc"
-  },"40": {
+  },"41": {
     "doc": "Grievance Redressal",
     "title": "Complaint committee against sexual harassment (CCASH)",
     "content": "https://www.iitm.ac.in/the-institute/administration/complaint-committee . | Committee to inquire into sexual harassment complaints. | Harassment complaints can be raised at ccash@iitm.ac.in. | Faculty have to undergo the mandatory training program for Prevention of Sexual Harassment (PoSH) Awareness. | . ",
     "url": "/fachandbook/grieve_redress_landing/#complaint-committee-against-sexual-harassment-ccash",
     
     "relUrl": "/grieve_redress_landing/#complaint-committee-against-sexual-harassment-ccash"
-  },"41": {
+  },"42": {
     "doc": "Grievance Redressal",
     "title": "Grievance Redressal",
     "content": " ",
     "url": "/fachandbook/grieve_redress_landing/",
     
     "relUrl": "/grieve_redress_landing/"
-  },"42": {
+  },"43": {
     "doc": "Interface with IITM",
     "title": "Table of contents",
     "content": ". | Interface with IIT Madras | Admin section | Important links | . ",
     "url": "/fachandbook/interfaces/#table-of-contents",
     
     "relUrl": "/interfaces/#table-of-contents"
-  },"43": {
+  },"44": {
     "doc": "Interface with IITM",
     "title": "Interface with IIT Madras",
     "content": "| Interface | Link | Typical Purposes | . | Workflow | https://workflow.iitm.ac.in/employee/ Workflow is optimized for Mozilla Firefox. | Administration: Leaves, housing, vehicle pass, travel, CPDA, reimbursement, insurance, purchase, dependent details Academics: Grade upload, course approval, new course proposal, research scholar info For all workflow related processes - https://cc.iitm.ac.in/workflow/about.html | . | Moodle | https://courses.iitm.ac.in/ | Course management: share course material, assignment submissions, bulk message to students of the course | . | ICSR TULA | https://icsris.iitm.ac.in/# | Sponsored &amp; Consultancy Projects Management: project staff appointments, UC/SE, invoice, imprest account | . | Digiicampus | https://iitm.digiicampus.com/home | Attendance | . | Personal Website | home.iitm.ac.in | For hosting personal website. (Set up using https://home.iitm.ac.in/home/index.html ) | . | IRINS Portal | https://iitm.irins.org/ | Summarises scholarly activities from ORCID, Scopus, Web of Science, and Google Scholar. Login to edit/ update information. Contact librarian: 4951 to set up account | . | Faculty Staff Portal | https://iitmfsp.iitm.ac.in/ | Download payslips, Form 16, insurance card | . | Academic Portal | https://academic.iitm.ac.in/ | Information on curriculum, courses, student roll list, academic circulars and forms | . | Faculty Portal | http://facportal.iitm.ac.in | Information related to faculty; mentorship program booking; faculty handbook | . ",
     "url": "/fachandbook/interfaces/#interface-with-iit-madras",
     
     "relUrl": "/interfaces/#interface-with-iit-madras"
-  },"44": {
+  },"45": {
     "doc": "Interface with IITM",
     "title": "Admin section",
     "content": "The section handling administrative activities is divided into three subsections: Admin I, II, and III. Admin I (Contact: 8110/ 8105) and III are relevant for faculty members. Following are the roles and responsibilities of each subsection . ",
     "url": "/fachandbook/interfaces/#admin-section",
     
     "relUrl": "/interfaces/#admin-section"
-  },"45": {
+  },"46": {
     "doc": "Interface with IITM",
     "title": "Important links",
     "content": ". | Other important links can be accessed here | Telephone Directory | . ",
     "url": "/fachandbook/interfaces/#important-links",
     
     "relUrl": "/interfaces/#important-links"
-  },"46": {
+  },"47": {
     "doc": "Interface with IITM",
     "title": "Interface with IITM",
     "content": " ",
     "url": "/fachandbook/interfaces/",
     
     "relUrl": "/interfaces/"
-  },"47": {
+  },"48": {
     "doc": "Leaves",
     "title": "Leaves",
     "content": "Prefixing/ Suffixing - If you have holidays before/ after your leave, you can prefix/suffix them while you apply for leave in workflow. These holidays will NOT be counted against your leave. All leaves have to be applied through workflow and approved by HoD. | Workflow :arrow_right: Human Resources :arrow_right: Leave and Vacation . | For national and international travel using Special Casual Leave (SCL) for professional purposes, Workflow :arrow_right: Main Accounts :arrow_right: Travel :arrow_right: Natl &amp; Intl Travel . | When applying for any professional visit, you are required to attach the invitation letter on workflow. | NOC for VISA has to be applied on Workflow :arrow_right: Human Resource :arrow_right: Apply for NOC. | If it is a professional visit, attach invitation and mention source of funding (CPDA, Project, etc.) | . Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits. Apply at least 2 weeks before travel date. | For project-related travel using ICSR SCL, workflow :arrow_right: ICSR :arrow_right: Travel. | . ",
     "url": "/fachandbook/leaves/",
     
     "relUrl": "/leaves/"
-  },"48": {
+  },"49": {
     "doc": "On Campus Housing",
     "title": "Table of contents",
     "content": ". | Categories for quarters allotment | Eligibility criteria for quarters’ allotment, based on categories | Apartment Allocation | . Faculty members are eligible for on campus housing in the following categories, along with sub-categories, available within the campus: D, C, and B. A detailed table can be found at https://admin.iitm.ac.in/estate/ . ",
     "url": "/fachandbook/on_campus/#table-of-contents",
     
     "relUrl": "/on_campus/#table-of-contents"
-  },"49": {
+  },"50": {
     "doc": "On Campus Housing",
     "title": "Categories for quarters allotment",
     "content": "| Category | With Grade Pay (GP) – Old norms as per workflow | With pay level (7th Pay Commission) | . | Q1 | GP&gt;= Rs.10,000 | Level 14 And above | . | Q2 | GP&gt;= Rs.8700-9999 | Level 13 And above | . | Q3 | GP&gt;= Rs.5400-8699 | Level 10 And above | . ",
     "url": "/fachandbook/on_campus/#categories-for-quarters-allotment",
     
     "relUrl": "/on_campus/#categories-for-quarters-allotment"
-  },"50": {
+  },"51": {
     "doc": "On Campus Housing",
     "title": "Eligibility criteria for quarters’ allotment, based on categories",
     "content": "| Type of Quarters | Eligible Category | Cycle/ Order | No. of Quarters for Faculty | . | B | Q1 | Q1 | 114 B | . | C &amp; C1 | Q1, Q2 | Q1 / Q2 Q2 | 46 C + 66 C1 | . | C2 | Q1, Q2, Q3 | Q1/Q2/Q3 Q2/Q3 Q3 | 115 C2 | . | D &amp; D1 | Q2, Q3 | Q2/Q3 Q3/Q2 | 105 D + 72 D1 | . | If faculty stay off-campus, HRA will be provided. If staying on campus, HRA will not be provided and a license fee is charged based on the type of quarters allotted. | Conditions under which quarters are allotted: https://admin.iitm.ac.in/estate/ . | . ",
     "url": "/fachandbook/on_campus/#eligibility-criteria-for-quarters-allotment-based-on-categories",
     
     "relUrl": "/on_campus/#eligibility-criteria-for-quarters-allotment-based-on-categories"
-  },"51": {
+  },"52": {
     "doc": "On Campus Housing",
     "title": "Apartment Allocation",
     "content": ". | A list of available apartments is circulated by estate office (by email) from time to time. | Faculty eligible as per above table can inspect and apply (through workflow) for quarters that they are interested in. | Applicants’ seniority list and provisional allotment is circulated — for verification by all applicants. If there are no objections, confirmed allotment orders are issued. Specific recommendations regarding housing allocation are made by the Housing Allocation Committee (HAC). | To request for apartments on medical grounds, request the estate section with all documents. A clearance is required from the CMO and HAC recommends to the Director as to whether the request can be approved or not. | . All circulars announcing apartment availability may contain special clauses. Please read them carefully. Debarring Clause: Declining or withdrawing subsequent to allotment of quarters will result in debar from applying for on-campus housing for one year. ",
     "url": "/fachandbook/on_campus/#apartment-allocation",
     
     "relUrl": "/on_campus/#apartment-allocation"
-  },"52": {
+  },"53": {
     "doc": "On Campus Housing",
     "title": "On Campus Housing",
     "content": " ",
     "url": "/fachandbook/on_campus/",
     
     "relUrl": "/on_campus/"
-  },"53": {
+  },"54": {
     "doc": "Research programs",
     "title": "Table of contents",
     "content": ". | Research programs | Categories of MD/PhD Scholars | Admission timelines and allocation of regular HTRA seats | How to attract good research scholars? | Other avenues for institute funded human resources | . ",
     "url": "/fachandbook/research_programs/#table-of-contents",
     
     "relUrl": "/research_programs/#table-of-contents"
-  },"54": {
+  },"55": {
     "doc": "Research programs",
     "title": "Research programs",
     "content": ". | PhD: Those with Master’s degree apply to this program. | MS + PhD: Those with Bachelor’s degree having a CGPA &gt; 8/10 can apply to this program. If they are from a CFTI (MoE funded technical institutes ), GATE score is not required, otherwise GATE score is required. | Upgraded PhD: Those who are enrolled in Master’s program at IITM can upgrade to PhD if they have a CGPA of more than 8. | MS: Those with a Bachelor’s degree, apply to this program. If they are from a CFTI with CGPA &gt; 8/10, GATE score is not required, otherwise GATE score is required. Candidates with degrees in basic sciences must have an MSc. Degree. | . The above are the most commonly occurring cases. For exceptions, please check the ordinances. ",
     "url": "/fachandbook/research_programs/#research-programs",
     
     "relUrl": "/research_programs/#research-programs"
-  },"55": {
+  },"56": {
     "doc": "Research programs",
     "title": "Categories of MD/PhD Scholars",
     "content": "| Category | Details | . | Regular-HTRA | Students receive a Half-Time Research Assistantship (HTRA) from the Ministry of Education. Students are expected to contribute to departmental academic and related activities for 8 hours per week. HTRA is for 5 years for PhD and 2.5 years for MS. | . | Regular-Fellowship | The students are admitted with fellowships from agencies such as UGC, CSIR, industry, INSPIRE, etc. | . | Regular-Project HTRA | Students are funded through a project at IITM, and the faculty is required to show financial support for one year. The students need to fulfil all the criteria as regular-HTRA and can be converted to regular HTRA at any time subject to availability of regular HTRA seats. | . | Regular-Project-NHTRA | National-level eligibility exam score requirement is waived. Six months experience in a project at IITM is required. Funding is through a project at IITM, and the faculty is required to show financial support for one year. These students can never be converted to regular HTRA. | . | External | Sponsored by and employed in an industry, organization, or institution having R\\&amp;D facilities and recognized by DST (DSIR) or IITM, with a co-guide at home organization. Two years of relevant work experience, except for those employed at Research Park and organizations with whom IITM has an MoU. | . | Part-time | Should be employed in a reputed industry, organization, or institution located within commutable distance of IITM. Should have at least 2 years of relevant work experience. | . | Staff | Should be a permanent staff member of IITM with at least 2 years of experience. | . | QIP | Faculty from other degree-granting academic institutes, sponsored by AICTE under the Quality Improvement Program (QIP) can pursue PhD. They will typically have only 3 years of residence at IITM. | . ",
     "url": "/fachandbook/research_programs/#categories-of-mdphd-scholars",
     
     "relUrl": "/research_programs/#categories-of-mdphd-scholars"
-  },"56": {
+  },"57": {
     "doc": "Research programs",
     "title": "Admission timelines and allocation of regular HTRA seats",
     "content": ". | Admissions to MS/ PhD happens in two cycles. Application deadlines are March 31st and October 31st for intake in July and Jan respectively. | The institute allocates a fixed number of new Regular-HTRA seats to each department every year based on the current faculty strength. The department evolves its own policy for allocating these students to faculty in a fair and equitable manner while keeping in mind the interests of the student to the extent possible. | . ",
     "url": "/fachandbook/research_programs/#admission-timelines-and-allocation-of-regular-htra-seats",
     
     "relUrl": "/research_programs/#admission-timelines-and-allocation-of-regular-htra-seats"
-  },"57": {
+  },"58": {
     "doc": "Research programs",
     "title": "How to attract good research scholars?",
     "content": ". | Outreach: While travelling for any purpose, especially GATE/ JEE exam duties, use the opportunity to give talks in reputed colleges in the region to attract good research scholars. | Summer Fellowship Programme: See the link for further information. The institute solicits applications from non- IIT undergraduates from 3rd year and above for internships at IIT Madras for 2 months. Candidates are selected by the Department. They are potential research scholars. | MoU with NITs: IITM has MoUs with several NITs (see the link) where the top performing students (at the end of 6th semester) can complete their 7th and 8th semester of their BTech program at IITM. In general, students who performed well during their tenure at IITM are eligible to MS+PhD program admissions at IITM without GATE/interview. | . ",
     "url": "/fachandbook/research_programs/#how-to-attract-good-research-scholars",
     
     "relUrl": "/research_programs/#how-to-attract-good-research-scholars"
-  },"58": {
+  },"59": {
     "doc": "Research programs",
     "title": "Other avenues for institute funded human resources",
     "content": "In addition to HTRA scholars, the institute offers the following: . | Institute Post Doctoral Fellowship (IPDF) (https://www.iitm.ac.in/careers/post-doctoral-opportunities): Selected via a two-step process. A research proposal is expected to be evolved based on interaction between the candidate and the mentor before the candidate submits the application.   . | Eligibility:  | Within five years after completion of Ph.D. Maximum Age is 35 years (Relaxed by 5 years for women and reserved category).  | Ph.D. scholars after submission of thesis can also apply for Institute PDF posts. | Duration: Initially for 2 years, extendable to one more year based on the progress of the PDF and the recommendation of the Department. | . | To encourage women who have taken a minimum of 2 years career break to get back to research, the institute offers Post-Doctoral Fellowship for Women with Break in Career. | . Similar to this, ANRF also supports PDF through the National Post Doctoral Fellowship scheme: https://anrfonline.in/ANRF/npdf . ",
     "url": "/fachandbook/research_programs/#other-avenues-for-institute-funded-human-resources",
     
     "relUrl": "/research_programs/#other-avenues-for-institute-funded-human-resources"
-  },"59": {
+  },"60": {
     "doc": "Research programs",
     "title": "Research programs",
     "content": "The governing rules for research programs can be found in the ordinances. ",
     "url": "/fachandbook/research_programs/",
     
     "relUrl": "/research_programs/"
-  },"60": {
+  },"61": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": "Core Activity . | 18 credits per academic year. 1 core course every year. | 540-1080 student credits (18 credits x 30 - 60 students) per academic year. | Offer short-term courses/NPTEL/MOOC courses every few years. | Students provide teacher course feedback (TCF) for faculty and TAs separately. | . ",
     "url": "/fachandbook/Teaching_landing/",
     
     "relUrl": "/Teaching_landing/"
-  },"61": {
+  },"62": {
     "doc": "Other facilities",
     "title": "Table of contents",
     "content": ". | Daily Necessities | Restaurants and eateries on campus | . ",
     "url": "/fachandbook/ofac_landing/#table-of-contents",
     
     "relUrl": "/ofac_landing/#table-of-contents"
-  },"62": {
+  },"63": {
     "doc": "Other facilities",
     "title": "Daily Necessities",
     "content": "| Facility | Premises/ Contact | Services | . | Water cans | Shopping centre annexe PABX No. 9474 | Potable Water cans delivered to campus residences. | . | Satellite TV | Staff Club:PABX No. 9425 | Airtel DTH Dish connectivity available in all residential quarters. | . | Milk Distribution | Staff Club:PABX No. 9425 96770 85438 | • Door to Door delivery services for campus residents by Aavin Milk (subscription-based) • Milk cost and service charges are adjusted from Staff/Faculty salaries every month | . | LPG Cylinder | Shopping Centre Annexe PABX No. 9478 | • LPG supplier: TUCS - INDANE LPG Supplier • Delivers cylinders to residences • Processes new &amp; transfer gas connections | . | Telephone | PABX No. 9487, Complaints: 8141 | • Located near the Administration Building | . | Internet | PABX No: 5999 | https://cc.iitm.ac.in. Email computer centre for internet connections: netadmin@iitm.ac.in | . ",
     "url": "/fachandbook/ofac_landing/#daily-necessities",
     
     "relUrl": "/ofac_landing/#daily-necessities"
-  },"63": {
+  },"64": {
     "doc": "Other facilities",
     "title": "Restaurants and eateries on campus",
     "content": "| Shop Location | Name/ nature of the Shops | Timings | . | Near Himalaya Food Court | Two food trucks: dosa, momos etc | 7:00pm-5:00am | . | Himalaya mess | Food Court / aggregator | 6.30am-3.00am | . | ICICI Bank Hangout near Krishna Hostel | Coffee, snacks and ice-cream | 24X7 | . | Near DoMS (near Gajendra Circle) | Cafe Coffee Day | 24x7 | . | Quark building near Saraswathi Hostel | Restaurant &amp; Grill (Zaitoon currently) | 8.00am-10.00pm | . | New Student Facilities Centre, Near Library | Cafe and juice (Usha Café; Adyar Coolbiz) | 7.30am - 10.00pm | . | Behind Shopping Complex | Ramu Tea Stall | 8:00 am - 8:00 pm | . | Near KCB/ CFI | Ground floor: Staff Canteen/ Campus Cafe First floor: Food For Thought (FFT), Faculty lounge | 7.30am - 8.00pm | . | Near Raman Block, opposite OAT | Bakers, sugarcane juice, tender coconut | 10.00am-10.00pm | . Food Court Outside lunch hours, faculty can take food from FFT and sit in the faculty lounge. During lunch hours, there will be buffet available. ",
     "url": "/fachandbook/ofac_landing/#restaurants-and-eateries-on-campus",
     
     "relUrl": "/ofac_landing/#restaurants-and-eateries-on-campus"
-  },"64": {
+  },"65": {
     "doc": "Other facilities",
     "title": "Other facilities",
     "content": " ",
     "url": "/fachandbook/ofac_landing/",
     
     "relUrl": "/ofac_landing/"
-  },"65": {
+  },"66": {
     "doc": "Conducting Courses",
     "title": "Table of contents",
     "content": ". | Offering a new course | Dept. Course allotment | General Guidelines while offering a Course | Course registration and add/drop | Things to do in the first week of classes | Specially-abled students | Teacher course feedback | Teaching Learning Centre | . ",
     "url": "/fachandbook/conducting_courses/#table-of-contents",
     
     "relUrl": "/conducting_courses/#table-of-contents"
-  },"66": {
+  },"67": {
     "doc": "Conducting Courses",
     "title": "Offering a new course",
     "content": "To offer a new course in a particular semester, start the process at the beginning of the previous semester. | Workflow :arrow_right: Academics :arrow_right: Introduce/Modify Course. After filling in details, Click PrintCourse button and download the document and share with department. | Following approvals are needed: DCC (Dept Consultative Committee) :arrow_right: BAC (Board of Academic Courses) :arrow_right: Senate | . A help document on offering/modifying a course is available on Workflow. ",
     "url": "/fachandbook/conducting_courses/#offering-a-new-course",
     
     "relUrl": "/conducting_courses/#offering-a-new-course"
-  },"67": {
+  },"68": {
     "doc": "Conducting Courses",
     "title": "Dept. Course allotment",
     "content": "Faculty of the department meet and decide the respective courses to be offered during the subsequent semester as per the following schedule: . | Odd Sem (July-Nov) - done in February | Even Sem (Jan- May) - done in September | . ",
     "url": "/fachandbook/conducting_courses/#dept-course-allotment",
     
     "relUrl": "/conducting_courses/#dept-course-allotment"
-  },"68": {
+  },"69": {
     "doc": "Conducting Courses",
     "title": "General Guidelines while offering a Course",
     "content": "The department office will share a list with details of courses to be offered during the upcoming semester. At this point faculty should check: (a) if the slots in which their courses are offered clash with other courses. Attention (or lack thereof) can be important in the following ways: (i) the slot of an elective course the faculty member is offering is clashing with a slot in which a core course is offered and the prospective audience for the elective course and the core course are the same. (ii) if two core courses of a certain program in a given semester are in the same slot it can cause serious issues while students are trying to register. (b) if the class room allotted is large enough to accommodate the expected strength and has the right infrastructure. It is also preferable that class rooms for core courses of a specific program (M.Tech) are in the vicinity of each other. ",
     "url": "/fachandbook/conducting_courses/#general-guidelines-while-offering-a-course",
     
     "relUrl": "/conducting_courses/#general-guidelines-while-offering-a-course"
-  },"69": {
+  },"70": {
     "doc": "Conducting Courses",
     "title": "Course registration and add/drop",
     "content": "Students typically register for the subsequent semester courses at the end of current semester. At the beginning of a semester, the students may request to add/ drop course(s) through workflow during the allotted window as per the academic calendar. The faculty advisor and course faculty need to approve the requests through workflow. Workflow :arrow_right: Academic :arrow_right: Approvals :arrow_right: Add or Drop . For Allocation of Teaching Assistants, each department has its own policy. ",
     "url": "/fachandbook/conducting_courses/#course-registration-and-adddrop",
     
     "relUrl": "/conducting_courses/#course-registration-and-adddrop"
-  },"70": {
+  },"71": {
     "doc": "Conducting Courses",
     "title": "Things to do in the first week of classes",
     "content": ". | Clearly communicate the evaluation pattern. Later it must be approved by Class Committee (constituted by the department in the beginning of the semester to ensure the smooth conduct of the course). Typical evaluation pattern: 20-30% each for Quiz I &amp; Quiz II, 0-20% for assignments, and 40-60% (to be strictly adhered for theory courses) for an end semester exam. | Course Outline | Introduce TAs | Office hours- yours as well as TAs | Check attendance frequently through the Digiicampus app. | Make the students aware of the academic dishonesty policy which lists graded punishments for various academic malpractices and unfair means during examinations and assignments. | Let the students know that they should follow an official process (through workflow) to request for taking up makeup, supplementary exam or E to D upgradation. Private/ email requests will not be entertained. | Supplementary and makeup exams are conducted on institute stipulated dates at the end of the particular semester, and not later or any other day | . ",
     "url": "/fachandbook/conducting_courses/#things-to-do-in-the-first-week-of-classes",
     
     "relUrl": "/conducting_courses/#things-to-do-in-the-first-week-of-classes"
-  },"71": {
+  },"72": {
     "doc": "Conducting Courses",
     "title": "Specially-abled students",
     "content": "Office of Dean Academic Courses will intimate the department and the faculty concerning the students with special needs in your course. Each such student may have a different requirement. Please take note of it and follow the guidelines shared. ",
     "url": "/fachandbook/conducting_courses/#specially-abled-students",
     
     "relUrl": "/conducting_courses/#specially-abled-students"
-  },"72": {
+  },"73": {
     "doc": "Conducting Courses",
     "title": "Teacher course feedback",
     "content": ". | Students give feedback about the course and instructor towards the end of semester. | Faculty can view the above anonymous feedback on workflow after the grades are uploaded and approved. | . ",
     "url": "/fachandbook/conducting_courses/#teacher-course-feedback",
     
     "relUrl": "/conducting_courses/#teacher-course-feedback"
-  },"73": {
+  },"74": {
     "doc": "Conducting Courses",
     "title": "Teaching Learning Centre",
     "content": "Teaching Learning Center (TLC) conducts workshops and training programs for faculty on teaching resources and techniques. ",
     "url": "/fachandbook/conducting_courses/#teaching-learning-centre",
     
     "relUrl": "/conducting_courses/#teaching-learning-centre"
-  },"74": {
+  },"75": {
     "doc": "Conducting Courses",
     "title": "Conducting Courses",
     "content": " ",
     "url": "/fachandbook/conducting_courses/",
     
     "relUrl": "/conducting_courses/"
-  },"75": {
+  },"76": {
     "doc": "First Week",
     "title": "Table of contents",
     "content": ". | Pre-arrival procedures | First week | Declaring Dependents | . ",
     "url": "/fachandbook/first_week/#table-of-contents",
     
     "relUrl": "/first_week/#table-of-contents"
-  },"76": {
+  },"77": {
     "doc": "First Week",
     "title": "Pre-arrival procedures",
     "content": ". | E-mail Head of Department (HoD): Acceptance &amp; Proposed date of joining. Cc: Dean of Faculty (deanfaculty@iitm.ac.in), Recruitment Section (recruit@iitm.ac.in). | E-mail Taramani Guest House (taramani@iitm.ac.in) to book temporary accommodation. Cc: HoD. | . ",
     "url": "/fachandbook/first_week/#pre-arrival-procedures",
     
     "relUrl": "/first_week/#pre-arrival-procedures"
-  },"77": {
+  },"78": {
     "doc": "First Week",
     "title": "First week",
     "content": "| Task to Complete | Concerned Department/ Authority | . | Submit Joining report, Enquire about Office/Lab Space | Head of the Department | . | Submit Affidavit, Telephone connection | Department office | . | Complete Administrative Paperwork | Recruitment Section, 1st Floor, Administration Building | . | Get ID Card | Smart Card Section, 4th Floor, Administration Building | . | Get E-mail ID | Recruitment Section | . | Get LDAP login | Recruitment Section | . | Activate ID card for library membership | Central Library | . | Courtesy visit to Dean Faculty | 2nd Floor, Administration building | . | Medical Check-Up | Hospital | . | Visit on-campus housing | Estate section | . | Complete mandatory Prevention of Sexual Harassment (POSH) Training | Dean Faculty Office | . Submission and verification of all your documents need to be completed for your office order to be issued. Your salary will be processed only after the office order is issued. ",
     "url": "/fachandbook/first_week/#first-week",
     
     "relUrl": "/first_week/#first-week"
-  },"78": {
+  },"79": {
     "doc": "First Week",
     "title": "Declaring Dependents",
     "content": "For Leave Travel Concession (LTC), Medical and Insurance benefits, the dependents need to be declared. Following are eligible to be declared as dependents: . | Spouse (employed/ unemployed)- If employed in another organization which provides medical, travel or children education facilities: . | choose facilities provided by either IITM or spouse’s organization. | a joint declaration to be furnished as to who will avail LTC and for whom. | An appropriate certificate to be obtained from the Competent Authority of the spouse’s office. | . | Daughters till they start earning or get married, whichever is earlier. | Sons till the age of 25 or till they start earning, whichever is earlier (no age bar for permanently disabled sons). | Parents and siblings whose income from all sources, including pension, does not exceed the amount of minimum family pension (₹ 9,000/- p.m. + Dearness Relief during 7th pay commission period). If parents are not dependents, the sibling will also not be considered a dependent. | In-laws meeting the above criteria may be listed as dependents, only in cases where the parents are not dependents. | . ",
     "url": "/fachandbook/first_week/#declaring-dependents",
     
     "relUrl": "/first_week/#declaring-dependents"
-  },"79": {
+  },"80": {
     "doc": "First Week",
     "title": "First Week",
     "content": " ",
     "url": "/fachandbook/first_week/",
     
     "relUrl": "/first_week/"
-  },"80": {
+  },"81": {
     "doc": "Guidance and timelines",
     "title": "Table of contents",
     "content": ". | Research scholars: Guidance and timelines | Minimum Coursework Requirements: (XX implies Dept code. Ex: ME for Mechanical) | Timelines for Regular Progress Review of Research Scholars | Details on meetings | . ",
     "url": "/fachandbook/guidance_timelines/#table-of-contents",
     
     "relUrl": "/guidance_timelines/#table-of-contents"
-  },"81": {
+  },"82": {
     "doc": "Guidance and timelines",
     "title": "Research scholars: Guidance and timelines",
     "content": "A committee/ panel is setup within one semester from the date of joining of the research scholars to review their progress and address any academic issues faced by the student or the guide. The guide has to initiate the formation of the committee by suggesting possible panel members through workflow (Academics &gt; Research Scholar &gt; Panel Nomination). The nature of the committee and its composition are listed below. | Program | Committee | Composition | Panel suggestions by Guide over workflow | . | MS | Graduate Test Committee (GTC) | • Chairperson (HoD/ representative) • Guide/ Co-guide • 1 internal member (from the parent Dept of the Guide) • 1 external member (from another Dept within IITM) | • Co-guide, if any • 3 internal and 3 external members, from whom HoD will choose one each | . | PhD | Doctoral Committee (DC) | • Chairperson (HoD/ representative) • Guide/ co-guide • 2 internal members (from the parent Dept of the Guide) • 1 external member (from another Dept within IITM) | • Co-guide, if any • 4 internal and 4 external members, from whom HoD will 2 and 1, respectively | . ",
     "url": "/fachandbook/guidance_timelines/#research-scholars-guidance-and-timelines",
     
     "relUrl": "/guidance_timelines/#research-scholars-guidance-and-timelines"
-  },"82": {
+  },"83": {
     "doc": "Guidance and timelines",
     "title": "Minimum Coursework Requirements: (XX implies Dept code. Ex: ME for Mechanical)",
     "content": "| Program | Minimum Courses | Minimum Credits | . | MS + PhD / Upgraded PhD | 8, XX6999 and XX7999 | 72 | . | PhD | 4 | 36 | . | MS | 5 | 45 | . | Guides have to prescribe the courses through workflow (Academics :arrow_right: Research Scholar :arrow_right: Prescription of Courses) and it has to be approved by the respective committee/ panel. | Typically, twice the number of courses are suggested by guide/ DC/ GTC for the student to choose from. | Scholars can take more courses if they want and if the guide permits. | ID6020 (Introduction to Research, Institute module) is mandatory for everyone, in addition to the recommended courses. In addition, some Departments may have a Departmental module (XX6021). | . ",
     "url": "/fachandbook/guidance_timelines/#minimum-coursework-requirements-xx-implies-dept-code-ex-me-for-mechanical",
     
     "relUrl": "/guidance_timelines/#minimum-coursework-requirements-xx-implies-dept-code-ex-me-for-mechanical"
-  },"83": {
+  },"84": {
     "doc": "Guidance and timelines",
     "title": "Timelines for Regular Progress Review of Research Scholars",
     "content": "| Nature of meeting | Sem for PhD | Sem for MS | . | Completion of Minimum Course Work Requirement | End of 2 sems† | End of 2 sems | . | Comprehensive Exam (Maximum 2 attempts) | End of 3 sems (First attempt within 1 year from date of joining) | Not applicable | . | Research Proposal Seminar | End of 5 sems | Not applicable | . | Mid-term review | Beginning of 8 sem | End of 3 sems | . | Colloquium (PhD)/ Seminar (MS) | Typically, After 1 paper is submitted | Close to finish | . | Progress Review Meetings if not graduated | Every 6 months, after 5 years | Every 6 months, after 2.5 years | . | Thesis Submission Approval | When the final draft of the thesis is ready. Typically, 5 semesters for MS and 10 semesters for PhD†† | When the final draft of the thesis is ready. Typically, 5 semesters for MS and 10 semesters for PhD†† | . † 3 semesters for Upgraded PhD/ MS + PhD . †† For regular-HTRA PhD students, enhanced scholarship is provided for 6 months, if the thesis is submitted in less than 9 sems. • The faculty &amp; student are required to keep close watch of the expected timlines and complete the respective meetings as per the expectations. • For students exceeding 2.5/5 yrs (MS/PhD), the faculty is expected to support through project funding. ",
     "url": "/fachandbook/guidance_timelines/#timelines-for-regular-progress-review-of-research-scholars",
     
     "relUrl": "/guidance_timelines/#timelines-for-regular-progress-review-of-research-scholars"
-  },"84": {
+  },"85": {
     "doc": "Guidance and timelines",
     "title": "Details on meetings",
     "content": ". | Faculty/ Guide is the convenor for all meetings. | Comprehensive/ Candidacy Exam (only for PhD)- There is an oral and written part. Departments have their own policies and procedures. | Research Proposal Seminar- Candidate is expected to present literature review leading to motivation; Defining the objectives &amp; scope of work; Description of methodology that will be adopted. | Mid-term review- Candidate is expected to present objectives &amp; scope of work; Description of methodology that has been adopted &amp; some results; timeline for future work and completion of thesis. | Progress review meetings- Candidate is expected to present objective, scope; progress after previous meeting - adherence to timeline elaborated in previous meeting; timeline for future work &amp; completion of thesis. | . ",
     "url": "/fachandbook/guidance_timelines/#details-on-meetings",
     
     "relUrl": "/guidance_timelines/#details-on-meetings"
-  },"85": {
+  },"86": {
     "doc": "Guidance and timelines",
     "title": "Guidance and timelines",
     "content": " ",
     "url": "/fachandbook/guidance_timelines/",
     
     "relUrl": "/guidance_timelines/"
-  },"86": {
+  },"87": {
     "doc": "Decision making bodies",
     "title": "Table of contents",
     "content": ". | Board of Governors (BoG) | Senate | HoD and Departmental Consultative Committee (DCC) | Deans | . ",
     "url": "/fachandbook/decision_making/#table-of-contents",
     
     "relUrl": "/decision_making/#table-of-contents"
-  },"87": {
+  },"88": {
     "doc": "Decision making bodies",
     "title": "Board of Governors (BoG)",
     "content": "The BoG deals with administrative matters related to functioning of the institute. BoG also ratifies senate minutes. ",
     "url": "/fachandbook/decision_making/#board-of-governors-bog",
     
     "relUrl": "/decision_making/#board-of-governors-bog"
-  },"88": {
+  },"89": {
     "doc": "Decision making bodies",
     "title": "Senate",
     "content": "The senate controls and approves all academic matters related to teaching, training, and research activities including the curriculum, courses, examinations and results. The Director is the ex-officio Chairman of the Senate. Other ex-officio members include Deputy Directors, Dean (Academic Courses), Dean (Academic Research), Professors, Heads of Department (HoDs), Registrar, Librarian, Wardens, and Student Secretaries (Academic Affairs, Research Affairs, &amp; General Secretary). Some of the Institute-level committees that assist in various operations: Board of Academic Research (BAR), Board of Academic Courses (BAC), Board of Students, Board of Infrastructure (BoI), Placement Board, Board of ICSR, Library Affairs Committee (LAC). They have one representative from each department. ",
     "url": "/fachandbook/decision_making/#senate",
     
     "relUrl": "/decision_making/#senate"
-  },"89": {
+  },"90": {
     "doc": "Decision making bodies",
     "title": "HoD and Departmental Consultative Committee (DCC)",
     "content": "HoD handles department level administrative and academic matters. The DCC, chaired by HoD, takes decisions on all department-level policy-related matters, including academics and administration. All academic matters are handled by the Senate and DCC. ",
     "url": "/fachandbook/decision_making/#hod-and-departmental-consultative-committee-dcc",
     
     "relUrl": "/decision_making/#hod-and-departmental-consultative-committee-dcc"
-  },"90": {
+  },"91": {
     "doc": "Decision making bodies",
     "title": "Deans",
     "content": "The Deans assist the Director in the following operational matters of IIT Madras: . | Dean | Portfolio | Extn | Secretary | Email | Location | . | Admin | HR (Group A &amp; Tech staff), Estate, Legal &amp; RTI, Guest House, Hospital, Security, Insurance, Media, Campus Welfare Trust, Stores &amp; Purchase, LTC | 8020 | 8021 | deanadmn | 2nd floor, Admin Block | . | Faculty | HR (Faculty) including recruitment/ promotion/ grievances/ disciplinary matters, Faculty Travel Approvals, CPDA | 8026 | 8027 | deanfaculty | 2nd floor, Admin Block | . | Academic Research | Research programs (MS/ PhD), All research-related matters | 8040 | 8041 | deanar | 4th floor, Admin Block | . | Academic Courses | Course-based programs (B. Tech, M. Tech, BS, M.Sc., MA, MBA, etc.), All course related matters, Entrance Exams, Campus Schools | 8030 | 8031 | deanac | 4th floor, Admin Building | . | ICSR | Sponsored Research, Industrial Consultancy, Project MoUs, Seed grants, IP, Legal Cell | 8060 | 8061 | deanicsr | 1st floor, ICSR | . | Planning | Infrastructure (including EU, CC), Finance, Telephones, Environmental Issues, Kushal | 8080 | 8081 | deanplan | 3rd floor, Admin Block | . | Alumni &amp; Corporate Relations | Fundraising, Improve institute perception, Student to alumni transition, CSR | 8070 | 8071 | deaniar | 2nd Floor, ICSR | . | Global Engagement | International Collaborations, Student exchange | 8090 | 8091 | deange | Innovation Centre | . | Students | Student Wellness, Hostel, Sports, Cultural &amp; Co-Curricular Activities, Student Facilities, Placements &amp; Internships, NCC/NSS/NSO, Weaker Section, Entrepreneurship Cell | 8050 | 8051 | dost | DOST Office building | . ",
     "url": "/fachandbook/decision_making/#deans",
     
     "relUrl": "/decision_making/#deans"
-  },"91": {
+  },"92": {
     "doc": "Decision making bodies",
     "title": "Decision making bodies",
     "content": " ",
     "url": "/fachandbook/decision_making/",
     
     "relUrl": "/decision_making/"
-  },"92": {
+  },"93": {
     "doc": "Types of Leaves",
     "title": "Table of contents",
-    "content": ". | General Leaves | Additional leaves for professional visits | Child care related leaves | Types of Visits | . | Non-working days can be prefixed/ suffixed to all leaves and vacation. Embedding of non-working days (where non-working days within a leave period will not be counted as leave) is permitted only in SCL &amp; ICSR-SCL. | Unused CL, SCL, lapses on Dec 31 each year &amp; cannot be carried forward. There may be provision of carrying forward other leaves as per the details given below. | To serve on committees as a representative of IITM (based on request by administration) and for specific academic activities at the insistence of MoE, AICTE, etc. with/without Institute finance, the Director may approve the visit as on-duty. | . ",
+    "content": ". | General Leaves | Professional Leaves from Institute | Child care related leaves | Types of Visits | . | Non-working days can be prefixed/ suffixed to all leaves and vacation. Embedding of non-working days (where non-working days within a leave period will not be counted as leave) is permitted only in SCL &amp; ICSR-SCL. | Unused CL, SCL, lapses on Dec 31 each year &amp; cannot be carried forward. There may be provision of carrying forward other leaves as per the details given below. | To serve on committees as a representative of IITM (based on request by administration) and for specific academic activities at the insistence of MoE, AICTE, etc. with/without Institute finance, the Director may approve the visit as on-duty. | . ",
     "url": "/fachandbook/leave_type/#table-of-contents",
     
     "relUrl": "/leave_type/#table-of-contents"
-  },"93": {
+  },"94": {
     "doc": "Types of Leaves",
     "title": "General Leaves",
     "content": "| Type of Leave | Duration in days | Purpose &amp; Remarks | . | Casual Leave (CL) | 8 / yr | • For personal/ any other reasons • Cannot exceed 8 days at a stretch including prefix/ suffix. • Can be taken for half-day. • Can be combined with SCL/Vacation but not with any other leave. | . | Half-Pay Leave (HPL) | 10 for every 6 months | Medical grounds / personal reasons | . | Commuted Leave (CmL): special provision for commuting HPL | Depends on medical condition. Max ( along with EL, if taken) 240. | • Medical grounds (based on medical certificate endorsed by IITM CMO) • CmL is with full pay. • For 1 day of CmL, 2 days of HPL deducted. • ‘Fit to join duty’ certificate by IITM CMO to be submitted while rejoining. | . | Vacation (can be suffixed / prefixed with EL/HPL) | 60 days within the windows declared by IITM in summer &amp; winter | • 1 EL credit for every 2 days of vacation not taken. • New faculty: 2 days vacation per 12 days of service in the academic year. • Travel using SCL, ICSR-SCL etc is considered as working during vacation. • Vacation can be used for professional visits to take up paid position (min. 30 days) | . | Earned Leave (EL) | Max 180 at a stretch | • No reasons to be provided • EL can be accrued only by working during vacation: 2 days of working during vacation = 1 day of EL. 15 days of EL is credited to the employee on Jan 1 &amp; Jul 1 every year. • Unused EL can be encashed anytime (lifetime cap of 300 days). ‘Encashed’ ⇒ convert EL to money. 1 EL equivalent to 1 day’s salary reckoned as of the time of encashment. • In addition to the 300 days cap mentioned above, up to 10 days of EL may be encashed for every Leave Travel Concession (LTC) availed, capped at 60 days for lifetime. • All encashed ELs, except at the time of retirement, are subject to income tax. • Maximum EL balance that can be carried forward is 300 days + 15 days credit received on Jan/July. • Can be combined with any leave except CL. • Intervening holidays will be treated as EL. | . | Extra- ordinary Leave (EOL) | 1 yr per 5 yrs of service Max 4 yrs, limited to 2 yrs at a time | • Short/Long term assignments for R&amp;D activities/ Fellowship/ Visiting positions elsewhere/ due to Sickness (Medical Certificate required)/ personal situations • No pay or allowance from IITM. Can get paid from host organization. • Minimum service of 5 yrs (3 years on a case-to-case basis) before availing EOL. • Sabbatical &amp; EOL entitlement are linked. | . ",
     "url": "/fachandbook/leave_type/#general-leaves",
     
     "relUrl": "/leave_type/#general-leaves"
-  },"94": {
-    "doc": "Types of Leaves",
-    "title": "Additional leaves for professional visits",
-    "content": "| Type of Leave | Duration in days | Purpose &amp; Remarks | . | Special Casual Leave (SCL) | 15 / yr | • Conferences/ Workshops with/without paper • Committee meetings not treated as ‘on-duty’ • PhD viva elsewhere | . | ICSR SCL | 6 / month during semester; 15 each during winter &amp; summer | • Travel related to project &amp; continuing education. • Can be accumulated to a maximum of 30 days. Accumulated leave can be availed only during summer/ winter. | . | Professional Visit | Min 30- Max 45 | • Paid position during vacation • Separate paperwork has to be done (admin 1), not part of workflow. | . | Sabbatical Leave (SL) | Min 4 months. Max 1 year | • Temporary R&amp;D/ academic assignments in other universities or research institutions or industries, availing fellowships, writing books etc. The offer letter from the host organization has to be produced. • Eligibility- Continuous service for 3 years after becoming a regular faculty. • 2 months SL credited per year of continuous service. • The Board of Governors (BoG) of IITM, the granting body, meets once in 3-4 months. So, apply at least 4 months in advance. • During SL: full salary from IITM; retention of quarters. • Host institution cannot give regular salary during SL. The letter from the host institution should clearly indicate that you are only being paid an honorarium or living allowance. • BoG may permit adding up to 60 (or 120) days of EL/ HPL/ SCL/ ICSR SCL if SL is less than 6 (or more than 6) months. • Have to furnish a bond to serve the Institute for one year on return to duty. • Post SL for 4/ 4-8/ 8-12 months, min. window of 1/2/3 years, respectively, before taking the next SL. | . | Start-Up Sabbatical | 1 yr?? | To support &amp; promote start-ups | . ",
-    "url": "/fachandbook/leave_type/#additional-leaves-for-professional-visits",
-    
-    "relUrl": "/leave_type/#additional-leaves-for-professional-visits"
   },"95": {
+    "doc": "Types of Leaves",
+    "title": "Professional Leaves from Institute",
+    "content": "| Type of Leave | Duration in days | Purpose &amp; Remarks | . | Sabbatical Leave (SL) | Min 4 months. Max 1 year | • Temporary R&amp;D/ academic assignments in other universities or research institutions or industries, availing fellowships, writing books etc. The offer letter from the host organization has to be produced. • Eligibility- Continuous service for 3 years after becoming a regular faculty. • 2 months SL credited per year of continuous service. • The Board of Governors (BoG) of IITM, the granting body, meets once in 3-4 months. So, apply at least 4 months in advance. • During SL: full salary from IITM; retention of quarters. • Host institution cannot give regular salary during SL. The letter from the host institution should clearly indicate that you are only being paid an honorarium or living allowance. • BoG may permit adding up to 60 (or 120) days of EL/ HPL/ SCL/ ICSR SCL if SL is less than 6 (or more than 6) months. • Have to furnish a bond to serve the Institute for one year on return to duty. • Post SL for 4/ 4-8/ 8-12 months, min. window of 1/2/3 years, respectively, before taking the next SL. | . | Special Casual Leave (SCL) | 15 / yr | • Conferences/ Workshops with/without paper • Committee meetings not treated as ‘on-duty’ • PhD viva elsewhere | . | ICSR SCL | 6 / month during semester; 15 each during winter &amp; summer | • Travel related to project &amp; continuing education. • Can be accumulated to a maximum of 30 days. Accumulated leave can be availed only during summer/ winter. | . | Professional Visit | Min 30- Max 45 | • Paid position during vacation • Separate paperwork has to be done (admin 1), not part of workflow. | . | Start-Up Sabbatical | 1 yr?? | To support &amp; promote start-ups | . ",
+    "url": "/fachandbook/leave_type/#professional-leaves-from-institute",
+    
+    "relUrl": "/leave_type/#professional-leaves-from-institute"
+  },"96": {
     "doc": "Types of Leaves",
     "title": "Child care related leaves",
     "content": "| Type of Leave | Duration in days | Purpose &amp; Remarks | . | Maternity Leave | Maternity - 6 Months (for up to 2 surviving children) Miscarriage - 6 Weeks | • Maternity/ Adoption/ Miscarriage. Medical Certificate should be produced. • Will not be debited in leave account. • Can be combined with any other leave except CL. | . | Paternity Leave | 15 (including Sat / Sun &amp; intervening holidays)- for up to 2 surviving children | • Paternity/ Adoption • From 15 days before to 6 months after the date of delivery of the child. 15 days from the date of valid adoption of a child. It will lapse if the leave is not availed within this period. | . | Child Care Leave (CCL) | 730 during the service till 2nd surviving child reaches the age of 18. Min period of 5 days | • Child Care • Eligibility - Women or widowed/divorced father • Not more than 3 times in a calendar year. • 100% of salary for the first 365 days &amp; 80% of the salary for the next 365 days. | . ",
     "url": "/fachandbook/leave_type/#child-care-related-leaves",
     
     "relUrl": "/leave_type/#child-care-related-leaves"
-  },"96": {
+  },"97": {
     "doc": "Types of Leaves",
     "title": "Types of Visits",
     "content": ". | Brief – Less than 30 days | Short - 30-90 days | Long - Above 90 days | . These are the standard terminologies used in workflow. ",
     "url": "/fachandbook/leave_type/#types-of-visits",
     
     "relUrl": "/leave_type/#types-of-visits"
-  },"97": {
+  },"98": {
     "doc": "Types of Leaves",
     "title": "Types of Leaves",
     "content": " ",
     "url": "/fachandbook/leave_type/",
     
     "relUrl": "/leave_type/"
-  },"98": {
+  },"99": {
     "doc": "Non-GeM Procurement",
     "title": "Table of contents",
     "content": ". | Non-GeM Procurement Procedure . | Additional specific documents: | . | . ",
     "url": "/fachandbook/nongem_landing/#table-of-contents",
     
     "relUrl": "/nongem_landing/#table-of-contents"
-  },"99": {
+  },"100": {
     "doc": "Non-GeM Procurement",
     "title": "Non-GeM Procurement Procedure",
     "content": "It is expected that all purchases are done through GeM. Procurement may bypass GeM only after confirming non-availability and with proper approval and justification GeM Non-Availability Certificate (NAC) must be recorded when items/ service is not available on the GeM portal. | Slab Value (INR) | Procedure | Documents to be Attached | Approving Authority | . | Up to ₹ 1 lakh (Direct Purchase) | No quotations/bids required. | User certificate for &gt;₹ 15000(Annexure-A) Quotation (if any) countersigned by user For imported goods, OEM Authorization/ proprietary certificate and technical write-up | Approved by HoD PO issued by Dept for local purchase; by Admin Stores for Import/AMC. | . | Above ₹ 1 lakh to ₹ 10 lakhs through market survey by Local Purchase Committee (LPC) | Quotation(s) is/are mandatory | Quotation countersigned by user LPC Certificate (Annexure-B: market survey for reasonableness) Comparative Statement OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Approved by HoD PO issued by: Dept for local purchase; Admin Stores for Import/AMC | . | Above ₹ 10 lakhs to ₹ 50 lakhs through Limited tender enquiry (bidding) to be evaluated by HoD + End user + min. 2 faculty from same dept | Tender floated on CPPP &amp; IITM website Min. 7 days for vendors to bid In addition, email the tender to at least 4 potential bidders. | Tender document, quotations / bids (countersigned) Vendor dispatch proof (emails enquiries sent to 4 potential bidders) CPPP/IITM tender publication proof Comparative statements (Technical Financial) OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | HoD (Dept. initiates) Chairman, SPC (Final Approval) PO issued by AR (S\\&amp;P) | . | Above ₹ 50 lakhs through open tenders evaluated by Large Purchase Committee: HoD + End user + 2 faculty from other dept. + DR (S&amp;P) + DR/AR (F&amp;A) | Only e-procurement mode 2-bid system tender process detailed above to be followed 21-day tender period | Director’s financial approval (if not from dept. budget) Tender document; Technical &amp; Financial bids (countersigned) CPPP/IITM tender publication proof Comparative statements (Technical Financial) OEM Authorization (items sold by authorized dealers)/ proprietary certificate (directly from the OEM) and technical write-up (for imported goods) | Director (Final Approval) PO issued by Asst. Registrar (S&amp;P) | . | A. For Import purchases: a technical write-up and justification for research/non-research must be added. | B. Mandatory documents for local purchases above ₹5 Lakhs: . (i) land border sharing compliance; (ii) Make in India (MII)/ Local content certificate to comply with the Make in India initiative in one of the following categories: . (a) Class 1 – More than 50% of local content (b) Class 2 – 20-50% of local content . | . \\[\\text{Local content%} = \\frac{\\text{Total value of the item} - \\text{value of imported content in the item}} {\\text{Total value of the item}} \\times 100\\] Total value of item procured excludes net domestic indirect taxes. Value of imported content includes all custom duties. For non-local purchase (less than 20% of local content), technical justification required . | C. Above ₹ 50 lakh: Exclusive Purchase Committee (EPC) has to be formed with approval from Director before purchase process can be initiated. The committee meets on the following points: . | (i) Finalize tender document detailing the technical specifications of the item to be procured along with additional requirements, including terms &amp; conditions, and timelines. Tender should indicate that a 2-Bid System is mandatory: (a) Technical bid detailing technical specifications of the product that vendor is supplying (without financial details); (b) Financial bid. The vendors should be instructed to provide them in separate sealed envelopes. Subsequently, the tender has to be floated mandatorily on the Institute’s Tender Portal and the CPPP. | (ii) After tender deadline, the committee members have to sign on all the envelopes. First, only technical bids are opened in presence of the committee. After opening, the committee will sign on all the technical bids. | (iii) Following this, the end user is required to provide a comparative statement between the technical requirements provided in tender and the technical specifications offered in the technical bids. | (iv) Based on technical comparative statement shared by the end user, the committee shortlists only those vendors who meet the technical requirements. Only for these selected/ qualified vendors, financial bids are opened by the committee who will sign on the envelope (before opening) and the financial bid (after opening). | (v) Once the financial bids are opened, order shall be placed only with the lowest bidder (L1) among the opened financial bids. | . | . DO NOT OPEN THE FINANCIAL BIDS IF THEY DID NOT QUALIFY TECHNICALLY. If the financial bids are opened, the order HAS TO BE placed ONLY with the lowest bidder. ",
     "url": "/fachandbook/nongem_landing/#non-gem-procurement-procedure",
     
     "relUrl": "/nongem_landing/#non-gem-procurement-procedure"
-  },"100": {
+  },"101": {
     "doc": "Non-GeM Procurement",
     "title": "Additional specific documents:",
     "content": ". | For AMC: PO of the product or PO of its previous AMC | For spares/consumables: Original PO of the product for which the spares/consumables are being procured | For purchases other than goods &amp; equipment, Heads of Dept/ Centres, Registrar, and all Deans are authorized to approve service-related procurements up to ₹5,00,000. Above ₹5,00,000, approval must be obtained from the Director. | Repeat order: Goods/equipment which have already been procured following appropriate procedures can be purchased by simply raising that PO again, provided the order is placed within 90 days of the original order. Repeat order can be placed only once for a given original PO. | . ",
     "url": "/fachandbook/nongem_landing/#additional-specific-documents",
     
     "relUrl": "/nongem_landing/#additional-specific-documents"
-  },"101": {
+  },"102": {
     "doc": "Non-GeM Procurement",
     "title": "Non-GeM Procurement",
     "content": " ",
     "url": "/fachandbook/nongem_landing/",
     
     "relUrl": "/nongem_landing/"
-  },"102": {
+  },"103": {
     "doc": "Off Campus Housing",
     "title": "Living Outside Campus",
     "content": "Nearby residential locations for off-campus accommodation: Adyar, Besant Nagar, Indiranagar, Kotturpuram, Velachery, Taramani, Perungudi and Thiruvanmiyur. Staying outside will involve costs on rent, commuting, etc. which have to be balanced against HRA (partially tax-free), license fee, etc. and the convenience of staying on campus. ",
     "url": "/fachandbook/off_campus/#living-outside-campus",
     
     "relUrl": "/off_campus/#living-outside-campus"
-  },"103": {
+  },"104": {
     "doc": "Off Campus Housing",
     "title": "Off Campus Housing",
     "content": " ",
     "url": "/fachandbook/off_campus/",
     
     "relUrl": "/off_campus/"
-  },"104": {
+  },"105": {
     "doc": "Research",
     "title": "Research and projects",
     "content": "Core Activity . Faculty members are expected to continuously engage in Guidance of Research Scholars (MS/ PhD), Journal Publications, Externally funded Projects, and generate Intellectual Property (IP). Publication: Journals: SCI/Scopus Indexed or Equivalent in the field; Q1/Q2/Best in the field; Equivalent Conferences. Research Guidance: On an average, faculty are expected to graduate 0.8 PhD/yr in line with average intake rate. Projects: Project staff is hired and scientific infrastructure is built mostly from research funding. Memberships: Faculty should aspire to be (i) Fellows of relevant leading/reputed Professional Societies; (ii) Editors of reputed Journals; (iii) Members of funding panels etc. Intellectual Property (IP): IP creation, in terms of patents/ design registration/ copyright/ transfer of technology, is a part of technology development. ",
     "url": "/fachandbook/Research_landing/#research-and-projects",
     
     "relUrl": "/Research_landing/#research-and-projects"
-  },"105": {
+  },"106": {
     "doc": "Research",
     "title": "Research",
     "content": " ",
     "url": "/fachandbook/Research_landing/",
     
     "relUrl": "/Research_landing/"
-  },"106": {
+  },"107": {
     "doc": "Leave Travel Concession (LTC)",
     "title": "Leave Travel Concession (LTC) - 8255",
     "content": "LTC for all faculty and dependents : Travel costs (air/ train/ govt. bus) will be reimbursed. Up to 10 days of EL can be encashed for other expenses. | In a block of 4 years you can visit the declared hometown twice (once in every two year sub-block). Optionally one of the hometown visits can be used to travel anywhere in India. Hometown is as per declaration given at the time of joining. The hometown can be changed only once after the initial declaration. | From time to time the government permits conversion of hometown visits to North East Region, Jammu &amp; Kashmir, Ladakh and Andaman &amp; Nicobar. | Current (as of September 2025) four-year block is 2022-2025 and the two year sub-block is 2024-2025. There is also a one-year grace period–the block ending in 2025 can be availed up to Dec 31,2026. | Newly recruited faculty have a special provision to visit their hometown every year for eight years after the completion of one year of service. LTC in the 5th and 9th year of service can be converted to travel anywhere in India. There is no grace period in the new recruit special provision. - Once a faculty completes probation, the period in the remainder could be the first time he/she avails LTC. Eg: Suppose a faculty joins in November 2024. He/she completes probation in November 2025, then during Nove-Dec 2025 the faculty may avail his/her first LTC. | Prior intimation through workflow is mandatory before availing LTC. You can request for an advance upto 90% of travel cost at the time of intimation. If advance is drawn, the claim should be submitted within one month from the date of return journey. If no advance is taken, the claim should be submitted within three months from the date of completion of the return journey. | . ",
     "url": "/fachandbook/ltc/#leave-travel-concession-ltc---8255",
     
     "relUrl": "/ltc/#leave-travel-concession-ltc---8255"
-  },"107": {
+  },"108": {
     "doc": "Leave Travel Concession (LTC)",
     "title": "Leave Travel Concession (LTC)",
     "content": " ",
     "url": "/fachandbook/ltc/",
     
     "relUrl": "/ltc/"
-  },"108": {
+  },"109": {
     "doc": "Payment mechanisms for purchases",
     "title": "Table of contents",
     "content": ". | Payment mechanisms for purchases | . ",
     "url": "/fachandbook/payment_landing/#table-of-contents",
     
     "relUrl": "/payment_landing/#table-of-contents"
-  },"109": {
+  },"110": {
     "doc": "Payment mechanisms for purchases",
     "title": "Payment mechanisms for purchases",
     "content": "a. Payment after item is received- the goods are entered in Stores Received Book (SRB) and final payment is released by S&amp;P only after the vendor provides tax invoice and any additional documents (warranty certificate, installation certificate, service report) as applicable. b. Advance payment - With the approval of the Chairman (SPC/ PPC) certain reliable vendors maybe given partial/ full advance payment against proforma invoice, if it is the standard industry practice for such items. c. Letter of credit (LC) - Import purchases are usually handled through letter of credit. d. Reimbursement - Items costing &lt; ₹ 25000 can be directly purchased and receipts submitted for reimbursement, subject to administrative budget approval. e. Imprest/ Pre-paid debit card - Departments have a prepaid debit card that can be used for purchase as in item (d). ICSR also issues a consolidated (across projects) higher value prepaid card for Principal Investigators (PIs). f. Corporate credit card - Departments have corporate credit cards which can be used as substitute for (e). ",
     "url": "/fachandbook/payment_landing/",
     
     "relUrl": "/payment_landing/"
-  },"110": {
+  },"111": {
     "doc": "Estate Maintenance",
     "title": "Estate Maintenance",
     "content": "Engineering Unit (EU) at IITM is responsible for estate maintenance (academic &amp; residential). All complaints to EU must be registered using the IIT Madras EU CMS app. This may be downloaded from Google Play Store/ Apple Store. For larger jobs, a request letter is needed. The letter is addressed to the Assistant Executive Engineer for both Electrical and Civil Maintenance. | Service | Number | Typical job profile | . | Civil Maintenance | 8192 | Repairs, internal plumbing, carpentry, painting, debris disposal, and other civil related works | . | Electrical Maintenance | 8193 |   | . | Water Supply | 8190 | External plumbing operations (outside building), drainage, removal of blockages in sewer lines | . | Horticulture and Public health-related | 8194 | Fogging operations of mosquito control, Desilting of storm water drains, Maintenance of lawns, gardens, trees, pruning of branches, and other horticultural operations on campus, Wildlife emergencies | . ",
     "url": "/fachandbook/estate/",
     
     "relUrl": "/estate/"
-  },"111": {
+  },"112": {
     "doc": "Course Evaluation",
     "title": "Table of contents",
     "content": ". | Evaluation Pattern | Letter grades and points | Time frame for Evaluation | Options available to students for academic improvement | . ",
     "url": "/fachandbook/course_evaluation/#table-of-contents",
     
     "relUrl": "/course_evaluation/#table-of-contents"
-  },"112": {
+  },"113": {
     "doc": "Course Evaluation",
     "title": "Evaluation Pattern",
     "content": "Clearly communicate the evaluation pattern. Later it must be approved by Class Committee (constituted by the department in the beginning of the semester to ensure the smooth conduct of the course). Typical evaluation pattern: 20-30% each for Quiz I &amp; Quiz II, 0-20% for assignments. 40-60% (to be strictly adhered for theory courses) for an end semester exam. ",
     "url": "/fachandbook/course_evaluation/#evaluation-pattern",
     
     "relUrl": "/course_evaluation/#evaluation-pattern"
-  },"113": {
+  },"114": {
     "doc": "Course Evaluation",
     "title": "Letter grades and points",
     "content": "Different letter grades carry the following points: . | Grade | S | A | B | C | D | E | U | . | Points | 10 | 9 | 8 | 7 | 6 | 4 | 0 | . The following guidelines can be used for determining the cut-off marks for different grades after sorting the marks in ascending/ descending order: . (i) Class size is more than 50: ( $\\mu$ - mean; $\\sigma$ - standard deviation) . | Grade | From (cut-off) | To (&lt;) | Approx % | . | S | $ \\ge \\mu + 1.65\\,\\sigma $ | — | 5 | . | A | $ \\mu + 0.85\\,\\sigma $ | $ \\mu + 1.65\\,\\sigma $ | 15 | . | B | $ \\mu + 0.12\\,\\sigma $ | $ \\mu + 0.85\\,\\sigma $ | 25 | . | C | $ \\mu - 0.65\\,\\sigma $ | $ \\mu + 0.12\\,\\sigma $ | 30 | . | D | $ \\mu - 1.3\\,\\sigma $ | $ \\mu - 0.65\\,\\sigma $ | 15 | . | E | — | $ \\mu - 1.3\\,\\sigma $ | 10 | . (ii) Class size between 20 and 50: . | Grade | Approximate % of Students in the range | . | S, A, B | Top 45% | . | C, D | Next 45% | . | E &amp; U | Next 10% | . There is no specific guideline recommended for small classes. These are just guidelines and not mandatory. It is a good practice to keep the cut-off where there is a significant gap in the marks since a change in grade represents a significant interval in grade points. ",
     "url": "/fachandbook/course_evaluation/#letter-grades-and-points",
     
     "relUrl": "/course_evaluation/#letter-grades-and-points"
-  },"114": {
+  },"115": {
     "doc": "Course Evaluation",
     "title": "Time frame for Evaluation",
     "content": ". | The answer scripts for quiz I &amp; quiz II need to be returned within one week. | Uploading final grades in the workflow has to be completed before a given deadline (indicated in the academic calendar, typically 10 days after the last end semester exam). | . It is MANDATORY to stick to this deadline as otherwise it affects the academic operations severely. | For help with uploading grades, view this video or the help document on workflow. | After the grades are uploaded by instructor, the Class Committee chairman has to approve. | . ",
     "url": "/fachandbook/course_evaluation/#time-frame-for-evaluation",
     
     "relUrl": "/course_evaluation/#time-frame-for-evaluation"
-  },"115": {
+  },"116": {
     "doc": "Course Evaluation",
     "title": "Options available to students for academic improvement",
     "content": ". | Makeup exams for quizzes/ end semester exams are given to those who missed the respective exams due to: (a) medical emergency (with the approval of CMO of IITM hospital) (b) other emergencies for which approval is required from Dean Academic Courses. | Upgradation from E to D exam is a retest for the end semester exam only (not for quizzes or assignments), to be completed before the next semester begins. It is given for those who secured a E grade and have 75% or more attendance. Only one attempt is allowed. | Supplementary exam is a retest for the end semester exam only (not for quizzes or assignments), to be completed before the next semester begins. It is given for those who got a U grade and have 75% or more attendance. Only one attempt is allowed. | Summer course is offered for students with a backlog in core course, if the concerned faculty is willing to offer the same. A student can take up a maximum of two such courses at a time. | Contact course may be offered during a regular semester or summer, to final-year students with a backlog in a CORE course, provided the course is not offered during that period. Contact courses are subject to departmental approval and faculty-student agreement. A student can take up a maximum of two such courses at a time. | . Students have to apply to academic section through a due process for the above options. Academic section will inform the faculty regarding the same. Faculty should not entertain individual requests. Makeup, upgradation, and supplementary exams are conducted on institute stipulated dates at the end of the particular semester, and not later or any other day. ",
     "url": "/fachandbook/course_evaluation/#options-available-to-students-for-academic-improvement",
     
     "relUrl": "/course_evaluation/#options-available-to-students-for-academic-improvement"
-  },"116": {
+  },"117": {
     "doc": "Course Evaluation",
     "title": "Course Evaluation",
     "content": " ",
     "url": "/fachandbook/course_evaluation/",
     
     "relUrl": "/course_evaluation/"
-  },"117": {
+  },"118": {
     "doc": "Thesis evaluations",
     "title": "Table of contents",
     "content": ". | MS Thesis evaluations | PhD thesis evaluation | . ",
     "url": "/fachandbook/evaluations/#table-of-contents",
     
     "relUrl": "/evaluations/#table-of-contents"
-  },"118": {
+  },"119": {
     "doc": "Thesis evaluations",
     "title": "MS Thesis evaluations",
     "content": "For MS Thesis evaluation, guide suggests 2 examiners. HoD will choose one examiner. Examiner is given 4 weeks’ time to give a report. If the reviewer commens are received, the candidate has to give response and revise the thesis, and send it to GTC. Based on the response, GTC may recommend/ waive the viva. If reviewer comments are not received in 4 weeks, MS thesis viva is conducted to consider awarding the degree. ",
     "url": "/fachandbook/evaluations/#ms-thesis-evaluations",
     
     "relUrl": "/evaluations/#ms-thesis-evaluations"
-  },"119": {
+  },"120": {
     "doc": "Thesis evaluations",
     "title": "PhD thesis evaluation",
     "content": "A two-track policy is followed for PhD thesis evaluation. 1) Track 1: . | If 70% or more of the thesis has already been published in peer reviewed journal(s)/ venue. | Guide suggests 2 reviewers (can be from IITM or outside) after confirming their willingness by e-mail. The thesis will be sent to the 2 examiners and viva voce is scheduled once one of the reviews is received. | . 2) Track A: . | If 70% or more of the thesis has not been published. | Guide suggests 6 reviewers (at least 2 from outside IITM) after confirming their willingness by e-mail. The thesis will be sent to 2 of these examiners (chosen by Dean AR) and viva voce is scheduled once both the reviews are received. | . ",
     "url": "/fachandbook/evaluations/#phd-thesis-evaluation",
     
     "relUrl": "/evaluations/#phd-thesis-evaluation"
-  },"120": {
+  },"121": {
     "doc": "Thesis evaluations",
     "title": "Thesis evaluations",
     "content": " ",
     "url": "/fachandbook/evaluations/",
     
     "relUrl": "/evaluations/"
-  },"121": {
+  },"122": {
     "doc": "Initial Months",
     "title": "Table of contents",
-    "content": ". | First Month | Second Month | Office &amp; Laboratory | . ",
+    "content": ". | First Month | Second Month | Office &amp; Laboratory | Mentorship Program | Induction Program | . ",
     "url": "/fachandbook/initial_months/#table-of-contents",
     
     "relUrl": "/initial_months/#table-of-contents"
-  },"122": {
+  },"123": {
     "doc": "Initial Months",
     "title": "First Month",
     "content": "| Task to Complete | Concerned Department(s) | . | Info on Courses &amp; Course Allocation | Head of the Department | . | Updating Personal Details, Register Vehicle | Workflow portal | . | Apply for Dependent ID cards | Add dependents on workflow :arrow_right: Human Resource :arrow_right: Personal Information. Followed by application via SSP Portal | . ",
     "url": "/fachandbook/initial_months/#first-month",
     
     "relUrl": "/initial_months/#first-month"
-  },"123": {
+  },"124": {
     "doc": "Initial Months",
     "title": "Second Month",
     "content": "| Task to Complete | Concerned Section | . | Reimbursement for Relocation (Form) - submit within 6 months of joining | Dean (Faculty) Office, 2nd Floor, Administration Building | . | Understand Funding &amp; Grant Opportunities— NFIG &amp; NFSG | Centre for IC&amp;SR | . New Faculty Initiation Grant (NFIG)- ₹ 5 Lakhs for purchase of basic equipment and travel, not meant for office furniture and standard supplies. Apply within one year. New Faculty Seed Grant (NFSG)- Up to ₹ 50 lakhs. A proposal with proper justification has to be submitted and presented in front of a committee. On a case to case basis, properly justified proposals can be considered for funding beyong 50 lakhs. Apply within 3 years of joining (typically in 2nd year). ",
     "url": "/fachandbook/initial_months/#second-month",
     
     "relUrl": "/initial_months/#second-month"
-  },"124": {
+  },"125": {
     "doc": "Initial Months",
     "title": "Office &amp; Laboratory",
     "content": ". | Office space &amp; furniture: Department’s responsibility. | . As per Central Civil Services (Conduct) Rules, working from home option is NOT permitted for faculty or research scholars. | Lab Space is allotted based on requirement projected to the department. For purchases, follow Institute procedures. Coordinate with the Engineering Unit (EU) for major electrical works, plumbing works, etc. | . ",
     "url": "/fachandbook/initial_months/#office--laboratory",
     
     "relUrl": "/initial_months/#office--laboratory"
-  },"125": {
+  },"126": {
+    "doc": "Initial Months",
+    "title": "Mentorship Program",
+    "content": "(http://facportal.iitm.ac.in/mentorship/) The Dean Faculty office coordinates a mentorship program to support faculty in their career development. Faculty who have joined the institution within the last 5 years are connected with senior faculty members with a proven track record of excellence. New faculty can sign up for an initial mentorship session by logging onto the website. New slots for the sessions are updated periodically. ",
+    "url": "/fachandbook/initial_months/#mentorship-program",
+    
+    "relUrl": "/initial_months/#mentorship-program"
+  },"127": {
+    "doc": "Initial Months",
+    "title": "Induction Program",
+    "content": "An induction program is organized periodically for all recently joined faculty to introduce them to the various rules, facilities and support systems available at IITM. This is also an opportunity to meet the various Deans and faculty in different administrative roles, along with getting to know your peers better. ",
+    "url": "/fachandbook/initial_months/#induction-program",
+    
+    "relUrl": "/initial_months/#induction-program"
+  },"128": {
     "doc": "Initial Months",
     "title": "Initial Months",
     "content": " ",
     "url": "/fachandbook/initial_months/",
     
     "relUrl": "/initial_months/"
-  },"126": {
+  },"129": {
     "doc": "Mailing lists",
     "title": "Mailing lists",
     "content": "By default, all new faculty members are added to the first three mailing lists given below: . | Mailing List | Purpose | . | Announce: announce@list.iitm.ac.in | Information relevant to the entire institute – including faculty, students, staff, etc. | . | Faculty: faculty@list.iitm.ac.in | Any information specifically relevant to the faculty. Eg: grant announcements, academic related information, etc. | . | Seminar: seminars@list.iitm.ac.in | Information related to seminars of all departments (including MS/ PhD seminars) | . | Residents: residents@list.iitm.ac.in | Information relevant to on-campus residents | . ",
     "url": "/fachandbook/mailing_lists/",
     
     "relUrl": "/mailing_lists/"
-  },"127": {
+  },"130": {
     "doc": "Student Mentoring",
     "title": "Mentoring Students &amp; Student Projects",
     "content": "Faculty are also expected to advice a set of students assigned to them on academic matters and also, mentor students in their project work (M. Tech/ M.Sc./ MA/ MBA). FACULTY ADVISOR: Departments assign students from course-based programs (B. Tech, M. Tech., MSc., MA, MBA, etc.) as advisees of the faculty. In addition, all graduate students guided by faculty for their project/ thesis are his/her advisees by default. Faculty advisors have to: . | Keep track of advisees’ academic progress | Help advisees in coursework management. | Approve (via Workflow) the courses that the advisees have registered for every semester. While approving, (a) Look at the advisees’ past semester records to understand their ability to handle courses. Restrict the advisees with difficulty in handling courses from registering for more/ difficult courses. Explain the rationale to them. (b) Ensure that the students do not drop the core courses (regular/ backlog) that they need to complete in that particular semester. (c) Ensure that backlog courses, especially core courses, are given priority while they register, so that they clear them as soon as possible. | Meet each advisee every month and complete Kushal form. This is mandatory. If advisee appears to have issues of any kind, email: acad-support@smail.iitm.ac.in immediately with a copy to HOD and Dean of Students. | . ",
     "url": "/fachandbook/Mentoring_landing/#mentoring-students--student-projects",
     
     "relUrl": "/Mentoring_landing/#mentoring-students--student-projects"
-  },"128": {
+  },"131": {
     "doc": "Student Mentoring",
     "title": "Student Mentoring",
     "content": " ",
     "url": "/fachandbook/Mentoring_landing/",
     
     "relUrl": "/Mentoring_landing/"
-  },"129": {
+  },"132": {
     "doc": "Sports",
     "title": "Sports facilities",
     "content": ". | Gymkhana (opposite Taramani Guest House) – Fitness centre, yoga, power lifting, table tennis and squash courts | Sitara Indoor Sports Complex (Next to Gymkhana, opposite Chemistry building) | Student Activities Centre – Badminton court | Swimming Pool (Contact: 8529) | Manohar C. Watsa Stadium | IITM Chemplast Cricket Ground (behind Engineering Design Building) | Hockey &amp; Football fields (opposite Computer centre) | Tennis courts (next to Gymkhana) | . For semester-wise membership, contact the Gymkhana office (8520), opposite to Taramani Guest House. IIT Madras has inter-IIT sports teams for faculty &amp; staff. Coaching for these sports is available. ",
     "url": "/fachandbook/sports_landing/#sports-facilities",
     
     "relUrl": "/sports_landing/#sports-facilities"
-  },"130": {
+  },"133": {
     "doc": "Sports",
     "title": "Sports",
     "content": " ",
     "url": "/fachandbook/sports_landing/",
     
     "relUrl": "/sports_landing/"
-  },"131": {
+  },"134": {
     "doc": "Authorized Travel Agents",
     "title": "Table of contents",
     "content": ". | Authorized Travel Agents | Booking with Balmer Lawrie &amp; Co. Ltd. | . ",
     "url": "/fachandbook/travel_norms/#table-of-contents",
     
     "relUrl": "/travel_norms/#table-of-contents"
-  },"132": {
+  },"135": {
     "doc": "Authorized Travel Agents",
     "title": "Authorized Travel Agents",
     "content": "As per the Government of India order, all official air travel tickets (domestic and international) must be purchased using the services of three Authorized Travel Agents/: . | Balmer Lawrie &amp; Company Limited- Travel desk at IC&amp;SR (Ph: 9709; Email: iit.implant@balmerlawrie.com) . | Ashok Travels - attchennai100@gmail.com . | Indian Railways Catering and Tourism Corporation Ltd. (IRCTC) . | . ",
     "url": "/fachandbook/travel_norms/",
     
     "relUrl": "/travel_norms/"
-  },"133": {
+  },"136": {
     "doc": "Authorized Travel Agents",
     "title": "Booking with Balmer Lawrie &amp; Co. Ltd.",
     "content": "Faculty members who are not availing the services of the Balmer Lawrie Desk at ICSR may also use the Balmer Lawrie self-booking option for travel. Self-booking can be done either through the general IIT Madras account or through individual accounts registered as Government of India users. | The general IITM account may be used by those who do not have individual accounts to login to the website. For login details, contact ICSR at smstrategy-icsr@imail.iitm.ac.in. | An individual IITM account can be created using this link. Only the official IITM email address should be used for registration. Activation of the account may take 1–2 working days. Once activated, tickets can be booked through the link. Dependents can also be added under the same account, and bookings may be made on their behalf. | . ",
     "url": "/fachandbook/travel_norms/#booking-with-balmer-lawrie--co-ltd",
     
     "relUrl": "/travel_norms/#booking-with-balmer-lawrie--co-ltd"
-  },"134": {
+  },"137": {
     "doc": "Disposal",
     "title": "Disposal of condemned, unserviceable and scrap items",
-    "content": "When the write-off proposals are received from the department office (as per given format), the S &amp; P section disposes the items through e-auction. ",
+    "content": "When the write-off proposals are received from the department office (as per given format), the S &amp; P section disposes the items through e-auction. Disposing any official item without following due process is illegal. ",
     "url": "/fachandbook/disposal_landing/#disposal-of-condemned-unserviceable-and-scrap-items",
     
     "relUrl": "/disposal_landing/#disposal-of-condemned-unserviceable-and-scrap-items"
-  },"135": {
+  },"138": {
     "doc": "Disposal",
     "title": "Disposal",
     "content": " ",
     "url": "/fachandbook/disposal_landing/",
     
     "relUrl": "/disposal_landing/"
-  },"136": {
+  },"139": {
     "doc": "Administration",
     "title": "Table of contents",
-    "content": ". | Administration . | Department Level Responsibilities | Institute Level Responsibilities | . | Other activities which may be useful | Mentorship program | . ",
+    "content": ". | Administration . | Department Level Responsibilities | Institute Level Responsibilities | . | Other activities which may be useful | . ",
     "url": "/fachandbook/Admin_landing/#table-of-contents",
     
     "relUrl": "/Admin_landing/#table-of-contents"
-  },"137": {
+  },"140": {
     "doc": "Administration",
     "title": "Administration",
-    "content": "All administrative activities in this academic institute are ultimately supervised and approved by faculty, and hence, it is the responsibility of every faculty to support the institute by taking up administrative roles. Among the various administrative responsibilities, listed below (not exhaustive), faculty can contribute in the ones that they feel passionate about. While the faculty can say no to some of the administrative responsibilities that do not suit them, don’t say no to everything! . NEVER SAY YES WHEN YOU WANT TO SAY NO - Nina Brown . ",
+    "content": "All administrative activities in this academic institute are ultimately supervised and approved by faculty, and hence, it is the responsibility of every faculty to support the institute by taking up administrative roles. Among the various administrative responsibilities, listed below (not exhaustive), faculty can contribute in the ones that they feel passionate about. While the faculty can say no to some of the administrative responsibilities that do not suit them, don’t say no to everything! . ",
     "url": "/fachandbook/Admin_landing/",
     
     "relUrl": "/Admin_landing/"
-  },"138": {
+  },"141": {
     "doc": "Administration",
     "title": "Department Level Responsibilities",
-    "content": ". | Member/ Chairperson of GTC/DC meetings/Viva committees | Members of BAC, BAR, LAC, board of ICSR, BoI, Placement board, Time table committee, Board of ACR, GE liaison officer | UG/ PG project evaluation coordinator/ committee, invigilation committee | In-charge of the department computational facility, department library, department workshop, website, and other common facilities | Department space committee | Research Scholars Admissions coordinator | Stores &amp; Purchase and Infrastructure committee | Coordinating department seminars and talks | Faculty search committee | . ",
+    "content": "Every faculty is expected to take up some of these responsibilities. | Member/ Chairperson of GTC/DC meetings/Viva committees | Members of BAC, BAR, LAC, board of ICSR, BoI, Placement board, Time table committee, Board of ACR, GE liaison officer | UG/ PG project evaluation coordinator/ committee, invigilation committee | In-charge of the department computational facility, department library, department workshop, website, and other common facilities | Department space committee | Research Scholars Admissions coordinator | Stores &amp; Purchase and Infrastructure committee | Coordinating department seminars and talks | Faculty search committee | . ",
     "url": "/fachandbook/Admin_landing/#department-level-responsibilities",
     
     "relUrl": "/Admin_landing/#department-level-responsibilities"
-  },"139": {
+  },"142": {
     "doc": "Administration",
     "title": "Institute Level Responsibilities",
-    "content": ". | Deans, HoD, Director appoints based on feedback from faculty | Centre Heads | Chairperson and Vice-Chairperson (EU, CCW, GATE/JEE/JAM) | Advisors/ Professor in-charge / Coordinator for various committees (CCASH, PMRF, etc) and forums (Women’s Forum, etc.) | GATE/JAM/JEE confidential operations including paper setting, etc | Warden, other activities | . Faculty’s involvement in administrative activities typically increases with seniority. ",
+    "content": ". | Deans, HoD, Director appoints based on feedback from faculty | Centre Heads | Chairperson and Vice-Chairperson (EU, CCW, GATE/JEE/JAM) | Advisors/ Professor in-charge / Coordinator for various committees (CCASH, PMRF, etc) and forums (Women’s Forum, etc.) | GATE/JAM/JEE confidential operations including paper setting, etc | Warden, other activities | . • Faculty’s involvement in administrative activities typically increases with seniority. • Never compromise your research and guidance for the purpose of administration. • Never say YES when you want to say NO. ",
     "url": "/fachandbook/Admin_landing/#institute-level-responsibilities",
     
     "relUrl": "/Admin_landing/#institute-level-responsibilities"
-  },"140": {
+  },"143": {
     "doc": "Administration",
     "title": "Other activities which may be useful",
-    "content": "Register and go as Institute Representatives (IR) for JEE Advanced / GATE exam duties. This is a good opportunity to get connected with faculty and staff from other departments. | Exam | Email for registration | Typical Exam Dates | . | JEE advanced | February | Mid-May | . | GATE | September | Early February | . ",
+    "content": "Register and go as Institute Representatives (IR) for JEE Advanced / GATE exam duties. This is a good opportunity to get connected with faculty and staff from other departments. | Exam | Email for registration | Typical Exam Dates | . | JEE advanced | February | Mid-May | . | GATE | September | Early February | . “If you have taken care of the above responsibilities sincerely, you don’t have to worry about career progress!” . ",
     "url": "/fachandbook/Admin_landing/#other-activities-which-may-be-useful",
     
     "relUrl": "/Admin_landing/#other-activities-which-may-be-useful"
-  },"141": {
-    "doc": "Administration",
-    "title": "Mentorship program",
-    "content": "(http://facportal.iitm.ac.in/mentorship/) . | The Dean Faculty office coordinates a mentorship program to support faculty in their career development. Faculty who have joined the institution within the last 5 years are connected with senior faculty members with a proven track record of excellence. New faculty can sign up for an initial mentorship session by logging onto the website. | . “If you have taken care of the above responsibilities sincerely, you don’t have to worry about career progress!” . ",
-    "url": "/fachandbook/Admin_landing/#mentorship-program",
-    
-    "relUrl": "/Admin_landing/#mentorship-program"
-  },"142": {
+  },"144": {
     "doc": "Associations",
     "title": "Table of contents",
     "content": ". | Faculty association | Clubs . | Film Club (PABX No. 9427): | Staff club (PABX No. 9425) | Women’s forum | Prakriti, THE WILDLIFE CLUB (prakriti@iitm.ac.in) | Activity clubs | IITM thrift society | . | . ",
     "url": "/fachandbook/assoc_landing/#table-of-contents",
     
     "relUrl": "/assoc_landing/#table-of-contents"
-  },"143": {
+  },"145": {
     "doc": "Associations",
     "title": "Faculty association",
     "content": "The Faculty Association is a voluntary body (networking platform) committed to addressing the professional as well as personal concerns of any member of the Faculty. https://fa.iitm.ac.in/ . ",
     "url": "/fachandbook/assoc_landing/#faculty-association",
     
     "relUrl": "/assoc_landing/#faculty-association"
-  },"144": {
+  },"146": {
     "doc": "Associations",
     "title": "Clubs",
     "content": " ",
     "url": "/fachandbook/assoc_landing/#clubs",
     
     "relUrl": "/assoc_landing/#clubs"
-  },"145": {
+  },"147": {
     "doc": "Associations",
     "title": "Film Club (PABX No. 9427):",
     "content": "Voluntary subscription based, movies screened every Saturday at 8:00 PM in Open Air Theatre (OAT) premises, announced through mails. For membership, contact the Secretary at Film Club Office in OAT (behind the screen) on Saturday evening, before the movie starts. ",
     "url": "/fachandbook/assoc_landing/#film-club-pabx-no-9427",
     
     "relUrl": "/assoc_landing/#film-club-pabx-no-9427"
-  },"146": {
+  },"148": {
     "doc": "Associations",
     "title": "Staff club (PABX No. 9425)",
     "content": "Located on Banyan avenue near Community centre. All permanent staff can become members. Handles Satellite TV, News paper and Milk Distribution. A nearby tennis club is also attached to the staff club. ",
     "url": "/fachandbook/assoc_landing/#staff-club-pabx-no-9425",
     
     "relUrl": "/assoc_landing/#staff-club-pabx-no-9425"
-  },"147": {
+  },"149": {
     "doc": "Associations",
     "title": "Women’s forum",
     "content": "Official body of all women at IITM, including Faculty, supporting staff (permanent &amp; temporary), and students. Organises talks, workshops, panel discussions, arts &amp; sports events, and shares information of common interest. Contact: womenforum@iitm.ac.in . ",
     "url": "/fachandbook/assoc_landing/#womens-forum",
     
     "relUrl": "/assoc_landing/#womens-forum"
-  },"148": {
+  },"150": {
     "doc": "Associations",
     "title": "Prakriti, THE WILDLIFE CLUB (prakriti@iitm.ac.in)",
     "content": "To learn about and appreciate the rich natural diversity of the campus. Conducts lectures, walks, and observation programmes led by nature experts and enthusiasts. https://home.iitm.ac.in/prakriti/prakriti/ . ",
     "url": "/fachandbook/assoc_landing/#prakriti-the-wildlife-club-prakritiiitmacin",
     
     "relUrl": "/assoc_landing/#prakriti-the-wildlife-club-prakritiiitmacin"
-  },"149": {
+  },"151": {
     "doc": "Associations",
     "title": "Activity clubs",
     "content": "The Institute is home to many regional and cultural clubs that organise various events and get-togethers. https://www.iitm.ac.in/campus-life/clubs . ",
     "url": "/fachandbook/assoc_landing/#activity-clubs",
     
     "relUrl": "/assoc_landing/#activity-clubs"
-  },"150": {
+  },"152": {
     "doc": "Associations",
     "title": "IITM thrift society",
     "content": "The thrift society is a registered Cooperative society which maintains deposits and offers loans at subsidized interest rates. Contact: 044 – 22578397, 044 – 22578398. ",
     "url": "/fachandbook/assoc_landing/#iitm-thrift-society",
     
     "relUrl": "/assoc_landing/#iitm-thrift-society"
-  },"151": {
+  },"153": {
     "doc": "Associations",
     "title": "Associations",
     "content": " ",
     "url": "/fachandbook/assoc_landing/",
     
     "relUrl": "/assoc_landing/"
-  },"152": {
+  },"154": {
     "doc": "Documents while joining",
     "title": "Documents needed at the time of joining",
     "content": " ",
     "url": "/fachandbook/documents/#documents-needed-at-the-time-of-joining",
     
     "relUrl": "/documents/#documents-needed-at-the-time-of-joining"
-  },"153": {
+  },"155": {
     "doc": "Documents while joining",
     "title": "Produce the following Personal Documents (Originals &amp; Photocopies) at the Recruitment Section (1st floor, Admin Building):",
     "content": ". | Certificates of Educational Qualifications (from SSLC/ Class 10 onwards) | Date of Birth Certificate | Experience certificate from all previous employers | Community Certificate (if new Faculty belongs to SC/ ST/OBC-NCL) | Two recent passport size photographs | Relieving Certificate from last employer | Last pay slip and Pension payment order | . ",
     "url": "/fachandbook/documents/#produce-the-following-personal-documents-originals--photocopies-at-the-recruitment-section-1st-floor-admin-building",
     
     "relUrl": "/documents/#produce-the-following-personal-documents-originals--photocopies-at-the-recruitment-section-1st-floor-admin-building"
-  },"154": {
+  },"156": {
     "doc": "Documents while joining",
     "title": "Fill the following Forms Available at Recruitment Section",
     "content": ". | Certificate of Physical fitness (to be acquired from the IITM Hospital after joining) | Character Certificate | Marriage Declaration | Personal Data Form | Attestation Form | Hometown Declaration | Declaration that you are not under any bond, agreement, or obligation to serve the central or State Government, University, or a Public Authority/Undertaking/ Institution | Agreement assigning all rights of investigations, inventions and patents developed at IITM after joining on a judicial stamp paper | Immovable Property Statement | Smart Card / Employee ID | Workflow Account | Gratuity Nomination | Group Term Insurance Scheme | Details of dependents who can avail Medical Facilities | House Rent Allowance (HRA) Claim | National Pension Scheme (NPS) Nomination form | . ",
     "url": "/fachandbook/documents/#fill-the-following-forms-available-at-recruitment-section",
     
     "relUrl": "/documents/#fill-the-following-forms-available-at-recruitment-section"
-  },"155": {
+  },"157": {
     "doc": "Documents while joining",
     "title": "Documents while joining",
     "content": " ",
     "url": "/fachandbook/documents/",
     
     "relUrl": "/documents/"
-  },"156": {
+  },"158": {
     "doc": "Mandatory forms to be filled periodically",
     "title": "Mandatory forms to be filled periodically",
     "content": "| Mandatory Forms to Fill | Where to fill | When to fill | . | Kushal Form | https://kushal.iitm.ac.in:9001/ | Before end of every month | . | Faculty Appraisal Portal (FAP) | https://fap.iitm.ac.in/ | Tentatively in the month of March (look for the email) | . | Immovable Property Returns (IPR)* | Workflow :arrow_right: Human Resources | Before 31st Jan | . | Working during Vacation | Workflow :arrow_right: Leave and Vacation | Twice a year - before 31st Jul and 31st Jan | . | Children Education Allowance (CEA) | Workflow :arrow_right: Main Accounts :arrow_right: Reimbursement | 31st March | . ",
     "url": "/fachandbook/mandatory_forms/",
     
     "relUrl": "/mandatory_forms/"
-  },"157": {
+  },"159": {
     "doc": "Online Education",
     "title": "Centre for Outreach and Digital Education (CODE)",
     "content": ". | Location: 3rd floor, ICSR building, Extn. 4900, cceoffice@iitm.ac.in, website | . CODE provides state-of-the-art professional recording infrastructure to record very high-quality educational contents in different settings (regular classroom, specialised video recording studio, laboratory, outdoor, etc.). Please see the link. ",
     "url": "/fachandbook/online_ed/#centre-for-outreach-and-digital-education-code",
     
     "relUrl": "/online_ed/#centre-for-outreach-and-digital-education-code"
-  },"158": {
+  },"160": {
     "doc": "Online Education",
     "title": "Online Education",
     "content": " ",
     "url": "/fachandbook/online_ed/",
     
     "relUrl": "/online_ed/"
-  },"159": {
+  },"161": {
     "doc": "Research facilities",
     "title": "Table of contents",
     "content": ". | Equipment Reservation System | Common research facilities and equipment | Central library | . ",
     "url": "/fachandbook/research_facilities/#table-of-contents",
     
     "relUrl": "/research_facilities/#table-of-contents"
-  },"160": {
+  },"162": {
     "doc": "Research facilities",
     "title": "Equipment Reservation System",
     "content": ". | Facilities at IITM available on payment basis: https://ers.iitm.ac.in/webroot/equipment_search.php. | To book: https://ers.iitm.ac.in/webroot/home.php. | . | For New lab registration in ERS portal, send email or call Ext: 9794 | Publicly funded R&amp;D equipment and facilities across the country, I-STEM: https://www.istem.gov.in/ | . ",
     "url": "/fachandbook/research_facilities/#equipment-reservation-system",
     
     "relUrl": "/research_facilities/#equipment-reservation-system"
-  },"161": {
+  },"163": {
     "doc": "Research facilities",
     "title": "Common research facilities and equipment",
     "content": "Some of the available facilities on campus are given below. (This is not an exhaustive list). | Central Facilities | Details | . | Common Instruments Facility | Differential Scanning Calorimetry (DSC), Thermo-Gravimetric Differential Thermal Analyser (TG-DTA), Scanning Electron Microscopy with EDAX (SEM), X-ray Diffraction (Powder) System(XRD), X-ray Fluorescence System (XRF), Atomic Force Microscopy (AFM), etc. | . | Sophisticated Analytical Instruments Facility (SAIF) |   | . | PG Senapathy Centre for Computing Resources | Centralized computing facility which houses High Performance Computing Environment (HPCE), servers and clusters from various departments, web server, a few standard commercial and open source software. | . | Spectrometers | Raman, Nuclear Magnetic Resonance, Electron Spin Resonance, Fluorimeter etc. | . | SERB National Facility for Cryo Electron Microscopy |   | . | Crystallography | Single Crystal X-ray Diffractometer (housed in Humanities Sciences Block) | . | Imaging | High Resolution Scanning Electron Microscope | . | Magnetometry | Vibrating Sample Magnetometers | . | Chromatography | Gas Chromatography - Mass Spectrometry, Quadrupole Time-of- Flight Mass Spectrometry | . | Central Electronics Centre | For maintenance and repair of electronic items and computers | . | Central Skill Training and Fabrication Facility (CSTF) | For hardware fabrication | . | Central Glass Blowing Section | For making customized glassware for experimental purposes | . ",
     "url": "/fachandbook/research_facilities/#common-research-facilities-and-equipment",
     
     "relUrl": "/research_facilities/#common-research-facilities-and-equipment"
-  },"162": {
+  },"164": {
     "doc": "Research facilities",
     "title": "Central library",
     "content": ". | Timings: 8:00 am - midnight | Access online databases, e-journals, e-books, e-standards, e-patents, Research support tools, Video journals from the website. | Inter-library loan facility allows access to research papers, publications, etc. from other libraries. | Library Affairs Committee (LAC) member from each department coordinates the purchase of books from the allotted budget. These books will be placed in the central library. | . ",
     "url": "/fachandbook/research_facilities/#central-library",
     
     "relUrl": "/research_facilities/#central-library"
-  },"163": {
+  },"165": {
     "doc": "Research facilities",
     "title": "Research facilities",
     "content": " ",
     "url": "/fachandbook/research_facilities/",
     
     "relUrl": "/research_facilities/"
-  },"164": {
+  },"166": {
     "doc": "International Travel",
     "title": "Table of contents",
     "content": ". | Funding Sources | Accommodation and Per Diem | Leave Application | . ",
     "url": "/fachandbook/international_travel/#table-of-contents",
     
     "relUrl": "/international_travel/#table-of-contents"
-  },"165": {
+  },"167": {
     "doc": "International Travel",
     "title": "Funding Sources",
     "content": ". | CPDA (Cumulative Professional Development Allowance) is meant for attending conferences/ workshops. For CPDA related queries, contact: 8249. | PCF (Personal Contingency Fund) can also be utilized for attending international conference. In such a case, 50% of the cost is covered by ICSR. Email Dean ICSR before travel. | ANRF (Anusandhan National Research Foundation) provides funding under International Travel Support (ITS) Scheme for presenting a research paper in an international scientific event (conference, seminar, workshop etc.). Support is also provided to young scientists (age limit below 35 years as on date of start of the event) for attending training programmes, Short-term schools and Workshops (max duration 21 days). Funding includes: . | Economy class air-fare by shortest route, airport-tax and visa fees | Only for young scientists (&lt;35 yrs on the date of start of event): Registration fee as per actual or Rs. 50,000/- whichever is less | . Submit applications 60-90 days in advance (early or late submissions are not accepted). | . ",
     "url": "/fachandbook/international_travel/#funding-sources",
     
     "relUrl": "/international_travel/#funding-sources"
-  },"166": {
+  },"168": {
     "doc": "International Travel",
     "title": "Accommodation and Per Diem",
     "content": "Number of days eligible for Accommodation &amp; Per Diem - Conference/ event days + 1 day before + 1 day after. | Accommodation charges as per approved panel of hotel rates by cities (typically, \\$120) or actuals whichever is less. | Per diem Allowance through Project Funds- \\$150 for USA, UK, Canada, Australia, France, Belgium, Hong Kong, China, South Korea, etc.; \\$125, \\$100 for other countries. Travel via project funds, see ICSR Travel norms. | . ",
     "url": "/fachandbook/international_travel/#accommodation-and-per-diem",
     
     "relUrl": "/international_travel/#accommodation-and-per-diem"
-  },"167": {
+  },"169": {
     "doc": "International Travel",
     "title": "Leave Application",
     "content": ". | Apply for the leaves eligible as per the details mentioned in types of leaves. | For national and international travel using Special Casual Leave (SCL) for professional purposes, Workflow :arrow_right: Main Accounts :arrow_right: Travel :arrow_right: Natl &amp; Intl Travel . | When applying for any professional visit, you are required to attach the invitation letter on workflow. | NOC for VISA has to be applied on Workflow :arrow_right: Human Resource :arrow_right: Apply for NOC. | If it is a professional visit, attach invitation and mention source of funding (CPDA, Project, etc.) | . | . Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits. Apply at least 2 weeks before travel date. ",
     "url": "/fachandbook/international_travel/#leave-application",
     
     "relUrl": "/international_travel/#leave-application"
-  },"168": {
+  },"170": {
     "doc": "International Travel",
     "title": "International Travel",
     "content": " ",
     "url": "/fachandbook/international_travel/",
     
     "relUrl": "/international_travel/"
-  },"169": {
+  },"171": {
     "doc": "Awards",
     "title": "Table of contents",
-    "content": ". | Internal awards and recognitions . | Teaching Excellence Award | Young Faculty Recognition Award | Srimathi Marti Annapurna Gurunath Award for Excellence in Teaching | Faculty Fellowships and Early Career Chairs | . | Institute Research and Development Awards (IRDA) . | IRDA Early Career Award | IRDA Mid-Career level | . | . ",
+    "content": ". | Internal awards and recognitions . | Teaching Excellence Award | Young Faculty Recognition Award | Srimathi Marti Annapurna Gurunath Award for Excellence in Teaching | . | Institute Research and Development Awards (IRDA) . | IRDA Early Career Award | IRDA Mid-Career Award | IRDA Senior-Career Award | . | . ",
     "url": "/fachandbook/awards_landing/#table-of-contents",
     
     "relUrl": "/awards_landing/#table-of-contents"
-  },"170": {
+  },"172": {
     "doc": "Awards",
     "title": "Internal awards and recognitions",
     "content": "To reward and recognize high performing faculty. ",
     "url": "/fachandbook/awards_landing/#internal-awards-and-recognitions",
     
     "relUrl": "/awards_landing/#internal-awards-and-recognitions"
-  },"171": {
+  },"173": {
     "doc": "Awards",
     "title": "Teaching Excellence Award",
     "content": "For one faculty in every department every year for teaching excellence. ",
     "url": "/fachandbook/awards_landing/#teaching-excellence-award",
     
     "relUrl": "/awards_landing/#teaching-excellence-award"
-  },"172": {
+  },"174": {
     "doc": "Awards",
     "title": "Young Faculty Recognition Award",
     "content": "To faculty below 40 years, for excellence in teaching with high quality research. 2 awards for Engineering, 1 for Sciences, Humanities &amp; Social Sciences and Management Studies. The award includes a citation and a cash award of Rs 25000/-. Nominations are usually called for in the month of January. ",
     "url": "/fachandbook/awards_landing/#young-faculty-recognition-award",
     
     "relUrl": "/awards_landing/#young-faculty-recognition-award"
-  },"173": {
+  },"175": {
     "doc": "Awards",
     "title": "Srimathi Marti Annapurna Gurunath Award for Excellence in Teaching",
     "content": "Awarded based on course evaluations over several years. ",
     "url": "/fachandbook/awards_landing/#srimathi-marti-annapurna-gurunath-award-for-excellence-in-teaching",
     
     "relUrl": "/awards_landing/#srimathi-marti-annapurna-gurunath-award-for-excellence-in-teaching"
-  },"174": {
-    "doc": "Awards",
-    "title": "Faculty Fellowships and Early Career Chairs",
-    "content": "Announcements are made for new applications for the fellowship on the completion of the tenure of each fellow (usually 5 years). Fellowship includes Rs. 25,000/- per month. ",
-    "url": "/fachandbook/awards_landing/#faculty-fellowships-and-early-career-chairs",
-    
-    "relUrl": "/awards_landing/#faculty-fellowships-and-early-career-chairs"
-  },"175": {
+  },"176": {
     "doc": "Awards",
     "title": "Institute Research and Development Awards (IRDA)",
     "content": " ",
     "url": "/fachandbook/awards_landing/#institute-research-and-development-awards-irda",
     
     "relUrl": "/awards_landing/#institute-research-and-development-awards-irda"
-  },"176": {
+  },"177": {
     "doc": "Awards",
     "title": "IRDA Early Career Award",
     "content": "Junior Level, &lt;40 yrs of age - to reward the demonstration of a strong early-career trajectory through a combination of research excellence, impactful industrial consultancy, social impact, and patentable products, along with an enthusiastic mentoring of IITM undergraduates &amp; PGs to pursue higher academic pursuits and industrial careers. The award carries a grant of Rs 25 lakhs, to be operated as a project through IC\\&amp;SR. The duration of the project will be for 3 years. ",
     "url": "/fachandbook/awards_landing/#irda-early-career-award",
     
     "relUrl": "/awards_landing/#irda-early-career-award"
-  },"177": {
-    "doc": "Awards",
-    "title": "IRDA Mid-Career level",
-    "content": "Mid Career &lt; 50 yrs of age - for continued demonstration of excellence. The award carries a grant of Rs 40 lakhs, to be operated as a project through ICSR. The duration of the project will be for 3 years. ",
-    "url": "/fachandbook/awards_landing/#irda-mid-career-level",
-    
-    "relUrl": "/awards_landing/#irda-mid-career-level"
   },"178": {
+    "doc": "Awards",
+    "title": "IRDA Mid-Career Award",
+    "content": "Mid Career &lt; 50 yrs of age - for continued demonstration of excellence. The award carries a grant of Rs 40 lakhs, to be operated as a project through ICSR. The duration of the project will be for 3 years. ",
+    "url": "/fachandbook/awards_landing/#irda-mid-career-award",
+    
+    "relUrl": "/awards_landing/#irda-mid-career-award"
+  },"179": {
+    "doc": "Awards",
+    "title": "IRDA Senior-Career Award",
+    "content": "Nominations for the Senior Level Award are by invitation only. ",
+    "url": "/fachandbook/awards_landing/#irda-senior-career-award",
+    
+    "relUrl": "/awards_landing/#irda-senior-career-award"
+  },"180": {
     "doc": "Awards",
     "title": "Awards",
     "content": " ",
     "url": "/fachandbook/awards_landing/",
     
     "relUrl": "/awards_landing/"
-  },"179": {
+  },"181": {
     "doc": "Payslip",
     "title": "Table of contents",
     "content": ". | Understanding your payslip | Allowances | Deductions | . ",
     "url": "/fachandbook/payslip/#table-of-contents",
     
     "relUrl": "/payslip/#table-of-contents"
-  },"180": {
+  },"182": {
     "doc": "Payslip",
     "title": "Understanding your payslip",
     "content": "For salary related queries, contact Pay Bills Section - 8248. Salary is disbursed at the end of the month. Below is a sample salary slip (for indicative purposes only): . | Basic pay is based on the pay grade. | Faculty pay grades are described at https://admin.iitm.ac.in/pay-matrix-table/. | . ",
     "url": "/fachandbook/payslip/#understanding-your-payslip",
     
     "relUrl": "/payslip/#understanding-your-payslip"
-  },"181": {
+  },"183": {
     "doc": "Payslip",
     "title": "Allowances",
     "content": "| Type of Allowance | Details | Amount ( % of basic pay ) | . | Dearness Allowance (DA) | Cost-of-living adjustment fixed by the govt. – Revised every 6 months | 58% as of July 2025 | . | House Rent Allowance (HRA) | Only if living off-campus. | 30% as of July 2024 | . | Transport Allowance (TA) |   | ₹ 7200 + (DA% of 7200) | . | Reim. Telephone | Telephone &amp; Broadband Charges | ₹ 750 | . | Children’s Education Allowance | For schooling and hostel requirements of children (up to 2) from KG to class 12. Form to be filled in Workflow. Appears on the pay slip as Tuition Fees. | ₹ 33750 for schooling, ₹ 101250 for hostel. Divyaang children entitled to double the amount. | . Additional payments from Consultancy projects, GATE/JEE responsibilities, honorarium from online courses, etc. will also reflect in your salary slip. ",
     "url": "/fachandbook/payslip/#allowances",
     
     "relUrl": "/payslip/#allowances"
-  },"182": {
+  },"184": {
     "doc": "Payslip",
     "title": "Deductions",
     "content": "|   | Details | Contact | . | National Pension Scheme (NPS) | https://www.npscra.nsdl.co.in/ | 8255 | . | Group Medical Insurance (GMIS) | For Institute employees and eligible dependents (mandatory). The institute will send emails from time to time regarding optional additional coverage. https://admin.iitm.ac.in/insurance-details/ | 8120/8112 | . | Group Term Insurance Scheme (GTIS) | Offers a lump sum payment to the employee’s beneficiary in case of death for employees to cover against death. Option available to choose higher premiums for better coverage. Once withdrawn, there is no option to re-enroll in this scheme. https://admin.iitm.ac.in/insurance-details/ | 8120/8112 | . | License Fee | A license fee is charged for those availing campus residence, depending on the type of quarters allotted. |   | . | Staff Medical Facilities | A nominal fee is deducted towards staff medical facilities at IITM Hospital. |   | . | Professional Tax | Tax collected by State govt. |   | . In addition, for campus residents, charges towards utilities such as water, electricity, waste disposal, milk supply (if through staff club), satellite TV (if through staff club), are also deducted from salary. Membership fees for various associations and clubs on campus like Faculty Association, Film Club, etc. are also deducted. ",
     "url": "/fachandbook/payslip/#deductions",
     
     "relUrl": "/payslip/#deductions"
-  },"183": {
+  },"185": {
     "doc": "Payslip",
     "title": "Payslip",
     "content": " ",
     "url": "/fachandbook/payslip/",
     
     "relUrl": "/payslip/"
-  },"184": {
+  },"186": {
     "doc": "Projects & Funding",
     "title": "Table of contents",
     "content": ". | ICSR Activities | Project types | Internal Funding Opportunities | Funding Sources Available for Professional Development | Govt. Funding agencies | . Centre for Industrial consultancy &amp; sponsored research (ICSR) headed by Dean (ICSR) coordinates the activities related to extramural funding, including research sponsorship by governmental agencies and consultancy projects sanctioned by industry. ",
     "url": "/fachandbook/projects_funding/#table-of-contents",
     
     "relUrl": "/projects_funding/#table-of-contents"
-  },"185": {
+  },"187": {
     "doc": "Projects & Funding",
     "title": "ICSR Activities",
     "content": ". | TULA portal for managing project-related activities (funds, staff, invoice, etc.) . | Management and audit of sanctioned funds, issue of utilisation certificates (UC), statement of expenditure (SE), issue of invoice, etc. | Under exceptional circumstances, if the sanctioned project is yet to receive funds, but needs to incur expenditure (detailed justification to be provided), ICSR may enable negative balance in the project. | Project-related staff recruitment, purchases, and travel. | Link funding agencies with faculty – identify opportunities and bring to the notice of faculty; follow up with different agencies. | Draft and manage MoUs / Non-Disclosure Agreement (NDA)/ Joint Development Agreement (JDAs) and other legal agreements through Legal Cell. | Intellectual property management (through IP Cell)– filing of patents (national and international), following up on licensing/ technology transfer - https://icsr.iitm.ac.in/patent.php , https://ipm.icsr.in/ipm/ . | For various project-related details, visit- https://icsr.iitm.ac.in/Projects.php Video- https://icsr.iitm.ac.in/admin/upload/video/TypesofProjects.mp4 . | . Project office:9791 IPM Cell: 9751 . ",
     "url": "/fachandbook/projects_funding/#icsr-activities",
     
     "relUrl": "/projects_funding/#icsr-activities"
-  },"186": {
+  },"188": {
     "doc": "Projects & Funding",
     "title": "Project types",
     "content": "| Type of Project | Description | Typical Funding Source | Overheads | . | Sponsored Research | Based on fundamental science proposals in thematic areas | Government agencies like DST, and various boards | 20% | . | Research Based Industrial Project | Projects involving joint development, collaborative consortia, joint IP | Government agencies as well as industries | 7% of overall budget + 20% of funds left over after project-related expenses | . | Industrial Consultancy | Providing “off-the-shelf” solutions, testing and certification, design checks, work orders. Routine testing is discouraged. | Government agencies as well as industries | 15% of overall budget + 20% of funds left over after project-related expenses | . | Retainer Consultancy | Consultancy services provided by faculty on a per hour basis |   | 5% of overall budget + 20% of funds left over after project-related expenses | . | Corporate Social Responsibility | Socially relevant projects funded by industries |   | 5% overheads | . ",
     "url": "/fachandbook/projects_funding/#project-types",
     
     "relUrl": "/projects_funding/#project-types"
-  },"187": {
+  },"189": {
     "doc": "Projects & Funding",
     "title": "Internal Funding Opportunities",
     "content": "Faculty shall not consider the internal funding opportunities as a main source of funding. It is only to augment one’s research ambitions. The IIT system expects faculty to secure large scale funding from government and non-governmental agencies. | Grant | Amount | Purpose | Process | Timeline | . | New Faculty Initiation Grant (NFIG) | ₹ 5 lakhs (Duration- 2 years) | Purchase of basic equipment. Not meant for office furniture and standard supplies. | Email the proposal to the Dean, ICSR through HoD. | Within 1 year of joining | . | New Faculty Seed Grant (NFSG) | Up to ₹ 50 lakhs (Duration- 3 years) | This is not an entitlement — only a partial amount may be awarded. | A proposal with proper justification has to be submitted and presented in front of a committee. | Within 3 years of joining. (Typically, after 1.5-2 years) | . | Exploratory Research Projects | Up to ₹ 10 lakhs (Duration 1 year) | Developing proof of concept before applying for a larger external funding. | A proposal with proper justification has to be submitted against a call. | Throughout career | . | Socially Relevant Project | Up to ₹ 7 lakhs (Duration 1 year) |   | A proposal with proper justification has to be submitted against a call. | Throughout career | . ",
     "url": "/fachandbook/projects_funding/#internal-funding-opportunities",
     
     "relUrl": "/projects_funding/#internal-funding-opportunities"
-  },"188": {
+  },"190": {
     "doc": "Projects & Funding",
     "title": "Funding Sources Available for Professional Development",
-    "content": "| Grant | Amount | Purpose | Process | Timeline | . | Cumulative Professional Development Allowance (CPDA) | Rs. 3 lakhs for a block period of 3 years (on a reimbursable basis) | • Conference travels • Membership for Professional Societies • Equipment, components and maintenance • Books, Journals, Patent, Monograms, Chemicals, Data purchase, Testing Charges, Professional development courses, Software, Cloud space • Field visit / collection of samples • Publication charges for approved open access journals | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. NOT allowed under CPDA. | Unutilized CPDA amount of one block will be carried forward to the next block. | . | Personal Contingency Funds (PCF) | 35% of institute overheads from every externally sponsored project is added to PCF. Further, consultancy and other earnings can also be deposited in PCF † | Same as CPDA | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. allowed under PCF. | PCF accumulates throughout the faculty’s career. | . | High Risk High Reward Mobility Grant | s | Strengthen ties with top-ranked institutions (e.g., QS top 25) and improve perception/ visibility. Achieve tangible outcomes: publications, innovative solutions, and new academic resources | https://ge.iitm.ac.in/programs/faculty-mobility/hrhrg | Research Stays: Faculty: 2-3 months. Ph.D. students: 6-12 months. | . † Amount deposited to PCF is not taxed. While in service, PCF amount cannot be encashed but can be used for purposes shown in the table. At the time of retirement, PCF from consultancy and other similar earnings can be encashed (subject to income tax) but not PCF Contributions from sponsored research. ",
+    "content": "| Grant | Amount | Purpose | Process | Timeline | . | Cumulative Professional Development Allowance (CPDA) | Rs. 3 lakhs for a block period of 3 years (on a reimbursable basis) | • Conference travels • Membership for Professional Societies • Equipment, components and maintenance • Books, Journals, Patent, Monograms, Chemicals, Data purchase, Testing Charges, Professional development courses, Software, Cloud space • Field visit / collection of samples • Publication charges for approved open access journals | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. NOT allowed under CPDA. | Unutilized CPDA amount of one block will be carried forward to the next block. | . | Personal Contingency Funds (PCF) | 35% of institute overheads from every externally sponsored project is added to PCF. Further, consultancy and other earnings can also be deposited in PCF † | Same as CPDA | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. allowed under PCF. | PCF accumulates throughout the faculty’s career. | . | High Risk High Reward Mobility Grant |   | Strengthen ties with top-ranked institutions (e.g., QS top 25) and improve perception/ visibility. Achieve tangible outcomes: publications, innovative solutions, and new academic resources | https://ge.iitm.ac.in/programs/faculty-mobility/hrhrg | Research Stays: Faculty: 2-3 months. Ph.D. students: 6-12 months. | . † Amount deposited to PCF is not taxed. While in service, PCF amount cannot be encashed but can be used for purposes shown in the table. At the time of retirement, PCF from consultancy and other similar earnings can be encashed (subject to income tax) but not PCF Contributions from sponsored research. ",
     "url": "/fachandbook/projects_funding/#funding-sources-available-for-professional-development",
     
     "relUrl": "/projects_funding/#funding-sources-available-for-professional-development"
-  },"189": {
+  },"191": {
     "doc": "Projects & Funding",
     "title": "Govt. Funding agencies",
     "content": "(This is not an exhaustive list). | Entity | Website | . | Department of Science &amp; Technology (DST) under various schemes. The most popular ones are through Anusandhan National Research Foundation (ANRF). For new faculty, the PM Early Career Grant (Previously SERB-SRG) provides up to 60 lakhs. | https://dst.gov.in/ https://anrfonline.in/ANRF/HomePage | . | DRDO under various agencies/ boards such as ARDB (Aeronautical Research and Development Board), ARMREB (Armament Research Board), Naval Research Board (NRB), DCOE in Research Park, etc. | https://www.drdo.gov.in/drdo/ https://www.drdo.gov.in/drdo/aeronautics-research-development/about-us https://drdo.uat.dcservices.in/DRDO/ARMREB_ERG https://www.drdo.gov.in/drdo/naval-research-board/about-us | . | ISRO funds through ISRO-IITM Cell (Up to 50 lakhs) and through RESPOND program | https://www.isro.gov.in/ https://icandsr.iitm.ac.in/isro.html https://www.isro.gov.in/RESPONDProjects.html | . | Department of Biotechnology | https://dbtindia.gov.in/ | . | Ministry of Electronics and Information Technology (MEITY) | https://www.meityprime.in/MEITY/HomePage | . | Department of Atomic Energy through Board of Research in Nuclear Sciences (BRNS) | https://brns.res.in/ | . | Ministry of Road Transport and Highways (MORTH) | https://morth.nic.in/ | . | MoD funds through Army Technology Board (ATB), etc. | https://mod.gov.in/ | . | India Science, Technology and Innovation (ISTI) | https://www.indiascienceandtechnology.gov.in/ | . | Indian Council of Medical Research (ICMR) | https://www.icmr.gov.in/ | . | Indo-French Centre for the Promotion of Advanced Research (IFCPAR) | https://www.cefipra.org/ | . | Research Design and Standards Organization (RDSO) of Indian Railways | https://rdso.indianrailways.gov.in/ | . | Science and Technology Yajana for Aatmanirbhar Bharat in Mining Advancement, Ministry of Mines | https://research.mines.gov.in/ | . | Ministry of New and Renewable Energy (MNRE) | https://www.mnre.gov.in/ | . | Ministry of Earth Sciences | https://www.moes.gov.in/brief-extramural-support https://www.moes.gov.in/prithvi https://www.moes.gov.in/schemes/dom https://www.moes.gov.in/mission-mausam | . | Indian National Academy of Engineering (INAE) | https://www.inae.in/ | . | Indian National Science Academy | https://insaindia.res.in/ | . ",
     "url": "/fachandbook/projects_funding/#govt-funding-agencies",
     
     "relUrl": "/projects_funding/#govt-funding-agencies"
-  },"190": {
+  },"192": {
     "doc": "Projects & Funding",
     "title": "Projects & Funding",
     "content": " ",
     "url": "/fachandbook/projects_funding/",
     
     "relUrl": "/projects_funding/"
-  },"191": {
+  },"193": {
+    "doc": "Projects & Funding",
+    "title": "Table of contents",
+    "content": ". | ICSR Activities | Project types | Internal Funding Opportunities | Funding Sources Available for Professional Development | Govt. Funding agencies | . Centre for Industrial consultancy &amp; sponsored research (ICSR) headed by Dean (ICSR) coordinates the activities related to extramural funding, including research sponsorship by governmental agencies and consultancy projects sanctioned by industry. ",
+    "url": "/fachandbook/projects_funding_new/#table-of-contents",
+    
+    "relUrl": "/projects_funding_new/#table-of-contents"
+  },"194": {
+    "doc": "Projects & Funding",
+    "title": "ICSR Activities",
+    "content": ". | TULA portal for managing project-related activities (funds, staff, invoice, etc.) . | Management and audit of sanctioned funds, issue of utilisation certificates (UC), statement of expenditure (SE), issue of invoice, etc. | Under exceptional circumstances, if the sanctioned project is yet to receive funds, but needs to incur expenditure (detailed justification to be provided), ICSR may enable negative balance in the project. | Project-related staff recruitment, purchases, and travel. | Link funding agencies with faculty – identify opportunities and bring to the notice of faculty; follow up with different agencies. | Draft and manage MoUs / Non-Disclosure Agreement (NDA)/ Joint Development Agreement (JDAs) and other legal agreements through Legal Cell. | Intellectual property management (through IP Cell)– filing of patents (national and international), following up on licensing/ technology transfer - https://icsr.iitm.ac.in/patent.php , https://ipm.icsr.in/ipm/ . | For various project-related details, visit- https://icsr.iitm.ac.in/Projects.php Video- https://icsr.iitm.ac.in/admin/upload/video/TypesofProjects.mp4 . | . Project office:9791 IPM Cell: 9751 . ",
+    "url": "/fachandbook/projects_funding_new/#icsr-activities",
+    
+    "relUrl": "/projects_funding_new/#icsr-activities"
+  },"195": {
+    "doc": "Projects & Funding",
+    "title": "Project types",
+    "content": "| Type of Project | Description | Typical Funding Source | Overheads | . | Sponsored Research | Based on fundamental science proposals in thematic areas | Government agencies like DST, and various boards | 20% | . | Research Based Industrial Project | Projects involving joint development, collaborative consortia, joint IP | Government agencies as well as industries | 7% of overall budget + 20% of funds left over after project-related expenses | . | Industrial Consultancy | Providing “off-the-shelf” solutions, testing and certification, design checks, work orders. Routine testing is discouraged. | Government agencies as well as industries | 15% of overall budget + 20% of funds left over after project-related expenses | . | Retainer Consultancy | Consultancy services provided by faculty on a per hour basis |   | 5% of overall budget + 20% of funds left over after project-related expenses | . | Corporate Social Responsibility | Socially relevant projects funded by industries |   | 5% overheads | . ",
+    "url": "/fachandbook/projects_funding_new/#project-types",
+    
+    "relUrl": "/projects_funding_new/#project-types"
+  },"196": {
+    "doc": "Projects & Funding",
+    "title": "Internal Funding Opportunities",
+    "content": "Faculty shall not consider the internal funding opportunities as a main source of funding. It is only to augment one’s research ambitions. The IIT system expects faculty to secure large scale funding from government and non-governmental agencies. | Grant | Amount | Purpose | Process | Timeline | . | New Faculty Initiation Grant (NFIG) | ₹ 5 lakhs (Duration- 2 years) | Purchase of basic equipment. Not meant for office furniture and standard supplies. | Email the proposal to the Dean, ICSR through HoD. | Within 1 year of joining | . | New Faculty Seed Grant (NFSG) | Up to ₹ 50 lakhs (Duration- 3 years) | This is not an entitlement — only a partial amount may be awarded. | A proposal with proper justification has to be submitted and presented in front of a committee. | Within 3 years of joining. (Typically, after 1.5-2 years) | . | Exploratory Research Projects | Up to ₹ 10 lakhs (Duration 1 year) | Developing proof of concept before applying for a larger external funding. | A proposal with proper justification has to be submitted against a call. | Throughout career | . | Socially Relevant Project | Up to ₹ 7 lakhs (Duration 1 year) |   | A proposal with proper justification has to be submitted against a call. | Throughout career | . ",
+    "url": "/fachandbook/projects_funding_new/#internal-funding-opportunities",
+    
+    "relUrl": "/projects_funding_new/#internal-funding-opportunities"
+  },"197": {
+    "doc": "Projects & Funding",
+    "title": "Funding Sources Available for Professional Development",
+    "content": "| Grant | Amount | Purpose | Process | Timeline | . | Cumulative Professional Development Allowance (CPDA) | Rs. 3 lakhs for a block period of 3 years (on a reimbursable basis) | • Conference travels • Membership for Professional Societies • Equipment, components and maintenance • Books, Journals, Patent, Monograms, Chemicals, Data purchase, Testing Charges, Professional development courses, Software, Cloud space • Field visit / collection of samples • Publication charges for approved open access journals | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. NOT allowed under CPDA. | Unutilized CPDA amount of one block will be carried forward to the next block. | . | Personal Contingency Funds (PCF) | 35% of institute overheads from every externally sponsored project is added to PCF. Further, consultancy and other earnings can also be deposited in PCF † | Same as CPDA | Apply through workflow. Advance will be provided only for International Travel. Procurement of laptops/ desktops/ tablets/ mobile phones/ printers/ stationeries, etc. allowed under PCF. | PCF accumulates throughout the faculty’s career. | . | High Risk High Reward Mobility Grant | | Strengthen ties with top-ranked institutions (e.g., QS top 25) and improve perception/ visibility. Achieve tangible outcomes: publications, innovative solutions, and new academic resources | https://ge.iitm.ac.in/programs/faculty-mobility/hrhrg | Research Stays: Faculty: 2-3 months. Ph.D. students: 6-12 months. | . ",
+    "url": "/fachandbook/projects_funding_new/#funding-sources-available-for-professional-development",
+    
+    "relUrl": "/projects_funding_new/#funding-sources-available-for-professional-development"
+  },"198": {
+    "doc": "Projects & Funding",
+    "title": "Govt. Funding agencies",
+    "content": "(This is not an exhaustive list). | Entity | Website | . | Department of Science &amp; Technology (DST) under various schemes. The most popular ones are through Anusandhan National Research Foundation (ANRF). For new faculty, the PM Early Career Grant (Previously SERB-SRG) provides up to 60 lakhs. | https://dst.gov.in/ https://anrfonline.in/ANRF/HomePage | . | DRDO under various agencies/ boards such as ARDB (Aeronautical Research and Development Board), ARMREB (Armament Research Board), Naval Research Board (NRB), DCOE in Research Park, etc. | https://www.drdo.gov.in/drdo/ https://www.drdo.gov.in/drdo/aeronautics-research-development/about-us https://drdo.uat.dcservices.in/DRDO/ARMREB_ERG https://www.drdo.gov.in/drdo/naval-research-board/about-us | . | ISRO funds through ISRO-IITM Cell (Up to 50 lakhs) and through RESPOND program | https://www.isro.gov.in/ https://icandsr.iitm.ac.in/isro.html https://www.isro.gov.in/RESPONDProjects.html | . | Department of Biotechnology | https://dbtindia.gov.in/ | . | Ministry of Electronics and Information Technology (MEITY) | https://www.meityprime.in/MEITY/HomePage | . | Department of Atomic Energy through Board of Research in Nuclear Sciences (BRNS) | https://brns.res.in/ | . | Ministry of Road Transport and Highways (MORTH) | https://morth.nic.in/ | . | MoD funds through Army Technology Board (ATB), etc. | https://mod.gov.in/ | . | India Science, Technology and Innovation (ISTI) | https://www.indiascienceandtechnology.gov.in/ | . | Indian Council of Medical Research (ICMR) | https://www.icmr.gov.in/ | . | Indo-French Centre for the Promotion of Advanced Research (IFCPAR) | https://www.cefipra.org/ | . | Research Design and Standards Organization (RDSO) of Indian Railways | https://rdso.indianrailways.gov.in/ | . | Science and Technology Yajana for Aatmanirbhar Bharat in Mining Advancement, Ministry of Mines | https://research.mines.gov.in/ | . | Ministry of New and Renewable Energy (MNRE) | https://www.mnre.gov.in/ | . | Ministry of Earth Sciences | https://www.moes.gov.in/brief-extramural-support https://www.moes.gov.in/prithvi https://www.moes.gov.in/schemes/dom https://www.moes.gov.in/mission-mausam | . | Indian National Academy of Engineering (INAE) | https://www.inae.in/ | . | Indian National Science Academy | https://insaindia.res.in/ | . ",
+    "url": "/fachandbook/projects_funding_new/#govt-funding-agencies",
+    
+    "relUrl": "/projects_funding_new/#govt-funding-agencies"
+  },"199": {
+    "doc": "Projects & Funding",
+    "title": "Projects & Funding",
+    "content": " ",
+    "url": "/fachandbook/projects_funding_new/",
+    
+    "relUrl": "/projects_funding_new/"
+  },"200": {
     "doc": "Schools",
     "title": "Table of contents",
     "content": ". | On-campus schools . | Kendriya Vidyalaya (CBSE) | Vana Vani Matriculation Higher Secondary School (State board) | . | . ",
     "url": "/fachandbook/schools_landing/#table-of-contents",
     
     "relUrl": "/schools_landing/#table-of-contents"
-  },"192": {
+  },"201": {
     "doc": "Schools",
     "title": "On-campus schools",
     "content": "These schools give priority to the IIT Madras Faculty/ Staff/ Research Scholars for the admission of their wards. ",
     "url": "/fachandbook/schools_landing/#on-campus-schools",
     
     "relUrl": "/schools_landing/#on-campus-schools"
-  },"193": {
+  },"202": {
     "doc": "Schools",
     "title": "Kendriya Vidyalaya (CBSE)",
     "content": "See the website, https://chennaiiit.kvs.ac.in/ for more information . ",
     "url": "/fachandbook/schools_landing/#kendriya-vidyalaya-cbse",
     
     "relUrl": "/schools_landing/#kendriya-vidyalaya-cbse"
-  },"194": {
+  },"203": {
     "doc": "Schools",
     "title": "Vana Vani Matriculation Higher Secondary School (State board)",
     "content": "Run by the IITM Educational Trust. See the website https://vanavani.iitm.ac.in/ for more information. For admission-related queries, contact the respective Principals, sufficiently in advance. Admission forms can be picked up from the school, also available online. Typically, the deadline for submission of school applications are in February for on-campus schools, and in December for off-campus schools. ",
     "url": "/fachandbook/schools_landing/#vana-vani-matriculation-higher-secondary-school-state-board",
     
     "relUrl": "/schools_landing/#vana-vani-matriculation-higher-secondary-school-state-board"
-  },"195": {
+  },"204": {
     "doc": "Schools",
     "title": "Schools",
     "content": " ",
     "url": "/fachandbook/schools_landing/",
     
     "relUrl": "/schools_landing/"
-  },"196": {
+  },"205": {
     "doc": "Alumni & Corporate Support",
     "title": "Table of contents",
     "content": ". | Funding from Alumni, Philanthropists &amp; Corporates | . ",
     "url": "/fachandbook/alumni_corporate/#table-of-contents",
     
     "relUrl": "/alumni_corporate/#table-of-contents"
-  },"197": {
+  },"206": {
     "doc": "Alumni & Corporate Support",
     "title": "Funding from Alumni, Philanthropists &amp; Corporates",
     "content": "Office of Alumni &amp; Corporate Relations (ACR), headed by Dean (ACR), connects with alumni network, philanthropists, and corporates (Corporate Social Responsibility - CSR funds) raise awareness about the Institute, with the aim of acquiring support, grants and donations for the Institute. Office of ACR: Location- 2nd floor, ICSR Building. 8071, email- deanacroffice@iitm.ac.in, Website- https://acr.iitm.ac.in/ . The main responsibility of this office is to reach out to Alumni, Philanthropists, and Corporates to raise awareness about the Institute, with the aim of acquiring support, grants and donations for the Institute. Typical causes for which office raises funds include: . | Large infrastructure development | Common research facilities | Faculty fellowships &amp; chair professorships | CSR funds to support socially-relevant projects that fulfil one or more of the 17 United Nations Sustainability Development Goals. | Support the students in the form of scholarship/ aid and awards/ prizes. | . While preparing a proposal: . | identify a cause of interest to individual/ corporates to increase the chances of acceptance. | the proposal should address the requirements of a larger section of the Institute/ society | . The office of A&amp;CR has a Proposal Development and a Marketing Team to help the faculty in the creation of a suitable, attractive proposal complete with technical details, diagrams, photographs, end-result/impact, budget, time-lines, etc. ",
     "url": "/fachandbook/alumni_corporate/#funding-from-alumni-philanthropists--corporates",
     
     "relUrl": "/alumni_corporate/#funding-from-alumni-philanthropists--corporates"
-  },"198": {
+  },"207": {
     "doc": "Alumni & Corporate Support",
     "title": "Alumni & Corporate Support",
     "content": " ",
     "url": "/fachandbook/alumni_corporate/",
     
     "relUrl": "/alumni_corporate/"
-  },"199": {
-    "doc": "FAP",
-    "title": "Faculty academic profile",
-    "content": "The Faculty Academic Profile is for Faculty to update academic data and achievements annually. The reports created from the submitted FAP data can be viewed at https://workflowreports.iitm.ac.in/ :arrow_right: HumanResources :arrow_right: FAP . It is mandatory to fill this and the data will be used during career progress through MBS (merit based selection). ",
-    "url": "/fachandbook/fap_landing/#faculty-academic-profile",
+  },"208": {
+    "doc": "Fellowships & Chairs",
+    "title": "Table of contents",
+    "content": ". | Faculty Fellowships and Early Career Chairs | Endowed Chairs | Institute Chairs | Industry &amp; Ministry Chairs | . ",
+    "url": "/fachandbook/fellowship_chairs/#table-of-contents",
     
-    "relUrl": "/fap_landing/#faculty-academic-profile"
-  },"200": {
-    "doc": "FAP",
-    "title": "FAP",
+    "relUrl": "/fellowship_chairs/#table-of-contents"
+  },"209": {
+    "doc": "Fellowships & Chairs",
+    "title": "Faculty Fellowships and Early Career Chairs",
+    "content": "Announcements are made for new applications for the fellowship/ endowed chairs on the completion of the tenure of each occupant (usually 5 years). Fellowship includes Rs. 25,000/- per month. ",
+    "url": "/fachandbook/fellowship_chairs/#faculty-fellowships-and-early-career-chairs",
+    
+    "relUrl": "/fellowship_chairs/#faculty-fellowships-and-early-career-chairs"
+  },"210": {
+    "doc": "Fellowships & Chairs",
+    "title": "Endowed Chairs",
     "content": " ",
-    "url": "/fachandbook/fap_landing/",
+    "url": "/fachandbook/fellowship_chairs/#endowed-chairs",
     
-    "relUrl": "/fap_landing/"
-  },"201": {
+    "relUrl": "/fellowship_chairs/#endowed-chairs"
+  },"211": {
+    "doc": "Fellowships & Chairs",
+    "title": "Institute Chairs",
+    "content": "Chair Professorships are awarded to Professors of IIT Madras who have distinguished themselves and been recognized by their peers for their research and/or technology development. The award is for a period of 5 years followed by a review and possible extension. ",
+    "url": "/fachandbook/fellowship_chairs/#institute-chairs",
+    
+    "relUrl": "/fellowship_chairs/#institute-chairs"
+  },"212": {
+    "doc": "Fellowships & Chairs",
+    "title": "Industry &amp; Ministry Chairs",
+    "content": " ",
+    "url": "/fachandbook/fellowship_chairs/#industry--ministry-chairs",
+    
+    "relUrl": "/fellowship_chairs/#industry--ministry-chairs"
+  },"213": {
+    "doc": "Fellowships & Chairs",
+    "title": "Fellowships & Chairs",
+    "content": " ",
+    "url": "/fachandbook/fellowship_chairs/",
+    
+    "relUrl": "/fellowship_chairs/"
+  },"214": {
     "doc": "Hospital",
     "title": "INSTITUTE HOSPITAL",
     "content": "(Reception: 8330; Emergency/ Casuality: 8331; Ambulance: 8888; Pharmacy: 8336) . | Timings: Weekday: 08.15 am- 06.45 pm; Saturday: 08.15 am - 1.00 pm | In-house Specialists: ENT; Gynaecologist | Visiting Specialists: Cardiologist, Dentist, Ophthalmologist, Paediatrician, Urologist, Psychiatrist, Dermatologist, Orthopedician, General Surgeon | Facilities Available: In-patient wards, Pharmacy, Clinical Lab Collection Centre, X-ray Unit, Ambulance Service, Physiotherapy, Counselling centre | For services prescribed by Institute doctors that are not available in the Institute hospital (CT scan, MRI etc.), the charges can be reimbursed on par with CGHS rates. | . ",
     "url": "/fachandbook/hospital_landing/#institute-hospital",
     
     "relUrl": "/hospital_landing/#institute-hospital"
-  },"202": {
+  },"215": {
     "doc": "Hospital",
     "title": "Hospital",
     "content": " ",
     "url": "/fachandbook/hospital_landing/",
     
     "relUrl": "/hospital_landing/"
-  },"203": {
+  },"216": {
+    "doc": "FAP",
+    "title": "Faculty academic profile",
+    "content": "The Faculty Academic Profile is for faculty to update academic data and achievements annually. This data is used by the Insitute to track achievements for high level positions. The reports created from the submitted FAP data can be viewed at https://workflowreports.iitm.ac.in/ :arrow_right: HumanResources :arrow_right: FAP . | | | | FACULTY ACADEMIC PROFILE WORKFLOW ICSR PRAVARTAK AMTDC HTIC ICCW CEWIT IP CELL &amp; INCUBATION CELL DEAN AR DEAN FACULTY OFFICES CODE OFFICE Data from Faculty TEACHING RESEARCH GUIDANCE SPONSORED CONSULTANCY CENTERS SOCIETIES PATENTS STARTUPS PROJECTS INDEXED PUBLICATIONS SERVICE ROLES NPTEL COURSES GIAN COURSES CEP COURSES QIP COURSES AWARDS &amp; RECOGNITIONS FUTURE PLANS ANY OTHER RELEVANT INFO It is mandatory to fill this and the data will be used during career progress through MBS (merit based selection). ",
+    "url": "/fachandbook/fap_landing/#faculty-academic-profile",
+    
+    "relUrl": "/fap_landing/#faculty-academic-profile"
+  },"217": {
+    "doc": "FAP",
+    "title": "FAP",
+    "content": " ",
+    "url": "/fachandbook/fap_landing/",
+    
+    "relUrl": "/fap_landing/"
+  },"218": {
     "doc": "Guest Houses",
     "title": "Table of contents",
     "content": ". | Guest houses: . | Bose-Einstein Guest House (BEGH) | Taramani Guest House (TGH) | . | . ",
     "url": "/fachandbook/guest_house_landing/#table-of-contents",
     
     "relUrl": "/guest_house_landing/#table-of-contents"
-  },"204": {
+  },"219": {
     "doc": "Guest Houses",
     "title": "Guest houses:",
     "content": "To book, email: taramani@iitm.ac.in . ",
     "url": "/fachandbook/guest_house_landing/#guest-houses",
     
     "relUrl": "/guest_house_landing/#guest-houses"
-  },"205": {
+  },"220": {
     "doc": "Guest Houses",
     "title": "Bose-Einstein Guest House (BEGH)",
     "content": "Near Gajendra Circle on Delhi Avenue: for VIPs, institute guests, and department invited guests . ",
     "url": "/fachandbook/guest_house_landing/#bose-einstein-guest-house-begh",
     
     "relUrl": "/guest_house_landing/#bose-einstein-guest-house-begh"
-  },"206": {
+  },"221": {
     "doc": "Guest Houses",
     "title": "Taramani Guest House (TGH)",
     "content": "18 suites, and 101 air-conditioned rooms for institute guests and visitors, temporary accommodation for new faculty members. | Dining facilities for all Faculty and family, including non-residential Faculty, can be availed of by loading cash into the Employee ID card at TGH reception. | . ",
     "url": "/fachandbook/guest_house_landing/#taramani-guest-house-tgh",
     
     "relUrl": "/guest_house_landing/#taramani-guest-house-tgh"
-  },"207": {
+  },"222": {
     "doc": "Guest Houses",
     "title": "Guest Houses",
     "content": " ",
     "url": "/fachandbook/guest_house_landing/",
     
     "relUrl": "/guest_house_landing/"
-  },"208": {
+  },"223": {
     "doc": "International relations",
     "title": "Table of contents",
     "content": ". | International Relations | International Faculty | . ",
     "url": "/fachandbook/international_rel/#table-of-contents",
     
     "relUrl": "/international_rel/#table-of-contents"
-  },"209": {
+  },"224": {
     "doc": "International relations",
     "title": "International Relations",
     "content": "Office of Global Engagement (GE), headed by Dean (GE), supports student and faculty exchange programs, joint degree programs, joint research initiatives with international institutions, and support for planning and organizing international conferences at IITM. ",
     "url": "/fachandbook/international_rel/#international-relations",
     
     "relUrl": "/international_rel/#international-relations"
-  },"210": {
+  },"225": {
     "doc": "International relations",
     "title": "Key Divisions:",
     "content": ". | International Partnerships- to facilitate MoUs with partner institutions . | International Academic Programs (email)- to initiate international collaborative programs, the initiating faculty must serve as faculty champion from IITM, and submit a joint proposal with partner institution for review by the steering committee of both institutions. The following are some of the current programs available: . | Jointly Funded Bilateral Mobility Program (JFBMP)- to support travel and living expenses (no per diem) for visiting partner universities and vice-versa. Mirror funding from the partner institution is mandatory. | High Risk High Reward Mobility Grant- to strengthen IITM’s global visibility and reputation through ties with top-ranked institutions (e.g., QS top 25). Expected outcomes are high-quality research publications, joint research projects, innovative solutions, new academic resources. | Visiting Faculty Fellowship- to foster internationalization by inviting distinguished global researchers (receive consolidated remuneration) to collaborate with IITM for 2-12 weeks. | . | International Conference Secretariat (email)- to support international and industry-focused conferences/ workshops/ seminars. Support includes: Financial assistance; logistics and operations support; necessary clearances from ministries, etc. It will provide comprehensive guidance for streamlined planning, execution and follow-up. Schedule a meeting with the secretariat while planning a conference. Calls for proposals are issued 3 times a year. | . ",
     "url": "/fachandbook/international_rel/#key-divisions",
     
     "relUrl": "/international_rel/#key-divisions"
-  },"211": {
+  },"226": {
     "doc": "International relations",
     "title": "International Faculty",
     "content": "The office of GE also handles recruitment of foreign faculty under various schemes: . | Global Initiative of Academic Networks (GIAN )- to encourage the engagement of foreign faculty with IITM. | Young International Faculty (YIF) - to recruit recent doctorates and post-doctoral fellows from renowned universities across the globe as full-time foreign faculty (non-Indian citizens/non-OCIs). | Visiting Faculty Fellowship (VFF)- to foster internationalization by inviting distinguished global researchers (receive consolidated remuneration) to collaborate with IITM for 2-12 weeks. | . ",
     "url": "/fachandbook/international_rel/#international-faculty",
     
     "relUrl": "/international_rel/#international-faculty"
-  },"212": {
+  },"227": {
     "doc": "International relations",
     "title": "International relations",
     "content": " ",
     "url": "/fachandbook/international_rel/",
     
     "relUrl": "/international_rel/"
-  },"213": {
-    "doc": "Promotions",
+  },"228": {
+    "doc": "Career Progression",
     "title": "Table of contents",
-    "content": ". | Promotions . | Process and timelines | . | . ",
-    "url": "/fachandbook/promo_landing/#table-of-contents",
+    "content": ". | Career Progression . | Process and timelines | . | . ",
+    "url": "/fachandbook/career_progress/#table-of-contents",
     
-    "relUrl": "/promo_landing/#table-of-contents"
-  },"214": {
-    "doc": "Promotions",
-    "title": "Promotions",
-    "content": "Appointments of internal Faculty to Associate Professor (ASP) and full Professor (Prof) will be by merit-based selection (MBS). Internal announcements for Faculty selections are released periodically. Eligible Faculty should submit applications with their academic portfolio for evaluation. Further details on the process will be available from the departments. ",
-    "url": "/fachandbook/promo_landing/",
+    "relUrl": "/career_progress/#table-of-contents"
+  },"229": {
+    "doc": "Career Progression",
+    "title": "Career Progression",
+    "content": "Appointments of internal Faculty to Associate Professor (ASP) and full Professor (Prof) will be by merit-based selection (MBS). Internal announcements for Faculty selections are released periodically. Eligible Faculty should submit applications with their academic portfolio for evaluation. Further details on the process will be available from the departments. AssistantProfessorGrade 2 AssistantProfessorGrade 1 AssociateProfessor Professor HAGProfessor ChairProfessor ",
+    "url": "/fachandbook/career_progress/",
     
-    "relUrl": "/promo_landing/"
-  },"215": {
-    "doc": "Promotions",
+    "relUrl": "/career_progress/"
+  },"230": {
+    "doc": "Career Progression",
     "title": "Process and timelines",
     "content": "| From | To | Timeline | Process | . | AP Gr‑II | AP Gr‑I | 3 years after PhD. | Evaluation through presentation in front of a committee. | . | AP Gr‑I | ASP | Min. of 6 years after PhD, with at least 3 yrs at the level of AP/ equivalent. | MBS, Min. expectations: 1 PhD graduated, publication record as per department norms, at least 1 externally funded project, good teaching record. | . | ASP | Prof | Min of 4 years at ASP level | MBS, General expectations: 2 PhD graduated with at least 1 as primary guide, publication record as per department norms, at least 1 externally funded project in last 4 yrs, good teaching record, Dept. institute administrative responsibilities. | . | Prof | Prof (HAG) | Min of 6 yrs as Prof (max of 40% of professors can be HAG at any instant of time) | Submit details of accomplishments against a call. It is expected that the faculty, in previous 6 yrs, meet or exceed the rate at which they performed prior to being appointed as professor. | . | Department may prescribe higher norms for MBS. | After 10 yrs as a professor, faculty can apply for Chair Professorship against a call. Application is evaluated by a committee of Chair Professors. | . ",
-    "url": "/fachandbook/promo_landing/#process-and-timelines",
+    "url": "/fachandbook/career_progress/#process-and-timelines",
     
-    "relUrl": "/promo_landing/#process-and-timelines"
-  },"216": {
+    "relUrl": "/career_progress/#process-and-timelines"
+  },"231": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Table of contents",
     "content": ". | Safety | Disposal Mechanism | Ethics | Plagiarism Detection Tool | . ",
     "url": "/fachandbook/safety_ethics/#table-of-contents",
     
     "relUrl": "/safety_ethics/#table-of-contents"
-  },"217": {
+  },"232": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Safety",
     "content": "IIT Madras has a Safety officer in charge of periodic inspections to ensure conformity to safety protocols. Some of the common things to keep in mind are listed below: . | Please ensure that exit routes are identified and displayed in the research facilities and are always free of obstacles. In general, it is a good practice to ensure that not more than 3 doors need to be opened to go outside the building. | Passages have to be at least 5 feet wide. | Make sure all electric wirings are appropriately concealed. Periodically, check for earthing issues. | Always ensure that a duplicate key (office and lab) is deposited at the building’s office. | Please ensure appropriate personal protective apparel (gloves, masks, goggles, lab coats, etc.) are provided for in the lab. Insist on appropriate footwear. | If heavier / sharper objects (including gas cylinders and containers) are routinely handled, they should be chained/ restrained, and not free standing. | All labs should have first-aid kits. Check periodically to ensure that they are within their expiry date. | It is a good practice to ensure that at least one other person is present while conducting experiments. | . ",
     "url": "/fachandbook/safety_ethics/#safety",
     
     "relUrl": "/safety_ethics/#safety"
-  },"218": {
+  },"233": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Disposal Mechanism",
-    "content": ". | Hazardous waste (oil, flammable liquids, solvents, corrosive liquids, process wastes/residues and sludges, filters and filter materials, contaminated containers) have to be stored in stored in container / drums under covered shed and appropriately labelled. Periodically, Engineering Unit will send out an email notification to all departments to dispose these. | E-waste &amp; outdated/ non-functioning equipment which have Stores Received Book (SRB) entries have to be disposed through a condemnation committee coordinated by department office/ stores. | To dispose radioactive material, contact the Radiation Safety Officer (RSO) who will in turn connect with the approved vendor and approve the disposal. | Bio Medical Waste Disposal should be done through registered vendors. While there is no centralized process for this, contact the department for guidelines. | . There are specific rules for disposal of chemicals, hazardous and biomedical waste. Check Engineering Unit Handbook . ",
+    "content": ". | Hazardous waste (oil, flammable liquids, solvents, corrosive liquids, process wastes/residues and sludges, filters and filter materials, contaminated containers) have to be stored in stored in container / drums under covered shed and appropriately labelled. Periodically, Engineering Unit will send out an email notification to all departments to dispose these. | E-waste &amp; outdated/ non-functioning equipment which have Stores Received Book (SRB) entries have to be disposed through a condemnation committee coordinated by department office/ stores. | To dispose radioactive material, contact the Radiation Safety Officer (RSO) who will in turn connect with the approved vendor and approve the disposal. | Bio Medical Waste Disposal should be done through registered vendors. While there is no centralized process for this, contact the department for guidelines. | For disposal of other items, check stores &amp; purchase - disposal section. | . There are specific rules for disposal of chemicals, hazardous and biomedical waste. Check Engineering Unit Handbook . ",
     "url": "/fachandbook/safety_ethics/#disposal-mechanism",
     
     "relUrl": "/safety_ethics/#disposal-mechanism"
-  },"219": {
+  },"234": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Ethics",
     "content": ". | IITM Institutional Human/ Animal Ethics Committee’s approval is mandatory for academic research projects, which involve the participation of human/ animal subjects and volunteers. | Research proposals involving recombinant and genetically modified organisms (GMOs)/systems, or pathogenic microorganisms require approval from the Institutional Biosafety committee (IBSC) before commencement. All proposals must be submitted against a call to the IBSC (Email: ibsc@zmail.iitm.ac.in). | . ",
     "url": "/fachandbook/safety_ethics/#ethics",
     
     "relUrl": "/safety_ethics/#ethics"
-  },"220": {
+  },"235": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Plagiarism Detection Tool",
     "content": "IITM has an institutional account for Turnitin, a plagiarism detection software that can be used to check reports, assignments, theses, and research manuscripts for similarity. Faculty members can be added to this IITM account by contacting the Central Library. The Deputy Librarian may be contacted for assistance (Extension: 4954 / 4951). Once an account is created using the IITM email ID, it becomes possible to log in to Turnitin and submit files for plagiarism checks. When submitting files to Turnitin, it is important to unselect the option for keeping the file in the repository. Otherwise, the file will remain in the Turnitin repository, and future submissions of the same or similar content (for instance, by collaborators or students) will show a 100% similarity match. ",
     "url": "/fachandbook/safety_ethics/#plagiarism-detection-tool",
     
     "relUrl": "/safety_ethics/#plagiarism-detection-tool"
-  },"221": {
+  },"236": {
     "doc": "Safety, ethics & plagiarism",
     "title": "Safety, ethics & plagiarism",
     "content": " ",
     "url": "/fachandbook/safety_ethics/",
     
     "relUrl": "/safety_ethics/"
-  },"222": {
+  },"237": {
     "doc": "Places of Worship",
     "title": "Places of Worship on Campus",
     "content": "● 4 temples: Jalakandeswarar Temple (near the Main Gate); Shree Durga Peeli Amman Temple (near Stadium); Vinayagar Temple near Taramani Guest House; Kailasanathar temple near swimming pool. ● Chapel behind the Dept of Biotechnology, and Catholic Mass conducted every Sunday in the NCC building. ● An Islamic prayer hall behind Himalaya Mess. ",
     "url": "/fachandbook/worship_landing/#places-of-worship-on-campus",
     
     "relUrl": "/worship_landing/#places-of-worship-on-campus"
-  },"223": {
+  },"238": {
     "doc": "Places of Worship",
     "title": "Places of Worship",
     "content": " ",
     "url": "/fachandbook/worship_landing/",
     
     "relUrl": "/worship_landing/"
-  },"224": {
+  },"239": {
     "doc": "Introduction",
     "title": "Table of contents",
     "content": ". | Important Abbreviations | Some key terms explained . | Block Year | . | . ",
     "url": "/fachandbook/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
-  },"225": {
+  },"240": {
     "doc": "Introduction",
     "title": "Important Abbreviations",
     "content": "| CPDA | Cumulative Professional Development Allowance |   | HoD | Head of the Department | . | LTC | Leave Travel Concession |   |   |   | . | ICSR | Industrial Consultancy and Sponsored Research |   |   |   | . |   |   |   |   |   | . |   |   |   |   |   | . ",
     "url": "/fachandbook/#important-abbreviations",
     
     "relUrl": "/#important-abbreviations"
-  },"226": {
+  },"241": {
     "doc": "Introduction",
     "title": "Some key terms explained",
     "content": " ",
     "url": "/fachandbook/#some-key-terms-explained",
     
     "relUrl": "/#some-key-terms-explained"
-  },"227": {
+  },"242": {
     "doc": "Introduction",
     "title": "Block Year",
-    "content": "Block Years are periods during which an employee can avail CPDA or LTC benefits. These blocks are fixed periods decided by the Government of India. The starting date of a specific block has no relationship to the employee’s joining date. Consequently, the employee’s joining date will proportionally affect the extent to which he/she can avail the benefits during that block. Please see examples below. Example 1 - Faculty are given 3 Lakhs CPDA for every 3-year block. Suppose that one such 3-year block is from Jan 1st 2021 to December 31st 2023. If a faculty joins the institute in June 2022, then he/she receives only 1.5 Lakhs for that block. Subsequent blocks will have 3 Lakhs. Example 2 - Employees can avail LTC for two hometown trips in a 4-year block. They can only do this once in every two-year sub-block. Suppose that one such 4-year block is from Jan 1st 2021 to December 31st 2024. If a faculty did not avail this in the first sub-block (2021 and 2022), he/she can only travel once to his/her hometown in either 2023 or 2024. ",
+    "content": "Block Years are periods during which an employee can avail CPDA or LTC benefits. These blocks are fixed periods decided by the Government of India. The starting date of a specific block has no relationship to the employee’s joining date. Consequently, the employee’s joining date will proportionally affect the extent to which he/she can avail the benefits during that block. Please see examples below. Case 1 - Faculty are given 3 Lakhs CPDA for every 3-year block. Suppose that one such 3-year block is from Jan 1st 2021 to December 31st 2023. If a faculty joins the institute in June 2022, then he/she receives only 1.5 Lakhs for that block. Subsequent blocks will have 3 Lakhs. Current block year for CPDA- 2024-2027 . Case 2 - Employees can avail LTC for two hometown trips in a 4-year block. They can only do this once in every two-year sub-block. Suppose that one such 4-year block is from Jan 1st 2021 to December 31st 2024. If a faculty did not avail this in the first sub-block (2021 and 2022), he/she can only travel once to his/her hometown in either 2023 or 2024. Current block year for LTC- 2026-2029 . ",
     "url": "/fachandbook/#block-year",
     
     "relUrl": "/#block-year"
-  },"228": {
+  },"243": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Welcome to the IIT Madras Faculty Guide! . We hope the contents of this website will be useful for all faculty (new ones in particular) as an unofficial document to guide them in various activities on campus. For changes/ suggestions, fill out this form. Hyperlinks are blue text with an underline. ",

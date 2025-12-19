@@ -42,3 +42,12 @@ As per Central Civil Services (Conduct) Rules, working from home option is **NOT
 * **Lab** Space is allotted based on requirement projected to the department. For purchases, follow [Institute procedures]({{ "/stores_landing/" | relative_url }}).
 Coordinate with the [Engineering Unit (EU)]({{ "/estate/" | relative_url }}) for major electrical works, plumbing works, etc.
 {: .no_toc}
+
+
+# Mentorship Program 
+
+(**[http://facportal.iitm.ac.in/mentorship/](http://facportal.iitm.ac.in/mentorship/)**)
+The Dean Faculty office coordinates a mentorship program to support faculty in their career development. Faculty who have joined the institution within the last 5 years are connected with senior faculty members with a proven track record of excellence. New faculty can sign up for an initial mentorship session by logging onto the website. New slots for the sessions are updated periodically. 
+
+# Induction Program
+An induction program is organized periodically for all recently joined faculty to introduce them to the various rules, facilities and support systems available at IITM. This is also an opportunity to meet the various Deans and faculty in different administrative roles, along with getting to know your peers better. 

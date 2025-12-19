@@ -17,7 +17,7 @@ parent: Research Activities
 Its mission is to nurture and sustain Innovation Ecosystems through collaboration between industry, academia and startups developing and commercialising cutting-edge products and solutions for uniquely Indian requirements that also address global needs.
 
 <!-- IITM Research Park org chart -->
-<svg viewBox="0 0 860 360" width="100%" role="img" aria-label="IITM Research Park org chart">
+<svg viewBox="0 0 860 300" width="100%" role="img" aria-label="IITM Research Park org chart">
   <!-- colors -->
   <defs>
     <style>

@@ -37,6 +37,14 @@ This document pertains mainly to the IITM Main campus
 {: .fs-4 .fw-400}
 * The campus is connected to the IITM Research Park through the Industry–Academia Bridge.
 
+<!-- HTML code for image with size adjustment-->
+<a href="https://maps.app.goo.gl/Vcz4VMpkbGRMhfFB8">
+  <img src="{{ site.baseurl }}/assets/images/Location_Map.png"
+       alt="Location_Map"
+       style="width:420px; height:auto;">
+</a>
+
+
 {: .fs-4 .fw-400}
 * Best way to reach IITM from the airport/ railway station is to use pre\-paid taxi counter available inside the airport. 
 
