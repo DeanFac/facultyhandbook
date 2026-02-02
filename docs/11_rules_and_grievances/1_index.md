@@ -15,7 +15,7 @@ The terms & conditions of service and conduct rules; vacation and leave policies
 
 - [IITM Act](https://admin.iitm.ac.in/wp-content/uploads/2025/09/ACTS.pdf)
 - [Statutes](https://admin.iitm.ac.in/wp-content/uploads/2025/06/Statues.pdf) 
-- [Central Educational Institutions (CEIs)]()
+- [Central Educational Institutions (CEIs)](https://www.education.gov.in/sites/upload_files/mhrd/files/CEI_Act_2019.pdf)
 - [Central Civil Services (Conduct) Rules](https://dopt.gov.in/ccs-cca-rules-1965)
 - [General Financial Rules, 2017](https://doe.gov.in/files/circulars_document/FInal_GFR_upto_31_07_2024.pdf)
 

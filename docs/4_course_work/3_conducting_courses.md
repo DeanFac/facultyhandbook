@@ -16,8 +16,6 @@ parent: Course Work
 * **Workflow :arrow_right: Academics :arrow_right: Introduce/Modify Course.** After filling in details, Click PrintCourse button and download the document and share with department.   
 * Following approvals are needed: DCC (Dept Consultative Committee) :arrow_right: BAC (Board of Academic Courses) :arrow_right: Senate 
 
-{: .highlight}
-A [help document](https://workflow.iitm.ac.in/employee/DynamicContainer/Packages/Acad_Introduction%20of%20courses/Activities//Formulate%20a%20new%20course/ISpace/238/1024%20x%20768/MasterForm/ISpace.aspx?PId=196&PkSuActMId=1DE99EFC-60A8-4B87-8D96-555C2C77A984&PkActMId=bbd0234d-125d-46a3-a47c-caf5f72d5703&ReId=A1C4845A-78C0-4B32-B059-C7A48DF6C4EA&FId=238&AId=666&PkPrMId=32f7c5d8-cf97-482d-8ab1-0a022db35e05&RsNa=1024%20x%20768&RfNa=MasterForm&SID=74A455F1-7BEE-400A-B0A2-9C82AF015E2F#) on offering/modifying a course is available on Workflow.
 
 # Dept. Course allotment 
 Faculty of the department meet and decide the respective courses to be offered during the subsequent semester as per the following schedule:

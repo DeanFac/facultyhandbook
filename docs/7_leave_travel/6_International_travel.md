@@ -44,4 +44,4 @@ Funding includes:
    
 
 {: .highlight}
-Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits. Apply at least 2 weeks before travel date.
+Only after you receive a Permission-cum-Relief letter from Admin1 are you allowed to travel abroad for professional/personal visits. Apply at least 3 weeks before travel date.

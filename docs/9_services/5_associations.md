@@ -25,11 +25,12 @@ Located on Banyan avenue near Community centre. All permanent staff can become m
 Official body of all women at IITM, including Faculty, supporting staff (permanent & temporary), and students. Organises talks, workshops, panel discussions, arts & sports events, and shares information of common interest. 
 Contact: [womenforum@iitm.ac.in](mailto:womenforum@iitm.ac.in)
 
-## Prakriti, THE WILDLIFE CLUB (**prakriti@iitm.ac.in**) 
-To learn about and appreciate the rich natural diversity of the campus. Conducts lectures, walks, and observation programmes led by nature experts and enthusiasts. https://home.iitm.ac.in/prakriti/prakriti/ 
+## Prakriti, THE WILDLIFE CLUB  
+To learn about and appreciate the rich natural diversity of the campus. Conducts lectures, walks, and observation programmes led by nature experts and enthusiasts. [https://home.iitm.ac.in/prakriti/prakriti/](https://home.iitm.ac.in/prakriti/prakriti/) 
+Contact: [prakriti@iitm.ac.in](mailto:prakriti@iitm.ac.in)
 
 ## Activity clubs 
-The Institute is home to many regional and cultural clubs that organise various events and get-togethers. https://www.iitm.ac.in/campus-life/clubs .
+The Institute is home to many regional and cultural clubs that organise various events and get-togethers. [https://www.iitm.ac.in/campus-life/clubs](https://www.iitm.ac.in/campus-life/clubs) .
 
 ## IITM thrift society 
 The [thrift society](https://web1.iitm.ac.in/thriftsociety/) is a registered Cooperative society which maintains deposits and offers loans at subsidized interest rates. Contact: 044 – 22578397, 044 – 22578398.

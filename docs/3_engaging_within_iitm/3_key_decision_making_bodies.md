@@ -18,8 +18,7 @@ The [senate](https://www.iitm.ac.in/the-institute/administration/senate) control
 The Director is the ex-officio Chairman of the Senate. 
 Other ex-officio members include Deputy Directors, Dean (Academic Courses), Dean (Academic Research), Professors, Heads of Department (HoDs), Registrar, Librarian, Wardens, and Student Secretaries (Academic Affairs, Research Affairs, & General Secretary).
 
-Some of the Institute-level committees that assist in various operations: Board of Academic Research (BAR), Board of Academic Courses (BAC), Board of Students, Board of Infrastructure (BoI), Placement Board, Board of ICSR, Library Affairs Committee (LAC).
-They have one representative from each department. 
+**Some of the Institute-level committees that assist in various operations: Board of Academic Research (BAR), Board of Academic Courses (BAC), Board of Students, Board of Infrastructure (BoI), Placement Board, Board of ICSR, Library Affairs Committee (LAC). They have one representative from each department.** 
 
 # HoD and Departmental Consultative Committee (DCC) 
 HoD handles department level administrative and academic matters. The DCC, chaired by HoD, takes decisions on all department-level policy-related matters, including academics and administration.
